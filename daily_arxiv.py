@@ -202,35 +202,35 @@ def update_paper_links(filename):
     json_data = load_json_file(filename)
     json_data = json_data.copy()
 
-        for keywords,v in json_data.items():
-            logging.info(f'keywords = {keywords}')
-            for paper_id,contents in v.items():
-                contents = str(contents)
+    for keywords,v in json_data.items():
+        logging.info(f'keywords = {keywords}')
+        for paper_id,contents in v.items():
+            contents = str(contents)
 
-                update_time, paper_title, paper_first_author, paper_url, code_url = parse_arxiv_string(contents)
+            update_time, paper_title, paper_first_author, paper_url, code_url = parse_arxiv_string(contents)
 
-                contents = "|{}|{}|{}|{}|{}|\n".format(update_time,paper_title,paper_first_author,paper_url,code_url)
-                json_data[keywords][paper_id] = str(contents)
-                logging.info(f'paper_id = {paper_id}, contents = {contents}')
+            contents = "|{}|{}|{}|{}|{}|\n".format(update_time,paper_title,paper_first_author,paper_url,code_url)
+            json_data[keywords][paper_id] = str(contents)
+            logging.info(f'paper_id = {paper_id}, contents = {contents}')
 
-                valid_link = False if '|null|' in contents else True
-                if valid_link:
-                    continue
-                try:
-                    code_url = base_url + paper_id #TODO
-                    r = requests.get(code_url).json()
-                    repo_url = None
-                    if "official" in r and r["official"]:
-                        repo_url = r["official"]["url"]
-                        if repo_url is not None:
-                            new_cont = contents.replace('|null|',f'|**[link]({repo_url})**|')
-                            logging.info(f'ID = {paper_id}, contents = {new_cont}')
-                            json_data[keywords][paper_id] = str(new_cont)
+            valid_link = False if '|null|' in contents else True
+            if valid_link:
+                continue
+            try:
+                code_url = base_url + paper_id #TODO
+                r = requests.get(code_url).json()
+                repo_url = None
+                if "official" in r and r["official"]:
+                    repo_url = r["official"]["url"]
+                    if repo_url is not None:
+                        new_cont = contents.replace('|null|',f'|**[link]({repo_url})**|')
+                        logging.info(f'ID = {paper_id}, contents = {new_cont}')
+                        json_data[keywords][paper_id] = str(new_cont)
 
-                except Exception as e:
-                    logging.error(f"exception: {e} with id: {paper_id}")
-        # dump to json file
-        write_json_file(filename, json_data)
+            except Exception as e:
+                logging.error(f"exception: {e} with id: {paper_id}")
+    # dump to json file
+    write_json_file(filename, json_data)
 
 def update_json_file(filename,data_dict):
     '''
