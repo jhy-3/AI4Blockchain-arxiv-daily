@@ -117,5 +117,4 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 ## Acknowledgments
 
 - Built on top of the arxiv API
-- Inspired by [cv-arxiv-daily](https://github.com/Vincentqyw/cv-arxiv-daily)
 
