@@ -12,21 +12,21 @@ publish_gitpage: True
 publish_wechat: False
 
 # file paths
-json_readme_path: './docs/cv-arxiv-daily.json'
-json_gitpage_path: './docs/cv-arxiv-daily-web.json'
-json_wechat_path: './docs/cv-arxiv-daily-wechat.json'
+json_readme_path: './docs/ai4blockchain-arxiv-daily.json'
+json_gitpage_path: './docs/ai4blockchain-arxiv-daily-web.json'
+json_wechat_path: './docs/ai4blockchain-arxiv-daily-wechat.json'
 
 md_readme_path: 'README.md'
 md_gitpage_path: './docs/index.md'
 md_wechat_path: './docs/wechat.md'
 
-# keywords to search
+# keywords to search for AI and Blockchain related papers
 keywords:
     "AI+Blockchain":
-        filters: ["Artificial Intelligence Blockchain", "Machine Learning Blockchain", "Deep Learning Blockchain", "Blockchain consensus AI"]
-    "Smart Contracts":
-        filters: ["Smart Contract detection", "Smart Contract vulnerability ", "Smart Contract Security"]
-    "CryptoCurrency":
-        filters: ["Crypto Artificial Intelligence", "NFT AI", "Non-Fungible Token AI", " MEME coin", "Stable Coin", "Crypto Trading AI"]
-    "AI in DeFi":
-        filters: ["Decentralized Finance fraud", "DeFi Security", "AI DeFi"]  
+        filters: ["artificial intelligence blockchain", "machine learning blockchain", "deep learning blockchain", "AI blockchain", "blockchain AI", "neural network blockchain"]
+    "Smart Contracts & AI":
+        filters: ["smart contract AI", "smart contract machine learning", "AI smart contract", "intelligent smart contract", "smart contract detection AI"]
+    "Blockchain Consensus & AI":
+        filters: ["blockchain consensus AI", "consensus algorithm machine learning", "AI consensus", "federated learning blockchain"]
+    "DeFi & AI":
+        filters: ["DeFi AI", "decentralized finance AI", "DeFi machine learning", "AI DeFi", "automated market maker AI"]  

@@ -246,7 +246,9 @@ def json_to_md(filename,md_filename,
                use_title = True,
                use_tc = True,
                show_badge = True,
-               use_b2t = True):
+               use_b2t = True,
+               user_name = 'jhy-3',
+               repo_name = 'AI4Blockchain-arxiv-daily'):
     """
     @param filename: str
     @param md_filename: str
@@ -349,21 +351,21 @@ def json_to_md(filename,md_filename,
         if show_badge == True:
             # we don't like long string, break it!
             f.write((f"[contributors-shield]: https://img.shields.io/github/"
-                     f"contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[contributors-url]: https://github.com/Vincentqyw/"
-                     f"cv-arxiv-daily/graphs/contributors\n"))
-            f.write((f"[forks-shield]: https://img.shields.io/github/forks/Vincentqyw/"
-                     f"cv-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[forks-url]: https://github.com/Vincentqyw/"
-                     f"cv-arxiv-daily/network/members\n"))
-            f.write((f"[stars-shield]: https://img.shields.io/github/stars/Vincentqyw/"
-                     f"cv-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[stars-url]: https://github.com/Vincentqyw/"
-                     f"cv-arxiv-daily/stargazers\n"))
-            f.write((f"[issues-shield]: https://img.shields.io/github/issues/Vincentqyw/"
-                     f"cv-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[issues-url]: https://github.com/Vincentqyw/"
-                     f"cv-arxiv-daily/issues\n\n"))
+                     f"contributors/{user_name}/{repo_name}.svg?style=for-the-badge\n"))
+            f.write((f"[contributors-url]: https://github.com/{user_name}/"
+                     f"{repo_name}/graphs/contributors\n"))
+            f.write((f"[forks-shield]: https://img.shields.io/github/forks/{user_name}/"
+                     f"{repo_name}.svg?style=for-the-badge\n"))
+            f.write((f"[forks-url]: https://github.com/{user_name}/"
+                     f"{repo_name}/network/members\n"))
+            f.write((f"[stars-shield]: https://img.shields.io/github/stars/{user_name}/"
+                     f"{repo_name}.svg?style=for-the-badge\n"))
+            f.write((f"[stars-url]: https://github.com/{user_name}/"
+                     f"{repo_name}/stargazers\n"))
+            f.write((f"[issues-shield]: https://img.shields.io/github/issues/{user_name}/"
+                     f"{repo_name}.svg?style=for-the-badge\n"))
+            f.write((f"[issues-url]: https://github.com/{user_name}/"
+                     f"{repo_name}/issues\n\n"))
 
     logging.info(f"{task} finished")
 
@@ -378,6 +380,8 @@ def demo(**config):
     publish_gitpage = config['publish_gitpage']
     publish_wechat = config['publish_wechat']
     show_badge = config['show_badge']
+    user_name = config.get('user_name', 'jhy-3')
+    repo_name = config.get('repo_name', 'AI4Blockchain-arxiv-daily')
 
     b_update = config['update_paper_links']
     logging.info(f'Update Paper Link = {b_update}')
@@ -404,7 +408,7 @@ def demo(**config):
             update_json_file(json_file,data_collector)
         # json data to markdown
         json_to_md(json_file,md_file, task ='Update Readme', \
-            show_badge = show_badge)
+            show_badge = show_badge, user_name=user_name, repo_name=repo_name)
 
     # 2. update docs/index.md file (to gitpage)
     if publish_gitpage:
@@ -417,7 +421,7 @@ def demo(**config):
             update_json_file(json_file,data_collector)
         json_to_md(json_file, md_file, task ='Update GitPage', \
             to_web = True, show_badge = show_badge, \
-            use_tc=False, use_b2t=False)
+            use_tc=False, use_b2t=False, user_name=user_name, repo_name=repo_name)
 
     # 3. Update docs/wechat.md file
     if publish_wechat:
@@ -429,7 +433,8 @@ def demo(**config):
         else:
             update_json_file(json_file, data_collector_web)
         json_to_md(json_file, md_file, task ='Update Wechat', \
-            to_web=False, use_title= False, show_badge = show_badge)
+            to_web=False, use_title= False, show_badge = show_badge, \
+            user_name=user_name, repo_name=repo_name)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()

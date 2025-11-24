@@ -1,59 +1,96 @@
-<p align="center">
-  <h1 align="center"><br><ins>CV-ARXIV-DAILY</ins><br>Automatically Update CV Papers Daily using Github Actions</h1>
- 
-</p>
+# AI4Blockchain Arxiv Daily - Usage Guide
 
-
-
-##
-
-This repository hosts the source code for cv-arxiv-daily, an useful sripts to fetch arxiv paper daily. 
+This repository automatically crawls and updates papers from arXiv related to the intersection of **Artificial Intelligence** and **Blockchain** technologies.
 
 ## Overview
 
 This codebase is composed of the following parts:
 
-- `daily_arxiv.py`: main scripts to processing given configurations
-- `config.yaml`: configuration file of papers' keywords etc.
+- `daily_arxiv.py`: main script to process given configurations and fetch papers from arXiv
+- `config.yaml`: configuration file for paper keywords, output paths, etc.
 
 ## Usage
 
 <details>
   <summary>Table of Contents</summary>
 
-1. Fork this [repo](https://github.com/Vincentqyw/cv-arxiv-daily)
-2. Edit configs:
-    - Change `GITHUB_USER_NAME` and `GITHUB_USER_EMAIL` in [cv-arxiv-daily.yml](../.github/workflows/cv-arxiv-daily.yml) and [update_paper_links.yml](../.github/workflows/update_paper_links.yml)
-    - Change `user_name` in [config.yaml](../config.yaml)
-    - Push changes to remote repo
-3. Config Github Actions
-    - Enable read and write permissions: Setting -> Actions -> Workflow permissions, select `Read and write permissions` and save.
-    ![](../assets/4-ga-2-1.png)
-    - Enable workflows: Actions -> `I understand my workflows, go ahead and enable them` -> Select `Run Arxiv Papars Daily` in right sidebar and click `Enable workflow` -> click `Run workflow` wait about 1 min until the job update done. The same for the job `Run Update Paper Links Weekly`.
-    ![](../assets/4-ga-3-1.png)
-    ![](../assets/4-ga-5-1.png)
-    ![](../assets/4-ga-7.png)
-    ![](../assets/4-ga-8.png)
-    ![](../assets/4-ga-9.png)
-4. Setting Gitpages (optional)
-    - Setting -> Pages -> Build an deployment. Source: `Deploy from a branch`; Branch select `main` and `/docs` folder, then save.
-    ![](../assets/5-pages-1.png)
-    - Now you can open gitpage: https://your_github_usrname.github.io/cv-arxiv-daily
-5. Add new keywords (optional)
-    - Edit `keywords` in [config.yaml](../config.yaml), you can add more filters or keywords.
-    - Push changes to remote repo and re-run Github Actions Manually.
+1. **Fork this repository**
+   - Fork the [AI4Blockchain-arxiv-daily](https://github.com/jhy-3/AI4Blockchain-arxiv-daily) repository
+
+2. **Edit configurations**
+   - Change `user_name` and `repo_name` in [config.yaml](../config.yaml) to match your GitHub username and repository name
+   - Customize `keywords` in [config.yaml](../config.yaml) to add or modify search terms
+   - Push changes to your remote repository
+
+3. **Configure GitHub Actions**
+   - Go to **Settings** → **Actions** → **General**
+   - Under "Workflow permissions", select **"Read and write permissions"** and save
+   - Go to **Actions** tab
+   - Click **"I understand my workflows, go ahead and enable them"**
+   - Enable the workflows:
+     - **"Daily Arxiv Update"**: Runs automatically every day at 00:00 UTC
+     - **"Weekly Update Paper Links"**: Runs every Monday to update code links
+   - You can manually trigger workflows by clicking "Run workflow" button
+
+4. **Setting GitHub Pages (optional)**
+   - Go to **Settings** → **Pages**
+   - Under "Build and deployment", select:
+     - Source: **"Deploy from a branch"**
+     - Branch: **"main"** and folder **"/docs"**
+   - Save the settings
+   - Your GitHub Pages will be available at: `https://your_github_username.github.io/AI4Blockchain-arxiv-daily`
+
+5. **Add new keywords (optional)**
+   - Edit `keywords` section in [config.yaml](../config.yaml)
+   - You can add more filters or keywords for different topics
+   - Push changes to remote repository
+   - Re-run GitHub Actions manually or wait for the next scheduled run
 
 </details>
 
-## Release plan
+## Configuration
 
- We are still in the process of fully releasing. Here is the release plan:
+### Keywords Configuration
 
-- [x] Configuration file
-- [x] Update code link
-- [ ] Subscribe & Update alerting
-- [ ] Support more `arxiv` filters
-- [ ] Archive old papers
-- [ ] Language translation ([`ChatGPT`](https://chat.openai.com/chat))
-- [ ] Usefull comments
-- [ ] ...
+Edit the `keywords` section in `config.yaml` to customize search terms:
+
+```yaml
+keywords:
+    "AI+Blockchain":
+        filters: ["artificial intelligence blockchain", "machine learning blockchain"]
+    "Smart Contracts & AI":
+        filters: ["smart contract AI", "AI smart contract"]
+```
+
+### Output Configuration
+
+The script generates three types of output:
+
+- **README.md**: Main repository README with paper listings
+- **docs/index.md**: Web page for GitHub Pages
+- **JSON files**: Structured data stored in `docs/` directory
+
+## Local Testing
+
+To test the script locally:
+
+```bash
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the script
+python daily_arxiv.py --config_path config.yaml
+
+# Update paper links only
+python daily_arxiv.py --config_path config.yaml --update_paper_links
+```
+
+## Troubleshooting
+
+- **Workflow not running**: Make sure GitHub Actions is enabled in repository settings
+- **No papers found**: Check your keywords in `config.yaml` - they might be too specific
+- **Permission errors**: Ensure "Read and write permissions" is enabled in Actions settings
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit issues or pull requests.
