@@ -109,6 +109,20 @@ def get_code_link(qword:str) -> str:
         code_link = results["items"][0]["html_url"]
     return code_link
 
+def fetch_repo_url(paper_id: str) -> str:
+    """
+    Try to fetch official code link from Papers with Code.
+    Returns repo URL or None if unavailable.
+    """
+    code_url = base_url + paper_id
+    try:
+        r = requests.get(code_url, timeout=10).json()
+        if "official" in r and r["official"]:
+            return r["official"].get("url")
+    except Exception as e:
+        logging.warning(f"Unable to fetch code link for {paper_id}: {e}")
+    return None
+
 def get_daily_papers(topic,query="blockchain", max_results=2):
     """
     @param topic: str
@@ -129,7 +143,6 @@ def get_daily_papers(topic,query="blockchain", max_results=2):
         paper_id            = result.get_short_id()
         paper_title         = result.title
         paper_url           = result.entry_id
-        code_url            = base_url + paper_id #TODO
         paper_abstract      = result.summary.replace("\n"," ")
         paper_authors       = get_authors(result.authors)
         paper_first_author  = get_authors(result.authors,first_author = True)
@@ -148,38 +161,25 @@ def get_daily_papers(topic,query="blockchain", max_results=2):
             paper_key = paper_id[0:ver_pos]
         paper_url = arxiv_url + 'abs/' + paper_key
 
-        try:
-            # source code link
-            r = requests.get(code_url).json()
-            repo_url = None
-            if "official" in r and r["official"]:
-                repo_url = r["official"]["url"]
-            # TODO: not found, two more chances
-            # else:
-            #    repo_url = get_code_link(paper_title)
-            #    if repo_url is None:
-            #        repo_url = get_code_link(paper_key)
-            if repo_url is not None:
-                content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
-                       update_time,paper_title,paper_first_author,paper_key,paper_url,repo_url)
-                content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({}), Code: **[{}]({})**".format(
-                       update_time,paper_title,paper_first_author,paper_url,paper_url,repo_url,repo_url)
+        repo_url = fetch_repo_url(paper_id)
+        if repo_url is not None:
+            content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
+                   update_time,paper_title,paper_first_author,paper_key,paper_url,repo_url)
+            content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({}), Code: **[{}]({})**".format(
+                   update_time,paper_title,paper_first_author,paper_url,paper_url,repo_url,repo_url)
 
-            else:
-                content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|null|\n".format(
-                       update_time,paper_title,paper_first_author,paper_key,paper_url)
-                content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
-                       update_time,paper_title,paper_first_author,paper_url,paper_url)
+        else:
+            content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|null|\n".format(
+                   update_time,paper_title,paper_first_author,paper_key,paper_url)
+            content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
+                   update_time,paper_title,paper_first_author,paper_url,paper_url)
 
-            # TODO: select useful comments
-            comments = None
-            if comments != None:
-                content_to_web[paper_key] += f", {comments}\n"
-            else:
-                content_to_web[paper_key] += f"\n"
-
-        except Exception as e:
-            logging.error(f"exception: {e} with id: {paper_key}")
+        # TODO: select useful comments
+        comments = None
+        if comments != None:
+            content_to_web[paper_key] += f", {comments}\n"
+        else:
+            content_to_web[paper_key] += f"\n"
 
     data = {topic:content}
     data_web = {topic:content_to_web}
