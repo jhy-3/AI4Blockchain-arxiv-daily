@@ -16,6 +16,31 @@ base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
 github_url = "https://api.github.com/search/repositories"
 arxiv_url = "http://arxiv.org/"
 
+def ensure_json_file(file_path):
+    parent_dir = os.path.dirname(file_path)
+    if parent_dir:
+        os.makedirs(parent_dir, exist_ok=True)
+    if not os.path.exists(file_path):
+        with open(file_path, "w") as f:
+            json.dump({}, f)
+
+def load_json_file(file_path):
+    ensure_json_file(file_path)
+    with open(file_path, "r") as f:
+        content = f.read().strip()
+        if not content:
+            return {}
+        try:
+            return json.loads(content)
+        except json.JSONDecodeError:
+            logging.warning(f"Invalid JSON in {file_path}, resetting to empty dict.")
+            return {}
+
+def write_json_file(file_path, data):
+    ensure_json_file(file_path)
+    with open(file_path, "w") as f:
+        json.dump(data, f)
+
 def load_config(config_file:str) -> dict:
     '''
     config_file: input config file path
@@ -174,14 +199,8 @@ def update_paper_links(filename):
         arxiv_id = re.sub(r'v\d+', '', arxiv_id)
         return date,title,authors,arxiv_id,code
 
-    with open(filename,"r") as f:
-        content = f.read()
-        if not content:
-            m = {}
-        else:
-            m = json.loads(content)
-
-        json_data = m.copy()
+    json_data = load_json_file(filename)
+    json_data = json_data.copy()
 
         for keywords,v in json_data.items():
             logging.info(f'keywords = {keywords}')
@@ -211,21 +230,14 @@ def update_paper_links(filename):
                 except Exception as e:
                     logging.error(f"exception: {e} with id: {paper_id}")
         # dump to json file
-        with open(filename,"w") as f:
-            json.dump(json_data,f)
+        write_json_file(filename, json_data)
 
 def update_json_file(filename,data_dict):
     '''
     daily update json file using data_dict
     '''
-    with open(filename,"r") as f:
-        content = f.read()
-        if not content:
-            m = {}
-        else:
-            m = json.loads(content)
-
-    json_data = m.copy()
+    json_data = load_json_file(filename)
+    json_data = json_data.copy()
 
     # update papers in each keywords
     for data in data_dict:
@@ -237,8 +249,7 @@ def update_json_file(filename,data_dict):
             else:
                 json_data[keyword] = papers
 
-    with open(filename,"w") as f:
-        json.dump(json_data,f)
+    write_json_file(filename, json_data)
 
 def json_to_md(filename,md_filename,
                task = '',
@@ -272,12 +283,7 @@ def json_to_md(filename,md_filename,
     DateNow = str(DateNow)
     DateNow = DateNow.replace('-','.')
 
-    with open(filename,"r") as f:
-        content = f.read()
-        if not content:
-            data = {}
-        else:
-            data = json.loads(content)
+    data = load_json_file(filename)
 
     # clean README.md if daily already exist else create it
     with open(md_filename,"w+") as f:
