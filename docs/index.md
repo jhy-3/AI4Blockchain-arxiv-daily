@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.11.25
+## Updated on 2025.11.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-23**|**Lean 5.0: A Predictive, Human-AI, and Ethically Grounded Paradigm for Construction Management**|Atena Khoshkonesh et.al.|[2511.18651](http://arxiv.org/abs/2511.18651)|null|
 |**2025-11-20**|**ART: A Graph-based Framework for Investigating Illicit Activity in Monero via Address-Ring-Transaction Structures**|Andrea Venturi et.al.|[2511.16192](http://arxiv.org/abs/2511.16192)|null|
 |**2025-11-19**|**Tracking financial crime through code and law: a review of regtech applications in anti-money laundering and terrorism financing**|Mariam El Harras et.al.|[2511.15764](http://arxiv.org/abs/2511.15764)|null|
 |**2025-11-08**|**Secure Autonomous Agent Payments: Verifying Authenticity and Intent in a Trustless Environment**|Vivek Acharya et.al.|[2511.15712](http://arxiv.org/abs/2511.15712)|null|
@@ -25,7 +26,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-11-19**|**Know Your Intent: An Autonomous Multi-Perspective LLM Agent Framework for DeFi User Transaction Intent Mining**|Qian'ang Mao et.al.|[2511.15456](http://arxiv.org/abs/2511.15456)|null|
-|**2025-11-17**|**SmartPoC: Generating Executable and Validated PoCs for Smart Contract Bug Reports**|Longfei Chen et.al.|[2511.12993](http://arxiv.org/abs/2511.12993)|null|
+|**2025-11-24**|**SmartPoC: Generating Executable and Validated PoCs for Smart Contract Bug Reports**|Longfei Chen et.al.|[2511.12993](http://arxiv.org/abs/2511.12993)|null|
 |**2025-11-11**|**SRE-Llama -- Fine-Tuned Meta's Llama LLM, Federated Learning, Blockchain and NFT Enabled Site Reliability Engineering(SRE) Platform for Communication and Networking Software Services**|Eranga Bandara et.al.|[2511.08282](http://arxiv.org/abs/2511.08282)|null|
 |**2025-10-22**|**zk-Agreements: A Privacy-Preserving Way to Establish Deterministic Trust in Confidential Agreements**|To-Wen Liu et.al.|[2510.20007](http://arxiv.org/abs/2510.20007)|null|
 |**2025-10-21**|**Model Context Contracts - MCP-Enabled Framework to Integrate LLMs With Blockchain Smart Contracts**|Eranga Bandara et.al.|[2510.19856](http://arxiv.org/abs/2510.19856)|null|
@@ -39,6 +40,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-16**|**Hierarchical Adaptive Consensus Network: A Dynamic Framework for Scalable Consensus in Collaborative Multi-Agent AI Systems**|Rathin Chandra Shit et.al.|[2511.17586](http://arxiv.org/abs/2511.17586)|null|
 |**2025-11-17**|**Personalized Federated Learning with Bidirectional Communication Compression via One-Bit Random Sketching**|Jiacheng Cheng et.al.|[2511.13144](http://arxiv.org/abs/2511.13144)|null|
 |**2025-11-16**|**Scalable Hierarchical AI-Blockchain Framework for Real-Time Anomaly Detection in Large-Scale Autonomous Vehicle Networks**|Rathin Chandra Shit et.al.|[2511.12648](http://arxiv.org/abs/2511.12648)|null|
 |**2025-11-15**|**Educators on the Frontline: Philosophical and Realistic Perspectives on Integrating ChatGPT into the Learning Space**|Surajit Das et.al.|[2511.11960](http://arxiv.org/abs/2511.11960)|null|

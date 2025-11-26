@@ -1,4 +1,4 @@
-## Updated on 2025.11.25
+## Updated on 2025.11.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-23**|**Lean 5.0: A Predictive, Human-AI, and Ethically Grounded Paradigm for Construction Management**|Atena Khoshkonesh et.al.|[2511.18651](http://arxiv.org/abs/2511.18651)|null|
 |**2025-11-20**|**ART: A Graph-based Framework for Investigating Illicit Activity in Monero via Address-Ring-Transaction Structures**|Andrea Venturi et.al.|[2511.16192](http://arxiv.org/abs/2511.16192)|null|
 |**2025-11-19**|**Tracking financial crime through code and law: a review of regtech applications in anti-money laundering and terrorism financing**|Mariam El Harras et.al.|[2511.15764](http://arxiv.org/abs/2511.15764)|null|
 |**2025-11-08**|**Secure Autonomous Agent Payments: Verifying Authenticity and Intent in a Trustless Environment**|Vivek Acharya et.al.|[2511.15712](http://arxiv.org/abs/2511.15712)|null|
@@ -26,14 +27,14 @@
 |**2025-11-11**|**SRE-Llama -- Fine-Tuned Meta's Llama LLM, Federated Learning, Blockchain and NFT Enabled Site Reliability Engineering(SRE) Platform for Communication and Networking Software Services**|Eranga Bandara et.al.|[2511.08282](http://arxiv.org/abs/2511.08282)|null|
 |**2025-11-07**|**SmartSecChain-SDN: A Blockchain-Integrated Intelligent Framework for Secure and Efficient Software-Defined Networks**|Azhar Hussain Mozumder et.al.|[2511.05156](http://arxiv.org/abs/2511.05156)|null|
 
-<p align=right>(<a href=#updated-on-20251125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251126>back to top</a>)</p>
 
 ## Smart Contracts & AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-11-19**|**Know Your Intent: An Autonomous Multi-Perspective LLM Agent Framework for DeFi User Transaction Intent Mining**|Qian'ang Mao et.al.|[2511.15456](http://arxiv.org/abs/2511.15456)|null|
-|**2025-11-17**|**SmartPoC: Generating Executable and Validated PoCs for Smart Contract Bug Reports**|Longfei Chen et.al.|[2511.12993](http://arxiv.org/abs/2511.12993)|null|
+|**2025-11-24**|**SmartPoC: Generating Executable and Validated PoCs for Smart Contract Bug Reports**|Longfei Chen et.al.|[2511.12993](http://arxiv.org/abs/2511.12993)|null|
 |**2025-11-11**|**SRE-Llama -- Fine-Tuned Meta's Llama LLM, Federated Learning, Blockchain and NFT Enabled Site Reliability Engineering(SRE) Platform for Communication and Networking Software Services**|Eranga Bandara et.al.|[2511.08282](http://arxiv.org/abs/2511.08282)|null|
 |**2025-10-22**|**zk-Agreements: A Privacy-Preserving Way to Establish Deterministic Trust in Confidential Agreements**|To-Wen Liu et.al.|[2510.20007](http://arxiv.org/abs/2510.20007)|null|
 |**2025-10-21**|**Model Context Contracts - MCP-Enabled Framework to Integrate LLMs With Blockchain Smart Contracts**|Eranga Bandara et.al.|[2510.19856](http://arxiv.org/abs/2510.19856)|null|
@@ -43,12 +44,13 @@
 |**2025-10-07**|**Smart Contract Adoption under Discrete Overdispersed Demand: A Negative Binomial Optimization Perspective**|Jinho Cha et.al.|[2510.05487](http://arxiv.org/abs/2510.05487)|null|
 |**2025-10-06**|**LMM-Incentive: Large Multimodal Model-based Incentive Design for User-Generated Content in Web 3.0**|Jinbo Wen et.al.|[2510.04765](http://arxiv.org/abs/2510.04765)|null|
 
-<p align=right>(<a href=#updated-on-20251125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251126>back to top</a>)</p>
 
 ## Blockchain Consensus & AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-16**|**Hierarchical Adaptive Consensus Network: A Dynamic Framework for Scalable Consensus in Collaborative Multi-Agent AI Systems**|Rathin Chandra Shit et.al.|[2511.17586](http://arxiv.org/abs/2511.17586)|null|
 |**2025-11-17**|**Personalized Federated Learning with Bidirectional Communication Compression via One-Bit Random Sketching**|Jiacheng Cheng et.al.|[2511.13144](http://arxiv.org/abs/2511.13144)|null|
 |**2025-11-16**|**Scalable Hierarchical AI-Blockchain Framework for Real-Time Anomaly Detection in Large-Scale Autonomous Vehicle Networks**|Rathin Chandra Shit et.al.|[2511.12648](http://arxiv.org/abs/2511.12648)|null|
 |**2025-11-15**|**Educators on the Frontline: Philosophical and Realistic Perspectives on Integrating ChatGPT into the Learning Space**|Surajit Das et.al.|[2511.11960](http://arxiv.org/abs/2511.11960)|null|
@@ -60,7 +62,7 @@
 |**2025-11-07**|**Assessing Problem Decomposition in CS1 for the GenAI Era**|Samvrit Srinath et.al.|[2511.05764](http://arxiv.org/abs/2511.05764)|null|
 |**2025-11-07**|**Guaranteeing Both Consensus and Optimality in Decentralized Nonconvex Optimization with Multiple Local Updates**|Jie Liu et.al.|[2511.05242](http://arxiv.org/abs/2511.05242)|null|
 
-<p align=right>(<a href=#updated-on-20251125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251126>back to top</a>)</p>
 
 ## DeFi & AI
 
@@ -77,7 +79,7 @@
 |**2025-10-24**|**Machine Learning Prediction of Magnetic Proximity Effect in van der Waals Heterostructures: From Atoms to Moiré**|Lukas Cvitkovich et.al.|[2508.12406](http://arxiv.org/abs/2508.12406)|null|
 |**2025-09-12**|**Web3 x AI Agents: Landscape, Integrations, and Foundational Challenges**|Yiming Shen et.al.|[2508.02773](http://arxiv.org/abs/2508.02773)|null|
 
-<p align=right>(<a href=#updated-on-20251125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251126>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/jhy-3/AI4Blockchain-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/jhy-3/AI4Blockchain-arxiv-daily/graphs/contributors
