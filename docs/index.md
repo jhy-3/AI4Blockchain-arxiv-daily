@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2025.11.26
+## Updated on 2025.11.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-25**|**A Single-Root, Multi-Curve, Context-Isolated, PQC-Pluggable Cryptographic Identity Primitive with Stateless Secret Rotation**|Jian Sheng Wang et.al.|[2511.20505](http://arxiv.org/abs/2511.20505)|null|
+|**2025-11-18**|**AI-driven Predictive Shard Allocation for Scalable Next Generation Blockchains**|M. Zeeshan Haider et.al.|[2511.19450](http://arxiv.org/abs/2511.19450)|null|
 |**2025-11-23**|**Lean 5.0: A Predictive, Human-AI, and Ethically Grounded Paradigm for Construction Management**|Atena Khoshkonesh et.al.|[2511.18651](http://arxiv.org/abs/2511.18651)|null|
 |**2025-11-20**|**ART: A Graph-based Framework for Investigating Illicit Activity in Monero via Address-Ring-Transaction Structures**|Andrea Venturi et.al.|[2511.16192](http://arxiv.org/abs/2511.16192)|null|
 |**2025-11-19**|**Tracking financial crime through code and law: a review of regtech applications in anti-money laundering and terrorism financing**|Mariam El Harras et.al.|[2511.15764](http://arxiv.org/abs/2511.15764)|null|
