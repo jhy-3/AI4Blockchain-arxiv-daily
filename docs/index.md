@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.11.27
+## Updated on 2025.11.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -42,6 +42,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-26**|**MADRA: Multi-Agent Debate for Risk-Aware Embodied Planning**|Junjian Wang et.al.|[2511.21460](http://arxiv.org/abs/2511.21460)|null|
 |**2025-11-16**|**Hierarchical Adaptive Consensus Network: A Dynamic Framework for Scalable Consensus in Collaborative Multi-Agent AI Systems**|Rathin Chandra Shit et.al.|[2511.17586](http://arxiv.org/abs/2511.17586)|null|
 |**2025-11-17**|**Personalized Federated Learning with Bidirectional Communication Compression via One-Bit Random Sketching**|Jiacheng Cheng et.al.|[2511.13144](http://arxiv.org/abs/2511.13144)|null|
 |**2025-11-16**|**Scalable Hierarchical AI-Blockchain Framework for Real-Time Anomaly Detection in Large-Scale Autonomous Vehicle Networks**|Rathin Chandra Shit et.al.|[2511.12648](http://arxiv.org/abs/2511.12648)|null|
