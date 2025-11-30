@@ -1,4 +1,4 @@
-## Updated on 2025.11.29
+## Updated on 2025.11.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -29,7 +29,7 @@
 |**2025-11-11**|**SRE-Llama -- Fine-Tuned Meta's Llama LLM, Federated Learning, Blockchain and NFT Enabled Site Reliability Engineering(SRE) Platform for Communication and Networking Software Services**|Eranga Bandara et.al.|[2511.08282](http://arxiv.org/abs/2511.08282)|null|
 |**2025-11-07**|**SmartSecChain-SDN: A Blockchain-Integrated Intelligent Framework for Secure and Efficient Software-Defined Networks**|Azhar Hussain Mozumder et.al.|[2511.05156](http://arxiv.org/abs/2511.05156)|null|
 
-<p align=right>(<a href=#updated-on-20251129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251130>back to top</a>)</p>
 
 ## Smart Contracts & AI
 
@@ -46,7 +46,7 @@
 |**2025-10-07**|**Smart Contract Adoption under Discrete Overdispersed Demand: A Negative Binomial Optimization Perspective**|Jinho Cha et.al.|[2510.05487](http://arxiv.org/abs/2510.05487)|null|
 |**2025-10-06**|**LMM-Incentive: Large Multimodal Model-based Incentive Design for User-Generated Content in Web 3.0**|Jinbo Wen et.al.|[2510.04765](http://arxiv.org/abs/2510.04765)|null|
 
-<p align=right>(<a href=#updated-on-20251129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251130>back to top</a>)</p>
 
 ## Blockchain Consensus & AI
 
@@ -65,7 +65,7 @@
 |**2025-11-07**|**Assessing Problem Decomposition in CS1 for the GenAI Era**|Samvrit Srinath et.al.|[2511.05764](http://arxiv.org/abs/2511.05764)|null|
 |**2025-11-07**|**Guaranteeing Both Consensus and Optimality in Decentralized Nonconvex Optimization with Multiple Local Updates**|Jie Liu et.al.|[2511.05242](http://arxiv.org/abs/2511.05242)|null|
 
-<p align=right>(<a href=#updated-on-20251129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251130>back to top</a>)</p>
 
 ## DeFi & AI
 
@@ -82,7 +82,7 @@
 |**2025-10-24**|**Machine Learning Prediction of Magnetic Proximity Effect in van der Waals Heterostructures: From Atoms to Moiré**|Lukas Cvitkovich et.al.|[2508.12406](http://arxiv.org/abs/2508.12406)|null|
 |**2025-09-12**|**Web3 x AI Agents: Landscape, Integrations, and Foundational Challenges**|Yiming Shen et.al.|[2508.02773](http://arxiv.org/abs/2508.02773)|null|
 
-<p align=right>(<a href=#updated-on-20251129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251130>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/jhy-3/AI4Blockchain-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/jhy-3/AI4Blockchain-arxiv-daily/graphs/contributors
