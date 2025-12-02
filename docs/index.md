@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2025.12.01
+## Updated on 2025.12.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-27**|**DeXposure: A Dataset and Benchmarks for Inter-protocol Credit Exposure in Decentralized Financial Networks**|Wenbin Wu et.al.|[2511.22314](http://arxiv.org/abs/2511.22314)|null|
+|**2025-11-26**|**A Sustainable and Reward Incentivized High-Performance Cluster Computing for Artificial Intelligence: A Novel Bayesian-Time-Decay Trust Mechanism in Blockchain**|Murat Yaslioglu et.al.|[2511.21844](http://arxiv.org/abs/2511.21844)|null|
 |**2025-11-25**|**A Single-Root, Multi-Curve, Context-Isolated, PQC-Pluggable Cryptographic Identity Primitive with Stateless Secret Rotation**|Jian Sheng Wang et.al.|[2511.20505](http://arxiv.org/abs/2511.20505)|null|
 |**2025-11-18**|**AI-driven Predictive Shard Allocation for Scalable Next Generation Blockchains**|M. Zeeshan Haider et.al.|[2511.19450](http://arxiv.org/abs/2511.19450)|null|
 |**2025-11-23**|**Lean 5.0: A Predictive, Human-AI, and Ethically Grounded Paradigm for Construction Management**|Atena Khoshkonesh et.al.|[2511.18651](http://arxiv.org/abs/2511.18651)|null|
@@ -42,6 +44,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-28**|**Consensus Tree Estimation with False Discovery Rate Control via Partially Ordered Sets**|Maria Alejandra Valdez Cabrera et.al.|[2511.23433](http://arxiv.org/abs/2511.23433)|null|
 |**2025-11-26**|**MADRA: Multi-Agent Debate for Risk-Aware Embodied Planning**|Junjian Wang et.al.|[2511.21460](http://arxiv.org/abs/2511.21460)|null|
 |**2025-11-16**|**Hierarchical Adaptive Consensus Network: A Dynamic Framework for Scalable Consensus in Collaborative Multi-Agent AI Systems**|Rathin Chandra Shit et.al.|[2511.17586](http://arxiv.org/abs/2511.17586)|null|
 |**2025-11-17**|**Personalized Federated Learning with Bidirectional Communication Compression via One-Bit Random Sketching**|Jiacheng Cheng et.al.|[2511.13144](http://arxiv.org/abs/2511.13144)|null|
@@ -59,6 +62,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-27**|**DeXposure: A Dataset and Benchmarks for Inter-protocol Credit Exposure in Decentralized Financial Networks**|Wenbin Wu et.al.|[2511.22314](http://arxiv.org/abs/2511.22314)|null|
 |**2025-11-19**|**Know Your Intent: An Autonomous Multi-Perspective LLM Agent Framework for DeFi User Transaction Intent Mining**|Qian'ang Mao et.al.|[2511.15456](http://arxiv.org/abs/2511.15456)|null|
 |**2025-10-20**|**Discrete Differential Geometry for Simulating Nonlinear Behaviors of Flexible Systems: A Survey**|Dezhong Tong et.al.|[2510.17546](http://arxiv.org/abs/2510.17546)|null|
 |**2025-10-15**|**On-Chain Decentralized Learning and Cost-Effective Inference for DeFi Attack Mitigation**|Abdulrahman Alhaidari et.al.|[2510.16024](http://arxiv.org/abs/2510.16024)|null|
