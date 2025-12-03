@@ -1,4 +1,4 @@
-## Updated on 2025.12.02
+## Updated on 2025.12.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -15,6 +15,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-30**|**Provenance-Driven Reliable Semantic Medical Image Vector Reconstruction via Lightweight Blockchain-Verified Latent Fingerprints**|Mohsin Rasheed et.al.|[2512.00999](http://arxiv.org/abs/2512.00999)|null|
+|**2025-11-28**|**DeFi TrustBoost: Blockchain and AI for Trustworthy Decentralized Financial Decisions**|Swati Sachan et.al.|[2512.00142](http://arxiv.org/abs/2512.00142)|null|
 |**2025-11-27**|**DeXposure: A Dataset and Benchmarks for Inter-protocol Credit Exposure in Decentralized Financial Networks**|Wenbin Wu et.al.|[2511.22314](http://arxiv.org/abs/2511.22314)|null|
 |**2025-11-26**|**A Sustainable and Reward Incentivized High-Performance Cluster Computing for Artificial Intelligence: A Novel Bayesian-Time-Decay Trust Mechanism in Blockchain**|Murat Yaslioglu et.al.|[2511.21844](http://arxiv.org/abs/2511.21844)|null|
 |**2025-11-25**|**A Single-Root, Multi-Curve, Context-Isolated, PQC-Pluggable Cryptographic Identity Primitive with Stateless Secret Rotation**|Jian Sheng Wang et.al.|[2511.20505](http://arxiv.org/abs/2511.20505)|null|
@@ -31,7 +33,7 @@
 |**2025-11-11**|**SRE-Llama -- Fine-Tuned Meta's Llama LLM, Federated Learning, Blockchain and NFT Enabled Site Reliability Engineering(SRE) Platform for Communication and Networking Software Services**|Eranga Bandara et.al.|[2511.08282](http://arxiv.org/abs/2511.08282)|null|
 |**2025-11-07**|**SmartSecChain-SDN: A Blockchain-Integrated Intelligent Framework for Secure and Efficient Software-Defined Networks**|Azhar Hussain Mozumder et.al.|[2511.05156](http://arxiv.org/abs/2511.05156)|null|
 
-<p align=right>(<a href=#updated-on-20251202>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251203>back to top</a>)</p>
 
 ## Smart Contracts & AI
 
@@ -48,12 +50,13 @@
 |**2025-10-07**|**Smart Contract Adoption under Discrete Overdispersed Demand: A Negative Binomial Optimization Perspective**|Jinho Cha et.al.|[2510.05487](http://arxiv.org/abs/2510.05487)|null|
 |**2025-10-06**|**LMM-Incentive: Large Multimodal Model-based Incentive Design for User-Generated Content in Web 3.0**|Jinbo Wen et.al.|[2510.04765](http://arxiv.org/abs/2510.04765)|null|
 
-<p align=right>(<a href=#updated-on-20251202>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251203>back to top</a>)</p>
 
 ## Blockchain Consensus & AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-28**|**AutocleanEEG ICVision: Automated ICA Artifact Classification Using Vision-Language AI**|Zag ElSayed et.al.|[2512.00194](http://arxiv.org/abs/2512.00194)|null|
 |**2025-11-28**|**Consensus Tree Estimation with False Discovery Rate Control via Partially Ordered Sets**|Maria Alejandra Valdez Cabrera et.al.|[2511.23433](http://arxiv.org/abs/2511.23433)|null|
 |**2025-11-26**|**MADRA: Multi-Agent Debate for Risk-Aware Embodied Planning**|Junjian Wang et.al.|[2511.21460](http://arxiv.org/abs/2511.21460)|null|
 |**2025-11-16**|**Hierarchical Adaptive Consensus Network: A Dynamic Framework for Scalable Consensus in Collaborative Multi-Agent AI Systems**|Rathin Chandra Shit et.al.|[2511.17586](http://arxiv.org/abs/2511.17586)|null|
@@ -68,12 +71,13 @@
 |**2025-11-07**|**Assessing Problem Decomposition in CS1 for the GenAI Era**|Samvrit Srinath et.al.|[2511.05764](http://arxiv.org/abs/2511.05764)|null|
 |**2025-11-07**|**Guaranteeing Both Consensus and Optimality in Decentralized Nonconvex Optimization with Multiple Local Updates**|Jie Liu et.al.|[2511.05242](http://arxiv.org/abs/2511.05242)|null|
 
-<p align=right>(<a href=#updated-on-20251202>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251203>back to top</a>)</p>
 
 ## DeFi & AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-28**|**DeFi TrustBoost: Blockchain and AI for Trustworthy Decentralized Financial Decisions**|Swati Sachan et.al.|[2512.00142](http://arxiv.org/abs/2512.00142)|null|
 |**2025-11-27**|**DeXposure: A Dataset and Benchmarks for Inter-protocol Credit Exposure in Decentralized Financial Networks**|Wenbin Wu et.al.|[2511.22314](http://arxiv.org/abs/2511.22314)|null|
 |**2025-11-19**|**Know Your Intent: An Autonomous Multi-Perspective LLM Agent Framework for DeFi User Transaction Intent Mining**|Qian'ang Mao et.al.|[2511.15456](http://arxiv.org/abs/2511.15456)|null|
 |**2025-10-20**|**Discrete Differential Geometry for Simulating Nonlinear Behaviors of Flexible Systems: A Survey**|Dezhong Tong et.al.|[2510.17546](http://arxiv.org/abs/2510.17546)|null|
@@ -86,7 +90,7 @@
 |**2025-10-24**|**Machine Learning Prediction of Magnetic Proximity Effect in van der Waals Heterostructures: From Atoms to Moiré**|Lukas Cvitkovich et.al.|[2508.12406](http://arxiv.org/abs/2508.12406)|null|
 |**2025-09-12**|**Web3 x AI Agents: Landscape, Integrations, and Foundational Challenges**|Yiming Shen et.al.|[2508.02773](http://arxiv.org/abs/2508.02773)|null|
 
-<p align=right>(<a href=#updated-on-20251202>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251203>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/jhy-3/AI4Blockchain-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/jhy-3/AI4Blockchain-arxiv-daily/graphs/contributors
