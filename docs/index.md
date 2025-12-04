@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2025.12.03
+## Updated on 2025.12.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-02**|**Leveraging Large Language Models to Bridge On-chain and Off-chain Transparency in Stablecoins**|Yuexin Xiang et.al.|[2512.02418](http://arxiv.org/abs/2512.02418)|null|
+|**2025-12-02**|**AtomGraph: Tackling Atomicity Violation in Smart Contracts using Multimodal GCNs**|Xiaoqi Li et.al.|[2512.02399](http://arxiv.org/abs/2512.02399)|null|
 |**2025-11-30**|**Provenance-Driven Reliable Semantic Medical Image Vector Reconstruction via Lightweight Blockchain-Verified Latent Fingerprints**|Mohsin Rasheed et.al.|[2512.00999](http://arxiv.org/abs/2512.00999)|null|
 |**2025-11-28**|**DeFi TrustBoost: Blockchain and AI for Trustworthy Decentralized Financial Decisions**|Swati Sachan et.al.|[2512.00142](http://arxiv.org/abs/2512.00142)|null|
 |**2025-11-27**|**DeXposure: A Dataset and Benchmarks for Inter-protocol Credit Exposure in Decentralized Financial Networks**|Wenbin Wu et.al.|[2511.22314](http://arxiv.org/abs/2511.22314)|null|
