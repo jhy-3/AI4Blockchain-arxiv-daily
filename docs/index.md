@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.12.04
+## Updated on 2025.12.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -48,6 +48,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-03**|**Polarization by Design: How Elites Could Shape Mass Preferences as AI Reduces Persuasion Costs**|Nadav Kunievsky et.al.|[2512.04047](http://arxiv.org/abs/2512.04047)|null|
+|**2025-12-03**|**LLM-Generated Ads: From Personalization Parity to Persuasion Superiority**|Elyas Meguellati et.al.|[2512.03373](http://arxiv.org/abs/2512.03373)|null|
+|**2025-12-03**|**Epistemic Substitution: How Grokipedia's AI-Generated Encyclopedia Restructures Authority**|Aliakbar Mehdizadeh et.al.|[2512.03337](http://arxiv.org/abs/2512.03337)|null|
+|**2025-12-01**|**Many-to-One Adversarial Consensus: Exposing Multi-Agent Collusion Risks in AI-Based Healthcare**|Adeela Bashir et.al.|[2512.03097](http://arxiv.org/abs/2512.03097)|null|
 |**2025-11-28**|**AutocleanEEG ICVision: Automated ICA Artifact Classification Using Vision-Language AI**|Zag ElSayed et.al.|[2512.00194](http://arxiv.org/abs/2512.00194)|null|
 |**2025-11-28**|**Consensus Tree Estimation with False Discovery Rate Control via Partially Ordered Sets**|Maria Alejandra Valdez Cabrera et.al.|[2511.23433](http://arxiv.org/abs/2511.23433)|null|
 |**2025-11-26**|**MADRA: Multi-Agent Debate for Risk-Aware Embodied Planning**|Junjian Wang et.al.|[2511.21460](http://arxiv.org/abs/2511.21460)|null|
