@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.12.08
+## Updated on 2025.12.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -29,6 +29,13 @@ layout: default
 |**2025-11-12**|**Slaying the Dragon: The Quest for Democracy in Decentralized Autonomous Organizations (DAOs)**|Stefano Balietti et.al.|[2511.09263](http://arxiv.org/abs/2511.09263)|null|
 |**2025-11-11**|**SRE-Llama -- Fine-Tuned Meta's Llama LLM, Federated Learning, Blockchain and NFT Enabled Site Reliability Engineering(SRE) Platform for Communication and Networking Software Services**|Eranga Bandara et.al.|[2511.08282](http://arxiv.org/abs/2511.08282)|null|
 |**2025-11-07**|**SmartSecChain-SDN: A Blockchain-Integrated Intelligent Framework for Secure and Efficient Software-Defined Networks**|Azhar Hussain Mozumder et.al.|[2511.05156](http://arxiv.org/abs/2511.05156)|null|
+|**2025-09-18**|**A Systematic Literature Review on Fundamental Technologies and Security Challenges in the Metaverse Platforms**|Krishno Dey et.al.|[2510.09621](http://arxiv.org/abs/2510.09621)|null|
+|**2025-08-22**|**zkPHIRE: A Programmable Accelerator for ZKPs over HIgh-degRee, Expressive Gates**|Alhad Daftardar et.al.|[2508.16738](http://arxiv.org/abs/2508.16738)|null|
+|**2025-08-12**|**NetMoniAI: An Agentic AI Framework for Network Security & Monitoring**|Pallavi Zambare et.al.|[2508.10052](http://arxiv.org/abs/2508.10052)|null|
+|**2025-07-25**|**Seeing Beyond Frames: Zero-Shot Pedestrian Intention Prediction with Raw Temporal Video and Multimodal Cues**|Pallavi Zambare et.al.|[2507.21161](http://arxiv.org/abs/2507.21161)|null|
+|**2025-05-07**|**Guardians of the Web: The Evolution and Future of Website Information Security**|Md Saiful Islam et.al.|[2505.04308](http://arxiv.org/abs/2505.04308)|null|
+|**2025-04-22**|**Trustworthy Decentralized Autonomous Machines: A New Paradigm in Automation Economy**|Fernando Castillo et.al.|[2504.15676](http://arxiv.org/abs/2504.15676)|null|
+|**2025-03-20**|**Financial Twin Chain, a Platform to Support Financial Sustainability in Supply Chains**|Giuseppe Galante et.al.|[2503.15980](http://arxiv.org/abs/2503.15980)|null|
 
 ## Smart Contracts & AI
 
@@ -67,6 +74,15 @@ layout: default
 |**2025-11-09**|**Tiny Model, Big Logic: Diversity-Driven Optimization Elicits Large-Model Reasoning Ability in VibeThinker-1.5B**|Sen Xu et.al.|[2511.06221](http://arxiv.org/abs/2511.06221)|null|
 |**2025-11-07**|**Assessing Problem Decomposition in CS1 for the GenAI Era**|Samvrit Srinath et.al.|[2511.05764](http://arxiv.org/abs/2511.05764)|null|
 |**2025-11-07**|**Guaranteeing Both Consensus and Optimality in Decentralized Nonconvex Optimization with Multiple Local Updates**|Jie Liu et.al.|[2511.05242](http://arxiv.org/abs/2511.05242)|null|
+|**2025-09-22**|**Medical AI Consensus: A Multi-Agent Framework for Radiology Report Generation and Evaluation**|Ahmed T. Elboardy et.al.|[2509.17353](http://arxiv.org/abs/2509.17353)|null|
+|**2025-09-16**|**Vehicle-to-Grid Integration: Ensuring Grid Stability, Strengthening Cybersecurity, and Advancing Energy Market Dynamics**|Bilal Ahmad et.al.|[2509.13393](http://arxiv.org/abs/2509.13393)|null|
+|**2025-04-29**|**Decentralized AI-driven IoT Architecture for Privacy-Preserving and Latency-Optimized Healthcare in Pandemic and Critical Care Scenarios**|Harsha Sammangi et.al.|[2507.15859](http://arxiv.org/abs/2507.15859)|null|
+|**2025-06-17**|**A Comprehensive Survey on Underwater Acoustic Target Positioning and Tracking: Progress, Challenges, and Perspectives**|Zhong Yang et.al.|[2506.14165](http://arxiv.org/abs/2506.14165)|null|
+|**2025-03-10**|**CASC-AI: Consensus-aware Self-corrective Learning for Noise Cell Segmentation**|Ruining Deng et.al.|[2502.07302](http://arxiv.org/abs/2502.07302)|null|
+|**2024-09-22**|**Prediction and Detection of Terminal Diseases Using Internet of Medical Things: A Review**|Akeem Temitope Otapo et.al.|[2410.00034](http://arxiv.org/abs/2410.00034)|null|
+|**2025-06-16**|**Roadmap on Incentive Compatibility for AI Alignment and Governance in Sociotechnical Systems**|Zhaowei Zhang et.al.|[2402.12907](http://arxiv.org/abs/2402.12907)|null|
+|**2022-09-30**|**Blockchain-based Monitoring for Poison Attack Detection in Decentralized Federated Learning**|Ranwa Al Mallah et.al.|[2210.02873](http://arxiv.org/abs/2210.02873)|null|
+|**2021-11-12**|**Device-Independent-Quantum-Randomness-Enhanced Zero-Knowledge Proof**|Cheng-Long Li et.al.|[2111.06717](http://arxiv.org/abs/2111.06717)|null|
 
 ## DeFi & AI
 
