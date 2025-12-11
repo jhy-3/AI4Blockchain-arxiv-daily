@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.12.10
+## Updated on 2025.12.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-09**|**Decentralized Trust for Space AI: Blockchain-Based Federated Learning Across Multi-Vendor LEO Satellite Networks**|Mohamed Elmahallawy et.al.|[2512.08882](http://arxiv.org/abs/2512.08882)|null|
 |**2025-11-28**|**Responsible LLM Deployment for High-Stake Decisions by Decentralized Technologies and Human-AI Interactions**|Swati Sachan et.al.|[2512.04108](http://arxiv.org/abs/2512.04108)|null|
 |**2025-12-02**|**Leveraging Large Language Models to Bridge On-chain and Off-chain Transparency in Stablecoins**|Yuexin Xiang et.al.|[2512.02418](http://arxiv.org/abs/2512.02418)|null|
 |**2025-12-02**|**AtomGraph: Tackling Atomicity Violation in Smart Contracts using Multimodal GCNs**|Xiaoqi Li et.al.|[2512.02399](http://arxiv.org/abs/2512.02399)|null|
