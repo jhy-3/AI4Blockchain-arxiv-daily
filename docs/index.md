@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.12.12
+## Updated on 2025.12.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -57,6 +57,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-11**|**D2M: A Decentralized, Privacy-Preserving, Incentive-Compatible Data Marketplace for Collaborative Learning**|Yash Srivastava et.al.|[2512.10372](http://arxiv.org/abs/2512.10372)|null|
 |**2025-12-03**|**Polarization by Design: How Elites Could Shape Mass Preferences as AI Reduces Persuasion Costs**|Nadav Kunievsky et.al.|[2512.04047](http://arxiv.org/abs/2512.04047)|null|
 |**2025-12-03**|**LLM-Generated Ads: From Personalization Parity to Persuasion Superiority**|Elyas Meguellati et.al.|[2512.03373](http://arxiv.org/abs/2512.03373)|null|
 |**2025-12-03**|**Epistemic Substitution: How Grokipedia's AI-Generated Encyclopedia Restructures Authority**|Aliakbar Mehdizadeh et.al.|[2512.03337](http://arxiv.org/abs/2512.03337)|null|
