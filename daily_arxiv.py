@@ -132,13 +132,59 @@ def get_daily_papers(topic,query="blockchain", max_results=2):
     # output
     content = dict()
     content_to_web = dict()
-    search_engine = arxiv.Search(
+    
+    # Use Client API instead of deprecated Search.results()
+    # Add retry mechanism and better error handling
+    client = arxiv.Client(
+        page_size=100,
+        delay_seconds=3.0,
+        num_retries=3
+    )
+    
+    search = arxiv.Search(
         query = query,
         max_results = max_results,
         sort_by = arxiv.SortCriterion.SubmittedDate
     )
 
-    for result in search_engine.results():
+    try:
+        results = list(client.results(search))
+        if not results:
+            logging.warning(f"No results found for query '{query}'")
+            data = {topic: content}
+            data_web = {topic: content_to_web}
+            return data, data_web
+    except arxiv.HTTPError as e:
+        logging.error(f"HTTP error fetching papers for query '{query}': {e}")
+        # Try with a simpler query format if complex query fails
+        if ' OR ' in query or '"' in query:
+            logging.info(f"Trying simplified query format...")
+            # Extract first keyword as fallback
+            simple_query = query.split(' OR ')[0].strip('"')
+            try:
+                search = arxiv.Search(
+                    query = simple_query,
+                    max_results = max_results,
+                    sort_by = arxiv.SortCriterion.SubmittedDate
+                )
+                results = list(client.results(search))
+            except Exception as e2:
+                logging.error(f"Fallback query also failed: {e2}")
+                data = {topic: content}
+                data_web = {topic: content_to_web}
+                return data, data_web
+        else:
+            data = {topic: content}
+            data_web = {topic: content_to_web}
+            return data, data_web
+    except Exception as e:
+        logging.error(f"Error fetching papers for query '{query}': {e}")
+        # Return empty data if search fails
+        data = {topic: content}
+        data_web = {topic: content_to_web}
+        return data, data_web
+
+    for result in results:
 
         paper_id            = result.get_short_id()
         paper_title         = result.title
