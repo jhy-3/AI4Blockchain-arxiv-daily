@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.01.07
+## Updated on 2026.01.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-06**|**Nonlinear Spectral Modeling and Control of Soft-Robotic Muscles from Data**|Leonardo Bettini et.al.|[2601.03247](http://arxiv.org/abs/2601.03247)|null|
+|**2026-01-06**|**MAGMA: A Multi-Graph based Agentic Memory Architecture for AI Agents**|Dongming Jiang et.al.|[2601.03236](http://arxiv.org/abs/2601.03236)|null|
+|**2026-01-06**|**Multi-RADS Synthetic Radiology Report Dataset and Head-to-Head Benchmarking of 41 Open-Weight and Proprietary Language Models**|Kartik Bose et.al.|[2601.03232](http://arxiv.org/abs/2601.03232)|null|
+|**2026-01-06**|**The Sonar Moment: Benchmarking Audio-Language Models in Audio Geo-Localization**|Ruixing Zhang et.al.|[2601.03227](http://arxiv.org/abs/2601.03227)|null|
+|**2026-01-06**|**Wait or cross? Understanding the influence of behavioral tendency, trust, and risk perception on pedestrian gap-acceptance of automated truck platoons**|Yun Ye et.al.|[2601.03225](http://arxiv.org/abs/2601.03225)|null|
+|**2026-01-06**|**The Fake Friend Dilemma: Trust and the Political Economy of Conversational AI**|Jacob Erickson et.al.|[2601.03222](http://arxiv.org/abs/2601.03222)|null|
+|**2026-01-06**|**From Entropy to Epiplexity: Rethinking Information for Computationally Bounded Intelligence**|Marc Finzi et.al.|[2601.03220](http://arxiv.org/abs/2601.03220)|null|
+|**2026-01-06**|**Fine-tuning Small Language Models as Efficient Enterprise Search Relevance Labelers**|Yue Kang et.al.|[2601.03211](http://arxiv.org/abs/2601.03211)|null|
+|**2026-01-06**|**UltraLogic: Enhancing LLM Reasoning through Large-Scale Data Synthesis and Bipolar Float Reward**|Yile Liu et.al.|[2601.03205](http://arxiv.org/abs/2601.03205)|null|
+|**2026-01-06**|**InfiAgent: An Infinite-Horizon Framework for General-Purpose Autonomous Agents**|Chenglin Yu et.al.|[2601.03204](http://arxiv.org/abs/2601.03204)|null|
 |**2025-12-11**|**Inference Time Feature Injection: A Lightweight Approach for Real-Time Recommendation Freshness**|Qiang Chen et.al.|[2512.14734](http://arxiv.org/abs/2512.14734)|null|
 |**2025-12-09**|**Decentralized Trust for Space AI: Blockchain-Based Federated Learning Across Multi-Vendor LEO Satellite Networks**|Mohamed Elmahallawy et.al.|[2512.08882](http://arxiv.org/abs/2512.08882)|null|
 |**2025-11-28**|**Responsible LLM Deployment for High-Stake Decisions by Decentralized Technologies and Human-AI Interactions**|Swati Sachan et.al.|[2512.04108](http://arxiv.org/abs/2512.04108)|null|
@@ -43,6 +53,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-06**|**A Versatile Multimodal Agent for Multimedia Content Generation**|Daoan Zhang et.al.|[2601.03250](http://arxiv.org/abs/2601.03250)|null|
+|**2026-01-06**|**MAGMA: A Multi-Graph based Agentic Memory Architecture for AI Agents**|Dongming Jiang et.al.|[2601.03236](http://arxiv.org/abs/2601.03236)|null|
+|**2026-01-06**|**The Fake Friend Dilemma: Trust and the Political Economy of Conversational AI**|Jacob Erickson et.al.|[2601.03222](http://arxiv.org/abs/2601.03222)|null|
+|**2026-01-06**|**inRAN: Interpretable Online Bayesian Learning for Network Automation in Open Radio Access Networks**|Ming Zhao et.al.|[2601.03219](http://arxiv.org/abs/2601.03219)|null|
+|**2026-01-06**|**MalruleLib: Large-Scale Executable Misconception Reasoning with Step Traces for Modeling Student Thinking in Mathematics**|Xinghe Chen et.al.|[2601.03217](http://arxiv.org/abs/2601.03217)|null|
+|**2026-01-06**|**Multi-Modal Data-Enhanced Foundation Models for Prediction and Control in Wireless Networks: A Survey**|Han Zhang et.al.|[2601.03181](http://arxiv.org/abs/2601.03181)|null|
+|**2026-01-06**|**Prompt-Counterfactual Explanations for Generative AI System Behavior**|Sofie Goethals et.al.|[2601.03156](http://arxiv.org/abs/2601.03156)|null|
+|**2026-01-06**|**PersonaLedger: Generating Realistic Financial Transactions with Persona Conditioned LLMs and Rule Grounded Feedback**|Dehao Yuan et.al.|[2601.03149](http://arxiv.org/abs/2601.03149)|null|
+|**2026-01-06**|**Limited Linguistic Diversity in Embodied AI Datasets**|Selma Wanna et.al.|[2601.03136](http://arxiv.org/abs/2601.03136)|null|
+|**2026-01-06**|**A framework for assuring the accuracy and fidelity of an AI-enabled Digital Twin of en route UK airspace**|Adam Keane et.al.|[2601.03120](http://arxiv.org/abs/2601.03120)|null|
 |**2025-11-19**|**Know Your Intent: An Autonomous Multi-Perspective LLM Agent Framework for DeFi User Transaction Intent Mining**|Qian'ang Mao et.al.|[2511.15456](http://arxiv.org/abs/2511.15456)|null|
 |**2025-11-24**|**SmartPoC: Generating Executable and Validated PoCs for Smart Contract Bug Reports**|Longfei Chen et.al.|[2511.12993](http://arxiv.org/abs/2511.12993)|null|
 |**2025-11-11**|**SRE-Llama -- Fine-Tuned Meta's Llama LLM, Federated Learning, Blockchain and NFT Enabled Site Reliability Engineering(SRE) Platform for Communication and Networking Software Services**|Eranga Bandara et.al.|[2511.08282](http://arxiv.org/abs/2511.08282)|null|
