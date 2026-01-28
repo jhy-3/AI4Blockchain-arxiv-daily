@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.27
+## Updated on 2026.01.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -42,7 +42,7 @@ layout: default
 |**2025-11-11**|**SRE-Llama -- Fine-Tuned Meta's Llama LLM, Federated Learning, Blockchain and NFT Enabled Site Reliability Engineering(SRE) Platform for Communication and Networking Software Services**|Eranga Bandara et.al.|[2511.08282](http://arxiv.org/abs/2511.08282)|null|
 |**2025-11-07**|**SmartSecChain-SDN: A Blockchain-Integrated Intelligent Framework for Secure and Efficient Software-Defined Networks**|Azhar Hussain Mozumder et.al.|[2511.05156](http://arxiv.org/abs/2511.05156)|null|
 |**2025-09-18**|**A Systematic Literature Review on Fundamental Technologies and Security Challenges in the Metaverse Platforms**|Krishno Dey et.al.|[2510.09621](http://arxiv.org/abs/2510.09621)|null|
-|**2025-08-22**|**zkPHIRE: A Programmable Accelerator for ZKPs over HIgh-degRee, Expressive Gates**|Alhad Daftardar et.al.|[2508.16738](http://arxiv.org/abs/2508.16738)|null|
+|**2026-01-23**|**zkPHIRE: A Programmable Accelerator for ZKPs over HIgh-degRee, Expressive Gates**|Alhad Daftardar et.al.|[2508.16738](http://arxiv.org/abs/2508.16738)|null|
 |**2025-08-12**|**NetMoniAI: An Agentic AI Framework for Network Security & Monitoring**|Pallavi Zambare et.al.|[2508.10052](http://arxiv.org/abs/2508.10052)|null|
 |**2025-07-25**|**Seeing Beyond Frames: Zero-Shot Pedestrian Intention Prediction with Raw Temporal Video and Multimodal Cues**|Pallavi Zambare et.al.|[2507.21161](http://arxiv.org/abs/2507.21161)|null|
 |**2025-05-07**|**Guardians of the Web: The Evolution and Future of Website Information Security**|Md Saiful Islam et.al.|[2505.04308](http://arxiv.org/abs/2505.04308)|null|
