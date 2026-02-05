@@ -49,17 +49,14 @@ def load_config(config_file:str) -> dict:
     # make filters pretty
     def pretty_filters(**config) -> dict:
         keywords = dict()
-        EXCAPE = '\"'
-        QUOTA = '' # NO-USE
-        OR = ' OR ' # TODO
+        OR = ' OR '
         def parse_filters(filters:list):
             ret = ''
             for idx in range(0,len(filters)):
-                filter = filters[idx]
-                if len(filter.split()) > 1:
-                    ret += (EXCAPE + filter + EXCAPE)
-                else:
-                    ret += (QUOTA + filter + QUOTA)
+                filter_item = filters[idx]
+                # Keep AND logic as-is without quotes to ensure strict matching
+                # arXiv API will interpret AND as requiring both terms
+                ret += f'({filter_item})'
                 if idx != len(filters) - 1:
                     ret += OR
             return ret

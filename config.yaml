@@ -20,13 +20,17 @@ md_readme_path: 'README.md'
 md_gitpage_path: './docs/index.md'
 md_wechat_path: './docs/wechat.md'
 
-# keywords to search for AI and Blockchain related papers
+# keywords to search for Blockchain, DeFi, Cryptography and AI Finance papers
 keywords:
-    "AI+Blockchain":
-        filters: ["artificial intelligence blockchain", "machine learning blockchain", "deep learning blockchain", "AI blockchain", "blockchain AI", "neural network blockchain"]
-    "Smart Contracts & AI":
-        filters: ["smart contract AI", "smart contract machine learning", "AI smart contract", "intelligent smart contract", "smart contract detection AI"]
-    "Blockchain Consensus & AI":
-        filters: ["blockchain consensus AI", "consensus algorithm machine learning", "AI consensus", "federated learning blockchain"]
-    "DeFi & AI":
-        filters: ["DeFi AI", "decentralized finance AI", "DeFi machine learning", "AI DeFi", "automated market maker AI"]  
+    "Blockchain":
+        filters: ["blockchain", "ethereum", "solana", "polygon", "BNB chain", "avalanche", "cardano", "distributed ledger", "Web3", "layer 2", "rollup", "cross-chain"]
+    "Smart Contract":
+        filters: ["smart contract", "solidity", "smart contract vulnerability", "contract security", "EVM", "contract audit", "reentrancy attack", "gas optimization", "upgradeable contract", "proxy pattern"]
+    "Consensus":
+        filters: ["consensus mechanism", "proof of stake", "proof of work", "Byzantine fault tolerance", "practical Byzantine", "consensus algorithm", "validator", "finality", "fork choice", "block production"]
+    "DeFi":
+        filters: ["DeFi", "decentralized finance", "automated market maker", "AMM", "liquidity pool", "stablecoin", "yield farming", "DEX", "lending protocol", "flash loan", "meme coin", "uniswap", "aave", "compound"]
+    "Cryptography":
+        filters: ["zero knowledge proof", "zk-SNARK", "zk-STARK", "homomorphic encryption", "multi-party computation", "MPC", "threshold signature", "elliptic curve", "hash function", "merkle tree", "commitment scheme"]
+    "AI in Finance":
+        filters: ["machine learning finance", "deep learning trading", "algorithmic trading", "financial prediction", "stock prediction", "cryptocurrency prediction", "portfolio optimization", "risk management AI", "fraud detection finance", "sentiment analysis trading"]  
