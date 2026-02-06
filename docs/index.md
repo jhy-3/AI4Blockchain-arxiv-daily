@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.05
+## Updated on 2026.02.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -124,6 +124,96 @@ layout: default
 |**2025-09-01**|**Detecting Rug Pulls in Decentralized Exchanges: Machine Learning Evidence from the TON Blockchain**|Dmitry Yaremus et.al.|[2509.01168](http://arxiv.org/abs/2509.01168)|null|
 |**2025-10-24**|**Machine Learning Prediction of Magnetic Proximity Effect in van der Waals Heterostructures: From Atoms to Moiré**|Lukas Cvitkovich et.al.|[2508.12406](http://arxiv.org/abs/2508.12406)|null|
 |**2025-09-12**|**Web3 x AI Agents: Landscape, Integrations, and Foundational Challenges**|Yiming Shen et.al.|[2508.02773](http://arxiv.org/abs/2508.02773)|null|
+
+## Blockchain
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-04**|**Reinforced Attention Learning**|Bangzheng Li et.al.|[2602.04884](http://arxiv.org/abs/2602.04884)|null|
+|**2026-02-04**|**Protein Autoregressive Modeling via Multiscale Structure Generation**|Yanru Qu et.al.|[2602.04883](http://arxiv.org/abs/2602.04883)|null|
+|**2026-02-04**|**Pairs of differential forms: a framework for precontact geometry**|Xavier Gràcia et.al.|[2602.04882](http://arxiv.org/abs/2602.04882)|null|
+|**2026-02-04**|**Multivariate and quantitative Erdős-Kac laws for Beatty sequences**|Fredy Yip et.al.|[2602.04875](http://arxiv.org/abs/2602.04875)|null|
+|**2026-02-04**|**Multi-layer Cross-Attention is Provably Optimal for Multi-modal In-context Learning**|Nicholas Barnfield et.al.|[2602.04872](http://arxiv.org/abs/2602.04872)|null|
+|**2026-02-04**|**Multi-Head LatentMoE and Head Parallel: Communication-Efficient and Deterministic MoE Parallelism**|Chenwei Cui et.al.|[2602.04870](http://arxiv.org/abs/2602.04870)|null|
+|**2026-02-04**|**Requirements for Teleportation in an Intercity Quantum Network**|Soubhadra Maiti et.al.|[2602.04869](http://arxiv.org/abs/2602.04869)|null|
+|**2026-02-04**|**Homological Mirror Symmetry for orbifold log Calabi-Yau surfaces**|Bogdan Simeonov et.al.|[2602.04866](http://arxiv.org/abs/2602.04866)|null|
+|**2026-02-04**|**Capacity Bounds on Doppler OFDM Channels**|Pablo Orellana et.al.|[2602.04862](http://arxiv.org/abs/2602.04862)|null|
+|**2026-02-04**|**CoT is Not the Chain of Truth: An Empirical Internal Analysis of Reasoning LLMs for Fake News Generation**|Zhao Tong et.al.|[2602.04856](http://arxiv.org/abs/2602.04856)|null|
+
+## Smart Contract
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-04**|**Reinforced Attention Learning**|Bangzheng Li et.al.|[2602.04884](http://arxiv.org/abs/2602.04884)|null|
+|**2026-02-04**|**Capturing Visual Environment Structure Correlates with Control Performance**|Jiahua Dong et.al.|[2602.04880](http://arxiv.org/abs/2602.04880)|null|
+|**2026-02-04**|**Rethinking the Trust Region in LLM Reinforcement Learning**|Penghui Qi et.al.|[2602.04879](http://arxiv.org/abs/2602.04879)|null|
+|**2026-02-04**|**CoWTracker: Tracking by Warping instead of Correlation**|Zihang Lai et.al.|[2602.04877](http://arxiv.org/abs/2602.04877)|null|
+|**2026-02-04**|**PerpetualWonder: Long-Horizon Action-Conditioned 4D Scene Generation**|Jiahao Zhan et.al.|[2602.04876](http://arxiv.org/abs/2602.04876)|null|
+|**2026-02-04**|**Epitaxial growth optimization, measurement and theoretical analysis of strain-compensated QCL grown on (511)A InP**|Alessio Cargioli et.al.|[2602.04874](http://arxiv.org/abs/2602.04874)|null|
+|**2026-02-04**|**Laminating Representation Autoencoders for Efficient Diffusion**|Ramón Calvo-González et.al.|[2602.04873](http://arxiv.org/abs/2602.04873)|null|
+|**2026-02-04**|**Multi-layer Cross-Attention is Provably Optimal for Multi-modal In-context Learning**|Nicholas Barnfield et.al.|[2602.04872](http://arxiv.org/abs/2602.04872)|null|
+|**2026-02-04**|**Homological Mirror Symmetry for orbifold log Calabi-Yau surfaces**|Bogdan Simeonov et.al.|[2602.04866](http://arxiv.org/abs/2602.04866)|null|
+|**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
+
+## Consensus
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-04**|**Contrastive Continual Learning for Model Adaptability in Internet of Things**|Ajesh Koyatan Chathoth et.al.|[2602.04881](http://arxiv.org/abs/2602.04881)|null|
+|**2026-02-04**|**Capturing Visual Environment Structure Correlates with Control Performance**|Jiahua Dong et.al.|[2602.04880](http://arxiv.org/abs/2602.04880)|null|
+|**2026-02-04**|**Rethinking the Trust Region in LLM Reinforcement Learning**|Penghui Qi et.al.|[2602.04879](http://arxiv.org/abs/2602.04879)|null|
+|**2026-02-04**|**Thermal State Simulation with Pauli and Majorana Propagation**|Manuel S. Rudolph et.al.|[2602.04878](http://arxiv.org/abs/2602.04878)|null|
+|**2026-02-04**|**PerpetualWonder: Long-Horizon Action-Conditioned 4D Scene Generation**|Jiahao Zhan et.al.|[2602.04876](http://arxiv.org/abs/2602.04876)|null|
+|**2026-02-04**|**Epitaxial growth optimization, measurement and theoretical analysis of strain-compensated QCL grown on (511)A InP**|Alessio Cargioli et.al.|[2602.04874](http://arxiv.org/abs/2602.04874)|null|
+|**2026-02-04**|**Laminating Representation Autoencoders for Efficient Diffusion**|Ramón Calvo-González et.al.|[2602.04873](http://arxiv.org/abs/2602.04873)|null|
+|**2026-02-04**|**Multi-layer Cross-Attention is Provably Optimal for Multi-modal In-context Learning**|Nicholas Barnfield et.al.|[2602.04872](http://arxiv.org/abs/2602.04872)|null|
+|**2026-02-04**|**Requirements for Teleportation in an Intercity Quantum Network**|Soubhadra Maiti et.al.|[2602.04869](http://arxiv.org/abs/2602.04869)|null|
+|**2026-02-04**|**CRoSS: A Continual Robotic Simulation Suite for Scalable Reinforcement Learning with High Task Diversity and Realistic Physics Simulation**|Yannick Denker et.al.|[2602.04868](http://arxiv.org/abs/2602.04868)|null|
+
+## DeFi
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-04**|**Reinforced Attention Learning**|Bangzheng Li et.al.|[2602.04884](http://arxiv.org/abs/2602.04884)|null|
+|**2026-02-04**|**Contrastive Continual Learning for Model Adaptability in Internet of Things**|Ajesh Koyatan Chathoth et.al.|[2602.04881](http://arxiv.org/abs/2602.04881)|null|
+|**2026-02-04**|**CRoSS: A Continual Robotic Simulation Suite for Scalable Reinforcement Learning with High Task Diversity and Realistic Physics Simulation**|Yannick Denker et.al.|[2602.04868](http://arxiv.org/abs/2602.04868)|null|
+|**2026-02-04**|**The Key to State Reduction in Linear Attention: A Rank-based Perspective**|Philipp Nazari et.al.|[2602.04852](http://arxiv.org/abs/2602.04852)|null|
+|**2026-02-04**|**PDF-HR: Pose Distance Fields for Humanoid Robots**|Yi Gu et.al.|[2602.04851](http://arxiv.org/abs/2602.04851)|null|
+|**2026-02-04**|**El Agente Quntur: A research collaborator agent for quantum chemistry**|Juan B. Pérez-Sánchez et.al.|[2602.04850](http://arxiv.org/abs/2602.04850)|null|
+|**2026-02-04**|**Are AI Capabilities Increasing Exponentially? A Competing Hypothesis**|Haosen Ge et.al.|[2602.04836](http://arxiv.org/abs/2602.04836)|null|
+|**2026-02-04**|**Review of Superconducting Qubit Devices and Their Large-Scale Integration**|Hiu Yung Wong et.al.|[2602.04831](http://arxiv.org/abs/2602.04831)|null|
+|**2026-02-04**|**When Code Becomes Abundant: Redefining Software Engineering Around Orchestration and Verification**|Karina Kohl et.al.|[2602.04830](http://arxiv.org/abs/2602.04830)|null|
+|**2026-02-04**|**Atomistic and data-driven insights into the local slip resistances in random refractory multi-principal element alloys**|Wu-Rong Jian et.al.|[2602.04827](http://arxiv.org/abs/2602.04827)|null|
+
+## Cryptography
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-04**|**Reinforced Attention Learning**|Bangzheng Li et.al.|[2602.04884](http://arxiv.org/abs/2602.04884)|null|
+|**2026-02-04**|**Protein Autoregressive Modeling via Multiscale Structure Generation**|Yanru Qu et.al.|[2602.04883](http://arxiv.org/abs/2602.04883)|null|
+|**2026-02-04**|**Rethinking the Trust Region in LLM Reinforcement Learning**|Penghui Qi et.al.|[2602.04879](http://arxiv.org/abs/2602.04879)|null|
+|**2026-02-04**|**CoWTracker: Tracking by Warping instead of Correlation**|Zihang Lai et.al.|[2602.04877](http://arxiv.org/abs/2602.04877)|null|
+|**2026-02-04**|**Epitaxial growth optimization, measurement and theoretical analysis of strain-compensated QCL grown on (511)A InP**|Alessio Cargioli et.al.|[2602.04874](http://arxiv.org/abs/2602.04874)|null|
+|**2026-02-04**|**Multi-Head LatentMoE and Head Parallel: Communication-Efficient and Deterministic MoE Parallelism**|Chenwei Cui et.al.|[2602.04870](http://arxiv.org/abs/2602.04870)|null|
+|**2026-02-04**|**Requirements for Teleportation in an Intercity Quantum Network**|Soubhadra Maiti et.al.|[2602.04869](http://arxiv.org/abs/2602.04869)|null|
+|**2026-02-04**|**Homological Mirror Symmetry for orbifold log Calabi-Yau surfaces**|Bogdan Simeonov et.al.|[2602.04866](http://arxiv.org/abs/2602.04866)|null|
+|**2026-02-04**|**Characterizing $(d,h)$ -elliptic stable irreducible curves**|Juliana Coelho et.al.|[2602.04865](http://arxiv.org/abs/2602.04865)|null|
+|**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
+
+## AI in Finance
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-04**|**Reinforced Attention Learning**|Bangzheng Li et.al.|[2602.04884](http://arxiv.org/abs/2602.04884)|null|
+|**2026-02-04**|**Protein Autoregressive Modeling via Multiscale Structure Generation**|Yanru Qu et.al.|[2602.04883](http://arxiv.org/abs/2602.04883)|null|
+|**2026-02-04**|**Contrastive Continual Learning for Model Adaptability in Internet of Things**|Ajesh Koyatan Chathoth et.al.|[2602.04881](http://arxiv.org/abs/2602.04881)|null|
+|**2026-02-04**|**Capturing Visual Environment Structure Correlates with Control Performance**|Jiahua Dong et.al.|[2602.04880](http://arxiv.org/abs/2602.04880)|null|
+|**2026-02-04**|**Rethinking the Trust Region in LLM Reinforcement Learning**|Penghui Qi et.al.|[2602.04879](http://arxiv.org/abs/2602.04879)|null|
+|**2026-02-04**|**CoWTracker: Tracking by Warping instead of Correlation**|Zihang Lai et.al.|[2602.04877](http://arxiv.org/abs/2602.04877)|null|
+|**2026-02-04**|**PerpetualWonder: Long-Horizon Action-Conditioned 4D Scene Generation**|Jiahao Zhan et.al.|[2602.04876](http://arxiv.org/abs/2602.04876)|null|
+|**2026-02-04**|**Epitaxial growth optimization, measurement and theoretical analysis of strain-compensated QCL grown on (511)A InP**|Alessio Cargioli et.al.|[2602.04874](http://arxiv.org/abs/2602.04874)|null|
+|**2026-02-04**|**Multi-layer Cross-Attention is Provably Optimal for Multi-modal In-context Learning**|Nicholas Barnfield et.al.|[2602.04872](http://arxiv.org/abs/2602.04872)|null|
+|**2026-02-04**|**Multi-Head LatentMoE and Head Parallel: Communication-Efficient and Deterministic MoE Parallelism**|Chenwei Cui et.al.|[2602.04870](http://arxiv.org/abs/2602.04870)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/jhy-3/AI4Blockchain-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/jhy-3/AI4Blockchain-arxiv-daily/graphs/contributors
