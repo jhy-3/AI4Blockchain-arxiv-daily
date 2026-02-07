@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.06
+## Updated on 2026.02.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -174,6 +174,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-05**|**PACE: Defying the Scaling Hypothesis of Exploration in Iterative Alignment for Mathematical Reasoning**|Jun Rao et.al.|[2602.05370](http://arxiv.org/abs/2602.05370)|null|
+|**2026-02-04**|**Artificial Intelligence as Strange Intelligence: Against Linear Models of Intelligence**|Kendra Chilson et.al.|[2602.04986](http://arxiv.org/abs/2602.04986)|null|
+|**2026-02-04**|**Topological frustration and quantum resources**|Alberto Giuseppe Catalano et.al.|[2602.04960](http://arxiv.org/abs/2602.04960)|null|
 |**2026-02-04**|**Reinforced Attention Learning**|Bangzheng Li et.al.|[2602.04884](http://arxiv.org/abs/2602.04884)|null|
 |**2026-02-04**|**Contrastive Continual Learning for Model Adaptability in Internet of Things**|Ajesh Koyatan Chathoth et.al.|[2602.04881](http://arxiv.org/abs/2602.04881)|null|
 |**2026-02-04**|**CRoSS: A Continual Robotic Simulation Suite for Scalable Reinforcement Learning with High Task Diversity and Realistic Physics Simulation**|Yannick Denker et.al.|[2602.04868](http://arxiv.org/abs/2602.04868)|null|
@@ -184,6 +187,13 @@ layout: default
 |**2026-02-04**|**Review of Superconducting Qubit Devices and Their Large-Scale Integration**|Hiu Yung Wong et.al.|[2602.04831](http://arxiv.org/abs/2602.04831)|null|
 |**2026-02-04**|**When Code Becomes Abundant: Redefining Software Engineering Around Orchestration and Verification**|Karina Kohl et.al.|[2602.04830](http://arxiv.org/abs/2602.04830)|null|
 |**2026-02-04**|**Atomistic and data-driven insights into the local slip resistances in random refractory multi-principal element alloys**|Wu-Rong Jian et.al.|[2602.04827](http://arxiv.org/abs/2602.04827)|null|
+|**2026-02-03**|**DeXposure-FM: A Time-series, Graph Foundation Model for Credit Exposures and Stability on Decentralized Financial Networks**|Aijie Shu et.al.|[2602.03981](http://arxiv.org/abs/2602.03981)|null|
+|**2026-02-01**|**ASRI: An Aggregated Systemic Risk Index for Cryptocurrency Markets**|Murad Farzulla et.al.|[2602.03874](http://arxiv.org/abs/2602.03874)|null|
+|**2026-02-03**|**Deterministic Control of Extreme Events in a semiconductor VCSEL via Polarization-Engineered Optical Feedback**|T. Wang et.al.|[2602.02968](http://arxiv.org/abs/2602.02968)|null|
+|**2026-02-02**|**Prefix Consensus For Censorship Resistant BFT**|Zhuolun Xiang et.al.|[2602.02892](http://arxiv.org/abs/2602.02892)|null|
+|**2026-02-02**|**Seeing Is Believing? A Benchmark for Multimodal Large Language Models on Visual Illusions and Anomalies**|Wenjin Hou et.al.|[2602.01816](http://arxiv.org/abs/2602.01816)|null|
+|**2026-02-05**|**TxRay: Agentic Postmortem of Live Blockchain Attacks**|Ziyue Wang et.al.|[2602.01317](http://arxiv.org/abs/2602.01317)|null|
+|**2026-01-30**|**Quasiperiodic Skin Criticality in an Exactly Solvable Non-Hermitian Quasicrystal**|Zhangyuan Chen et.al.|[2601.23015](http://arxiv.org/abs/2601.23015)|null|
 
 ## Cryptography
 
