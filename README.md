@@ -1,4 +1,4 @@
-## Updated on 2026.02.07
+## Updated on 2026.02.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -61,7 +61,7 @@
 |**2025-04-22**|**Trustworthy Decentralized Autonomous Machines: A New Paradigm in Automation Economy**|Fernando Castillo et.al.|[2504.15676](http://arxiv.org/abs/2504.15676)|null|
 |**2025-03-20**|**Financial Twin Chain, a Platform to Support Financial Sustainability in Supply Chains**|Giuseppe Galante et.al.|[2503.15980](http://arxiv.org/abs/2503.15980)|null|
 
-<p align=right>(<a href=#updated-on-20260207>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260208>back to top</a>)</p>
 
 ## Smart Contracts & AI
 
@@ -88,7 +88,7 @@
 |**2025-10-07**|**Smart Contract Adoption under Discrete Overdispersed Demand: A Negative Binomial Optimization Perspective**|Jinho Cha et.al.|[2510.05487](http://arxiv.org/abs/2510.05487)|null|
 |**2025-10-06**|**LMM-Incentive: Large Multimodal Model-based Incentive Design for User-Generated Content in Web 3.0**|Jinbo Wen et.al.|[2510.04765](http://arxiv.org/abs/2510.04765)|null|
 
-<p align=right>(<a href=#updated-on-20260207>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260208>back to top</a>)</p>
 
 ## Blockchain Consensus & AI
 
@@ -124,7 +124,7 @@
 |**2022-09-30**|**Blockchain-based Monitoring for Poison Attack Detection in Decentralized Federated Learning**|Ranwa Al Mallah et.al.|[2210.02873](http://arxiv.org/abs/2210.02873)|null|
 |**2021-11-12**|**Device-Independent-Quantum-Randomness-Enhanced Zero-Knowledge Proof**|Cheng-Long Li et.al.|[2111.06717](http://arxiv.org/abs/2111.06717)|null|
 
-<p align=right>(<a href=#updated-on-20260207>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260208>back to top</a>)</p>
 
 ## DeFi & AI
 
@@ -143,12 +143,22 @@
 |**2025-10-24**|**Machine Learning Prediction of Magnetic Proximity Effect in van der Waals Heterostructures: From Atoms to Moiré**|Lukas Cvitkovich et.al.|[2508.12406](http://arxiv.org/abs/2508.12406)|null|
 |**2025-09-12**|**Web3 x AI Agents: Landscape, Integrations, and Foundational Challenges**|Yiming Shen et.al.|[2508.02773](http://arxiv.org/abs/2508.02773)|null|
 
-<p align=right>(<a href=#updated-on-20260207>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260208>back to top</a>)</p>
 
 ## Blockchain
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-05**|**SwimBird: Eliciting Switchable Reasoning Mode in Hybrid Autoregressive MLLMs**|Jintao Tong et.al.|[2602.06040](http://arxiv.org/abs/2602.06040)|null|
+|**2026-02-05**|**Thinking with Geometry: Active Geometry Integration for Spatial Reasoning**|Haoyuan Li et.al.|[2602.06037](http://arxiv.org/abs/2602.06037)|null|
+|**2026-02-05**|**V-Retrver: Evidence-Driven Agentic Reasoning for Universal Multimodal Retrieval**|Dongyang Chen et.al.|[2602.06034](http://arxiv.org/abs/2602.06034)|null|
+|**2026-02-05**|**AP-OOD: Attention Pooling for Out-of-Distribution Detection**|Claus Hofmann et.al.|[2602.06031](http://arxiv.org/abs/2602.06031)|null|
+|**2026-02-05**|**PhysicsAgentABM: Physics-Guided Generative Agent-Based Modeling**|Kavana Venkatesh et.al.|[2602.06030](http://arxiv.org/abs/2602.06030)|null|
+|**2026-02-05**|**Context Forcing: Consistent Autoregressive Video Generation with Long Context**|Shuo Chen et.al.|[2602.06028](http://arxiv.org/abs/2602.06028)|null|
+|**2026-02-05**|**ACT DR6+Planck impact on inflation with non-zero vacuum expectation value and the post-inflationary behavior**|F. B. M. dos Santos et.al.|[2602.06027](http://arxiv.org/abs/2602.06027)|null|
+|**2026-02-05**|**Water absorption confirms cool atmospheres in two little red dots**|Bingjie Wang et.al.|[2602.06024](http://arxiv.org/abs/2602.06024)|null|
+|**2026-02-05**|**Correctness-Optimized Residual Activation Lens (CORAL): Transferrable and Calibration-Aware Inference-Time Steering**|Miranda Muqing Miao et.al.|[2602.06022](http://arxiv.org/abs/2602.06022)|null|
+|**2026-02-05**|**Diffusion Model's Generalization Can Be Characterized by Inductive Biases toward a Data-Dependent Ridge Manifold**|Ye He et.al.|[2602.06021](http://arxiv.org/abs/2602.06021)|null|
 |**2026-02-04**|**Reinforced Attention Learning**|Bangzheng Li et.al.|[2602.04884](http://arxiv.org/abs/2602.04884)|null|
 |**2026-02-04**|**Protein Autoregressive Modeling via Multiscale Structure Generation**|Yanru Qu et.al.|[2602.04883](http://arxiv.org/abs/2602.04883)|null|
 |**2026-02-04**|**Pairs of differential forms: a framework for precontact geometry**|Xavier Gràcia et.al.|[2602.04882](http://arxiv.org/abs/2602.04882)|null|
@@ -160,12 +170,22 @@
 |**2026-02-04**|**Capacity Bounds on Doppler OFDM Channels**|Pablo Orellana et.al.|[2602.04862](http://arxiv.org/abs/2602.04862)|null|
 |**2026-02-04**|**CoT is Not the Chain of Truth: An Empirical Internal Analysis of Reasoning LLMs for Fake News Generation**|Zhao Tong et.al.|[2602.04856](http://arxiv.org/abs/2602.04856)|null|
 
-<p align=right>(<a href=#updated-on-20260207>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260208>back to top</a>)</p>
 
 ## Smart Contract
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-05**|**Shared LoRA Subspaces for almost Strict Continual Learning**|Prakhar Kaushik et.al.|[2602.06043](http://arxiv.org/abs/2602.06043)|null|
+|**2026-02-05**|**Pseudo-Invertible Neural Networks**|Yamit Ehrlich et.al.|[2602.06042](http://arxiv.org/abs/2602.06042)|null|
+|**2026-02-05**|**Predicting Camera Pose from Perspective Descriptions for Spatial Reasoning**|Xuejun Zhang et.al.|[2602.06041](http://arxiv.org/abs/2602.06041)|null|
+|**2026-02-05**|**SwimBird: Eliciting Switchable Reasoning Mode in Hybrid Autoregressive MLLMs**|Jintao Tong et.al.|[2602.06040](http://arxiv.org/abs/2602.06040)|null|
+|**2026-02-05**|**DyTopo: Dynamic Topology Routing for Multi-Agent Reasoning via Semantic Matching**|Yuxing Lu et.al.|[2602.06039](http://arxiv.org/abs/2602.06039)|null|
+|**2026-02-05**|**CommCP: Efficient Multi-Agent Coordination via LLM-Based Communication with Conformal Prediction**|Xiaopan Zhang et.al.|[2602.06038](http://arxiv.org/abs/2602.06038)|null|
+|**2026-02-05**|**Thinking with Geometry: Active Geometry Integration for Spatial Reasoning**|Haoyuan Li et.al.|[2602.06037](http://arxiv.org/abs/2602.06037)|null|
+|**2026-02-05**|**InterPrior: Scaling Generative Control for Physics-Based Human-Object Interactions**|Sirui Xu et.al.|[2602.06035](http://arxiv.org/abs/2602.06035)|null|
+|**2026-02-05**|**V-Retrver: Evidence-Driven Agentic Reasoning for Universal Multimodal Retrieval**|Dongyang Chen et.al.|[2602.06034](http://arxiv.org/abs/2602.06034)|null|
+|**2026-02-05**|**Splat and Distill: Augmenting Teachers with Feed-Forward 3D Reconstruction For 3D-Aware Distillation**|David Shavin et.al.|[2602.06032](http://arxiv.org/abs/2602.06032)|null|
 |**2026-02-04**|**Reinforced Attention Learning**|Bangzheng Li et.al.|[2602.04884](http://arxiv.org/abs/2602.04884)|null|
 |**2026-02-04**|**Capturing Visual Environment Structure Correlates with Control Performance**|Jiahua Dong et.al.|[2602.04880](http://arxiv.org/abs/2602.04880)|null|
 |**2026-02-04**|**Rethinking the Trust Region in LLM Reinforcement Learning**|Penghui Qi et.al.|[2602.04879](http://arxiv.org/abs/2602.04879)|null|
@@ -177,12 +197,22 @@
 |**2026-02-04**|**Homological Mirror Symmetry for orbifold log Calabi-Yau surfaces**|Bogdan Simeonov et.al.|[2602.04866](http://arxiv.org/abs/2602.04866)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260207>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260208>back to top</a>)</p>
 
 ## Consensus
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-05**|**Shared LoRA Subspaces for almost Strict Continual Learning**|Prakhar Kaushik et.al.|[2602.06043](http://arxiv.org/abs/2602.06043)|null|
+|**2026-02-05**|**DFlash: Block Diffusion for Flash Speculative Decoding**|Jian Chen et.al.|[2602.06036](http://arxiv.org/abs/2602.06036)|null|
+|**2026-02-05**|**InterPrior: Scaling Generative Control for Physics-Based Human-Object Interactions**|Sirui Xu et.al.|[2602.06035](http://arxiv.org/abs/2602.06035)|null|
+|**2026-02-05**|**Can vision language models learn intuitive physics from interaction?**|Luca M. Schulze Buschoff et.al.|[2602.06033](http://arxiv.org/abs/2602.06033)|null|
+|**2026-02-05**|**Splat and Distill: Augmenting Teachers with Feed-Forward 3D Reconstruction For 3D-Aware Distillation**|David Shavin et.al.|[2602.06032](http://arxiv.org/abs/2602.06032)|null|
+|**2026-02-05**|**AP-OOD: Attention Pooling for Out-of-Distribution Detection**|Claus Hofmann et.al.|[2602.06031](http://arxiv.org/abs/2602.06031)|null|
+|**2026-02-05**|**Curiosity is Knowledge: Self-Consistent Learning and No-Regret Optimization with Active Inference**|Yingke Li et.al.|[2602.06029](http://arxiv.org/abs/2602.06029)|null|
+|**2026-02-05**|**ACT DR6+Planck impact on inflation with non-zero vacuum expectation value and the post-inflationary behavior**|F. B. M. dos Santos et.al.|[2602.06027](http://arxiv.org/abs/2602.06027)|null|
+|**2026-02-05**|**Learning Query-Aware Budget-Tier Routing for Runtime Agent Memory**|Haozhen Zhang et.al.|[2602.06025](http://arxiv.org/abs/2602.06025)|null|
+|**2026-02-05**|**Learning Event-Based Shooter Models from Virtual Reality Experiments**|Christopher A. McClurg et.al.|[2602.06023](http://arxiv.org/abs/2602.06023)|null|
 |**2026-02-04**|**Contrastive Continual Learning for Model Adaptability in Internet of Things**|Ajesh Koyatan Chathoth et.al.|[2602.04881](http://arxiv.org/abs/2602.04881)|null|
 |**2026-02-04**|**Capturing Visual Environment Structure Correlates with Control Performance**|Jiahua Dong et.al.|[2602.04880](http://arxiv.org/abs/2602.04880)|null|
 |**2026-02-04**|**Rethinking the Trust Region in LLM Reinforcement Learning**|Penghui Qi et.al.|[2602.04879](http://arxiv.org/abs/2602.04879)|null|
@@ -194,12 +224,22 @@
 |**2026-02-04**|**Requirements for Teleportation in an Intercity Quantum Network**|Soubhadra Maiti et.al.|[2602.04869](http://arxiv.org/abs/2602.04869)|null|
 |**2026-02-04**|**CRoSS: A Continual Robotic Simulation Suite for Scalable Reinforcement Learning with High Task Diversity and Realistic Physics Simulation**|Yannick Denker et.al.|[2602.04868](http://arxiv.org/abs/2602.04868)|null|
 
-<p align=right>(<a href=#updated-on-20260207>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260208>back to top</a>)</p>
 
 ## DeFi
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-05**|**DyTopo: Dynamic Topology Routing for Multi-Agent Reasoning via Semantic Matching**|Yuxing Lu et.al.|[2602.06039](http://arxiv.org/abs/2602.06039)|null|
+|**2026-02-05**|**CommCP: Efficient Multi-Agent Coordination via LLM-Based Communication with Conformal Prediction**|Xiaopan Zhang et.al.|[2602.06038](http://arxiv.org/abs/2602.06038)|null|
+|**2026-02-05**|**DFlash: Block Diffusion for Flash Speculative Decoding**|Jian Chen et.al.|[2602.06036](http://arxiv.org/abs/2602.06036)|null|
+|**2026-02-05**|**InterPrior: Scaling Generative Control for Physics-Based Human-Object Interactions**|Sirui Xu et.al.|[2602.06035](http://arxiv.org/abs/2602.06035)|null|
+|**2026-02-05**|**AP-OOD: Attention Pooling for Out-of-Distribution Detection**|Claus Hofmann et.al.|[2602.06031](http://arxiv.org/abs/2602.06031)|null|
+|**2026-02-05**|**PhysicsAgentABM: Physics-Guided Generative Agent-Based Modeling**|Kavana Venkatesh et.al.|[2602.06030](http://arxiv.org/abs/2602.06030)|null|
+|**2026-02-05**|**Curiosity is Knowledge: Self-Consistent Learning and No-Regret Optimization with Active Inference**|Yingke Li et.al.|[2602.06029](http://arxiv.org/abs/2602.06029)|null|
+|**2026-02-05**|**Towards uncertainty quantification of a model for cancer-on-chip experiments**|Silvia Bertoluzza et.al.|[2602.06018](http://arxiv.org/abs/2602.06018)|null|
+|**2026-02-05**|**GenArena: How Can We Achieve Human-Aligned Evaluation for Visual Generation Tasks?**|Ruihang Li et.al.|[2602.06013](http://arxiv.org/abs/2602.06013)|null|
+|**2026-02-05**|**AgenticPay: A Multi-Agent LLM Negotiation System for Buyer-Seller Transactions**|Xianyang Liu et.al.|[2602.06008](http://arxiv.org/abs/2602.06008)|null|
 |**2026-02-05**|**PACE: Defying the Scaling Hypothesis of Exploration in Iterative Alignment for Mathematical Reasoning**|Jun Rao et.al.|[2602.05370](http://arxiv.org/abs/2602.05370)|null|
 |**2026-02-04**|**Artificial Intelligence as Strange Intelligence: Against Linear Models of Intelligence**|Kendra Chilson et.al.|[2602.04986](http://arxiv.org/abs/2602.04986)|null|
 |**2026-02-04**|**Topological frustration and quantum resources**|Alberto Giuseppe Catalano et.al.|[2602.04960](http://arxiv.org/abs/2602.04960)|null|
@@ -221,12 +261,22 @@
 |**2026-02-05**|**TxRay: Agentic Postmortem of Live Blockchain Attacks**|Ziyue Wang et.al.|[2602.01317](http://arxiv.org/abs/2602.01317)|null|
 |**2026-01-30**|**Quasiperiodic Skin Criticality in an Exactly Solvable Non-Hermitian Quasicrystal**|Zhangyuan Chen et.al.|[2601.23015](http://arxiv.org/abs/2601.23015)|null|
 
-<p align=right>(<a href=#updated-on-20260207>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260208>back to top</a>)</p>
 
 ## Cryptography
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-05**|**Shared LoRA Subspaces for almost Strict Continual Learning**|Prakhar Kaushik et.al.|[2602.06043](http://arxiv.org/abs/2602.06043)|null|
+|**2026-02-05**|**Pseudo-Invertible Neural Networks**|Yamit Ehrlich et.al.|[2602.06042](http://arxiv.org/abs/2602.06042)|null|
+|**2026-02-05**|**Predicting Camera Pose from Perspective Descriptions for Spatial Reasoning**|Xuejun Zhang et.al.|[2602.06041](http://arxiv.org/abs/2602.06041)|null|
+|**2026-02-05**|**DFlash: Block Diffusion for Flash Speculative Decoding**|Jian Chen et.al.|[2602.06036](http://arxiv.org/abs/2602.06036)|null|
+|**2026-02-05**|**Splat and Distill: Augmenting Teachers with Feed-Forward 3D Reconstruction For 3D-Aware Distillation**|David Shavin et.al.|[2602.06032](http://arxiv.org/abs/2602.06032)|null|
+|**2026-02-05**|**Curiosity is Knowledge: Self-Consistent Learning and No-Regret Optimization with Active Inference**|Yingke Li et.al.|[2602.06029](http://arxiv.org/abs/2602.06029)|null|
+|**2026-02-05**|**ACT DR6+Planck impact on inflation with non-zero vacuum expectation value and the post-inflationary behavior**|F. B. M. dos Santos et.al.|[2602.06027](http://arxiv.org/abs/2602.06027)|null|
+|**2026-02-05**|**Learning Query-Aware Budget-Tier Routing for Runtime Agent Memory**|Haozhen Zhang et.al.|[2602.06025](http://arxiv.org/abs/2602.06025)|null|
+|**2026-02-05**|**Correctness-Optimized Residual Activation Lens (CORAL): Transferrable and Calibration-Aware Inference-Time Steering**|Miranda Muqing Miao et.al.|[2602.06022](http://arxiv.org/abs/2602.06022)|null|
+|**2026-02-05**|**Mechanisms of AI Protein Folding in ESMFold**|Kevin Lu et.al.|[2602.06020](http://arxiv.org/abs/2602.06020)|null|
 |**2026-02-04**|**Reinforced Attention Learning**|Bangzheng Li et.al.|[2602.04884](http://arxiv.org/abs/2602.04884)|null|
 |**2026-02-04**|**Protein Autoregressive Modeling via Multiscale Structure Generation**|Yanru Qu et.al.|[2602.04883](http://arxiv.org/abs/2602.04883)|null|
 |**2026-02-04**|**Rethinking the Trust Region in LLM Reinforcement Learning**|Penghui Qi et.al.|[2602.04879](http://arxiv.org/abs/2602.04879)|null|
@@ -238,12 +288,22 @@
 |**2026-02-04**|**Characterizing $(d,h)$ -elliptic stable irreducible curves**|Juliana Coelho et.al.|[2602.04865](http://arxiv.org/abs/2602.04865)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260207>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260208>back to top</a>)</p>
 
 ## AI in Finance
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-05**|**Shared LoRA Subspaces for almost Strict Continual Learning**|Prakhar Kaushik et.al.|[2602.06043](http://arxiv.org/abs/2602.06043)|null|
+|**2026-02-05**|**Pseudo-Invertible Neural Networks**|Yamit Ehrlich et.al.|[2602.06042](http://arxiv.org/abs/2602.06042)|null|
+|**2026-02-05**|**Predicting Camera Pose from Perspective Descriptions for Spatial Reasoning**|Xuejun Zhang et.al.|[2602.06041](http://arxiv.org/abs/2602.06041)|null|
+|**2026-02-05**|**SwimBird: Eliciting Switchable Reasoning Mode in Hybrid Autoregressive MLLMs**|Jintao Tong et.al.|[2602.06040](http://arxiv.org/abs/2602.06040)|null|
+|**2026-02-05**|**DyTopo: Dynamic Topology Routing for Multi-Agent Reasoning via Semantic Matching**|Yuxing Lu et.al.|[2602.06039](http://arxiv.org/abs/2602.06039)|null|
+|**2026-02-05**|**CommCP: Efficient Multi-Agent Coordination via LLM-Based Communication with Conformal Prediction**|Xiaopan Zhang et.al.|[2602.06038](http://arxiv.org/abs/2602.06038)|null|
+|**2026-02-05**|**InterPrior: Scaling Generative Control for Physics-Based Human-Object Interactions**|Sirui Xu et.al.|[2602.06035](http://arxiv.org/abs/2602.06035)|null|
+|**2026-02-05**|**V-Retrver: Evidence-Driven Agentic Reasoning for Universal Multimodal Retrieval**|Dongyang Chen et.al.|[2602.06034](http://arxiv.org/abs/2602.06034)|null|
+|**2026-02-05**|**Can vision language models learn intuitive physics from interaction?**|Luca M. Schulze Buschoff et.al.|[2602.06033](http://arxiv.org/abs/2602.06033)|null|
+|**2026-02-05**|**Splat and Distill: Augmenting Teachers with Feed-Forward 3D Reconstruction For 3D-Aware Distillation**|David Shavin et.al.|[2602.06032](http://arxiv.org/abs/2602.06032)|null|
 |**2026-02-04**|**Reinforced Attention Learning**|Bangzheng Li et.al.|[2602.04884](http://arxiv.org/abs/2602.04884)|null|
 |**2026-02-04**|**Protein Autoregressive Modeling via Multiscale Structure Generation**|Yanru Qu et.al.|[2602.04883](http://arxiv.org/abs/2602.04883)|null|
 |**2026-02-04**|**Contrastive Continual Learning for Model Adaptability in Internet of Things**|Ajesh Koyatan Chathoth et.al.|[2602.04881](http://arxiv.org/abs/2602.04881)|null|
@@ -255,7 +315,7 @@
 |**2026-02-04**|**Multi-layer Cross-Attention is Provably Optimal for Multi-modal In-context Learning**|Nicholas Barnfield et.al.|[2602.04872](http://arxiv.org/abs/2602.04872)|null|
 |**2026-02-04**|**Multi-Head LatentMoE and Head Parallel: Communication-Efficient and Deterministic MoE Parallelism**|Chenwei Cui et.al.|[2602.04870](http://arxiv.org/abs/2602.04870)|null|
 
-<p align=right>(<a href=#updated-on-20260207>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260208>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/jhy-3/AI4Blockchain-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/jhy-3/AI4Blockchain-arxiv-daily/graphs/contributors

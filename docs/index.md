@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.07
+## Updated on 2026.02.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-05**|**SwimBird: Eliciting Switchable Reasoning Mode in Hybrid Autoregressive MLLMs**|Jintao Tong et.al.|[2602.06040](http://arxiv.org/abs/2602.06040)|null|
+|**2026-02-05**|**Thinking with Geometry: Active Geometry Integration for Spatial Reasoning**|Haoyuan Li et.al.|[2602.06037](http://arxiv.org/abs/2602.06037)|null|
+|**2026-02-05**|**V-Retrver: Evidence-Driven Agentic Reasoning for Universal Multimodal Retrieval**|Dongyang Chen et.al.|[2602.06034](http://arxiv.org/abs/2602.06034)|null|
+|**2026-02-05**|**AP-OOD: Attention Pooling for Out-of-Distribution Detection**|Claus Hofmann et.al.|[2602.06031](http://arxiv.org/abs/2602.06031)|null|
+|**2026-02-05**|**PhysicsAgentABM: Physics-Guided Generative Agent-Based Modeling**|Kavana Venkatesh et.al.|[2602.06030](http://arxiv.org/abs/2602.06030)|null|
+|**2026-02-05**|**Context Forcing: Consistent Autoregressive Video Generation with Long Context**|Shuo Chen et.al.|[2602.06028](http://arxiv.org/abs/2602.06028)|null|
+|**2026-02-05**|**ACT DR6+Planck impact on inflation with non-zero vacuum expectation value and the post-inflationary behavior**|F. B. M. dos Santos et.al.|[2602.06027](http://arxiv.org/abs/2602.06027)|null|
+|**2026-02-05**|**Water absorption confirms cool atmospheres in two little red dots**|Bingjie Wang et.al.|[2602.06024](http://arxiv.org/abs/2602.06024)|null|
+|**2026-02-05**|**Correctness-Optimized Residual Activation Lens (CORAL): Transferrable and Calibration-Aware Inference-Time Steering**|Miranda Muqing Miao et.al.|[2602.06022](http://arxiv.org/abs/2602.06022)|null|
+|**2026-02-05**|**Diffusion Model's Generalization Can Be Characterized by Inductive Biases toward a Data-Dependent Ridge Manifold**|Ye He et.al.|[2602.06021](http://arxiv.org/abs/2602.06021)|null|
 |**2026-02-04**|**Reinforced Attention Learning**|Bangzheng Li et.al.|[2602.04884](http://arxiv.org/abs/2602.04884)|null|
 |**2026-02-04**|**Protein Autoregressive Modeling via Multiscale Structure Generation**|Yanru Qu et.al.|[2602.04883](http://arxiv.org/abs/2602.04883)|null|
 |**2026-02-04**|**Pairs of differential forms: a framework for precontact geometry**|Xavier Gràcia et.al.|[2602.04882](http://arxiv.org/abs/2602.04882)|null|
@@ -144,6 +154,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-05**|**Shared LoRA Subspaces for almost Strict Continual Learning**|Prakhar Kaushik et.al.|[2602.06043](http://arxiv.org/abs/2602.06043)|null|
+|**2026-02-05**|**Pseudo-Invertible Neural Networks**|Yamit Ehrlich et.al.|[2602.06042](http://arxiv.org/abs/2602.06042)|null|
+|**2026-02-05**|**Predicting Camera Pose from Perspective Descriptions for Spatial Reasoning**|Xuejun Zhang et.al.|[2602.06041](http://arxiv.org/abs/2602.06041)|null|
+|**2026-02-05**|**SwimBird: Eliciting Switchable Reasoning Mode in Hybrid Autoregressive MLLMs**|Jintao Tong et.al.|[2602.06040](http://arxiv.org/abs/2602.06040)|null|
+|**2026-02-05**|**DyTopo: Dynamic Topology Routing for Multi-Agent Reasoning via Semantic Matching**|Yuxing Lu et.al.|[2602.06039](http://arxiv.org/abs/2602.06039)|null|
+|**2026-02-05**|**CommCP: Efficient Multi-Agent Coordination via LLM-Based Communication with Conformal Prediction**|Xiaopan Zhang et.al.|[2602.06038](http://arxiv.org/abs/2602.06038)|null|
+|**2026-02-05**|**Thinking with Geometry: Active Geometry Integration for Spatial Reasoning**|Haoyuan Li et.al.|[2602.06037](http://arxiv.org/abs/2602.06037)|null|
+|**2026-02-05**|**InterPrior: Scaling Generative Control for Physics-Based Human-Object Interactions**|Sirui Xu et.al.|[2602.06035](http://arxiv.org/abs/2602.06035)|null|
+|**2026-02-05**|**V-Retrver: Evidence-Driven Agentic Reasoning for Universal Multimodal Retrieval**|Dongyang Chen et.al.|[2602.06034](http://arxiv.org/abs/2602.06034)|null|
+|**2026-02-05**|**Splat and Distill: Augmenting Teachers with Feed-Forward 3D Reconstruction For 3D-Aware Distillation**|David Shavin et.al.|[2602.06032](http://arxiv.org/abs/2602.06032)|null|
 |**2026-02-04**|**Reinforced Attention Learning**|Bangzheng Li et.al.|[2602.04884](http://arxiv.org/abs/2602.04884)|null|
 |**2026-02-04**|**Capturing Visual Environment Structure Correlates with Control Performance**|Jiahua Dong et.al.|[2602.04880](http://arxiv.org/abs/2602.04880)|null|
 |**2026-02-04**|**Rethinking the Trust Region in LLM Reinforcement Learning**|Penghui Qi et.al.|[2602.04879](http://arxiv.org/abs/2602.04879)|null|
@@ -159,6 +179,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-05**|**Shared LoRA Subspaces for almost Strict Continual Learning**|Prakhar Kaushik et.al.|[2602.06043](http://arxiv.org/abs/2602.06043)|null|
+|**2026-02-05**|**DFlash: Block Diffusion for Flash Speculative Decoding**|Jian Chen et.al.|[2602.06036](http://arxiv.org/abs/2602.06036)|null|
+|**2026-02-05**|**InterPrior: Scaling Generative Control for Physics-Based Human-Object Interactions**|Sirui Xu et.al.|[2602.06035](http://arxiv.org/abs/2602.06035)|null|
+|**2026-02-05**|**Can vision language models learn intuitive physics from interaction?**|Luca M. Schulze Buschoff et.al.|[2602.06033](http://arxiv.org/abs/2602.06033)|null|
+|**2026-02-05**|**Splat and Distill: Augmenting Teachers with Feed-Forward 3D Reconstruction For 3D-Aware Distillation**|David Shavin et.al.|[2602.06032](http://arxiv.org/abs/2602.06032)|null|
+|**2026-02-05**|**AP-OOD: Attention Pooling for Out-of-Distribution Detection**|Claus Hofmann et.al.|[2602.06031](http://arxiv.org/abs/2602.06031)|null|
+|**2026-02-05**|**Curiosity is Knowledge: Self-Consistent Learning and No-Regret Optimization with Active Inference**|Yingke Li et.al.|[2602.06029](http://arxiv.org/abs/2602.06029)|null|
+|**2026-02-05**|**ACT DR6+Planck impact on inflation with non-zero vacuum expectation value and the post-inflationary behavior**|F. B. M. dos Santos et.al.|[2602.06027](http://arxiv.org/abs/2602.06027)|null|
+|**2026-02-05**|**Learning Query-Aware Budget-Tier Routing for Runtime Agent Memory**|Haozhen Zhang et.al.|[2602.06025](http://arxiv.org/abs/2602.06025)|null|
+|**2026-02-05**|**Learning Event-Based Shooter Models from Virtual Reality Experiments**|Christopher A. McClurg et.al.|[2602.06023](http://arxiv.org/abs/2602.06023)|null|
 |**2026-02-04**|**Contrastive Continual Learning for Model Adaptability in Internet of Things**|Ajesh Koyatan Chathoth et.al.|[2602.04881](http://arxiv.org/abs/2602.04881)|null|
 |**2026-02-04**|**Capturing Visual Environment Structure Correlates with Control Performance**|Jiahua Dong et.al.|[2602.04880](http://arxiv.org/abs/2602.04880)|null|
 |**2026-02-04**|**Rethinking the Trust Region in LLM Reinforcement Learning**|Penghui Qi et.al.|[2602.04879](http://arxiv.org/abs/2602.04879)|null|
@@ -174,6 +204,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-05**|**DyTopo: Dynamic Topology Routing for Multi-Agent Reasoning via Semantic Matching**|Yuxing Lu et.al.|[2602.06039](http://arxiv.org/abs/2602.06039)|null|
+|**2026-02-05**|**CommCP: Efficient Multi-Agent Coordination via LLM-Based Communication with Conformal Prediction**|Xiaopan Zhang et.al.|[2602.06038](http://arxiv.org/abs/2602.06038)|null|
+|**2026-02-05**|**DFlash: Block Diffusion for Flash Speculative Decoding**|Jian Chen et.al.|[2602.06036](http://arxiv.org/abs/2602.06036)|null|
+|**2026-02-05**|**InterPrior: Scaling Generative Control for Physics-Based Human-Object Interactions**|Sirui Xu et.al.|[2602.06035](http://arxiv.org/abs/2602.06035)|null|
+|**2026-02-05**|**AP-OOD: Attention Pooling for Out-of-Distribution Detection**|Claus Hofmann et.al.|[2602.06031](http://arxiv.org/abs/2602.06031)|null|
+|**2026-02-05**|**PhysicsAgentABM: Physics-Guided Generative Agent-Based Modeling**|Kavana Venkatesh et.al.|[2602.06030](http://arxiv.org/abs/2602.06030)|null|
+|**2026-02-05**|**Curiosity is Knowledge: Self-Consistent Learning and No-Regret Optimization with Active Inference**|Yingke Li et.al.|[2602.06029](http://arxiv.org/abs/2602.06029)|null|
+|**2026-02-05**|**Towards uncertainty quantification of a model for cancer-on-chip experiments**|Silvia Bertoluzza et.al.|[2602.06018](http://arxiv.org/abs/2602.06018)|null|
+|**2026-02-05**|**GenArena: How Can We Achieve Human-Aligned Evaluation for Visual Generation Tasks?**|Ruihang Li et.al.|[2602.06013](http://arxiv.org/abs/2602.06013)|null|
+|**2026-02-05**|**AgenticPay: A Multi-Agent LLM Negotiation System for Buyer-Seller Transactions**|Xianyang Liu et.al.|[2602.06008](http://arxiv.org/abs/2602.06008)|null|
 |**2026-02-05**|**PACE: Defying the Scaling Hypothesis of Exploration in Iterative Alignment for Mathematical Reasoning**|Jun Rao et.al.|[2602.05370](http://arxiv.org/abs/2602.05370)|null|
 |**2026-02-04**|**Artificial Intelligence as Strange Intelligence: Against Linear Models of Intelligence**|Kendra Chilson et.al.|[2602.04986](http://arxiv.org/abs/2602.04986)|null|
 |**2026-02-04**|**Topological frustration and quantum resources**|Alberto Giuseppe Catalano et.al.|[2602.04960](http://arxiv.org/abs/2602.04960)|null|
@@ -199,6 +239,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-05**|**Shared LoRA Subspaces for almost Strict Continual Learning**|Prakhar Kaushik et.al.|[2602.06043](http://arxiv.org/abs/2602.06043)|null|
+|**2026-02-05**|**Pseudo-Invertible Neural Networks**|Yamit Ehrlich et.al.|[2602.06042](http://arxiv.org/abs/2602.06042)|null|
+|**2026-02-05**|**Predicting Camera Pose from Perspective Descriptions for Spatial Reasoning**|Xuejun Zhang et.al.|[2602.06041](http://arxiv.org/abs/2602.06041)|null|
+|**2026-02-05**|**DFlash: Block Diffusion for Flash Speculative Decoding**|Jian Chen et.al.|[2602.06036](http://arxiv.org/abs/2602.06036)|null|
+|**2026-02-05**|**Splat and Distill: Augmenting Teachers with Feed-Forward 3D Reconstruction For 3D-Aware Distillation**|David Shavin et.al.|[2602.06032](http://arxiv.org/abs/2602.06032)|null|
+|**2026-02-05**|**Curiosity is Knowledge: Self-Consistent Learning and No-Regret Optimization with Active Inference**|Yingke Li et.al.|[2602.06029](http://arxiv.org/abs/2602.06029)|null|
+|**2026-02-05**|**ACT DR6+Planck impact on inflation with non-zero vacuum expectation value and the post-inflationary behavior**|F. B. M. dos Santos et.al.|[2602.06027](http://arxiv.org/abs/2602.06027)|null|
+|**2026-02-05**|**Learning Query-Aware Budget-Tier Routing for Runtime Agent Memory**|Haozhen Zhang et.al.|[2602.06025](http://arxiv.org/abs/2602.06025)|null|
+|**2026-02-05**|**Correctness-Optimized Residual Activation Lens (CORAL): Transferrable and Calibration-Aware Inference-Time Steering**|Miranda Muqing Miao et.al.|[2602.06022](http://arxiv.org/abs/2602.06022)|null|
+|**2026-02-05**|**Mechanisms of AI Protein Folding in ESMFold**|Kevin Lu et.al.|[2602.06020](http://arxiv.org/abs/2602.06020)|null|
 |**2026-02-04**|**Reinforced Attention Learning**|Bangzheng Li et.al.|[2602.04884](http://arxiv.org/abs/2602.04884)|null|
 |**2026-02-04**|**Protein Autoregressive Modeling via Multiscale Structure Generation**|Yanru Qu et.al.|[2602.04883](http://arxiv.org/abs/2602.04883)|null|
 |**2026-02-04**|**Rethinking the Trust Region in LLM Reinforcement Learning**|Penghui Qi et.al.|[2602.04879](http://arxiv.org/abs/2602.04879)|null|
@@ -214,6 +264,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-05**|**Shared LoRA Subspaces for almost Strict Continual Learning**|Prakhar Kaushik et.al.|[2602.06043](http://arxiv.org/abs/2602.06043)|null|
+|**2026-02-05**|**Pseudo-Invertible Neural Networks**|Yamit Ehrlich et.al.|[2602.06042](http://arxiv.org/abs/2602.06042)|null|
+|**2026-02-05**|**Predicting Camera Pose from Perspective Descriptions for Spatial Reasoning**|Xuejun Zhang et.al.|[2602.06041](http://arxiv.org/abs/2602.06041)|null|
+|**2026-02-05**|**SwimBird: Eliciting Switchable Reasoning Mode in Hybrid Autoregressive MLLMs**|Jintao Tong et.al.|[2602.06040](http://arxiv.org/abs/2602.06040)|null|
+|**2026-02-05**|**DyTopo: Dynamic Topology Routing for Multi-Agent Reasoning via Semantic Matching**|Yuxing Lu et.al.|[2602.06039](http://arxiv.org/abs/2602.06039)|null|
+|**2026-02-05**|**CommCP: Efficient Multi-Agent Coordination via LLM-Based Communication with Conformal Prediction**|Xiaopan Zhang et.al.|[2602.06038](http://arxiv.org/abs/2602.06038)|null|
+|**2026-02-05**|**InterPrior: Scaling Generative Control for Physics-Based Human-Object Interactions**|Sirui Xu et.al.|[2602.06035](http://arxiv.org/abs/2602.06035)|null|
+|**2026-02-05**|**V-Retrver: Evidence-Driven Agentic Reasoning for Universal Multimodal Retrieval**|Dongyang Chen et.al.|[2602.06034](http://arxiv.org/abs/2602.06034)|null|
+|**2026-02-05**|**Can vision language models learn intuitive physics from interaction?**|Luca M. Schulze Buschoff et.al.|[2602.06033](http://arxiv.org/abs/2602.06033)|null|
+|**2026-02-05**|**Splat and Distill: Augmenting Teachers with Feed-Forward 3D Reconstruction For 3D-Aware Distillation**|David Shavin et.al.|[2602.06032](http://arxiv.org/abs/2602.06032)|null|
 |**2026-02-04**|**Reinforced Attention Learning**|Bangzheng Li et.al.|[2602.04884](http://arxiv.org/abs/2602.04884)|null|
 |**2026-02-04**|**Protein Autoregressive Modeling via Multiscale Structure Generation**|Yanru Qu et.al.|[2602.04883](http://arxiv.org/abs/2602.04883)|null|
 |**2026-02-04**|**Contrastive Continual Learning for Model Adaptability in Internet of Things**|Ajesh Koyatan Chathoth et.al.|[2602.04881](http://arxiv.org/abs/2602.04881)|null|
