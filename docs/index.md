@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.09
+## Updated on 2026.02.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-06**|**Learning a Generative Meta-Model of LLM Activations**|Grace Luo et.al.|[2602.06964](http://arxiv.org/abs/2602.06964)|null|
+|**2026-02-06**|**Charge- $4e$ superconductor with parafermionic vortices: A path to universal topological quantum computation**|Zhengyan Darius Shi et.al.|[2602.06963](http://arxiv.org/abs/2602.06963)|null|
+|**2026-02-06**|**InftyThink+: Effective and Efficient Infinite-Horizon Reasoning via Reinforcement Learning**|Yuchen Yan et.al.|[2602.06960](http://arxiv.org/abs/2602.06960)|null|
+|**2026-02-06**|**Circuit Diameter of Polyhedra is Strongly Polynomial**|Bento Natura et.al.|[2602.06958](http://arxiv.org/abs/2602.06958)|null|
+|**2026-02-06**|**Revisiting the Electroweakino Sector of the Baryon Number Violating MSSM at the HL-LHC with Deep Neural Networks**|Rahool Kumar Barman et.al.|[2602.06957](http://arxiv.org/abs/2602.06957)|null|
+|**2026-02-06**|**DAWN: Dependency-Aware Fast Inference for Diffusion LLMs**|Lizhuo Luo et.al.|[2602.06953](http://arxiv.org/abs/2602.06953)|null|
+|**2026-02-06**|**Mapping plasma properties of Cassiopeia A with XRISM/Resolve: a Bayesian analysis via UltraSPEX**|Manan Agarwal et.al.|[2602.06952](http://arxiv.org/abs/2602.06952)|null|
+|**2026-02-06**|**Gravitational Raman Scattering: a Systematic Toolkit for Tidal Effects in General Relativity**|Mikhail M. Ivanov et.al.|[2602.06951](http://arxiv.org/abs/2602.06951)|null|
+|**2026-02-06**|**DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos**|Shenyuan Gao et.al.|[2602.06949](http://arxiv.org/abs/2602.06949)|null|
+|**2026-02-06**|**Symmetry of some noncommutative sphere algebras**|William J. Ugalde et.al.|[2602.06946](http://arxiv.org/abs/2602.06946)|null|
 |**2026-02-05**|**SwimBird: Eliciting Switchable Reasoning Mode in Hybrid Autoregressive MLLMs**|Jintao Tong et.al.|[2602.06040](http://arxiv.org/abs/2602.06040)|null|
 |**2026-02-05**|**Thinking with Geometry: Active Geometry Integration for Spatial Reasoning**|Haoyuan Li et.al.|[2602.06037](http://arxiv.org/abs/2602.06037)|null|
 |**2026-02-05**|**V-Retrver: Evidence-Driven Agentic Reasoning for Universal Multimodal Retrieval**|Dongyang Chen et.al.|[2602.06034](http://arxiv.org/abs/2602.06034)|null|
@@ -154,6 +164,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-06**|**MedMO: Grounding and Understanding Multimodal Large Language Model for Medical Images**|Ankan Deria et.al.|[2602.06965](http://arxiv.org/abs/2602.06965)|null|
+|**2026-02-06**|**InftyThink+: Effective and Efficient Infinite-Horizon Reasoning via Reinforcement Learning**|Yuchen Yan et.al.|[2602.06960](http://arxiv.org/abs/2602.06960)|null|
+|**2026-02-06**|**CineScene: Implicit 3D as Effective Scene Representation for Cinematic Video Generation**|Kaiyi Huang et.al.|[2602.06959](http://arxiv.org/abs/2602.06959)|null|
+|**2026-02-06**|**Circuit Diameter of Polyhedra is Strongly Polynomial**|Bento Natura et.al.|[2602.06958](http://arxiv.org/abs/2602.06958)|null|
+|**2026-02-06**|**Improving Credit Card Fraud Detection with an Optimized Explainable Boosting Machine**|Reza E. Fazel et.al.|[2602.06955](http://arxiv.org/abs/2602.06955)|null|
+|**2026-02-06**|**Spectral Appearance of Self-gravitating AGN Disks Powered by Stellar Objects: Universal Effective Temperature in the Optical Continuum and Application to Little Red Dots**|Yi-Xian Chen et.al.|[2602.06954](http://arxiv.org/abs/2602.06954)|null|
+|**2026-02-06**|**DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos**|Shenyuan Gao et.al.|[2602.06949](http://arxiv.org/abs/2602.06949)|null|
+|**2026-02-06**|**Optimal Derivative Feedback Control for an Active Magnetic Levitation System: An Experimental Study on Data-Driven Approaches**|Saber Omidi et.al.|[2602.06944](http://arxiv.org/abs/2602.06944)|null|
+|**2026-02-06**|**Optimal Turkish Subword Strategies at Scale: Systematic Evaluation of Data, Vocabulary, Morphology Interplay**|Duygu Altinok et.al.|[2602.06942](http://arxiv.org/abs/2602.06942)|null|
+|**2026-02-06**|**Cochain Perspectives on Temporal-Difference Signals for Learning Beyond Markov Dynamics**|Zuyuan Zhang et.al.|[2602.06939](http://arxiv.org/abs/2602.06939)|null|
 |**2026-02-05**|**Shared LoRA Subspaces for almost Strict Continual Learning**|Prakhar Kaushik et.al.|[2602.06043](http://arxiv.org/abs/2602.06043)|null|
 |**2026-02-05**|**Pseudo-Invertible Neural Networks**|Yamit Ehrlich et.al.|[2602.06042](http://arxiv.org/abs/2602.06042)|null|
 |**2026-02-05**|**Predicting Camera Pose from Perspective Descriptions for Spatial Reasoning**|Xuejun Zhang et.al.|[2602.06041](http://arxiv.org/abs/2602.06041)|null|
@@ -179,6 +199,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-06**|**MedMO: Grounding and Understanding Multimodal Large Language Model for Medical Images**|Ankan Deria et.al.|[2602.06965](http://arxiv.org/abs/2602.06965)|null|
+|**2026-02-06**|**Charge- $4e$ superconductor with parafermionic vortices: A path to universal topological quantum computation**|Zhengyan Darius Shi et.al.|[2602.06963](http://arxiv.org/abs/2602.06963)|null|
+|**2026-02-06**|**The N-Body 2PN Hamiltonian and Numerical Integration of the Equations of Motion**|Felix M. Heinze et.al.|[2602.06961](http://arxiv.org/abs/2602.06961)|null|
+|**2026-02-06**|**CineScene: Implicit 3D as Effective Scene Representation for Cinematic Video Generation**|Kaiyi Huang et.al.|[2602.06959](http://arxiv.org/abs/2602.06959)|null|
+|**2026-02-06**|**Circuit Diameter of Polyhedra is Strongly Polynomial**|Bento Natura et.al.|[2602.06958](http://arxiv.org/abs/2602.06958)|null|
+|**2026-02-06**|**Revisiting the Electroweakino Sector of the Baryon Number Violating MSSM at the HL-LHC with Deep Neural Networks**|Rahool Kumar Barman et.al.|[2602.06957](http://arxiv.org/abs/2602.06957)|null|
+|**2026-02-06**|**Improving Credit Card Fraud Detection with an Optimized Explainable Boosting Machine**|Reza E. Fazel et.al.|[2602.06955](http://arxiv.org/abs/2602.06955)|null|
+|**2026-02-06**|**Spectral Appearance of Self-gravitating AGN Disks Powered by Stellar Objects: Universal Effective Temperature in the Optical Continuum and Application to Little Red Dots**|Yi-Xian Chen et.al.|[2602.06954](http://arxiv.org/abs/2602.06954)|null|
+|**2026-02-06**|**DAWN: Dependency-Aware Fast Inference for Diffusion LLMs**|Lizhuo Luo et.al.|[2602.06953](http://arxiv.org/abs/2602.06953)|null|
+|**2026-02-06**|**Mapping plasma properties of Cassiopeia A with XRISM/Resolve: a Bayesian analysis via UltraSPEX**|Manan Agarwal et.al.|[2602.06952](http://arxiv.org/abs/2602.06952)|null|
 |**2026-02-05**|**Shared LoRA Subspaces for almost Strict Continual Learning**|Prakhar Kaushik et.al.|[2602.06043](http://arxiv.org/abs/2602.06043)|null|
 |**2026-02-05**|**DFlash: Block Diffusion for Flash Speculative Decoding**|Jian Chen et.al.|[2602.06036](http://arxiv.org/abs/2602.06036)|null|
 |**2026-02-05**|**InterPrior: Scaling Generative Control for Physics-Based Human-Object Interactions**|Sirui Xu et.al.|[2602.06035](http://arxiv.org/abs/2602.06035)|null|
@@ -204,6 +234,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-06**|**Circuit Diameter of Polyhedra is Strongly Polynomial**|Bento Natura et.al.|[2602.06958](http://arxiv.org/abs/2602.06958)|null|
+|**2026-02-06**|**Improving Credit Card Fraud Detection with an Optimized Explainable Boosting Machine**|Reza E. Fazel et.al.|[2602.06955](http://arxiv.org/abs/2602.06955)|null|
+|**2026-02-06**|**Mapping plasma properties of Cassiopeia A with XRISM/Resolve: a Bayesian analysis via UltraSPEX**|Manan Agarwal et.al.|[2602.06952](http://arxiv.org/abs/2602.06952)|null|
+|**2026-02-06**|**Agentic Uncertainty Reveals Agentic Overconfidence**|Jean Kaddour et.al.|[2602.06948](http://arxiv.org/abs/2602.06948)|null|
+|**2026-02-06**|**Reliable Mislabel Detection for Video Capsule Endoscopy Data**|Julia Werner et.al.|[2602.06938](http://arxiv.org/abs/2602.06938)|null|
+|**2026-02-06**|**Proton-Size Resolution of the Hyperfine Puzzle in Hydrogen**|Gerald A. Miller et.al.|[2602.06929](http://arxiv.org/abs/2602.06929)|null|
+|**2026-02-06**|**Towards a Fully Automated Pipeline for Short-Term Forecasting of In Situ Coronal Mass Ejection Magnetic Field Structure**|Hannah T. Rüdisser et.al.|[2602.06926](http://arxiv.org/abs/2602.06926)|null|
+|**2026-02-06**|**From Kepler to Newton: Inductive Biases Guide Learned World Models in Transformers**|Ziming Liu et.al.|[2602.06923](http://arxiv.org/abs/2602.06923)|null|
+|**2026-02-06**|**Understanding Workplace Relatedness Support among Healthcare Professionals: A Four-Layer Model and Implications for Technology Design**|Zheyuan Zhang et.al.|[2602.06916](http://arxiv.org/abs/2602.06916)|null|
+|**2026-02-06**|**Directing Space: Rehearsing Architecture as Performer with Explainable AI**|Pavlos Panagiotidis et.al.|[2602.06915](http://arxiv.org/abs/2602.06915)|null|
 |**2026-02-05**|**DyTopo: Dynamic Topology Routing for Multi-Agent Reasoning via Semantic Matching**|Yuxing Lu et.al.|[2602.06039](http://arxiv.org/abs/2602.06039)|null|
 |**2026-02-05**|**CommCP: Efficient Multi-Agent Coordination via LLM-Based Communication with Conformal Prediction**|Xiaopan Zhang et.al.|[2602.06038](http://arxiv.org/abs/2602.06038)|null|
 |**2026-02-05**|**DFlash: Block Diffusion for Flash Speculative Decoding**|Jian Chen et.al.|[2602.06036](http://arxiv.org/abs/2602.06036)|null|
@@ -239,6 +279,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-06**|**Learning a Generative Meta-Model of LLM Activations**|Grace Luo et.al.|[2602.06964](http://arxiv.org/abs/2602.06964)|null|
+|**2026-02-06**|**Charge- $4e$ superconductor with parafermionic vortices: A path to universal topological quantum computation**|Zhengyan Darius Shi et.al.|[2602.06963](http://arxiv.org/abs/2602.06963)|null|
+|**2026-02-06**|**The N-Body 2PN Hamiltonian and Numerical Integration of the Equations of Motion**|Felix M. Heinze et.al.|[2602.06961](http://arxiv.org/abs/2602.06961)|null|
+|**2026-02-06**|**InftyThink+: Effective and Efficient Infinite-Horizon Reasoning via Reinforcement Learning**|Yuchen Yan et.al.|[2602.06960](http://arxiv.org/abs/2602.06960)|null|
+|**2026-02-06**|**Towards Lang--Vojta via Degeneration**|Ryan C. Chen et.al.|[2602.06956](http://arxiv.org/abs/2602.06956)|null|
+|**2026-02-06**|**Improving Credit Card Fraud Detection with an Optimized Explainable Boosting Machine**|Reza E. Fazel et.al.|[2602.06955](http://arxiv.org/abs/2602.06955)|null|
+|**2026-02-06**|**Spectral Appearance of Self-gravitating AGN Disks Powered by Stellar Objects: Universal Effective Temperature in the Optical Continuum and Application to Little Red Dots**|Yi-Xian Chen et.al.|[2602.06954](http://arxiv.org/abs/2602.06954)|null|
+|**2026-02-06**|**DAWN: Dependency-Aware Fast Inference for Diffusion LLMs**|Lizhuo Luo et.al.|[2602.06953](http://arxiv.org/abs/2602.06953)|null|
+|**2026-02-06**|**Gravitational Raman Scattering: a Systematic Toolkit for Tidal Effects in General Relativity**|Mikhail M. Ivanov et.al.|[2602.06951](http://arxiv.org/abs/2602.06951)|null|
+|**2026-02-06**|**DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos**|Shenyuan Gao et.al.|[2602.06949](http://arxiv.org/abs/2602.06949)|null|
 |**2026-02-05**|**Shared LoRA Subspaces for almost Strict Continual Learning**|Prakhar Kaushik et.al.|[2602.06043](http://arxiv.org/abs/2602.06043)|null|
 |**2026-02-05**|**Pseudo-Invertible Neural Networks**|Yamit Ehrlich et.al.|[2602.06042](http://arxiv.org/abs/2602.06042)|null|
 |**2026-02-05**|**Predicting Camera Pose from Perspective Descriptions for Spatial Reasoning**|Xuejun Zhang et.al.|[2602.06041](http://arxiv.org/abs/2602.06041)|null|
@@ -264,6 +314,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-06**|**MedMO: Grounding and Understanding Multimodal Large Language Model for Medical Images**|Ankan Deria et.al.|[2602.06965](http://arxiv.org/abs/2602.06965)|null|
+|**2026-02-06**|**Learning a Generative Meta-Model of LLM Activations**|Grace Luo et.al.|[2602.06964](http://arxiv.org/abs/2602.06964)|null|
+|**2026-02-06**|**The N-Body 2PN Hamiltonian and Numerical Integration of the Equations of Motion**|Felix M. Heinze et.al.|[2602.06961](http://arxiv.org/abs/2602.06961)|null|
+|**2026-02-06**|**InftyThink+: Effective and Efficient Infinite-Horizon Reasoning via Reinforcement Learning**|Yuchen Yan et.al.|[2602.06960](http://arxiv.org/abs/2602.06960)|null|
+|**2026-02-06**|**Circuit Diameter of Polyhedra is Strongly Polynomial**|Bento Natura et.al.|[2602.06958](http://arxiv.org/abs/2602.06958)|null|
+|**2026-02-06**|**Revisiting the Electroweakino Sector of the Baryon Number Violating MSSM at the HL-LHC with Deep Neural Networks**|Rahool Kumar Barman et.al.|[2602.06957](http://arxiv.org/abs/2602.06957)|null|
+|**2026-02-06**|**Improving Credit Card Fraud Detection with an Optimized Explainable Boosting Machine**|Reza E. Fazel et.al.|[2602.06955](http://arxiv.org/abs/2602.06955)|null|
+|**2026-02-06**|**Spectral Appearance of Self-gravitating AGN Disks Powered by Stellar Objects: Universal Effective Temperature in the Optical Continuum and Application to Little Red Dots**|Yi-Xian Chen et.al.|[2602.06954](http://arxiv.org/abs/2602.06954)|null|
+|**2026-02-06**|**DAWN: Dependency-Aware Fast Inference for Diffusion LLMs**|Lizhuo Luo et.al.|[2602.06953](http://arxiv.org/abs/2602.06953)|null|
+|**2026-02-06**|**Mapping plasma properties of Cassiopeia A with XRISM/Resolve: a Bayesian analysis via UltraSPEX**|Manan Agarwal et.al.|[2602.06952](http://arxiv.org/abs/2602.06952)|null|
 |**2026-02-05**|**Shared LoRA Subspaces for almost Strict Continual Learning**|Prakhar Kaushik et.al.|[2602.06043](http://arxiv.org/abs/2602.06043)|null|
 |**2026-02-05**|**Pseudo-Invertible Neural Networks**|Yamit Ehrlich et.al.|[2602.06042](http://arxiv.org/abs/2602.06042)|null|
 |**2026-02-05**|**Predicting Camera Pose from Perspective Descriptions for Spatial Reasoning**|Xuejun Zhang et.al.|[2602.06041](http://arxiv.org/abs/2602.06041)|null|
