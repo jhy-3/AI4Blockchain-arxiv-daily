@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.10
+## Updated on 2026.02.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-09**|**TwinRL-VLA: Digital Twin-Driven Reinforcement Learning for Real-World Robotic Manipulation**|Qinwen Xu et.al.|[2602.09023](http://arxiv.org/abs/2602.09023)|null|
+|**2026-02-09**|**WorldCompass: Reinforcement Learning for Long-Horizon World Models**|Zehan Wang et.al.|[2602.09022](http://arxiv.org/abs/2602.09022)|null|
+|**2026-02-09**|**$χ_{0}$ : Resource-Aware Robust Manipulation via Taming Distributional Inconsistencies**|Checheng Yu et.al.|[2602.09021](http://arxiv.org/abs/2602.09021)|null|
+|**2026-02-09**|**The seismic diversity of four successive solar cycle minima as observed by the Birmingham Solar-Oscillations Network (BiSON)**|Sarbani Basu et.al.|[2602.09019](http://arxiv.org/abs/2602.09019)|null|
+|**2026-02-09**|**Robustness Is a Function, Not a Number: A Factorized Comprehensive Study of OOD Robustness in Vision-Based Driving**|Amir Mallak et.al.|[2602.09018](http://arxiv.org/abs/2602.09018)|null|
+|**2026-02-09**|**Raster2Seq: Polygon Sequence Generation for Floorplan Reconstruction**|Hao Phung et.al.|[2602.09016](http://arxiv.org/abs/2602.09016)|null|
+|**2026-02-09**|**ArcFlow: Unleashing 2-Step Text-to-Image Generation via High-Precision Non-Linear Flow Distillation**|Zihan Yang et.al.|[2602.09014](http://arxiv.org/abs/2602.09014)|null|
+|**2026-02-09**|**ANCRe: Adaptive Neural Connection Reassignment for Efficient Depth Scaling**|Yilang Zhang et.al.|[2602.09009](http://arxiv.org/abs/2602.09009)|null|
+|**2026-02-09**|**ARO: A New Lens On Matrix Optimization For Large Models**|Wenbo Gong et.al.|[2602.09006](http://arxiv.org/abs/2602.09006)|null|
+|**2026-02-09**|**Testing the nuclear TMD gluon densities with heavy flavor production in proton-lead collisions at LHC**|A. V. Lipatov et.al.|[2602.09005](http://arxiv.org/abs/2602.09005)|null|
 |**2026-02-06**|**Learning a Generative Meta-Model of LLM Activations**|Grace Luo et.al.|[2602.06964](http://arxiv.org/abs/2602.06964)|null|
 |**2026-02-06**|**Charge- $4e$ superconductor with parafermionic vortices: A path to universal topological quantum computation**|Zhengyan Darius Shi et.al.|[2602.06963](http://arxiv.org/abs/2602.06963)|null|
 |**2026-02-06**|**InftyThink+: Effective and Efficient Infinite-Horizon Reasoning via Reinforcement Learning**|Yuchen Yan et.al.|[2602.06960](http://arxiv.org/abs/2602.06960)|null|
@@ -164,6 +174,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-09**|**Autoregressive Image Generation with Masked Bit Modeling**|Qihang Yu et.al.|[2602.09024](http://arxiv.org/abs/2602.09024)|null|
+|**2026-02-09**|**WorldCompass: Reinforcement Learning for Long-Horizon World Models**|Zehan Wang et.al.|[2602.09022](http://arxiv.org/abs/2602.09022)|null|
+|**2026-02-09**|**$χ_{0}$ : Resource-Aware Robust Manipulation via Taming Distributional Inconsistencies**|Checheng Yu et.al.|[2602.09021](http://arxiv.org/abs/2602.09021)|null|
+|**2026-02-09**|**Hybrid Method of Efficient Simulation of Physics Applications for a Quantum Computer**|Carla Rieger et.al.|[2602.09020](http://arxiv.org/abs/2602.09020)|null|
+|**2026-02-09**|**The seismic diversity of four successive solar cycle minima as observed by the Birmingham Solar-Oscillations Network (BiSON)**|Sarbani Basu et.al.|[2602.09019](http://arxiv.org/abs/2602.09019)|null|
+|**2026-02-09**|**Robustness Is a Function, Not a Number: A Factorized Comprehensive Study of OOD Robustness in Vision-Based Driving**|Amir Mallak et.al.|[2602.09018](http://arxiv.org/abs/2602.09018)|null|
+|**2026-02-09**|**Raster2Seq: Polygon Sequence Generation for Floorplan Reconstruction**|Hao Phung et.al.|[2602.09016](http://arxiv.org/abs/2602.09016)|null|
+|**2026-02-09**|**CIC-Trap4Phish: A Unified Multi-Format Dataset for Phishing and Quishing Attachment Detection**|Fatemeh Nejati et.al.|[2602.09015](http://arxiv.org/abs/2602.09015)|null|
+|**2026-02-09**|**ArcFlow: Unleashing 2-Step Text-to-Image Generation via High-Precision Non-Linear Flow Distillation**|Zihan Yang et.al.|[2602.09014](http://arxiv.org/abs/2602.09014)|null|
+|**2026-02-09**|**Dexterous Manipulation Policies from RGB Human Videos via 4D Hand-Object Trajectory Reconstruction**|Hongyi Chen et.al.|[2602.09013](http://arxiv.org/abs/2602.09013)|null|
 |**2026-02-06**|**MedMO: Grounding and Understanding Multimodal Large Language Model for Medical Images**|Ankan Deria et.al.|[2602.06965](http://arxiv.org/abs/2602.06965)|null|
 |**2026-02-06**|**InftyThink+: Effective and Efficient Infinite-Horizon Reasoning via Reinforcement Learning**|Yuchen Yan et.al.|[2602.06960](http://arxiv.org/abs/2602.06960)|null|
 |**2026-02-06**|**CineScene: Implicit 3D as Effective Scene Representation for Cinematic Video Generation**|Kaiyi Huang et.al.|[2602.06959](http://arxiv.org/abs/2602.06959)|null|
@@ -199,6 +219,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-09**|**An Exploration of the Equation of State Dependence of Core-Collapse Supernova Explosion Outcomes and Signatures**|Aleksandr Rusakov et.al.|[2602.09025](http://arxiv.org/abs/2602.09025)|null|
+|**2026-02-09**|**WorldCompass: Reinforcement Learning for Long-Horizon World Models**|Zehan Wang et.al.|[2602.09022](http://arxiv.org/abs/2602.09022)|null|
+|**2026-02-09**|**$χ_{0}$ : Resource-Aware Robust Manipulation via Taming Distributional Inconsistencies**|Checheng Yu et.al.|[2602.09021](http://arxiv.org/abs/2602.09021)|null|
+|**2026-02-09**|**Hybrid Method of Efficient Simulation of Physics Applications for a Quantum Computer**|Carla Rieger et.al.|[2602.09020](http://arxiv.org/abs/2602.09020)|null|
+|**2026-02-09**|**Contact-Anchored Policies: Contact Conditioning Creates Strong Robot Utility Models**|Zichen Jeff Cui et.al.|[2602.09017](http://arxiv.org/abs/2602.09017)|null|
+|**2026-02-09**|**Raster2Seq: Polygon Sequence Generation for Floorplan Reconstruction**|Hao Phung et.al.|[2602.09016](http://arxiv.org/abs/2602.09016)|null|
+|**2026-02-09**|**Dexterous Manipulation Policies from RGB Human Videos via 4D Hand-Object Trajectory Reconstruction**|Hongyi Chen et.al.|[2602.09013](http://arxiv.org/abs/2602.09013)|null|
+|**2026-02-09**|**Next-Gen CAPTCHAs: Leveraging the Cognitive Gap for Scalable and Diverse GUI-Agent Defense**|Jiacheng Liu et.al.|[2602.09012](http://arxiv.org/abs/2602.09012)|null|
+|**2026-02-09**|**Counting Barcodes with the same Betti Curve**|Henry Ashley et.al.|[2602.09011](http://arxiv.org/abs/2602.09011)|null|
+|**2026-02-09**|**ANCRe: Adaptive Neural Connection Reassignment for Efficient Depth Scaling**|Yilang Zhang et.al.|[2602.09009](http://arxiv.org/abs/2602.09009)|null|
 |**2026-02-06**|**MedMO: Grounding and Understanding Multimodal Large Language Model for Medical Images**|Ankan Deria et.al.|[2602.06965](http://arxiv.org/abs/2602.06965)|null|
 |**2026-02-06**|**Charge- $4e$ superconductor with parafermionic vortices: A path to universal topological quantum computation**|Zhengyan Darius Shi et.al.|[2602.06963](http://arxiv.org/abs/2602.06963)|null|
 |**2026-02-06**|**The N-Body 2PN Hamiltonian and Numerical Integration of the Equations of Motion**|Felix M. Heinze et.al.|[2602.06961](http://arxiv.org/abs/2602.06961)|null|
@@ -234,6 +264,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-09**|**An Exploration of the Equation of State Dependence of Core-Collapse Supernova Explosion Outcomes and Signatures**|Aleksandr Rusakov et.al.|[2602.09025](http://arxiv.org/abs/2602.09025)|null|
+|**2026-02-09**|**$χ_{0}$ : Resource-Aware Robust Manipulation via Taming Distributional Inconsistencies**|Checheng Yu et.al.|[2602.09021](http://arxiv.org/abs/2602.09021)|null|
+|**2026-02-09**|**Robustness Is a Function, Not a Number: A Factorized Comprehensive Study of OOD Robustness in Vision-Based Driving**|Amir Mallak et.al.|[2602.09018](http://arxiv.org/abs/2602.09018)|null|
+|**2026-02-09**|**Raster2Seq: Polygon Sequence Generation for Floorplan Reconstruction**|Hao Phung et.al.|[2602.09016](http://arxiv.org/abs/2602.09016)|null|
+|**2026-02-09**|**CIC-Trap4Phish: A Unified Multi-Format Dataset for Phishing and Quishing Attachment Detection**|Fatemeh Nejati et.al.|[2602.09015](http://arxiv.org/abs/2602.09015)|null|
+|**2026-02-09**|**ShapeCond: Fast Shapelet-Guided Dataset Condensation for Time Series Classification**|Sijia Peng et.al.|[2602.09008](http://arxiv.org/abs/2602.09008)|null|
+|**2026-02-09**|**ARO: A New Lens On Matrix Optimization For Large Models**|Wenbo Gong et.al.|[2602.09006](http://arxiv.org/abs/2602.09006)|null|
+|**2026-02-09**|**Rhythms of Recovery: Patient-Centered Virtual Reality Exergame for Physical Rehabilitation in the Intensive Care Unit**|Sangjun Eom et.al.|[2602.08994](http://arxiv.org/abs/2602.08994)|null|
+|**2026-02-09**|**Reverse Online Guessing Attacks on PAKE Protocols**|Eloise Christian et.al.|[2602.08993](http://arxiv.org/abs/2602.08993)|null|
+|**2026-02-09**|**Zero Trust for Multi-RAT IoT: Trust Boundary Management in Heterogeneous Wireless Network Environments**|Jonathan Shelby et.al.|[2602.08989](http://arxiv.org/abs/2602.08989)|null|
 |**2026-02-06**|**Circuit Diameter of Polyhedra is Strongly Polynomial**|Bento Natura et.al.|[2602.06958](http://arxiv.org/abs/2602.06958)|null|
 |**2026-02-06**|**Improving Credit Card Fraud Detection with an Optimized Explainable Boosting Machine**|Reza E. Fazel et.al.|[2602.06955](http://arxiv.org/abs/2602.06955)|null|
 |**2026-02-06**|**Mapping plasma properties of Cassiopeia A with XRISM/Resolve: a Bayesian analysis via UltraSPEX**|Manan Agarwal et.al.|[2602.06952](http://arxiv.org/abs/2602.06952)|null|
@@ -279,6 +319,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-09**|**An Exploration of the Equation of State Dependence of Core-Collapse Supernova Explosion Outcomes and Signatures**|Aleksandr Rusakov et.al.|[2602.09025](http://arxiv.org/abs/2602.09025)|null|
+|**2026-02-09**|**WorldCompass: Reinforcement Learning for Long-Horizon World Models**|Zehan Wang et.al.|[2602.09022](http://arxiv.org/abs/2602.09022)|null|
+|**2026-02-09**|**$χ_{0}$ : Resource-Aware Robust Manipulation via Taming Distributional Inconsistencies**|Checheng Yu et.al.|[2602.09021](http://arxiv.org/abs/2602.09021)|null|
+|**2026-02-09**|**Hybrid Method of Efficient Simulation of Physics Applications for a Quantum Computer**|Carla Rieger et.al.|[2602.09020](http://arxiv.org/abs/2602.09020)|null|
+|**2026-02-09**|**The seismic diversity of four successive solar cycle minima as observed by the Birmingham Solar-Oscillations Network (BiSON)**|Sarbani Basu et.al.|[2602.09019](http://arxiv.org/abs/2602.09019)|null|
+|**2026-02-09**|**Robustness Is a Function, Not a Number: A Factorized Comprehensive Study of OOD Robustness in Vision-Based Driving**|Amir Mallak et.al.|[2602.09018](http://arxiv.org/abs/2602.09018)|null|
+|**2026-02-09**|**Contact-Anchored Policies: Contact Conditioning Creates Strong Robot Utility Models**|Zichen Jeff Cui et.al.|[2602.09017](http://arxiv.org/abs/2602.09017)|null|
+|**2026-02-09**|**Raster2Seq: Polygon Sequence Generation for Floorplan Reconstruction**|Hao Phung et.al.|[2602.09016](http://arxiv.org/abs/2602.09016)|null|
+|**2026-02-09**|**CIC-Trap4Phish: A Unified Multi-Format Dataset for Phishing and Quishing Attachment Detection**|Fatemeh Nejati et.al.|[2602.09015](http://arxiv.org/abs/2602.09015)|null|
+|**2026-02-09**|**Dexterous Manipulation Policies from RGB Human Videos via 4D Hand-Object Trajectory Reconstruction**|Hongyi Chen et.al.|[2602.09013](http://arxiv.org/abs/2602.09013)|null|
 |**2026-02-06**|**Learning a Generative Meta-Model of LLM Activations**|Grace Luo et.al.|[2602.06964](http://arxiv.org/abs/2602.06964)|null|
 |**2026-02-06**|**Charge- $4e$ superconductor with parafermionic vortices: A path to universal topological quantum computation**|Zhengyan Darius Shi et.al.|[2602.06963](http://arxiv.org/abs/2602.06963)|null|
 |**2026-02-06**|**The N-Body 2PN Hamiltonian and Numerical Integration of the Equations of Motion**|Felix M. Heinze et.al.|[2602.06961](http://arxiv.org/abs/2602.06961)|null|
@@ -314,6 +364,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-09**|**Autoregressive Image Generation with Masked Bit Modeling**|Qihang Yu et.al.|[2602.09024](http://arxiv.org/abs/2602.09024)|null|
+|**2026-02-09**|**TwinRL-VLA: Digital Twin-Driven Reinforcement Learning for Real-World Robotic Manipulation**|Qinwen Xu et.al.|[2602.09023](http://arxiv.org/abs/2602.09023)|null|
+|**2026-02-09**|**WorldCompass: Reinforcement Learning for Long-Horizon World Models**|Zehan Wang et.al.|[2602.09022](http://arxiv.org/abs/2602.09022)|null|
+|**2026-02-09**|**$χ_{0}$ : Resource-Aware Robust Manipulation via Taming Distributional Inconsistencies**|Checheng Yu et.al.|[2602.09021](http://arxiv.org/abs/2602.09021)|null|
+|**2026-02-09**|**Hybrid Method of Efficient Simulation of Physics Applications for a Quantum Computer**|Carla Rieger et.al.|[2602.09020](http://arxiv.org/abs/2602.09020)|null|
+|**2026-02-09**|**The seismic diversity of four successive solar cycle minima as observed by the Birmingham Solar-Oscillations Network (BiSON)**|Sarbani Basu et.al.|[2602.09019](http://arxiv.org/abs/2602.09019)|null|
+|**2026-02-09**|**Robustness Is a Function, Not a Number: A Factorized Comprehensive Study of OOD Robustness in Vision-Based Driving**|Amir Mallak et.al.|[2602.09018](http://arxiv.org/abs/2602.09018)|null|
+|**2026-02-09**|**Contact-Anchored Policies: Contact Conditioning Creates Strong Robot Utility Models**|Zichen Jeff Cui et.al.|[2602.09017](http://arxiv.org/abs/2602.09017)|null|
+|**2026-02-09**|**Raster2Seq: Polygon Sequence Generation for Floorplan Reconstruction**|Hao Phung et.al.|[2602.09016](http://arxiv.org/abs/2602.09016)|null|
+|**2026-02-09**|**CIC-Trap4Phish: A Unified Multi-Format Dataset for Phishing and Quishing Attachment Detection**|Fatemeh Nejati et.al.|[2602.09015](http://arxiv.org/abs/2602.09015)|null|
 |**2026-02-06**|**MedMO: Grounding and Understanding Multimodal Large Language Model for Medical Images**|Ankan Deria et.al.|[2602.06965](http://arxiv.org/abs/2602.06965)|null|
 |**2026-02-06**|**Learning a Generative Meta-Model of LLM Activations**|Grace Luo et.al.|[2602.06964](http://arxiv.org/abs/2602.06964)|null|
 |**2026-02-06**|**The N-Body 2PN Hamiltonian and Numerical Integration of the Equations of Motion**|Felix M. Heinze et.al.|[2602.06961](http://arxiv.org/abs/2602.06961)|null|
