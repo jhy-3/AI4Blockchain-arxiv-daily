@@ -1,4 +1,4 @@
-## Updated on 2026.02.12
+## Updated on 2026.02.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -61,7 +61,7 @@
 |**2025-04-22**|**Trustworthy Decentralized Autonomous Machines: A New Paradigm in Automation Economy**|Fernando Castillo et.al.|[2504.15676](http://arxiv.org/abs/2504.15676)|null|
 |**2025-03-20**|**Financial Twin Chain, a Platform to Support Financial Sustainability in Supply Chains**|Giuseppe Galante et.al.|[2503.15980](http://arxiv.org/abs/2503.15980)|null|
 
-<p align=right>(<a href=#updated-on-20260212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260213>back to top</a>)</p>
 
 ## Smart Contracts & AI
 
@@ -88,7 +88,7 @@
 |**2025-10-07**|**Smart Contract Adoption under Discrete Overdispersed Demand: A Negative Binomial Optimization Perspective**|Jinho Cha et.al.|[2510.05487](http://arxiv.org/abs/2510.05487)|null|
 |**2025-10-06**|**LMM-Incentive: Large Multimodal Model-based Incentive Design for User-Generated Content in Web 3.0**|Jinbo Wen et.al.|[2510.04765](http://arxiv.org/abs/2510.04765)|null|
 
-<p align=right>(<a href=#updated-on-20260212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260213>back to top</a>)</p>
 
 ## Blockchain Consensus & AI
 
@@ -124,7 +124,7 @@
 |**2022-09-30**|**Blockchain-based Monitoring for Poison Attack Detection in Decentralized Federated Learning**|Ranwa Al Mallah et.al.|[2210.02873](http://arxiv.org/abs/2210.02873)|null|
 |**2021-11-12**|**Device-Independent-Quantum-Randomness-Enhanced Zero-Knowledge Proof**|Cheng-Long Li et.al.|[2111.06717](http://arxiv.org/abs/2111.06717)|null|
 
-<p align=right>(<a href=#updated-on-20260212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260213>back to top</a>)</p>
 
 ## DeFi & AI
 
@@ -143,12 +143,22 @@
 |**2025-10-24**|**Machine Learning Prediction of Magnetic Proximity Effect in van der Waals Heterostructures: From Atoms to Moiré**|Lukas Cvitkovich et.al.|[2508.12406](http://arxiv.org/abs/2508.12406)|null|
 |**2025-09-12**|**Web3 x AI Agents: Landscape, Integrations, and Foundational Challenges**|Yiming Shen et.al.|[2508.02773](http://arxiv.org/abs/2508.02773)|null|
 
-<p align=right>(<a href=#updated-on-20260212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260213>back to top</a>)</p>
 
 ## Blockchain
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-11**|**Mapping reservoir-enhanced superconductivity to near-long-range magnetic order in the undoped 1D Anderson- and Kondo-lattices**|J. E. Ebot et.al.|[2602.11153](http://arxiv.org/abs/2602.11153)|null|
+|**2026-02-11**|**Utilitarian Distortion Under Probabilistic Voting**|Hamidreza Alipour et.al.|[2602.11152](http://arxiv.org/abs/2602.11152)|null|
+|**2026-02-11**|**Data Repetition Beats Data Scaling in Long-CoT Supervised Fine-Tuning**|Dawid J. Kopiczko et.al.|[2602.11149](http://arxiv.org/abs/2602.11149)|null|
+|**2026-02-11**|**Let Leaders Play Games: Improving Timing in Leader-based Consensus**|Rasheed M et.al.|[2602.11147](http://arxiv.org/abs/2602.11147)|null|
+|**2026-02-11**|**TabICLv2: A better, faster, scalable, and open tabular foundation model**|Jingang Qu et.al.|[2602.11139](http://arxiv.org/abs/2602.11139)|null|
+|**2026-02-11**|**Divided powers on abelian varieties**|Bruno Kahn et.al.|[2602.11135](http://arxiv.org/abs/2602.11135)|null|
+|**2026-02-11**|**A New Look at Bayesian Testing**|Jyotishka Datta et.al.|[2602.11132](http://arxiv.org/abs/2602.11132)|null|
+|**2026-02-11**|**Formalization and inevitability of the Pareto principle**|Antti Hippeläinen et.al.|[2602.11131](http://arxiv.org/abs/2602.11131)|null|
+|**2026-02-11**|**The Offline-Frontier Shift: Diagnosing Distributional Limits in Generative Multi-Objective Optimization**|Stephanie Holly et.al.|[2602.11126](http://arxiv.org/abs/2602.11126)|null|
+|**2026-02-11**|**Min-Sum Uniform Coverage Problem by Autonomous Mobile Robots**|Animesh Maiti et.al.|[2602.11125](http://arxiv.org/abs/2602.11125)|null|
 |**2026-02-10**|**Biases in the Blind Spot: Detecting What LLMs Fail to Mention**|Iván Arcuschin et.al.|[2602.10117](http://arxiv.org/abs/2602.10117)|null|
 |**2026-02-10**|**Decoupled MPPI-Based Multi-Arm Motion Planning**|Dan Evron et.al.|[2602.10114](http://arxiv.org/abs/2602.10114)|null|
 |**2026-02-10**|**Minimal Freeze-in Dark Matter: Reviving electroweak doublet dark matter with Boltzmann suppressed freeze-in**|Nicolás Bernal et.al.|[2602.10112](http://arxiv.org/abs/2602.10112)|null|
@@ -200,12 +210,22 @@
 |**2026-02-04**|**Capacity Bounds on Doppler OFDM Channels**|Pablo Orellana et.al.|[2602.04862](http://arxiv.org/abs/2602.04862)|null|
 |**2026-02-04**|**CoT is Not the Chain of Truth: An Empirical Internal Analysis of Reasoning LLMs for Fake News Generation**|Zhao Tong et.al.|[2602.04856](http://arxiv.org/abs/2602.04856)|null|
 
-<p align=right>(<a href=#updated-on-20260212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260213>back to top</a>)</p>
 
 ## Smart Contract
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-11**|**SurfPhase: 3D Interfacial Dynamics in Two-Phase Flows from Sparse Videos**|Yue Gao et.al.|[2602.11154](http://arxiv.org/abs/2602.11154)|null|
+|**2026-02-11**|**Mapping reservoir-enhanced superconductivity to near-long-range magnetic order in the undoped 1D Anderson- and Kondo-lattices**|J. E. Ebot et.al.|[2602.11153](http://arxiv.org/abs/2602.11153)|null|
+|**2026-02-11**|**Utilitarian Distortion Under Probabilistic Voting**|Hamidreza Alipour et.al.|[2602.11152](http://arxiv.org/abs/2602.11152)|null|
+|**2026-02-11**|**YOR: Your Own Mobile Manipulator for Generalizable Robotics**|Manan H Anjaria et.al.|[2602.11150](http://arxiv.org/abs/2602.11150)|null|
+|**2026-02-11**|**Data Repetition Beats Data Scaling in Long-CoT Supervised Fine-Tuning**|Dawid J. Kopiczko et.al.|[2602.11149](http://arxiv.org/abs/2602.11149)|null|
+|**2026-02-11**|**Unmasking LHAASO J2108+5157: Near Infrared Insights into a Mysterious TeV Source**|Josep Martí et.al.|[2602.11148](http://arxiv.org/abs/2602.11148)|null|
+|**2026-02-11**|**Beyond VLM-Based Rewards: Diffusion-Native Latent Reward Modeling**|Gongye Liu et.al.|[2602.11146](http://arxiv.org/abs/2602.11146)|null|
+|**2026-02-11**|**SCRAPL: Scattering Transform with Random Paths for Machine Learning**|Christopher Mitcheltree et.al.|[2602.11145](http://arxiv.org/abs/2602.11145)|null|
+|**2026-02-11**|**GENIUS: Generative Fluid Intelligence Evaluation Suite**|Ruichuan An et.al.|[2602.11144](http://arxiv.org/abs/2602.11144)|null|
+|**2026-02-11**|**TabICLv2: A better, faster, scalable, and open tabular foundation model**|Jingang Qu et.al.|[2602.11139](http://arxiv.org/abs/2602.11139)|null|
 |**2026-02-10**|**SAGE: Scalable Agentic 3D Scene Generation for Embodied AI**|Hongchi Xia et.al.|[2602.10116](http://arxiv.org/abs/2602.10116)|null|
 |**2026-02-10**|**Quantum Multiple Rotation Averaging**|Shuteng Wang et.al.|[2602.10115](http://arxiv.org/abs/2602.10115)|null|
 |**2026-02-10**|**ConsID-Gen: View-Consistent and Identity-Preserving Image-to-Video Generation**|Mingyang Wu et.al.|[2602.10113](http://arxiv.org/abs/2602.10113)|null|
@@ -257,12 +277,22 @@
 |**2026-02-04**|**Homological Mirror Symmetry for orbifold log Calabi-Yau surfaces**|Bogdan Simeonov et.al.|[2602.04866](http://arxiv.org/abs/2602.04866)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260213>back to top</a>)</p>
 
 ## Consensus
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-11**|**Mapping reservoir-enhanced superconductivity to near-long-range magnetic order in the undoped 1D Anderson- and Kondo-lattices**|J. E. Ebot et.al.|[2602.11153](http://arxiv.org/abs/2602.11153)|null|
+|**2026-02-11**|**Utilitarian Distortion Under Probabilistic Voting**|Hamidreza Alipour et.al.|[2602.11152](http://arxiv.org/abs/2602.11152)|null|
+|**2026-02-11**|**Diffusion-Pretrained Dense and Contextual Embeddings**|Sedigheh Eslami et.al.|[2602.11151](http://arxiv.org/abs/2602.11151)|null|
+|**2026-02-11**|**Data Repetition Beats Data Scaling in Long-CoT Supervised Fine-Tuning**|Dawid J. Kopiczko et.al.|[2602.11149](http://arxiv.org/abs/2602.11149)|null|
+|**2026-02-11**|**Let Leaders Play Games: Improving Timing in Leader-based Consensus**|Rasheed M et.al.|[2602.11147](http://arxiv.org/abs/2602.11147)|null|
+|**2026-02-11**|**Beyond VLM-Based Rewards: Diffusion-Native Latent Reward Modeling**|Gongye Liu et.al.|[2602.11146](http://arxiv.org/abs/2602.11146)|null|
+|**2026-02-11**|**APEX: Learning Adaptive High-Platform Traversal for Humanoid Robots**|Yikai Wang et.al.|[2602.11143](http://arxiv.org/abs/2602.11143)|null|
+|**2026-02-11**|**Data-Efficient Hierarchical Goal-Conditioned Reinforcement Learning via Normalizing Flows**|Shaswat Garg et.al.|[2602.11142](http://arxiv.org/abs/2602.11142)|null|
+|**2026-02-11**|**LCIP: Loss-Controlled Inverse Projection of High-Dimensional Image Data**|Yu Wang et.al.|[2602.11141](http://arxiv.org/abs/2602.11141)|null|
+|**2026-02-11**|**Reed-Muller Error-Correction Code Encoder for SFQ-to-CMOS Interface Circuits**|Yerzhan Mustafa et.al.|[2602.11140](http://arxiv.org/abs/2602.11140)|null|
 |**2026-02-10**|**Biases in the Blind Spot: Detecting What LLMs Fail to Mention**|Iván Arcuschin et.al.|[2602.10117](http://arxiv.org/abs/2602.10117)|null|
 |**2026-02-10**|**SAGE: Scalable Agentic 3D Scene Generation for Embodied AI**|Hongchi Xia et.al.|[2602.10116](http://arxiv.org/abs/2602.10116)|null|
 |**2026-02-10**|**Quantum Multiple Rotation Averaging**|Shuteng Wang et.al.|[2602.10115](http://arxiv.org/abs/2602.10115)|null|
@@ -314,12 +344,22 @@
 |**2026-02-04**|**Requirements for Teleportation in an Intercity Quantum Network**|Soubhadra Maiti et.al.|[2602.04869](http://arxiv.org/abs/2602.04869)|null|
 |**2026-02-04**|**CRoSS: A Continual Robotic Simulation Suite for Scalable Reinforcement Learning with High Task Diversity and Realistic Physics Simulation**|Yannick Denker et.al.|[2602.04868](http://arxiv.org/abs/2602.04868)|null|
 
-<p align=right>(<a href=#updated-on-20260212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260213>back to top</a>)</p>
 
 ## DeFi
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-11**|**SurfPhase: 3D Interfacial Dynamics in Two-Phase Flows from Sparse Videos**|Yue Gao et.al.|[2602.11154](http://arxiv.org/abs/2602.11154)|null|
+|**2026-02-11**|**Mapping reservoir-enhanced superconductivity to near-long-range magnetic order in the undoped 1D Anderson- and Kondo-lattices**|J. E. Ebot et.al.|[2602.11153](http://arxiv.org/abs/2602.11153)|null|
+|**2026-02-11**|**Diffusion-Pretrained Dense and Contextual Embeddings**|Sedigheh Eslami et.al.|[2602.11151](http://arxiv.org/abs/2602.11151)|null|
+|**2026-02-11**|**Data Repetition Beats Data Scaling in Long-CoT Supervised Fine-Tuning**|Dawid J. Kopiczko et.al.|[2602.11149](http://arxiv.org/abs/2602.11149)|null|
+|**2026-02-11**|**Let Leaders Play Games: Improving Timing in Leader-based Consensus**|Rasheed M et.al.|[2602.11147](http://arxiv.org/abs/2602.11147)|null|
+|**2026-02-11**|**Reed-Muller Error-Correction Code Encoder for SFQ-to-CMOS Interface Circuits**|Yerzhan Mustafa et.al.|[2602.11140](http://arxiv.org/abs/2602.11140)|null|
+|**2026-02-11**|**TabICLv2: A better, faster, scalable, and open tabular foundation model**|Jingang Qu et.al.|[2602.11139](http://arxiv.org/abs/2602.11139)|null|
+|**2026-02-11**|**Demonstration and performance of an online data selection algorithm for liquid argon time projection chambers using MicroBooNE**|MicroBooNE collaboration et.al.|[2602.11138](http://arxiv.org/abs/2602.11138)|null|
+|**2026-02-11**|**Just on Time: Token-Level Early Stopping for Diffusion Language Models**|Zahar Kohut et.al.|[2602.11133](http://arxiv.org/abs/2602.11133)|null|
+|**2026-02-11**|**Formalization and inevitability of the Pareto principle**|Antti Hippeläinen et.al.|[2602.11131](http://arxiv.org/abs/2602.11131)|null|
 |**2026-02-10**|**Biases in the Blind Spot: Detecting What LLMs Fail to Mention**|Iván Arcuschin et.al.|[2602.10117](http://arxiv.org/abs/2602.10117)|null|
 |**2026-02-10**|**SAGE: Scalable Agentic 3D Scene Generation for Embodied AI**|Hongchi Xia et.al.|[2602.10116](http://arxiv.org/abs/2602.10116)|null|
 |**2026-02-10**|**ConsID-Gen: View-Consistent and Identity-Preserving Image-to-Video Generation**|Mingyang Wu et.al.|[2602.10113](http://arxiv.org/abs/2602.10113)|null|
@@ -381,12 +421,22 @@
 |**2026-02-05**|**TxRay: Agentic Postmortem of Live Blockchain Attacks**|Ziyue Wang et.al.|[2602.01317](http://arxiv.org/abs/2602.01317)|null|
 |**2026-01-30**|**Quasiperiodic Skin Criticality in an Exactly Solvable Non-Hermitian Quasicrystal**|Zhangyuan Chen et.al.|[2601.23015](http://arxiv.org/abs/2601.23015)|null|
 
-<p align=right>(<a href=#updated-on-20260212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260213>back to top</a>)</p>
 
 ## Cryptography
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-11**|**SurfPhase: 3D Interfacial Dynamics in Two-Phase Flows from Sparse Videos**|Yue Gao et.al.|[2602.11154](http://arxiv.org/abs/2602.11154)|null|
+|**2026-02-11**|**Diffusion-Pretrained Dense and Contextual Embeddings**|Sedigheh Eslami et.al.|[2602.11151](http://arxiv.org/abs/2602.11151)|null|
+|**2026-02-11**|**YOR: Your Own Mobile Manipulator for Generalizable Robotics**|Manan H Anjaria et.al.|[2602.11150](http://arxiv.org/abs/2602.11150)|null|
+|**2026-02-11**|**Data Repetition Beats Data Scaling in Long-CoT Supervised Fine-Tuning**|Dawid J. Kopiczko et.al.|[2602.11149](http://arxiv.org/abs/2602.11149)|null|
+|**2026-02-11**|**Unmasking LHAASO J2108+5157: Near Infrared Insights into a Mysterious TeV Source**|Josep Martí et.al.|[2602.11148](http://arxiv.org/abs/2602.11148)|null|
+|**2026-02-11**|**Beyond VLM-Based Rewards: Diffusion-Native Latent Reward Modeling**|Gongye Liu et.al.|[2602.11146](http://arxiv.org/abs/2602.11146)|null|
+|**2026-02-11**|**SCRAPL: Scattering Transform with Random Paths for Machine Learning**|Christopher Mitcheltree et.al.|[2602.11145](http://arxiv.org/abs/2602.11145)|null|
+|**2026-02-11**|**GENIUS: Generative Fluid Intelligence Evaluation Suite**|Ruichuan An et.al.|[2602.11144](http://arxiv.org/abs/2602.11144)|null|
+|**2026-02-11**|**APEX: Learning Adaptive High-Platform Traversal for Humanoid Robots**|Yikai Wang et.al.|[2602.11143](http://arxiv.org/abs/2602.11143)|null|
+|**2026-02-11**|**Data-Efficient Hierarchical Goal-Conditioned Reinforcement Learning via Normalizing Flows**|Shaswat Garg et.al.|[2602.11142](http://arxiv.org/abs/2602.11142)|null|
 |**2026-02-10**|**Decoupled MPPI-Based Multi-Arm Motion Planning**|Dan Evron et.al.|[2602.10114](http://arxiv.org/abs/2602.10114)|null|
 |**2026-02-10**|**Measurement of the Full Shape of the Thermal Sunyaev-Zeldovich Power Spectrum from South Pole Telescope and {\it Herschel}-SPIRE Observations**|S. Raghunathan et.al.|[2602.10107](http://arxiv.org/abs/2602.10107)|null|
 |**2026-02-10**|**DexImit: Learning Bimanual Dexterous Manipulation from Monocular Human Videos**|Juncheng Mu et.al.|[2602.10105](http://arxiv.org/abs/2602.10105)|null|
@@ -438,12 +488,22 @@
 |**2026-02-04**|**Characterizing $(d,h)$ -elliptic stable irreducible curves**|Juliana Coelho et.al.|[2602.04865](http://arxiv.org/abs/2602.04865)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260213>back to top</a>)</p>
 
 ## AI in Finance
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-11**|**Mapping reservoir-enhanced superconductivity to near-long-range magnetic order in the undoped 1D Anderson- and Kondo-lattices**|J. E. Ebot et.al.|[2602.11153](http://arxiv.org/abs/2602.11153)|null|
+|**2026-02-11**|**Utilitarian Distortion Under Probabilistic Voting**|Hamidreza Alipour et.al.|[2602.11152](http://arxiv.org/abs/2602.11152)|null|
+|**2026-02-11**|**Diffusion-Pretrained Dense and Contextual Embeddings**|Sedigheh Eslami et.al.|[2602.11151](http://arxiv.org/abs/2602.11151)|null|
+|**2026-02-11**|**YOR: Your Own Mobile Manipulator for Generalizable Robotics**|Manan H Anjaria et.al.|[2602.11150](http://arxiv.org/abs/2602.11150)|null|
+|**2026-02-11**|**Data Repetition Beats Data Scaling in Long-CoT Supervised Fine-Tuning**|Dawid J. Kopiczko et.al.|[2602.11149](http://arxiv.org/abs/2602.11149)|null|
+|**2026-02-11**|**Unmasking LHAASO J2108+5157: Near Infrared Insights into a Mysterious TeV Source**|Josep Martí et.al.|[2602.11148](http://arxiv.org/abs/2602.11148)|null|
+|**2026-02-11**|**Let Leaders Play Games: Improving Timing in Leader-based Consensus**|Rasheed M et.al.|[2602.11147](http://arxiv.org/abs/2602.11147)|null|
+|**2026-02-11**|**Beyond VLM-Based Rewards: Diffusion-Native Latent Reward Modeling**|Gongye Liu et.al.|[2602.11146](http://arxiv.org/abs/2602.11146)|null|
+|**2026-02-11**|**SCRAPL: Scattering Transform with Random Paths for Machine Learning**|Christopher Mitcheltree et.al.|[2602.11145](http://arxiv.org/abs/2602.11145)|null|
+|**2026-02-11**|**GENIUS: Generative Fluid Intelligence Evaluation Suite**|Ruichuan An et.al.|[2602.11144](http://arxiv.org/abs/2602.11144)|null|
 |**2026-02-10**|**Biases in the Blind Spot: Detecting What LLMs Fail to Mention**|Iván Arcuschin et.al.|[2602.10117](http://arxiv.org/abs/2602.10117)|null|
 |**2026-02-10**|**SAGE: Scalable Agentic 3D Scene Generation for Embodied AI**|Hongchi Xia et.al.|[2602.10116](http://arxiv.org/abs/2602.10116)|null|
 |**2026-02-10**|**Quantum Multiple Rotation Averaging**|Shuteng Wang et.al.|[2602.10115](http://arxiv.org/abs/2602.10115)|null|
@@ -495,7 +555,7 @@
 |**2026-02-04**|**Multi-layer Cross-Attention is Provably Optimal for Multi-modal In-context Learning**|Nicholas Barnfield et.al.|[2602.04872](http://arxiv.org/abs/2602.04872)|null|
 |**2026-02-04**|**Multi-Head LatentMoE and Head Parallel: Communication-Efficient and Deterministic MoE Parallelism**|Chenwei Cui et.al.|[2602.04870](http://arxiv.org/abs/2602.04870)|null|
 
-<p align=right>(<a href=#updated-on-20260212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260213>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/jhy-3/AI4Blockchain-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/jhy-3/AI4Blockchain-arxiv-daily/graphs/contributors
