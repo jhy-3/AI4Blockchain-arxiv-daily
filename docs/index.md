@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.13
+## Updated on 2026.02.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**Ubiquitous yet forgotten: broad absorptions in the optical spectra of low-mass X-ray binaries**|D. Mata Sanchez et.al.|[2602.12282](http://arxiv.org/abs/2602.12282)|null|
+|**2026-02-12**|**Scaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment**|Jacky Kwok et.al.|[2602.12281](http://arxiv.org/abs/2602.12281)|null|
+|**2026-02-12**|**UniT: Unified Multimodal Chain-of-Thought Test-time Scaling**|Leon Liangyu Chen et.al.|[2602.12279](http://arxiv.org/abs/2602.12279)|null|
+|**2026-02-12**|**AttentionRetriever: Attention Layers are Secretly Long Document Retrievers**|David Jiahao Fu et.al.|[2602.12278](http://arxiv.org/abs/2602.12278)|null|
+|**2026-02-12**|**Reionization Bubbles from Real-Space Cross Correlations of Line Intensity Maps**|Emilie Thélie et.al.|[2602.12277](http://arxiv.org/abs/2602.12277)|null|
+|**2026-02-12**|**Agentic Test-Time Scaling for WebAgents**|Nicholas Lee et.al.|[2602.12276](http://arxiv.org/abs/2602.12276)|null|
+|**2026-02-12**|**On-Policy Context Distillation for Language Models**|Tianzhu Ye et.al.|[2602.12275](http://arxiv.org/abs/2602.12275)|null|
+|**2026-02-12**|**Function-Space Decoupled Diffusion for Forward and Inverse Modeling in Carbon Capture and Storage**|Xin Ju et.al.|[2602.12274](http://arxiv.org/abs/2602.12274)|null|
+|**2026-02-12**|**The Wandering Supermassive Black Hole Powering the off-nuclear TDE AT2024tvd**|M. Guolo et.al.|[2602.12272](http://arxiv.org/abs/2602.12272)|null|
+|**2026-02-12**|**MonarchRT: Efficient Attention for Real-Time Video Generation**|Krish Agarwal et.al.|[2602.12271](http://arxiv.org/abs/2602.12271)|null|
 |**2026-02-11**|**Mapping reservoir-enhanced superconductivity to near-long-range magnetic order in the undoped 1D Anderson- and Kondo-lattices**|J. E. Ebot et.al.|[2602.11153](http://arxiv.org/abs/2602.11153)|null|
 |**2026-02-11**|**Utilitarian Distortion Under Probabilistic Voting**|Hamidreza Alipour et.al.|[2602.11152](http://arxiv.org/abs/2602.11152)|null|
 |**2026-02-11**|**Data Repetition Beats Data Scaling in Long-CoT Supervised Fine-Tuning**|Dawid J. Kopiczko et.al.|[2602.11149](http://arxiv.org/abs/2602.11149)|null|
@@ -194,6 +204,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**Scaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment**|Jacky Kwok et.al.|[2602.12281](http://arxiv.org/abs/2602.12281)|null|
+|**2026-02-12**|**Stroke of Surprise: Progressive Semantic Illusions in Vector Sketching**|Huai-Hsun Cheng et.al.|[2602.12280](http://arxiv.org/abs/2602.12280)|null|
+|**2026-02-12**|**UniT: Unified Multimodal Chain-of-Thought Test-time Scaling**|Leon Liangyu Chen et.al.|[2602.12279](http://arxiv.org/abs/2602.12279)|null|
+|**2026-02-12**|**On-Policy Context Distillation for Language Models**|Tianzhu Ye et.al.|[2602.12275](http://arxiv.org/abs/2602.12275)|null|
+|**2026-02-12**|**Learning to Control: The iUzawa-Net for Nonsmooth Optimal Control of Linear PDEs**|Yongcun Song et.al.|[2602.12273](http://arxiv.org/abs/2602.12273)|null|
+|**2026-02-12**|**MonarchRT: Efficient Attention for Real-Time Video Generation**|Krish Agarwal et.al.|[2602.12271](http://arxiv.org/abs/2602.12271)|null|
+|**2026-02-12**|**Certification of linear optical quantum state preparation**|Riko Schadow et.al.|[2602.12269](http://arxiv.org/abs/2602.12269)|null|
+|**2026-02-12**|**CM2: Reinforcement Learning with Checklist Rewards for Multi-Turn and Multi-Step Agentic Tool Use**|Zhen Zhang et.al.|[2602.12268](http://arxiv.org/abs/2602.12268)|null|
+|**2026-02-12**|**Self-Supervised Learning via Flow-Guided Neural Operator on Time-Series Data**|Duy Nguyen et.al.|[2602.12267](http://arxiv.org/abs/2602.12267)|null|
+|**2026-02-12**|**Transmit or Idle: Efficient AoI Optimal Transmission Policy for Gossiping Receivers**|Irtiza Hasan et.al.|[2602.12264](http://arxiv.org/abs/2602.12264)|null|
 |**2026-02-11**|**SurfPhase: 3D Interfacial Dynamics in Two-Phase Flows from Sparse Videos**|Yue Gao et.al.|[2602.11154](http://arxiv.org/abs/2602.11154)|null|
 |**2026-02-11**|**Mapping reservoir-enhanced superconductivity to near-long-range magnetic order in the undoped 1D Anderson- and Kondo-lattices**|J. E. Ebot et.al.|[2602.11153](http://arxiv.org/abs/2602.11153)|null|
 |**2026-02-11**|**Utilitarian Distortion Under Probabilistic Voting**|Hamidreza Alipour et.al.|[2602.11152](http://arxiv.org/abs/2602.11152)|null|
@@ -259,6 +279,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**Ubiquitous yet forgotten: broad absorptions in the optical spectra of low-mass X-ray binaries**|D. Mata Sanchez et.al.|[2602.12282](http://arxiv.org/abs/2602.12282)|null|
+|**2026-02-12**|**Stroke of Surprise: Progressive Semantic Illusions in Vector Sketching**|Huai-Hsun Cheng et.al.|[2602.12280](http://arxiv.org/abs/2602.12280)|null|
+|**2026-02-12**|**AttentionRetriever: Attention Layers are Secretly Long Document Retrievers**|David Jiahao Fu et.al.|[2602.12278](http://arxiv.org/abs/2602.12278)|null|
+|**2026-02-12**|**Agentic Test-Time Scaling for WebAgents**|Nicholas Lee et.al.|[2602.12276](http://arxiv.org/abs/2602.12276)|null|
+|**2026-02-12**|**On-Policy Context Distillation for Language Models**|Tianzhu Ye et.al.|[2602.12275](http://arxiv.org/abs/2602.12275)|null|
+|**2026-02-12**|**Function-Space Decoupled Diffusion for Forward and Inverse Modeling in Carbon Capture and Storage**|Xin Ju et.al.|[2602.12274](http://arxiv.org/abs/2602.12274)|null|
+|**2026-02-12**|**Learning to Control: The iUzawa-Net for Nonsmooth Optimal Control of Linear PDEs**|Yongcun Song et.al.|[2602.12273](http://arxiv.org/abs/2602.12273)|null|
+|**2026-02-12**|**MonarchRT: Efficient Attention for Real-Time Video Generation**|Krish Agarwal et.al.|[2602.12271](http://arxiv.org/abs/2602.12271)|null|
+|**2026-02-12**|**Creative Ownership in the Age of AI**|Annie Liang et.al.|[2602.12270](http://arxiv.org/abs/2602.12270)|null|
+|**2026-02-12**|**Certification of linear optical quantum state preparation**|Riko Schadow et.al.|[2602.12269](http://arxiv.org/abs/2602.12269)|null|
 |**2026-02-11**|**Mapping reservoir-enhanced superconductivity to near-long-range magnetic order in the undoped 1D Anderson- and Kondo-lattices**|J. E. Ebot et.al.|[2602.11153](http://arxiv.org/abs/2602.11153)|null|
 |**2026-02-11**|**Utilitarian Distortion Under Probabilistic Voting**|Hamidreza Alipour et.al.|[2602.11152](http://arxiv.org/abs/2602.11152)|null|
 |**2026-02-11**|**Diffusion-Pretrained Dense and Contextual Embeddings**|Sedigheh Eslami et.al.|[2602.11151](http://arxiv.org/abs/2602.11151)|null|
@@ -324,6 +354,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**Scaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment**|Jacky Kwok et.al.|[2602.12281](http://arxiv.org/abs/2602.12281)|null|
+|**2026-02-12**|**Agentic Test-Time Scaling for WebAgents**|Nicholas Lee et.al.|[2602.12276](http://arxiv.org/abs/2602.12276)|null|
+|**2026-02-12**|**MonarchRT: Efficient Attention for Real-Time Video Generation**|Krish Agarwal et.al.|[2602.12271](http://arxiv.org/abs/2602.12271)|null|
+|**2026-02-12**|**Self-Supervised Learning via Flow-Guided Neural Operator on Time-Series Data**|Duy Nguyen et.al.|[2602.12267](http://arxiv.org/abs/2602.12267)|null|
+|**2026-02-12**|**Transmit or Idle: Efficient AoI Optimal Transmission Policy for Gossiping Receivers**|Irtiza Hasan et.al.|[2602.12264](http://arxiv.org/abs/2602.12264)|null|
+|**2026-02-12**|**Legitimate Overrides in Decentralized Protocols**|Oghenekaro Elem et.al.|[2602.12260](http://arxiv.org/abs/2602.12260)|null|
+|**2026-02-12**|**Automated Test Suite Enhancement Using Large Language Models with Few-shot Prompting**|Alex Chudic et.al.|[2602.12256](http://arxiv.org/abs/2602.12256)|null|
+|**2026-02-12**|**Vision Transformer for Multi-Domain Phase Retrieval in Coherent Diffraction Imaging**|Jialun Liu et.al.|[2602.12255](http://arxiv.org/abs/2602.12255)|null|
+|**2026-02-12**|**Is Online Linear Optimization Sufficient for Strategic Robustness?**|Yang Cai et.al.|[2602.12253](http://arxiv.org/abs/2602.12253)|null|
+|**2026-02-12**|**ExtractBench: A Benchmark and Evaluation Methodology for Complex Structured Extraction**|Nick Ferguson et.al.|[2602.12247](http://arxiv.org/abs/2602.12247)|null|
 |**2026-02-11**|**SurfPhase: 3D Interfacial Dynamics in Two-Phase Flows from Sparse Videos**|Yue Gao et.al.|[2602.11154](http://arxiv.org/abs/2602.11154)|null|
 |**2026-02-11**|**Mapping reservoir-enhanced superconductivity to near-long-range magnetic order in the undoped 1D Anderson- and Kondo-lattices**|J. E. Ebot et.al.|[2602.11153](http://arxiv.org/abs/2602.11153)|null|
 |**2026-02-11**|**Diffusion-Pretrained Dense and Contextual Embeddings**|Sedigheh Eslami et.al.|[2602.11151](http://arxiv.org/abs/2602.11151)|null|
@@ -399,6 +439,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**Scaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment**|Jacky Kwok et.al.|[2602.12281](http://arxiv.org/abs/2602.12281)|null|
+|**2026-02-12**|**UniT: Unified Multimodal Chain-of-Thought Test-time Scaling**|Leon Liangyu Chen et.al.|[2602.12279](http://arxiv.org/abs/2602.12279)|null|
+|**2026-02-12**|**Agentic Test-Time Scaling for WebAgents**|Nicholas Lee et.al.|[2602.12276](http://arxiv.org/abs/2602.12276)|null|
+|**2026-02-12**|**On-Policy Context Distillation for Language Models**|Tianzhu Ye et.al.|[2602.12275](http://arxiv.org/abs/2602.12275)|null|
+|**2026-02-12**|**Function-Space Decoupled Diffusion for Forward and Inverse Modeling in Carbon Capture and Storage**|Xin Ju et.al.|[2602.12274](http://arxiv.org/abs/2602.12274)|null|
+|**2026-02-12**|**Learning to Control: The iUzawa-Net for Nonsmooth Optimal Control of Linear PDEs**|Yongcun Song et.al.|[2602.12273](http://arxiv.org/abs/2602.12273)|null|
+|**2026-02-12**|**MonarchRT: Efficient Attention for Real-Time Video Generation**|Krish Agarwal et.al.|[2602.12271](http://arxiv.org/abs/2602.12271)|null|
+|**2026-02-12**|**Certification of linear optical quantum state preparation**|Riko Schadow et.al.|[2602.12269](http://arxiv.org/abs/2602.12269)|null|
+|**2026-02-12**|**Self-Supervised Learning via Flow-Guided Neural Operator on Time-Series Data**|Duy Nguyen et.al.|[2602.12267](http://arxiv.org/abs/2602.12267)|null|
+|**2026-02-12**|**Holographic Equidistribution**|Nico Cooper et.al.|[2602.12265](http://arxiv.org/abs/2602.12265)|null|
 |**2026-02-11**|**SurfPhase: 3D Interfacial Dynamics in Two-Phase Flows from Sparse Videos**|Yue Gao et.al.|[2602.11154](http://arxiv.org/abs/2602.11154)|null|
 |**2026-02-11**|**Diffusion-Pretrained Dense and Contextual Embeddings**|Sedigheh Eslami et.al.|[2602.11151](http://arxiv.org/abs/2602.11151)|null|
 |**2026-02-11**|**YOR: Your Own Mobile Manipulator for Generalizable Robotics**|Manan H Anjaria et.al.|[2602.11150](http://arxiv.org/abs/2602.11150)|null|
@@ -464,6 +514,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**Ubiquitous yet forgotten: broad absorptions in the optical spectra of low-mass X-ray binaries**|D. Mata Sanchez et.al.|[2602.12282](http://arxiv.org/abs/2602.12282)|null|
+|**2026-02-12**|**Scaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment**|Jacky Kwok et.al.|[2602.12281](http://arxiv.org/abs/2602.12281)|null|
+|**2026-02-12**|**Stroke of Surprise: Progressive Semantic Illusions in Vector Sketching**|Huai-Hsun Cheng et.al.|[2602.12280](http://arxiv.org/abs/2602.12280)|null|
+|**2026-02-12**|**UniT: Unified Multimodal Chain-of-Thought Test-time Scaling**|Leon Liangyu Chen et.al.|[2602.12279](http://arxiv.org/abs/2602.12279)|null|
+|**2026-02-12**|**On-Policy Context Distillation for Language Models**|Tianzhu Ye et.al.|[2602.12275](http://arxiv.org/abs/2602.12275)|null|
+|**2026-02-12**|**Function-Space Decoupled Diffusion for Forward and Inverse Modeling in Carbon Capture and Storage**|Xin Ju et.al.|[2602.12274](http://arxiv.org/abs/2602.12274)|null|
+|**2026-02-12**|**Learning to Control: The iUzawa-Net for Nonsmooth Optimal Control of Linear PDEs**|Yongcun Song et.al.|[2602.12273](http://arxiv.org/abs/2602.12273)|null|
+|**2026-02-12**|**The Wandering Supermassive Black Hole Powering the off-nuclear TDE AT2024tvd**|M. Guolo et.al.|[2602.12272](http://arxiv.org/abs/2602.12272)|null|
+|**2026-02-12**|**MonarchRT: Efficient Attention for Real-Time Video Generation**|Krish Agarwal et.al.|[2602.12271](http://arxiv.org/abs/2602.12271)|null|
+|**2026-02-12**|**Creative Ownership in the Age of AI**|Annie Liang et.al.|[2602.12270](http://arxiv.org/abs/2602.12270)|null|
 |**2026-02-11**|**Mapping reservoir-enhanced superconductivity to near-long-range magnetic order in the undoped 1D Anderson- and Kondo-lattices**|J. E. Ebot et.al.|[2602.11153](http://arxiv.org/abs/2602.11153)|null|
 |**2026-02-11**|**Utilitarian Distortion Under Probabilistic Voting**|Hamidreza Alipour et.al.|[2602.11152](http://arxiv.org/abs/2602.11152)|null|
 |**2026-02-11**|**Diffusion-Pretrained Dense and Contextual Embeddings**|Sedigheh Eslami et.al.|[2602.11151](http://arxiv.org/abs/2602.11151)|null|
