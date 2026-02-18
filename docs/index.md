@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.17
+## Updated on 2026.02.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -384,6 +384,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-16**|**EditCtrl: Disentangled Local and Global Control for Real-Time Generative Video Editing**|Yehonathan Litman et.al.|[2602.15031](http://arxiv.org/abs/2602.15031)|null|
+|**2026-02-16**|**Image Generation with a Sphere Encoder**|Kaiyu Yue et.al.|[2602.15030](http://arxiv.org/abs/2602.15030)|null|
+|**2026-02-16**|**Long Context, Less Focus: A Scaling Gap in LLMs Revealed through Privacy and Personalization**|Shangding Gu et.al.|[2602.15028](http://arxiv.org/abs/2602.15028)|null|
+|**2026-02-16**|**3d Conformal Field Theories via Fuzzy Sphere Algebra**|Luisa Eck et.al.|[2602.15025](http://arxiv.org/abs/2602.15025)|null|
+|**2026-02-16**|**Generalization from Low- to Moderate-Resolution Spectra with Neural Networks for Stellar Parameter Estimation: A Case Study with DESI**|Xiaosheng Zhao et.al.|[2602.15021](http://arxiv.org/abs/2602.15021)|null|
+|**2026-02-16**|**Majorana Signatures in Planar Tunneling through a Kitaev Spin Liquid**|Weiyao Li et.al.|[2602.15020](http://arxiv.org/abs/2602.15020)|null|
+|**2026-02-16**|**Hunt Globally: Deep Research AI Agents for Drug Asset Scouting in Investing, Business Development, and Search & Evaluation**|Alisa Vinogradova et.al.|[2602.15019](http://arxiv.org/abs/2602.15019)|null|
+|**2026-02-16**|**Controlled Theory of Skyrmion Chern Bands in Moiré Quantum Materials: Quantum Geometry and Collective Dynamics**|Yi-Hsien Du et.al.|[2602.15016](http://arxiv.org/abs/2602.15016)|null|
+|**2026-02-16**|**Efficient Sampling with Discrete Diffusion Models: Sharp and Adaptive Guarantees**|Daniil Dmitriev et.al.|[2602.15008](http://arxiv.org/abs/2602.15008)|null|
+|**2026-02-16**|**PDE foundation models are skillful AI weather emulators for the Martian atmosphere**|Johannes Schmude et.al.|[2602.15004](http://arxiv.org/abs/2602.15004)|null|
 |**2026-02-13**|**Matter-induced plaquette terms in a $\mathbb{Z}_2$ lattice gauge theory**|Matjaž Kebrič et.al.|[2602.13192](http://arxiv.org/abs/2602.13192)|null|
 |**2026-02-13**|**Determinant and Pfaffian formulas for particle annihilation**|Piotr Śniady et.al.|[2602.13183](http://arxiv.org/abs/2602.13183)|null|
 |**2026-02-13**|**Exact moment models for conservation laws in phase space**|Tileuzhan Mukhamet et.al.|[2602.13180](http://arxiv.org/abs/2602.13180)|null|
@@ -479,6 +489,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-16**|**EditCtrl: Disentangled Local and Global Control for Real-Time Generative Video Editing**|Yehonathan Litman et.al.|[2602.15031](http://arxiv.org/abs/2602.15031)|null|
+|**2026-02-16**|**Symmetry in language statistics shapes the geometry of model representations**|Dhruva Karkada et.al.|[2602.15029](http://arxiv.org/abs/2602.15029)|null|
+|**2026-02-16**|**Gravitational Wave Echoes of the First Order Phase Transition in a Kination-Induced Big Bang**|Richard Casey et.al.|[2602.15023](http://arxiv.org/abs/2602.15023)|null|
+|**2026-02-16**|**Rethinking Diffusion Models with Symmetries through Canonicalization with Applications to Molecular Graph Generation**|Cai Zhou et.al.|[2602.15022](http://arxiv.org/abs/2602.15022)|null|
+|**2026-02-16**|**Majorana Signatures in Planar Tunneling through a Kitaev Spin Liquid**|Weiyao Li et.al.|[2602.15020](http://arxiv.org/abs/2602.15020)|null|
+|**2026-02-16**|**Hunt Globally: Deep Research AI Agents for Drug Asset Scouting in Investing, Business Development, and Search & Evaluation**|Alisa Vinogradova et.al.|[2602.15019](http://arxiv.org/abs/2602.15019)|null|
+|**2026-02-16**|**The projective coinvariant algebra, Young invariants and bigraded coordinate rings of Segre embeddings**|Balázs Szendrői et.al.|[2602.15017](http://arxiv.org/abs/2602.15017)|null|
+|**2026-02-16**|**Controlled Theory of Skyrmion Chern Bands in Moiré Quantum Materials: Quantum Geometry and Collective Dynamics**|Yi-Hsien Du et.al.|[2602.15016](http://arxiv.org/abs/2602.15016)|null|
+|**2026-02-16**|**Expander Decomposition with Almost Optimal Overhead**|Nikhil Bansal et.al.|[2602.15015](http://arxiv.org/abs/2602.15015)|null|
+|**2026-02-16**|**Scaling Beyond Masked Diffusion Language Models**|Subham Sekhar Sahoo et.al.|[2602.15014](http://arxiv.org/abs/2602.15014)|null|
 |**2026-02-13**|**$\texttt{GPUmonty}$ : A GPU-accelerated relativistic Monte Carlo radiative transfer code**|Pedro Naethe Motta et.al.|[2602.13198](http://arxiv.org/abs/2602.13198)|null|
 |**2026-02-13**|**Conversational Image Segmentation: Grounding Abstract Concepts with Scalable Supervision**|Aadarsh Sahoo et.al.|[2602.13195](http://arxiv.org/abs/2602.13195)|null|
 |**2026-02-13**|**Semantic Chunking and the Entropy of Natural Language**|Weishun Zhong et.al.|[2602.13194](http://arxiv.org/abs/2602.13194)|null|
@@ -564,6 +584,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-16**|**Image Generation with a Sphere Encoder**|Kaiyu Yue et.al.|[2602.15030](http://arxiv.org/abs/2602.15030)|null|
+|**2026-02-16**|**Symmetry in language statistics shapes the geometry of model representations**|Dhruva Karkada et.al.|[2602.15029](http://arxiv.org/abs/2602.15029)|null|
+|**2026-02-16**|**Long Context, Less Focus: A Scaling Gap in LLMs Revealed through Privacy and Personalization**|Shangding Gu et.al.|[2602.15028](http://arxiv.org/abs/2602.15028)|null|
+|**2026-02-16**|**Complementarity of di-top and four-top searches in interpreting possible signals of new physics**|Henning Bahl et.al.|[2602.15027](http://arxiv.org/abs/2602.15027)|null|
+|**2026-02-16**|**Prospects of Indirect Detection of Dark Matter via Primordial Black Hole Induced Gravitational Waves**|Debarun Paul et.al.|[2602.15026](http://arxiv.org/abs/2602.15026)|null|
+|**2026-02-16**|**Modeling isolated magnetar spin-down evolution and implications for long-period radio transients**|Jon Kwong et.al.|[2602.15024](http://arxiv.org/abs/2602.15024)|null|
+|**2026-02-16**|**Gravitational Wave Echoes of the First Order Phase Transition in a Kination-Induced Big Bang**|Richard Casey et.al.|[2602.15023](http://arxiv.org/abs/2602.15023)|null|
+|**2026-02-16**|**Rethinking Diffusion Models with Symmetries through Canonicalization with Applications to Molecular Graph Generation**|Cai Zhou et.al.|[2602.15022](http://arxiv.org/abs/2602.15022)|null|
+|**2026-02-16**|**Generalization from Low- to Moderate-Resolution Spectra with Neural Networks for Stellar Parameter Estimation: A Case Study with DESI**|Xiaosheng Zhao et.al.|[2602.15021](http://arxiv.org/abs/2602.15021)|null|
+|**2026-02-16**|**Majorana Signatures in Planar Tunneling through a Kitaev Spin Liquid**|Weiyao Li et.al.|[2602.15020](http://arxiv.org/abs/2602.15020)|null|
 |**2026-02-13**|**Imitating What Works: Simulation-Filtered Modular Policy Learning from Human Videos**|Albert J. Zhai et.al.|[2602.13197](http://arxiv.org/abs/2602.13197)|null|
 |**2026-02-13**|**Gravitational Background of Alice-Vortices and R7-Branes**|Atakan Çavuşoğlu et.al.|[2602.13196](http://arxiv.org/abs/2602.13196)|null|
 |**2026-02-13**|**Conversational Image Segmentation: Grounding Abstract Concepts with Scalable Supervision**|Aadarsh Sahoo et.al.|[2602.13195](http://arxiv.org/abs/2602.13195)|null|
