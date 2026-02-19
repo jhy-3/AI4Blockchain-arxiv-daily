@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.18
+## Updated on 2026.02.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-17**|**Ensemble-size-dependence of deep-learning post-processing methods that minimize an (un)fair score: motivating examples and a proof-of-concept solution**|Christopher David Roberts et.al.|[2602.15830](http://arxiv.org/abs/2602.15830)|null|
+|**2026-02-17**|**Perceptive Humanoid Parkour: Chaining Dynamic Human Skills via Motion Matching**|Zhen Wu et.al.|[2602.15827](http://arxiv.org/abs/2602.15827)|null|
+|**2026-02-17**|**Hubble-Scale Tachyonic Shocks from Low-Scale Inflation -- A New Gravitational-Wave Window on Inflation**|Haruto Masubuchi et.al.|[2602.15825](http://arxiv.org/abs/2602.15825)|null|
+|**2026-02-17**|**Stabilizing Test-Time Adaptation of High-Dimensional Simulation Surrogates via D-Optimal Statistics**|Anna Zimmel et.al.|[2602.15820](http://arxiv.org/abs/2602.15820)|null|
+|**2026-02-17**|**Radial oscillations of pulsating neutron stars: The UCIa equation-of-state case**|G. Panotopoulos et.al.|[2602.15818](http://arxiv.org/abs/2602.15818)|null|
+|**2026-02-17**|**Solving Parameter-Robust Avoid Problems with Unknown Feasibility using Reinforcement Learning**|Oswin So et.al.|[2602.15817](http://arxiv.org/abs/2602.15817)|null|
+|**2026-02-17**|**FAST-EQA: Efficient Embodied Question Answering with Global and Local Region Relevancy**|Haochen Zhang et.al.|[2602.15813](http://arxiv.org/abs/2602.15813)|null|
+|**2026-02-17**|**Effective energy-enstrophy diffusion process and condensation bound**|Alain-Sol Sznitman et.al.|[2602.15810](http://arxiv.org/abs/2602.15810)|null|
+|**2026-02-17**|**General Casorati Inequality for Riemannian Submersions Involving Horizontal and Vertical Casorati Curvatures and Applications**|Ravindra Singh et.al.|[2602.15804](http://arxiv.org/abs/2602.15804)|null|
+|**2026-02-17**|**Nearest Neighbour-Based Statistics for 21cm-Galaxy Cross-Correlations in the Epoch of Reionization**|Anirban Chakraborty et.al.|[2602.15803](http://arxiv.org/abs/2602.15803)|null|
 |**2026-02-13**|**$\texttt{GPUmonty}$ : A GPU-accelerated relativistic Monte Carlo radiative transfer code**|Pedro Naethe Motta et.al.|[2602.13198](http://arxiv.org/abs/2602.13198)|null|
 |**2026-02-13**|**Matter-induced plaquette terms in a $\mathbb{Z}_2$ lattice gauge theory**|Matjaž Kebrič et.al.|[2602.13192](http://arxiv.org/abs/2602.13192)|null|
 |**2026-02-13**|**Profiling systematic uncertainties in Simulation-Based Inference with Factorizable Normalizing Flows**|Davide Valsecchi et.al.|[2602.13184](http://arxiv.org/abs/2602.13184)|null|
@@ -214,6 +224,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-17**|**Dex4D: Task-Agnostic Point Track Policy for Sim-to-Real Dexterous Manipulation**|Yuxuan Kuang et.al.|[2602.15828](http://arxiv.org/abs/2602.15828)|null|
+|**2026-02-17**|**CrispEdit: Low-Curvature Projections for Scalable Non-Destructive LLM Editing**|Zarif Ikram et.al.|[2602.15823](http://arxiv.org/abs/2602.15823)|null|
+|**2026-02-17**|**Stabilizing Test-Time Adaptation of High-Dimensional Simulation Surrogates via D-Optimal Statistics**|Anna Zimmel et.al.|[2602.15820](http://arxiv.org/abs/2602.15820)|null|
+|**2026-02-17**|**VideoSketcher: Video Models Prior Enable Versatile Sequential Sketch Generation**|Hui Ren et.al.|[2602.15819](http://arxiv.org/abs/2602.15819)|null|
+|**2026-02-17**|**Solving Parameter-Robust Avoid Problems with Unknown Feasibility using Reinforcement Learning**|Oswin So et.al.|[2602.15817](http://arxiv.org/abs/2602.15817)|null|
+|**2026-02-17**|**Natural Privacy Filters Are Not Always Free: A Characterization of Free Natural Filters**|Matthew Regehr et.al.|[2602.15815](http://arxiv.org/abs/2602.15815)|null|
+|**2026-02-17**|**Task-Agnostic Continual Learning for Chest Radiograph Classification**|Muthu Subash Kavitha et.al.|[2602.15811](http://arxiv.org/abs/2602.15811)|null|
+|**2026-02-17**|**Decision Quality Evaluation Framework at Pinterest**|Yuqi Tian et.al.|[2602.15809](http://arxiv.org/abs/2602.15809)|null|
+|**2026-02-17**|**Measurement-Based Validation of Geometry-Driven RIS Beam Steering in Industrial Environments**|Adam Umra et.al.|[2602.15808](http://arxiv.org/abs/2602.15808)|null|
+|**2026-02-17**|**Local Node Differential Privacy**|Sofya Raskhodnikova et.al.|[2602.15802](http://arxiv.org/abs/2602.15802)|null|
 |**2026-02-13**|**Imitating What Works: Simulation-Filtered Modular Policy Learning from Human Videos**|Albert J. Zhai et.al.|[2602.13197](http://arxiv.org/abs/2602.13197)|null|
 |**2026-02-13**|**Conversational Image Segmentation: Grounding Abstract Concepts with Scalable Supervision**|Aadarsh Sahoo et.al.|[2602.13195](http://arxiv.org/abs/2602.13195)|null|
 |**2026-02-13**|**Matter-induced plaquette terms in a $\mathbb{Z}_2$ lattice gauge theory**|Matjaž Kebrič et.al.|[2602.13192](http://arxiv.org/abs/2602.13192)|null|
@@ -299,6 +319,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-17**|**Ensemble-size-dependence of deep-learning post-processing methods that minimize an (un)fair score: motivating examples and a proof-of-concept solution**|Christopher David Roberts et.al.|[2602.15830](http://arxiv.org/abs/2602.15830)|null|
+|**2026-02-17**|**Perceptive Humanoid Parkour: Chaining Dynamic Human Skills via Motion Matching**|Zhen Wu et.al.|[2602.15827](http://arxiv.org/abs/2602.15827)|null|
+|**2026-02-17**|**QwaveMPS: An efficient open-source Python package for simulating non-Markovian waveguide-QED using matrix product states**|Sofia Arranz Regidor et.al.|[2602.15826](http://arxiv.org/abs/2602.15826)|null|
+|**2026-02-17**|**CrispEdit: Low-Curvature Projections for Scalable Non-Destructive LLM Editing**|Zarif Ikram et.al.|[2602.15823](http://arxiv.org/abs/2602.15823)|null|
+|**2026-02-17**|**Finite Free Information Inequalities**|Jorge Garza-Vargas et.al.|[2602.15822](http://arxiv.org/abs/2602.15822)|null|
+|**2026-02-17**|**Computation and Size of Interpolants for Hybrid Modal Logics**|Jean Christoph Jung et.al.|[2602.15821](http://arxiv.org/abs/2602.15821)|null|
+|**2026-02-17**|**Stabilizing Test-Time Adaptation of High-Dimensional Simulation Surrogates via D-Optimal Statistics**|Anna Zimmel et.al.|[2602.15820](http://arxiv.org/abs/2602.15820)|null|
+|**2026-02-17**|**Radial oscillations of pulsating neutron stars: The UCIa equation-of-state case**|G. Panotopoulos et.al.|[2602.15818](http://arxiv.org/abs/2602.15818)|null|
+|**2026-02-17**|**Natural Privacy Filters Are Not Always Free: A Characterization of Free Natural Filters**|Matthew Regehr et.al.|[2602.15815](http://arxiv.org/abs/2602.15815)|null|
+|**2026-02-17**|**Separable C*-algebras Without the Countable Axiom of Choice**|Bruce Blackadar et.al.|[2602.15812](http://arxiv.org/abs/2602.15812)|null|
 |**2026-02-13**|**$\texttt{GPUmonty}$ : A GPU-accelerated relativistic Monte Carlo radiative transfer code**|Pedro Naethe Motta et.al.|[2602.13198](http://arxiv.org/abs/2602.13198)|null|
 |**2026-02-13**|**Imitating What Works: Simulation-Filtered Modular Policy Learning from Human Videos**|Albert J. Zhai et.al.|[2602.13197](http://arxiv.org/abs/2602.13197)|null|
 |**2026-02-13**|**Conversational Image Segmentation: Grounding Abstract Concepts with Scalable Supervision**|Aadarsh Sahoo et.al.|[2602.13195](http://arxiv.org/abs/2602.13195)|null|
@@ -384,6 +414,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-17**|**Dex4D: Task-Agnostic Point Track Policy for Sim-to-Real Dexterous Manipulation**|Yuxuan Kuang et.al.|[2602.15828](http://arxiv.org/abs/2602.15828)|null|
+|**2026-02-17**|**CrispEdit: Low-Curvature Projections for Scalable Non-Destructive LLM Editing**|Zarif Ikram et.al.|[2602.15823](http://arxiv.org/abs/2602.15823)|null|
+|**2026-02-17**|**Stabilizing Test-Time Adaptation of High-Dimensional Simulation Surrogates via D-Optimal Statistics**|Anna Zimmel et.al.|[2602.15820](http://arxiv.org/abs/2602.15820)|null|
+|**2026-02-17**|**Decision Quality Evaluation Framework at Pinterest**|Yuqi Tian et.al.|[2602.15809](http://arxiv.org/abs/2602.15809)|null|
+|**2026-02-17**|**Steady state coherence in a qubit is incompatible with a quantum map**|Hans C. Fogedby et.al.|[2602.15790](http://arxiv.org/abs/2602.15790)|null|
+|**2026-02-17**|**Energy budgets govern synaptic precision and its regulation during plasticity**|James Malkin et.al.|[2602.15787](http://arxiv.org/abs/2602.15787)|null|
+|**2026-02-17**|**Context-aware Skin Cancer Epithelial Cell Classification with Scalable Graph Transformers**|Lucas Sancéré et.al.|[2602.15783](http://arxiv.org/abs/2602.15783)|null|
+|**2026-02-17**|**Neural Scaling Laws for Boosted Jet Tagging**|Matthias Vigl et.al.|[2602.15781](http://arxiv.org/abs/2602.15781)|null|
+|**2026-02-17**|**Rate-Distortion Optimization for Ensembles of Non-Reference Metrics**|Xin Xiong et.al.|[2602.15779](http://arxiv.org/abs/2602.15779)|null|
+|**2026-02-17**|**Correlated electronic states at a ferromagnetic oxide interface**|D. Jones et.al.|[2602.15774](http://arxiv.org/abs/2602.15774)|null|
 |**2026-02-16**|**EditCtrl: Disentangled Local and Global Control for Real-Time Generative Video Editing**|Yehonathan Litman et.al.|[2602.15031](http://arxiv.org/abs/2602.15031)|null|
 |**2026-02-16**|**Image Generation with a Sphere Encoder**|Kaiyu Yue et.al.|[2602.15030](http://arxiv.org/abs/2602.15030)|null|
 |**2026-02-16**|**Long Context, Less Focus: A Scaling Gap in LLMs Revealed through Privacy and Personalization**|Shangding Gu et.al.|[2602.15028](http://arxiv.org/abs/2602.15028)|null|
@@ -489,6 +529,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-17**|**Ensemble-size-dependence of deep-learning post-processing methods that minimize an (un)fair score: motivating examples and a proof-of-concept solution**|Christopher David Roberts et.al.|[2602.15830](http://arxiv.org/abs/2602.15830)|null|
+|**2026-02-17**|**Operationalising the Superficial Alignment Hypothesis via Task Complexity**|Tomás Vergara-Browne et.al.|[2602.15829](http://arxiv.org/abs/2602.15829)|null|
+|**2026-02-17**|**Dex4D: Task-Agnostic Point Track Policy for Sim-to-Real Dexterous Manipulation**|Yuxuan Kuang et.al.|[2602.15828](http://arxiv.org/abs/2602.15828)|null|
+|**2026-02-17**|**QwaveMPS: An efficient open-source Python package for simulating non-Markovian waveguide-QED using matrix product states**|Sofia Arranz Regidor et.al.|[2602.15826](http://arxiv.org/abs/2602.15826)|null|
+|**2026-02-17**|**Connection formulas for Askey--Wilson polynomials and related expansions**|Howard S. Cohl et.al.|[2602.15824](http://arxiv.org/abs/2602.15824)|null|
+|**2026-02-17**|**Finite Free Information Inequalities**|Jorge Garza-Vargas et.al.|[2602.15822](http://arxiv.org/abs/2602.15822)|null|
+|**2026-02-17**|**Computation and Size of Interpolants for Hybrid Modal Logics**|Jean Christoph Jung et.al.|[2602.15821](http://arxiv.org/abs/2602.15821)|null|
+|**2026-02-17**|**Stabilizing Test-Time Adaptation of High-Dimensional Simulation Surrogates via D-Optimal Statistics**|Anna Zimmel et.al.|[2602.15820](http://arxiv.org/abs/2602.15820)|null|
+|**2026-02-17**|**Radial oscillations of pulsating neutron stars: The UCIa equation-of-state case**|G. Panotopoulos et.al.|[2602.15818](http://arxiv.org/abs/2602.15818)|null|
+|**2026-02-17**|**Avey-B**|Devang Acharya et.al.|[2602.15814](http://arxiv.org/abs/2602.15814)|null|
 |**2026-02-16**|**EditCtrl: Disentangled Local and Global Control for Real-Time Generative Video Editing**|Yehonathan Litman et.al.|[2602.15031](http://arxiv.org/abs/2602.15031)|null|
 |**2026-02-16**|**Symmetry in language statistics shapes the geometry of model representations**|Dhruva Karkada et.al.|[2602.15029](http://arxiv.org/abs/2602.15029)|null|
 |**2026-02-16**|**Gravitational Wave Echoes of the First Order Phase Transition in a Kination-Induced Big Bang**|Richard Casey et.al.|[2602.15023](http://arxiv.org/abs/2602.15023)|null|
@@ -584,6 +634,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-17**|**Ensemble-size-dependence of deep-learning post-processing methods that minimize an (un)fair score: motivating examples and a proof-of-concept solution**|Christopher David Roberts et.al.|[2602.15830](http://arxiv.org/abs/2602.15830)|null|
+|**2026-02-17**|**Operationalising the Superficial Alignment Hypothesis via Task Complexity**|Tomás Vergara-Browne et.al.|[2602.15829](http://arxiv.org/abs/2602.15829)|null|
+|**2026-02-17**|**Dex4D: Task-Agnostic Point Track Policy for Sim-to-Real Dexterous Manipulation**|Yuxuan Kuang et.al.|[2602.15828](http://arxiv.org/abs/2602.15828)|null|
+|**2026-02-17**|**Perceptive Humanoid Parkour: Chaining Dynamic Human Skills via Motion Matching**|Zhen Wu et.al.|[2602.15827](http://arxiv.org/abs/2602.15827)|null|
+|**2026-02-17**|**Connection formulas for Askey--Wilson polynomials and related expansions**|Howard S. Cohl et.al.|[2602.15824](http://arxiv.org/abs/2602.15824)|null|
+|**2026-02-17**|**CrispEdit: Low-Curvature Projections for Scalable Non-Destructive LLM Editing**|Zarif Ikram et.al.|[2602.15823](http://arxiv.org/abs/2602.15823)|null|
+|**2026-02-17**|**Finite Free Information Inequalities**|Jorge Garza-Vargas et.al.|[2602.15822](http://arxiv.org/abs/2602.15822)|null|
+|**2026-02-17**|**Stabilizing Test-Time Adaptation of High-Dimensional Simulation Surrogates via D-Optimal Statistics**|Anna Zimmel et.al.|[2602.15820](http://arxiv.org/abs/2602.15820)|null|
+|**2026-02-17**|**VideoSketcher: Video Models Prior Enable Versatile Sequential Sketch Generation**|Hui Ren et.al.|[2602.15819](http://arxiv.org/abs/2602.15819)|null|
+|**2026-02-17**|**Solving Parameter-Robust Avoid Problems with Unknown Feasibility using Reinforcement Learning**|Oswin So et.al.|[2602.15817](http://arxiv.org/abs/2602.15817)|null|
 |**2026-02-16**|**Image Generation with a Sphere Encoder**|Kaiyu Yue et.al.|[2602.15030](http://arxiv.org/abs/2602.15030)|null|
 |**2026-02-16**|**Symmetry in language statistics shapes the geometry of model representations**|Dhruva Karkada et.al.|[2602.15029](http://arxiv.org/abs/2602.15029)|null|
 |**2026-02-16**|**Long Context, Less Focus: A Scaling Gap in LLMs Revealed through Privacy and Personalization**|Shangding Gu et.al.|[2602.15028](http://arxiv.org/abs/2602.15028)|null|
