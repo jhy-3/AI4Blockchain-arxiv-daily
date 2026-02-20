@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.19
+## Updated on 2026.02.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**One Hand to Rule Them All: Canonical Representations for Unified Dexterous Manipulation**|Zhenyu Wei et.al.|[2602.16712](http://arxiv.org/abs/2602.16712)|null|
+|**2026-02-18**|**TeCoNeRV: Leveraging Temporal Coherence for Compressible Neural Representations for Videos**|Namitha Padmanabhan et.al.|[2602.16711](http://arxiv.org/abs/2602.16711)|null|
+|**2026-02-18**|**How Bursty is Star Formation at z>5?**|Massimo Stiavelli et.al.|[2602.16706](http://arxiv.org/abs/2602.16706)|null|
+|**2026-02-18**|**The Role of Common Randomness Replication in Symmetric PIR on Graph-Based Replicated Systems**|Shreya Meel et.al.|[2602.16700](http://arxiv.org/abs/2602.16700)|null|
+|**2026-02-18**|**Parameter-free representations outperform single-cell foundation models on downstream benchmarks**|Huan Souza et.al.|[2602.16696](http://arxiv.org/abs/2602.16696)|null|
+|**2026-02-18**|**Two-mode dominance and deterministic parameter bias bounds for equatorial Kerr-de Sitter ringdown**|Ruiliang Li et.al.|[2602.16691](http://arxiv.org/abs/2602.16691)|null|
+|**2026-02-18**|**Synthetic-Powered Multiple Testing with FDR Control**|Yonghoon Lee et.al.|[2602.16690](http://arxiv.org/abs/2602.16690)|null|
+|**2026-02-18**|**Are Object-Centric Representations Better At Compositional Generalization?**|Ferdinand Kapl et.al.|[2602.16689](http://arxiv.org/abs/2602.16689)|null|
+|**2026-02-18**|**On the Hardness of Approximation of the Fair k-Center Problem**|Suhas Thejaswi et.al.|[2602.16688](http://arxiv.org/abs/2602.16688)|null|
+|**2026-02-18**|**Scaling Open Discrete Audio Foundation Models with Interleaved Semantic, Acoustic, and Text Tokens**|Potsawee Manakul et.al.|[2602.16687](http://arxiv.org/abs/2602.16687)|null|
 |**2026-02-17**|**Ensemble-size-dependence of deep-learning post-processing methods that minimize an (un)fair score: motivating examples and a proof-of-concept solution**|Christopher David Roberts et.al.|[2602.15830](http://arxiv.org/abs/2602.15830)|null|
 |**2026-02-17**|**Perceptive Humanoid Parkour: Chaining Dynamic Human Skills via Motion Matching**|Zhen Wu et.al.|[2602.15827](http://arxiv.org/abs/2602.15827)|null|
 |**2026-02-17**|**Hubble-Scale Tachyonic Shocks from Low-Scale Inflation -- A New Gravitational-Wave Window on Inflation**|Haruto Masubuchi et.al.|[2602.15825](http://arxiv.org/abs/2602.15825)|null|
@@ -224,6 +234,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**TeCoNeRV: Leveraging Temporal Coherence for Compressible Neural Representations for Videos**|Namitha Padmanabhan et.al.|[2602.16711](http://arxiv.org/abs/2602.16711)|null|
+|**2026-02-18**|**Knowledge-Embedded Latent Projection for Robust Representation Learning**|Weijing Tang et.al.|[2602.16709](http://arxiv.org/abs/2602.16709)|null|
+|**2026-02-18**|**Policy Compiler for Secure Agentic Systems**|Nils Palumbo et.al.|[2602.16708](http://arxiv.org/abs/2602.16708)|null|
+|**2026-02-18**|**E-Graphs as a Persistent Compiler Abstraction**|Jules Merckx et.al.|[2602.16707](http://arxiv.org/abs/2602.16707)|null|
+|**2026-02-18**|**Learning Humanoid End-Effector Control for Open-Vocabulary Visual Loco-Manipulation**|Runpei Dong et.al.|[2602.16705](http://arxiv.org/abs/2602.16705)|null|
+|**2026-02-18**|**Reinforced Fast Weights with Next-Sequence Prediction**|Hee Seung Hwang et.al.|[2602.16704](http://arxiv.org/abs/2602.16704)|null|
+|**2026-02-18**|**Saliency-Aware Multi-Route Thinking: Revisiting Vision-Language Reasoning**|Mingjia Shi et.al.|[2602.16702](http://arxiv.org/abs/2602.16702)|null|
+|**2026-02-18**|**The Role of Common Randomness Replication in Symmetric PIR on Graph-Based Replicated Systems**|Shreya Meel et.al.|[2602.16700](http://arxiv.org/abs/2602.16700)|null|
+|**2026-02-18**|**Calibrate-Then-Act: Cost-Aware Exploration in LLM Agents**|Wenxuan Ding et.al.|[2602.16699](http://arxiv.org/abs/2602.16699)|null|
+|**2026-02-18**|**Protecting the Undeleted in Machine Unlearning**|Aloni Cohen et.al.|[2602.16697](http://arxiv.org/abs/2602.16697)|null|
 |**2026-02-17**|**Dex4D: Task-Agnostic Point Track Policy for Sim-to-Real Dexterous Manipulation**|Yuxuan Kuang et.al.|[2602.15828](http://arxiv.org/abs/2602.15828)|null|
 |**2026-02-17**|**CrispEdit: Low-Curvature Projections for Scalable Non-Destructive LLM Editing**|Zarif Ikram et.al.|[2602.15823](http://arxiv.org/abs/2602.15823)|null|
 |**2026-02-17**|**Stabilizing Test-Time Adaptation of High-Dimensional Simulation Surrogates via D-Optimal Statistics**|Anna Zimmel et.al.|[2602.15820](http://arxiv.org/abs/2602.15820)|null|
@@ -319,6 +339,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**One Hand to Rule Them All: Canonical Representations for Unified Dexterous Manipulation**|Zhenyu Wei et.al.|[2602.16712](http://arxiv.org/abs/2602.16712)|null|
+|**2026-02-18**|**EgoScale: Scaling Dexterous Manipulation with Diverse Egocentric Human Data**|Ruijie Zheng et.al.|[2602.16710](http://arxiv.org/abs/2602.16710)|null|
+|**2026-02-18**|**Policy Compiler for Secure Agentic Systems**|Nils Palumbo et.al.|[2602.16708](http://arxiv.org/abs/2602.16708)|null|
+|**2026-02-18**|**E-Graphs as a Persistent Compiler Abstraction**|Jules Merckx et.al.|[2602.16707](http://arxiv.org/abs/2602.16707)|null|
+|**2026-02-18**|**Measuring Mid-2025 LLM-Assistance on Novice Performance in Biology**|Shen Zhou Hong et.al.|[2602.16703](http://arxiv.org/abs/2602.16703)|null|
+|**2026-02-18**|**Understanding the kinetics of static recrystallization in Mg-Zn-Ca alloys using an integrated PRISMS simulation framework**|David Montiel et.al.|[2602.16701](http://arxiv.org/abs/2602.16701)|null|
+|**2026-02-18**|**Calibrate-Then-Act: Cost-Aware Exploration in LLM Agents**|Wenxuan Ding et.al.|[2602.16699](http://arxiv.org/abs/2602.16699)|null|
+|**2026-02-18**|**Causality is Key for Interpretability Claims to Generalise**|Shruti Joshi et.al.|[2602.16698](http://arxiv.org/abs/2602.16698)|null|
+|**2026-02-18**|**Protecting the Undeleted in Machine Unlearning**|Aloni Cohen et.al.|[2602.16697](http://arxiv.org/abs/2602.16697)|null|
+|**2026-02-18**|**Yang-Mills Flux Tube in AdS II: Effective String Theory**|Barak Gabai et.al.|[2602.16694](http://arxiv.org/abs/2602.16694)|null|
 |**2026-02-17**|**Ensemble-size-dependence of deep-learning post-processing methods that minimize an (un)fair score: motivating examples and a proof-of-concept solution**|Christopher David Roberts et.al.|[2602.15830](http://arxiv.org/abs/2602.15830)|null|
 |**2026-02-17**|**Perceptive Humanoid Parkour: Chaining Dynamic Human Skills via Motion Matching**|Zhen Wu et.al.|[2602.15827](http://arxiv.org/abs/2602.15827)|null|
 |**2026-02-17**|**QwaveMPS: An efficient open-source Python package for simulating non-Markovian waveguide-QED using matrix product states**|Sofia Arranz Regidor et.al.|[2602.15826](http://arxiv.org/abs/2602.15826)|null|
@@ -414,6 +444,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**One Hand to Rule Them All: Canonical Representations for Unified Dexterous Manipulation**|Zhenyu Wei et.al.|[2602.16712](http://arxiv.org/abs/2602.16712)|null|
+|**2026-02-18**|**Policy Compiler for Secure Agentic Systems**|Nils Palumbo et.al.|[2602.16708](http://arxiv.org/abs/2602.16708)|null|
+|**2026-02-18**|**Measuring Mid-2025 LLM-Assistance on Novice Performance in Biology**|Shen Zhou Hong et.al.|[2602.16703](http://arxiv.org/abs/2602.16703)|null|
+|**2026-02-18**|**Saliency-Aware Multi-Route Thinking: Revisiting Vision-Language Reasoning**|Mingjia Shi et.al.|[2602.16702](http://arxiv.org/abs/2602.16702)|null|
+|**2026-02-18**|**Causality is Key for Interpretability Claims to Generalise**|Shruti Joshi et.al.|[2602.16698](http://arxiv.org/abs/2602.16698)|null|
+|**2026-02-18**|**Synthetic-Powered Multiple Testing with FDR Control**|Yonghoon Lee et.al.|[2602.16690](http://arxiv.org/abs/2602.16690)|null|
+|**2026-02-18**|**Learning Situated Awareness in the Real World**|Chuhan Li et.al.|[2602.16682](http://arxiv.org/abs/2602.16682)|null|
+|**2026-02-18**|**Consensus Based Task Allocation for Angles-Only Local Catalog Maintenance of Satellite Systems**|Harrison Perone et.al.|[2602.16678](http://arxiv.org/abs/2602.16678)|null|
+|**2026-02-18**|**FLUKA-Based Optimization of Muon Production Target Design for a Muon Collider Demonstrator**|Ruaa Al-Harthy et.al.|[2602.16672](http://arxiv.org/abs/2602.16672)|null|
+|**2026-02-18**|**SPARC: Scenario Planning and Reasoning for Automated C Unit Test Generation**|Jaid Monwar Chowdhury et.al.|[2602.16671](http://arxiv.org/abs/2602.16671)|null|
 |**2026-02-17**|**Dex4D: Task-Agnostic Point Track Policy for Sim-to-Real Dexterous Manipulation**|Yuxuan Kuang et.al.|[2602.15828](http://arxiv.org/abs/2602.15828)|null|
 |**2026-02-17**|**CrispEdit: Low-Curvature Projections for Scalable Non-Destructive LLM Editing**|Zarif Ikram et.al.|[2602.15823](http://arxiv.org/abs/2602.15823)|null|
 |**2026-02-17**|**Stabilizing Test-Time Adaptation of High-Dimensional Simulation Surrogates via D-Optimal Statistics**|Anna Zimmel et.al.|[2602.15820](http://arxiv.org/abs/2602.15820)|null|
@@ -529,6 +569,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**One Hand to Rule Them All: Canonical Representations for Unified Dexterous Manipulation**|Zhenyu Wei et.al.|[2602.16712](http://arxiv.org/abs/2602.16712)|null|
+|**2026-02-18**|**TeCoNeRV: Leveraging Temporal Coherence for Compressible Neural Representations for Videos**|Namitha Padmanabhan et.al.|[2602.16711](http://arxiv.org/abs/2602.16711)|null|
+|**2026-02-18**|**Knowledge-Embedded Latent Projection for Robust Representation Learning**|Weijing Tang et.al.|[2602.16709](http://arxiv.org/abs/2602.16709)|null|
+|**2026-02-18**|**Policy Compiler for Secure Agentic Systems**|Nils Palumbo et.al.|[2602.16708](http://arxiv.org/abs/2602.16708)|null|
+|**2026-02-18**|**How Bursty is Star Formation at z>5?**|Massimo Stiavelli et.al.|[2602.16706](http://arxiv.org/abs/2602.16706)|null|
+|**2026-02-18**|**Reinforced Fast Weights with Next-Sequence Prediction**|Hee Seung Hwang et.al.|[2602.16704](http://arxiv.org/abs/2602.16704)|null|
+|**2026-02-18**|**Saliency-Aware Multi-Route Thinking: Revisiting Vision-Language Reasoning**|Mingjia Shi et.al.|[2602.16702](http://arxiv.org/abs/2602.16702)|null|
+|**2026-02-18**|**Understanding the kinetics of static recrystallization in Mg-Zn-Ca alloys using an integrated PRISMS simulation framework**|David Montiel et.al.|[2602.16701](http://arxiv.org/abs/2602.16701)|null|
+|**2026-02-18**|**The Role of Common Randomness Replication in Symmetric PIR on Graph-Based Replicated Systems**|Shreya Meel et.al.|[2602.16700](http://arxiv.org/abs/2602.16700)|null|
+|**2026-02-18**|**Calibrate-Then-Act: Cost-Aware Exploration in LLM Agents**|Wenxuan Ding et.al.|[2602.16699](http://arxiv.org/abs/2602.16699)|null|
 |**2026-02-17**|**Ensemble-size-dependence of deep-learning post-processing methods that minimize an (un)fair score: motivating examples and a proof-of-concept solution**|Christopher David Roberts et.al.|[2602.15830](http://arxiv.org/abs/2602.15830)|null|
 |**2026-02-17**|**Operationalising the Superficial Alignment Hypothesis via Task Complexity**|Tomás Vergara-Browne et.al.|[2602.15829](http://arxiv.org/abs/2602.15829)|null|
 |**2026-02-17**|**Dex4D: Task-Agnostic Point Track Policy for Sim-to-Real Dexterous Manipulation**|Yuxuan Kuang et.al.|[2602.15828](http://arxiv.org/abs/2602.15828)|null|
@@ -634,6 +684,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**One Hand to Rule Them All: Canonical Representations for Unified Dexterous Manipulation**|Zhenyu Wei et.al.|[2602.16712](http://arxiv.org/abs/2602.16712)|null|
+|**2026-02-18**|**TeCoNeRV: Leveraging Temporal Coherence for Compressible Neural Representations for Videos**|Namitha Padmanabhan et.al.|[2602.16711](http://arxiv.org/abs/2602.16711)|null|
+|**2026-02-18**|**EgoScale: Scaling Dexterous Manipulation with Diverse Egocentric Human Data**|Ruijie Zheng et.al.|[2602.16710](http://arxiv.org/abs/2602.16710)|null|
+|**2026-02-18**|**Knowledge-Embedded Latent Projection for Robust Representation Learning**|Weijing Tang et.al.|[2602.16709](http://arxiv.org/abs/2602.16709)|null|
+|**2026-02-18**|**E-Graphs as a Persistent Compiler Abstraction**|Jules Merckx et.al.|[2602.16707](http://arxiv.org/abs/2602.16707)|null|
+|**2026-02-18**|**Learning Humanoid End-Effector Control for Open-Vocabulary Visual Loco-Manipulation**|Runpei Dong et.al.|[2602.16705](http://arxiv.org/abs/2602.16705)|null|
+|**2026-02-18**|**Reinforced Fast Weights with Next-Sequence Prediction**|Hee Seung Hwang et.al.|[2602.16704](http://arxiv.org/abs/2602.16704)|null|
+|**2026-02-18**|**Measuring Mid-2025 LLM-Assistance on Novice Performance in Biology**|Shen Zhou Hong et.al.|[2602.16703](http://arxiv.org/abs/2602.16703)|null|
+|**2026-02-18**|**Understanding the kinetics of static recrystallization in Mg-Zn-Ca alloys using an integrated PRISMS simulation framework**|David Montiel et.al.|[2602.16701](http://arxiv.org/abs/2602.16701)|null|
+|**2026-02-18**|**The Role of Common Randomness Replication in Symmetric PIR on Graph-Based Replicated Systems**|Shreya Meel et.al.|[2602.16700](http://arxiv.org/abs/2602.16700)|null|
 |**2026-02-17**|**Ensemble-size-dependence of deep-learning post-processing methods that minimize an (un)fair score: motivating examples and a proof-of-concept solution**|Christopher David Roberts et.al.|[2602.15830](http://arxiv.org/abs/2602.15830)|null|
 |**2026-02-17**|**Operationalising the Superficial Alignment Hypothesis via Task Complexity**|Tomás Vergara-Browne et.al.|[2602.15829](http://arxiv.org/abs/2602.15829)|null|
 |**2026-02-17**|**Dex4D: Task-Agnostic Point Track Policy for Sim-to-Real Dexterous Manipulation**|Yuxuan Kuang et.al.|[2602.15828](http://arxiv.org/abs/2602.15828)|null|
