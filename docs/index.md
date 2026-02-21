@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.20
+## Updated on 2026.02.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -139,6 +139,7 @@ layout: default
 |**2026-02-18**|**Are Object-Centric Representations Better At Compositional Generalization?**|Ferdinand Kapl et.al.|[2602.16689](http://arxiv.org/abs/2602.16689)|null|
 |**2026-02-18**|**On the Hardness of Approximation of the Fair k-Center Problem**|Suhas Thejaswi et.al.|[2602.16688](http://arxiv.org/abs/2602.16688)|null|
 |**2026-02-18**|**Scaling Open Discrete Audio Foundation Models with Interleaved Semantic, Acoustic, and Text Tokens**|Potsawee Manakul et.al.|[2602.16687](http://arxiv.org/abs/2602.16687)|null|
+|**2026-02-18**|**push0: Scalable and Fault-Tolerant Orchestration for Zero-Knowledge Proof Generation**|Mohsen Ahmadvand et.al.|[2602.16338](http://arxiv.org/abs/2602.16338)|null|
 |**2026-02-17**|**Ensemble-size-dependence of deep-learning post-processing methods that minimize an (un)fair score: motivating examples and a proof-of-concept solution**|Christopher David Roberts et.al.|[2602.15830](http://arxiv.org/abs/2602.15830)|null|
 |**2026-02-17**|**Perceptive Humanoid Parkour: Chaining Dynamic Human Skills via Motion Matching**|Zhen Wu et.al.|[2602.15827](http://arxiv.org/abs/2602.15827)|null|
 |**2026-02-17**|**Hubble-Scale Tachyonic Shocks from Low-Scale Inflation -- A New Gravitational-Wave Window on Inflation**|Haruto Masubuchi et.al.|[2602.15825](http://arxiv.org/abs/2602.15825)|null|
@@ -149,6 +150,10 @@ layout: default
 |**2026-02-17**|**Effective energy-enstrophy diffusion process and condensation bound**|Alain-Sol Sznitman et.al.|[2602.15810](http://arxiv.org/abs/2602.15810)|null|
 |**2026-02-17**|**General Casorati Inequality for Riemannian Submersions Involving Horizontal and Vertical Casorati Curvatures and Applications**|Ravindra Singh et.al.|[2602.15804](http://arxiv.org/abs/2602.15804)|null|
 |**2026-02-17**|**Nearest Neighbour-Based Statistics for 21cm-Galaxy Cross-Correlations in the Epoch of Reionization**|Anirban Chakraborty et.al.|[2602.15803](http://arxiv.org/abs/2602.15803)|null|
+|**2026-02-15**|**The Agent Economy: A Blockchain-Based Foundation for Autonomous AI Agents**|Minghui Xu et.al.|[2602.14219](http://arxiv.org/abs/2602.14219)|null|
+|**2026-02-14**|**NFT Games: an Empirical Look into the Play-to-Earn Model**|Yixiao Gao et.al.|[2602.13882](http://arxiv.org/abs/2602.13882)|null|
+|**2026-02-14**|**Agent-OSI: A Layered Protocol Stack Toward a Decentralized Internet of Agents**|Wenxin Xu et.al.|[2602.13795](http://arxiv.org/abs/2602.13795)|null|
+|**2026-02-13**|**MemeTrans: A Dataset for Detecting High-Risk Memecoin Launches on Solana**|Sihao Hu et.al.|[2602.13480](http://arxiv.org/abs/2602.13480)|null|
 |**2026-02-13**|**$\texttt{GPUmonty}$ : A GPU-accelerated relativistic Monte Carlo radiative transfer code**|Pedro Naethe Motta et.al.|[2602.13198](http://arxiv.org/abs/2602.13198)|null|
 |**2026-02-13**|**Matter-induced plaquette terms in a $\mathbb{Z}_2$ lattice gauge theory**|Matjaž Kebrič et.al.|[2602.13192](http://arxiv.org/abs/2602.13192)|null|
 |**2026-02-13**|**Profiling systematic uncertainties in Simulation-Based Inference with Factorizable Normalizing Flows**|Davide Valsecchi et.al.|[2602.13184](http://arxiv.org/abs/2602.13184)|null|
@@ -169,6 +174,11 @@ layout: default
 |**2026-02-12**|**Function-Space Decoupled Diffusion for Forward and Inverse Modeling in Carbon Capture and Storage**|Xin Ju et.al.|[2602.12274](http://arxiv.org/abs/2602.12274)|null|
 |**2026-02-12**|**The Wandering Supermassive Black Hole Powering the off-nuclear TDE AT2024tvd**|M. Guolo et.al.|[2602.12272](http://arxiv.org/abs/2602.12272)|null|
 |**2026-02-12**|**MonarchRT: Efficient Attention for Real-Time Video Generation**|Krish Agarwal et.al.|[2602.12271](http://arxiv.org/abs/2602.12271)|null|
+|**2026-02-12**|**MedExChain: Enabling Secure and Efffcient PHR Sharing Across Heterogeneous Blockchains**|Yongyang Lv et.al.|[2602.12106](http://arxiv.org/abs/2602.12106)|null|
+|**2026-02-12**|**Real-World Asset Integration in Next-Generation Communication Networks: Fundamental, Framework, and Case Study**|Tingxuan Su et.al.|[2602.11798](http://arxiv.org/abs/2602.11798)|null|
+|**2026-02-12**|**Digital Ecosystems: Enabling Collaboration in a Fragmented World**|Marc Schmitt et.al.|[2602.11707](http://arxiv.org/abs/2602.11707)|null|
+|**2026-02-12**|**QDBFT: A Dynamic Consensus Algorithm for Quantum-Secured Blockchain**|Fei Xu et.al.|[2602.11606](http://arxiv.org/abs/2602.11606)|null|
+|**2026-02-12**|**Scalable and Highly Fault-Tolerant Circular Quantum Byzantine Agreement**|Chen-Xun Weng et.al.|[2602.11592](http://arxiv.org/abs/2602.11592)|null|
 |**2026-02-11**|**Mapping reservoir-enhanced superconductivity to near-long-range magnetic order in the undoped 1D Anderson- and Kondo-lattices**|J. E. Ebot et.al.|[2602.11153](http://arxiv.org/abs/2602.11153)|null|
 |**2026-02-11**|**Utilitarian Distortion Under Probabilistic Voting**|Hamidreza Alipour et.al.|[2602.11152](http://arxiv.org/abs/2602.11152)|null|
 |**2026-02-11**|**Data Repetition Beats Data Scaling in Long-CoT Supervised Fine-Tuning**|Dawid J. Kopiczko et.al.|[2602.11149](http://arxiv.org/abs/2602.11149)|null|
@@ -684,6 +694,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-19**|**OpenEarthAgent: A Unified Framework for Tool-Augmented Geospatial Agents**|Akashah Shabbir et.al.|[2602.17665](http://arxiv.org/abs/2602.17665)|null|
+|**2026-02-19**|**Sink-Aware Pruning for Diffusion Language Models**|Aidar Myrzakhan et.al.|[2602.17664](http://arxiv.org/abs/2602.17664)|null|
+|**2026-02-19**|**When Vision Overrides Language: Evaluating and Mitigating Counterfactual Failures in VLAs**|Yu Fang et.al.|[2602.17659](http://arxiv.org/abs/2602.17659)|null|
+|**2026-02-19**|**MARS: Margin-Aware Reward-Modeling with Self-Refinement**|Payel Bhattacharjee et.al.|[2602.17658](http://arxiv.org/abs/2602.17658)|null|
+|**2026-02-19**|**What Language is This? Ask Your Tokenizer**|Clara Meister et.al.|[2602.17655](http://arxiv.org/abs/2602.17655)|null|
+|**2026-02-19**|**Mine and Refine: Optimizing Graded Relevance in E-commerce Search Retrieval**|Jiaqi Xi et.al.|[2602.17654](http://arxiv.org/abs/2602.17654)|null|
+|**2026-02-19**|**Differences in Typological Alignment in Language Models' Treatment of Differential Argument Marking**|Iskar Deng et.al.|[2602.17653](http://arxiv.org/abs/2602.17653)|null|
+|**2026-02-19**|**Human-level 3D shape perception emerges from multi-view learning**|Tyler Bonnen et.al.|[2602.17650](http://arxiv.org/abs/2602.17650)|null|
+|**2026-02-19**|**Multi-Round Human-AI Collaboration with User-Specified Requirements**|Sima Noorani et.al.|[2602.17646](http://arxiv.org/abs/2602.17646)|null|
+|**2026-02-19**|**Pushing the Frontier of Black-Box LVLM Attacks via Fine-Grained Detail Targeting**|Xiaohan Zhao et.al.|[2602.17645](http://arxiv.org/abs/2602.17645)|null|
 |**2026-02-18**|**One Hand to Rule Them All: Canonical Representations for Unified Dexterous Manipulation**|Zhenyu Wei et.al.|[2602.16712](http://arxiv.org/abs/2602.16712)|null|
 |**2026-02-18**|**TeCoNeRV: Leveraging Temporal Coherence for Compressible Neural Representations for Videos**|Namitha Padmanabhan et.al.|[2602.16711](http://arxiv.org/abs/2602.16711)|null|
 |**2026-02-18**|**EgoScale: Scaling Dexterous Manipulation with Diverse Egocentric Human Data**|Ruijie Zheng et.al.|[2602.16710](http://arxiv.org/abs/2602.16710)|null|
