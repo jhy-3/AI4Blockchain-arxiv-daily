@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.23
+## Updated on 2026.02.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-20**|**Chandra Proper Motions and Milliarcsecond Astrometry of Nineteen Pulsars**|Jack T. Dinsmore et.al.|[2602.18436](http://arxiv.org/abs/2602.18436)|null|
+|**2026-02-20**|**Quenched path limits and periodization stability for tilted Brownian motion in Poissonian potentials on $\mathbb{H}^d$**|Miklos Abert et.al.|[2602.18433](http://arxiv.org/abs/2602.18433)|null|
+|**2026-02-20**|**Phase-field simulations of nucleation, growth, and coarsening of $β_1$ precipitates in Mg-Nd alloys**|Lingxia Shi et.al.|[2602.18430](http://arxiv.org/abs/2602.18430)|null|
+|**2026-02-20**|**VIRAASAT: Traversing Novel Paths for Indian Cultural Reasoning**|Harshul Raj Surana et.al.|[2602.18429](http://arxiv.org/abs/2602.18429)|null|
+|**2026-02-20**|**The Geometry of Noise: Why Diffusion Models Don't Need Noise Conditioning**|Mojtaba Sahraee-Ardakan et.al.|[2602.18428](http://arxiv.org/abs/2602.18428)|null|
+|**2026-02-20**|**Leading singularities of Wilson loop correlators from twistor Wilson loop diagrams**|James Drummond et.al.|[2602.18423](http://arxiv.org/abs/2602.18423)|null|
+|**2026-02-20**|**SPQ: An Ensemble Technique for Large Language Model Compression**|Jiamin Yao et.al.|[2602.18420](http://arxiv.org/abs/2602.18420)|null|
+|**2026-02-20**|**Reconfigurable Geometric Phase Matching by Multilayered Nonlinear Thin-Film Crystals**|Danielle Ben-Haim et.al.|[2602.18418](http://arxiv.org/abs/2602.18418)|null|
+|**2026-02-20**|**Rota-Baxter operators on $ω$ -Lie algebras**|Yin Chen et.al.|[2602.18413](http://arxiv.org/abs/2602.18413)|null|
+|**2026-02-20**|**Participation Ratio as a Quantum Probe of Hierarchical Stickiness**|Ariel A. Galindo Duque et.al.|[2602.18412](http://arxiv.org/abs/2602.18412)|null|
 |**2026-02-19**|**Anisotropic marginal Fermi liquid for Coulomb interacting generalized Weyl fermions**|Gabriel Malavé et.al.|[2602.17666](http://arxiv.org/abs/2602.17666)|null|
 |**2026-02-19**|**A Study of Entanglement and Ansatz Expressivity for the Transverse-Field Ising Model using Variational Quantum Eigensolver**|Ashutosh P. Tripathi et.al.|[2602.17662](http://arxiv.org/abs/2602.17662)|null|
 |**2026-02-19**|**Benchmarking quantum phase-space methods for near-resonant light propagation**|Mojdeh S. Najafabadi et.al.|[2602.17660](http://arxiv.org/abs/2602.17660)|null|
@@ -254,6 +264,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-20**|**Going Down Memory Lane: Scaling Tokens for Video Stream Understanding with Dynamic KV-Cache Memory**|Vatsal Agarwal et.al.|[2602.18434](http://arxiv.org/abs/2602.18434)|null|
+|**2026-02-20**|**SARAH: Spatially Aware Real-time Agentic Humans**|Evonne Ng et.al.|[2602.18432](http://arxiv.org/abs/2602.18432)|null|
+|**2026-02-20**|**SMaRT: Online Reusable Resource Assignment and an Application to Mediation in the Kenyan Judiciary**|Shafkat Farabi et.al.|[2602.18431](http://arxiv.org/abs/2602.18431)|null|
+|**2026-02-20**|**Phase-field simulations of nucleation, growth, and coarsening of $β_1$ precipitates in Mg-Nd alloys**|Lingxia Shi et.al.|[2602.18430](http://arxiv.org/abs/2602.18430)|null|
+|**2026-02-20**|**The Geometry of Noise: Why Diffusion Models Don't Need Noise Conditioning**|Mojtaba Sahraee-Ardakan et.al.|[2602.18428](http://arxiv.org/abs/2602.18428)|null|
+|**2026-02-20**|**Polytopes of alternating sign matrices with dihedral-subgroup symmetry**|Péter Madarasi et.al.|[2602.18427](http://arxiv.org/abs/2602.18427)|null|
+|**2026-02-20**|**Spatio-Spectroscopic Representation Learning using Unsupervised Convolutional Long-Short Term Memory Networks**|Kameswara Bharadwaj Mantha et.al.|[2602.18426](http://arxiv.org/abs/2602.18426)|null|
+|**2026-02-20**|**CapNav: Benchmarking Vision Language Models on Capability-conditioned Indoor Navigation**|Xia Su et.al.|[2602.18424](http://arxiv.org/abs/2602.18424)|null|
+|**2026-02-20**|**Generated Reality: Human-centric World Simulation using Interactive Video Generation with Hand and Camera Control**|Linxi Xie et.al.|[2602.18422](http://arxiv.org/abs/2602.18422)|null|
+|**2026-02-20**|**Benchmarking Graph Neural Networks in Solving Hard Constraint Satisfaction Problems**|Geri Skenderi et.al.|[2602.18419](http://arxiv.org/abs/2602.18419)|null|
 |**2026-02-19**|**OpenEarthAgent: A Unified Framework for Tool-Augmented Geospatial Agents**|Akashah Shabbir et.al.|[2602.17665](http://arxiv.org/abs/2602.17665)|null|
 |**2026-02-19**|**When Vision Overrides Language: Evaluating and Mitigating Counterfactual Failures in VLAs**|Yu Fang et.al.|[2602.17659](http://arxiv.org/abs/2602.17659)|null|
 |**2026-02-19**|**MARS: Margin-Aware Reward-Modeling with Self-Refinement**|Payel Bhattacharjee et.al.|[2602.17658](http://arxiv.org/abs/2602.17658)|null|
@@ -369,6 +389,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-20**|**Assigning Confidence: K-partition Ensembles**|Aggelos Semoglou et.al.|[2602.18435](http://arxiv.org/abs/2602.18435)|null|
+|**2026-02-20**|**Going Down Memory Lane: Scaling Tokens for Video Stream Understanding with Dynamic KV-Cache Memory**|Vatsal Agarwal et.al.|[2602.18434](http://arxiv.org/abs/2602.18434)|null|
+|**2026-02-20**|**Quenched path limits and periodization stability for tilted Brownian motion in Poissonian potentials on $\mathbb{H}^d$**|Miklos Abert et.al.|[2602.18433](http://arxiv.org/abs/2602.18433)|null|
+|**2026-02-20**|**SARAH: Spatially Aware Real-time Agentic Humans**|Evonne Ng et.al.|[2602.18432](http://arxiv.org/abs/2602.18432)|null|
+|**2026-02-20**|**SMaRT: Online Reusable Resource Assignment and an Application to Mediation in the Kenyan Judiciary**|Shafkat Farabi et.al.|[2602.18431](http://arxiv.org/abs/2602.18431)|null|
+|**2026-02-20**|**Phase-field simulations of nucleation, growth, and coarsening of $β_1$ precipitates in Mg-Nd alloys**|Lingxia Shi et.al.|[2602.18430](http://arxiv.org/abs/2602.18430)|null|
+|**2026-02-20**|**The Geometry of Noise: Why Diffusion Models Don't Need Noise Conditioning**|Mojtaba Sahraee-Ardakan et.al.|[2602.18428](http://arxiv.org/abs/2602.18428)|null|
+|**2026-02-20**|**Polytopes of alternating sign matrices with dihedral-subgroup symmetry**|Péter Madarasi et.al.|[2602.18427](http://arxiv.org/abs/2602.18427)|null|
+|**2026-02-20**|**Spatio-Spectroscopic Representation Learning using Unsupervised Convolutional Long-Short Term Memory Networks**|Kameswara Bharadwaj Mantha et.al.|[2602.18426](http://arxiv.org/abs/2602.18426)|null|
+|**2026-02-20**|**RVR: Retrieve-Verify-Retrieve for Comprehensive Question Answering**|Deniz Qian et.al.|[2602.18425](http://arxiv.org/abs/2602.18425)|null|
 |**2026-02-19**|**A Study of Entanglement and Ansatz Expressivity for the Transverse-Field Ising Model using Variational Quantum Eigensolver**|Ashutosh P. Tripathi et.al.|[2602.17662](http://arxiv.org/abs/2602.17662)|null|
 |**2026-02-19**|**Dehn quandles of surfaces and their bounded cohomology**|Pankaj Kapari et.al.|[2602.17661](http://arxiv.org/abs/2602.17661)|null|
 |**2026-02-19**|**When Vision Overrides Language: Evaluating and Mitigating Counterfactual Failures in VLAs**|Yu Fang et.al.|[2602.17659](http://arxiv.org/abs/2602.17659)|null|
@@ -484,6 +514,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-20**|**VIRAASAT: Traversing Novel Paths for Indian Cultural Reasoning**|Harshul Raj Surana et.al.|[2602.18429](http://arxiv.org/abs/2602.18429)|null|
+|**2026-02-20**|**An algebraic theory of Lojasiewicz exponents**|Tai Huy Ha et.al.|[2602.18410](http://arxiv.org/abs/2602.18410)|null|
+|**2026-02-20**|**PRISM-FCP: Byzantine-Resilient Federated Conformal Prediction via Partial Sharing**|Ehsan Lari et.al.|[2602.18396](http://arxiv.org/abs/2602.18396)|null|
+|**2026-02-20**|**Self-Aware Object Detection via Degradation Manifolds**|Stefan Becker et.al.|[2602.18394](http://arxiv.org/abs/2602.18394)|null|
+|**2026-02-20**|**Drawing the LINE: Cryptographic Analysis and Security Improvements for the LINE E2EE Protocol**|Benjamin Dowling et.al.|[2602.18370](http://arxiv.org/abs/2602.18370)|null|
+|**2026-02-20**|**Feedback-Driven Ground-State Search in Coupled Laser Arrays**|Rajneesh Fulara et.al.|[2602.18368](http://arxiv.org/abs/2602.18368)|null|
+|**2026-02-20**|**A Marginal Reliability Impact Based Accreditation Framework for Capacity Markets**|Feng Zhao et.al.|[2602.18365](http://arxiv.org/abs/2602.18365)|null|
+|**2026-02-20**|**Phase diagram of a lattice fermion model with symmetric mass generation**|Sandip Maiti et.al.|[2602.18360](http://arxiv.org/abs/2602.18360)|null|
+|**2026-02-20**|**Forecasting the Evolving Composition of Inbound Tourism Demand: A Bayesian Compositional Time Series Approach Using Platform Booking Data**|Harrison Katz et.al.|[2602.18358](http://arxiv.org/abs/2602.18358)|null|
+|**2026-02-20**|**Constraining the $ΛΛ$ interaction with terrestrial and astronomical data**|Yusuke Tanimura et.al.|[2602.18356](http://arxiv.org/abs/2602.18356)|null|
 |**2026-02-19**|**Anisotropic marginal Fermi liquid for Coulomb interacting generalized Weyl fermions**|Gabriel Malavé et.al.|[2602.17666](http://arxiv.org/abs/2602.17666)|null|
 |**2026-02-19**|**Exotic critical states as fractional Fermi seas in the one-dimensional Bose gas**|Alvise Bastianello et.al.|[2602.17656](http://arxiv.org/abs/2602.17656)|null|
 |**2026-02-19**|**Non-Trivial Zero-Knowledge Implies One-Way Functions**|Suvradip Chakraborty et.al.|[2602.17651](http://arxiv.org/abs/2602.17651)|null|
@@ -619,6 +659,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-20**|**Assigning Confidence: K-partition Ensembles**|Aggelos Semoglou et.al.|[2602.18435](http://arxiv.org/abs/2602.18435)|null|
+|**2026-02-20**|**Phase-field simulations of nucleation, growth, and coarsening of $β_1$ precipitates in Mg-Nd alloys**|Lingxia Shi et.al.|[2602.18430](http://arxiv.org/abs/2602.18430)|null|
+|**2026-02-20**|**VIRAASAT: Traversing Novel Paths for Indian Cultural Reasoning**|Harshul Raj Surana et.al.|[2602.18429](http://arxiv.org/abs/2602.18429)|null|
+|**2026-02-20**|**Polytopes of alternating sign matrices with dihedral-subgroup symmetry**|Péter Madarasi et.al.|[2602.18427](http://arxiv.org/abs/2602.18427)|null|
+|**2026-02-20**|**RVR: Retrieve-Verify-Retrieve for Comprehensive Question Answering**|Deniz Qian et.al.|[2602.18425](http://arxiv.org/abs/2602.18425)|null|
+|**2026-02-20**|**Leading singularities of Wilson loop correlators from twistor Wilson loop diagrams**|James Drummond et.al.|[2602.18423](http://arxiv.org/abs/2602.18423)|null|
+|**2026-02-20**|**SPQ: An Ensemble Technique for Large Language Model Compression**|Jiamin Yao et.al.|[2602.18420](http://arxiv.org/abs/2602.18420)|null|
+|**2026-02-20**|**Subgroups of $U(d)$ Induce Natural RNN and Transformer Architectures**|Joshua Nunley et.al.|[2602.18417](http://arxiv.org/abs/2602.18417)|null|
+|**2026-02-20**|**AI-Wrapped: Participatory, Privacy-Preserving Measurement of Longitudinal LLM Use In-the-Wild**|Cathy Mengying Fang et.al.|[2602.18415](http://arxiv.org/abs/2602.18415)|null|
+|**2026-02-20**|**Pole-Expansion of the T-Matrix Based on a Matrix-Valued AAA-Algorithm**|Jan David Fischbach et.al.|[2602.18414](http://arxiv.org/abs/2602.18414)|null|
 |**2026-02-19**|**Anisotropic marginal Fermi liquid for Coulomb interacting generalized Weyl fermions**|Gabriel Malavé et.al.|[2602.17666](http://arxiv.org/abs/2602.17666)|null|
 |**2026-02-19**|**Sink-Aware Pruning for Diffusion Language Models**|Aidar Myrzakhan et.al.|[2602.17664](http://arxiv.org/abs/2602.17664)|null|
 |**2026-02-19**|**CLEF HIPE-2026: Evaluating Accurate and Efficient Person-Place Relation Extraction from Multilingual Historical Texts**|Juri Opitz et.al.|[2602.17663](http://arxiv.org/abs/2602.17663)|null|
@@ -744,6 +794,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-20**|**Chandra Proper Motions and Milliarcsecond Astrometry of Nineteen Pulsars**|Jack T. Dinsmore et.al.|[2602.18436](http://arxiv.org/abs/2602.18436)|null|
+|**2026-02-20**|**Assigning Confidence: K-partition Ensembles**|Aggelos Semoglou et.al.|[2602.18435](http://arxiv.org/abs/2602.18435)|null|
+|**2026-02-20**|**SARAH: Spatially Aware Real-time Agentic Humans**|Evonne Ng et.al.|[2602.18432](http://arxiv.org/abs/2602.18432)|null|
+|**2026-02-20**|**SMaRT: Online Reusable Resource Assignment and an Application to Mediation in the Kenyan Judiciary**|Shafkat Farabi et.al.|[2602.18431](http://arxiv.org/abs/2602.18431)|null|
+|**2026-02-20**|**Phase-field simulations of nucleation, growth, and coarsening of $β_1$ precipitates in Mg-Nd alloys**|Lingxia Shi et.al.|[2602.18430](http://arxiv.org/abs/2602.18430)|null|
+|**2026-02-20**|**The Geometry of Noise: Why Diffusion Models Don't Need Noise Conditioning**|Mojtaba Sahraee-Ardakan et.al.|[2602.18428](http://arxiv.org/abs/2602.18428)|null|
+|**2026-02-20**|**Polytopes of alternating sign matrices with dihedral-subgroup symmetry**|Péter Madarasi et.al.|[2602.18427](http://arxiv.org/abs/2602.18427)|null|
+|**2026-02-20**|**Spatio-Spectroscopic Representation Learning using Unsupervised Convolutional Long-Short Term Memory Networks**|Kameswara Bharadwaj Mantha et.al.|[2602.18426](http://arxiv.org/abs/2602.18426)|null|
+|**2026-02-20**|**Benchmarking Graph Neural Networks in Solving Hard Constraint Satisfaction Problems**|Geri Skenderi et.al.|[2602.18419](http://arxiv.org/abs/2602.18419)|null|
+|**2026-02-20**|**Subgroups of $U(d)$ Induce Natural RNN and Transformer Architectures**|Joshua Nunley et.al.|[2602.18417](http://arxiv.org/abs/2602.18417)|null|
 |**2026-02-19**|**Anisotropic marginal Fermi liquid for Coulomb interacting generalized Weyl fermions**|Gabriel Malavé et.al.|[2602.17666](http://arxiv.org/abs/2602.17666)|null|
 |**2026-02-19**|**OpenEarthAgent: A Unified Framework for Tool-Augmented Geospatial Agents**|Akashah Shabbir et.al.|[2602.17665](http://arxiv.org/abs/2602.17665)|null|
 |**2026-02-19**|**Sink-Aware Pruning for Diffusion Language Models**|Aidar Myrzakhan et.al.|[2602.17664](http://arxiv.org/abs/2602.17664)|null|
