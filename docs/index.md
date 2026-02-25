@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.24
+## Updated on 2026.02.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-23**|**tttLRM: Test-Time Training for Long Context and Autoregressive 3D Reconstruction**|Chen Wang et.al.|[2602.20160](http://arxiv.org/abs/2602.20160)|null|
+|**2026-02-23**|**Generalized $\mathbb{Z}_p$ toric codes as qudit low-density parity-check codes**|Zijian Liang et.al.|[2602.20158](http://arxiv.org/abs/2602.20158)|null|
+|**2026-02-23**|**Skill-Inject: Measuring Agent Vulnerability to Skill File Attacks**|David Schmotz et.al.|[2602.20156](http://arxiv.org/abs/2602.20156)|null|
+|**2026-02-23**|**Topography-Induced Stationary Waves and the Onset of Nightside Warming on Rocky Planets around M-dwarf Stars**|Howard Chen et.al.|[2602.20155](http://arxiv.org/abs/2602.20155)|null|
+|**2026-02-23**|**Behavior Learning (BL): Learning Hierarchical Optimization Structures from Data**|Zhenyao Ma et.al.|[2602.20152](http://arxiv.org/abs/2602.20152)|null|
+|**2026-02-23**|**Quantum Information Approach to Bosonization of Supersymmetric Yang-Mills Fields**|Radhakrishnan Balu et.al.|[2602.20149](http://arxiv.org/abs/2602.20149)|null|
+|**2026-02-23**|**Exotic spherically-symmetric Lambda-vacuum in the four-dimensional Starobinsky model**|Andrei Galiautdinov et.al.|[2602.20147](http://arxiv.org/abs/2602.20147)|null|
+|**2026-02-23**|**Bending, entropy and proper affine actions of surface groups**|Martin Bridgeman et.al.|[2602.20146](http://arxiv.org/abs/2602.20146)|null|
+|**2026-02-23**|**Agentic AI for Scalable and Robust Optical Systems Control**|Zehao Wang et.al.|[2602.20144](http://arxiv.org/abs/2602.20144)|null|
+|**2026-02-23**|**Development of a Cherenkov-Based Time-of-Flight Detector Using Silicon Photomultipliers**|Liliana Congedo et.al.|[2602.20139](http://arxiv.org/abs/2602.20139)|null|
 |**2026-02-20**|**Chandra Proper Motions and Milliarcsecond Astrometry of Nineteen Pulsars**|Jack T. Dinsmore et.al.|[2602.18436](http://arxiv.org/abs/2602.18436)|null|
 |**2026-02-20**|**Quenched path limits and periodization stability for tilted Brownian motion in Poissonian potentials on $\mathbb{H}^d$**|Miklos Abert et.al.|[2602.18433](http://arxiv.org/abs/2602.18433)|null|
 |**2026-02-20**|**Phase-field simulations of nucleation, growth, and coarsening of $β_1$ precipitates in Mg-Nd alloys**|Lingxia Shi et.al.|[2602.18430](http://arxiv.org/abs/2602.18430)|null|
@@ -264,6 +274,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-23**|**Mobile-O: Unified Multimodal Understanding and Generation on Mobile Device**|Abdelrahman Shaker et.al.|[2602.20161](http://arxiv.org/abs/2602.20161)|null|
+|**2026-02-23**|**tttLRM: Test-Time Training for Long Context and Autoregressive 3D Reconstruction**|Chen Wang et.al.|[2602.20160](http://arxiv.org/abs/2602.20160)|null|
+|**2026-02-23**|**A Very Big Video Reasoning Suite**|Maijunxian Wang et.al.|[2602.20159](http://arxiv.org/abs/2602.20159)|null|
+|**2026-02-23**|**Generalized $\mathbb{Z}_p$ toric codes as qudit low-density parity-check codes**|Zijian Liang et.al.|[2602.20158](http://arxiv.org/abs/2602.20158)|null|
+|**2026-02-23**|**Flow3r: Factored Flow Prediction for Scalable Visual Geometry Learning**|Zhongxiao Cong et.al.|[2602.20157](http://arxiv.org/abs/2602.20157)|null|
+|**2026-02-23**|**Skill-Inject: Measuring Agent Vulnerability to Skill File Attacks**|David Schmotz et.al.|[2602.20156](http://arxiv.org/abs/2602.20156)|null|
+|**2026-02-23**|**JUCAL: Jointly Calibrating Aleatoric and Epistemic Uncertainty in Classification Tasks**|Jakob Heiss et.al.|[2602.20153](http://arxiv.org/abs/2602.20153)|null|
+|**2026-02-23**|**Behavior Learning (BL): Learning Hierarchical Optimization Structures from Data**|Zhenyao Ma et.al.|[2602.20152](http://arxiv.org/abs/2602.20152)|null|
+|**2026-02-23**|**Simulation-Ready Cluttered Scene Estimation via Physics-aware Joint Shape and Pose Optimization**|Wei-Cheng Huang et.al.|[2602.20150](http://arxiv.org/abs/2602.20150)|null|
+|**2026-02-23**|**Agentic AI for Scalable and Robust Optical Systems Control**|Zehao Wang et.al.|[2602.20144](http://arxiv.org/abs/2602.20144)|null|
 |**2026-02-20**|**Going Down Memory Lane: Scaling Tokens for Video Stream Understanding with Dynamic KV-Cache Memory**|Vatsal Agarwal et.al.|[2602.18434](http://arxiv.org/abs/2602.18434)|null|
 |**2026-02-20**|**SARAH: Spatially Aware Real-time Agentic Humans**|Evonne Ng et.al.|[2602.18432](http://arxiv.org/abs/2602.18432)|null|
 |**2026-02-20**|**SMaRT: Online Reusable Resource Assignment and an Application to Mediation in the Kenyan Judiciary**|Shafkat Farabi et.al.|[2602.18431](http://arxiv.org/abs/2602.18431)|null|
@@ -389,6 +409,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-23**|**Mobile-O: Unified Multimodal Understanding and Generation on Mobile Device**|Abdelrahman Shaker et.al.|[2602.20161](http://arxiv.org/abs/2602.20161)|null|
+|**2026-02-23**|**Topography-Induced Stationary Waves and the Onset of Nightside Warming on Rocky Planets around M-dwarf Stars**|Howard Chen et.al.|[2602.20155](http://arxiv.org/abs/2602.20155)|null|
+|**2026-02-23**|**JUCAL: Jointly Calibrating Aleatoric and Epistemic Uncertainty in Classification Tasks**|Jakob Heiss et.al.|[2602.20153](http://arxiv.org/abs/2602.20153)|null|
+|**2026-02-23**|**Behavior Learning (BL): Learning Hierarchical Optimization Structures from Data**|Zhenyao Ma et.al.|[2602.20152](http://arxiv.org/abs/2602.20152)|null|
+|**2026-02-23**|**Conformal Risk Control for Non-Monotonic Losses**|Anastasios N. Angelopoulos et.al.|[2602.20151](http://arxiv.org/abs/2602.20151)|null|
+|**2026-02-23**|**Simulation-Ready Cluttered Scene Estimation via Physics-aware Joint Shape and Pose Optimization**|Wei-Cheng Huang et.al.|[2602.20150](http://arxiv.org/abs/2602.20150)|null|
+|**2026-02-23**|**Quantum Information Approach to Bosonization of Supersymmetric Yang-Mills Fields**|Radhakrishnan Balu et.al.|[2602.20149](http://arxiv.org/abs/2602.20149)|null|
+|**2026-02-23**|**IceCube's convex all-sky neutrino spectrum consistent with the magnetically powered corona scenario for active galactic nuclei**|Kohta Murase et.al.|[2602.20145](http://arxiv.org/abs/2602.20145)|null|
+|**2026-02-23**|**An isoperimetric inequality for word overlap**|Dmitrii Zakharov et.al.|[2602.20143](http://arxiv.org/abs/2602.20143)|null|
+|**2026-02-23**|**Role of octahedral tilting induced acoustic softening on limiting thermal transport in SrSnO3**|Yuzhou Hao et.al.|[2602.20142](http://arxiv.org/abs/2602.20142)|null|
 |**2026-02-20**|**Assigning Confidence: K-partition Ensembles**|Aggelos Semoglou et.al.|[2602.18435](http://arxiv.org/abs/2602.18435)|null|
 |**2026-02-20**|**Going Down Memory Lane: Scaling Tokens for Video Stream Understanding with Dynamic KV-Cache Memory**|Vatsal Agarwal et.al.|[2602.18434](http://arxiv.org/abs/2602.18434)|null|
 |**2026-02-20**|**Quenched path limits and periodization stability for tilted Brownian motion in Poissonian potentials on $\mathbb{H}^d$**|Miklos Abert et.al.|[2602.18433](http://arxiv.org/abs/2602.18433)|null|
@@ -514,6 +544,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-23**|**Topography-Induced Stationary Waves and the Onset of Nightside Warming on Rocky Planets around M-dwarf Stars**|Howard Chen et.al.|[2602.20155](http://arxiv.org/abs/2602.20155)|null|
+|**2026-02-23**|**Quantum simulation in the Heisenberg picture via vectorization**|Shao-Hen Chiew et.al.|[2602.20154](http://arxiv.org/abs/2602.20154)|null|
+|**2026-02-23**|**JUCAL: Jointly Calibrating Aleatoric and Epistemic Uncertainty in Classification Tasks**|Jakob Heiss et.al.|[2602.20153](http://arxiv.org/abs/2602.20153)|null|
+|**2026-02-23**|**Agentic AI for Scalable and Robust Optical Systems Control**|Zehao Wang et.al.|[2602.20144](http://arxiv.org/abs/2602.20144)|null|
+|**2026-02-23**|**PackFlow: Generative Molecular Crystal Structure Prediction via Reinforcement Learning Alignment**|Akshay Subramanian et.al.|[2602.20140](http://arxiv.org/abs/2602.20140)|null|
+|**2026-02-23**|**Do Large Language Models Understand Data Visualization Rules?**|Martin Sinnona et.al.|[2602.20137](http://arxiv.org/abs/2602.20137)|null|
+|**2026-02-23**|**KNIGHT: Knowledge Graph-Driven Multiple-Choice Question Generation with Adaptive Hardness Calibration**|Mohammad Amanlou et.al.|[2602.20135](http://arxiv.org/abs/2602.20135)|null|
+|**2026-02-23**|**Modeling Epidemiological Dynamics Under Adversarial Data and User Deception**|Yiqi Su et.al.|[2602.20134](http://arxiv.org/abs/2602.20134)|null|
+|**2026-02-23**|**AdaEvolve: Adaptive LLM Driven Zeroth-Order Optimization**|Mert Cemri et.al.|[2602.20133](http://arxiv.org/abs/2602.20133)|null|
+|**2026-02-23**|**LAD: Learning Advantage Distribution for Reasoning**|Wendi Li et.al.|[2602.20132](http://arxiv.org/abs/2602.20132)|null|
 |**2026-02-20**|**VIRAASAT: Traversing Novel Paths for Indian Cultural Reasoning**|Harshul Raj Surana et.al.|[2602.18429](http://arxiv.org/abs/2602.18429)|null|
 |**2026-02-20**|**An algebraic theory of Lojasiewicz exponents**|Tai Huy Ha et.al.|[2602.18410](http://arxiv.org/abs/2602.18410)|null|
 |**2026-02-20**|**PRISM-FCP: Byzantine-Resilient Federated Conformal Prediction via Partial Sharing**|Ehsan Lari et.al.|[2602.18396](http://arxiv.org/abs/2602.18396)|null|
@@ -659,6 +699,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-23**|**Mobile-O: Unified Multimodal Understanding and Generation on Mobile Device**|Abdelrahman Shaker et.al.|[2602.20161](http://arxiv.org/abs/2602.20161)|null|
+|**2026-02-23**|**tttLRM: Test-Time Training for Long Context and Autoregressive 3D Reconstruction**|Chen Wang et.al.|[2602.20160](http://arxiv.org/abs/2602.20160)|null|
+|**2026-02-23**|**Generalized $\mathbb{Z}_p$ toric codes as qudit low-density parity-check codes**|Zijian Liang et.al.|[2602.20158](http://arxiv.org/abs/2602.20158)|null|
+|**2026-02-23**|**Skill-Inject: Measuring Agent Vulnerability to Skill File Attacks**|David Schmotz et.al.|[2602.20156](http://arxiv.org/abs/2602.20156)|null|
+|**2026-02-23**|**Quantum simulation in the Heisenberg picture via vectorization**|Shao-Hen Chiew et.al.|[2602.20154](http://arxiv.org/abs/2602.20154)|null|
+|**2026-02-23**|**JUCAL: Jointly Calibrating Aleatoric and Epistemic Uncertainty in Classification Tasks**|Jakob Heiss et.al.|[2602.20153](http://arxiv.org/abs/2602.20153)|null|
+|**2026-02-23**|**Behavior Learning (BL): Learning Hierarchical Optimization Structures from Data**|Zhenyao Ma et.al.|[2602.20152](http://arxiv.org/abs/2602.20152)|null|
+|**2026-02-23**|**Conformal Risk Control for Non-Monotonic Losses**|Anastasios N. Angelopoulos et.al.|[2602.20151](http://arxiv.org/abs/2602.20151)|null|
+|**2026-02-23**|**Simulation-Ready Cluttered Scene Estimation via Physics-aware Joint Shape and Pose Optimization**|Wei-Cheng Huang et.al.|[2602.20150](http://arxiv.org/abs/2602.20150)|null|
+|**2026-02-23**|**Quantum Information Approach to Bosonization of Supersymmetric Yang-Mills Fields**|Radhakrishnan Balu et.al.|[2602.20149](http://arxiv.org/abs/2602.20149)|null|
 |**2026-02-20**|**Assigning Confidence: K-partition Ensembles**|Aggelos Semoglou et.al.|[2602.18435](http://arxiv.org/abs/2602.18435)|null|
 |**2026-02-20**|**Phase-field simulations of nucleation, growth, and coarsening of $β_1$ precipitates in Mg-Nd alloys**|Lingxia Shi et.al.|[2602.18430](http://arxiv.org/abs/2602.18430)|null|
 |**2026-02-20**|**VIRAASAT: Traversing Novel Paths for Indian Cultural Reasoning**|Harshul Raj Surana et.al.|[2602.18429](http://arxiv.org/abs/2602.18429)|null|
@@ -794,6 +844,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-23**|**tttLRM: Test-Time Training for Long Context and Autoregressive 3D Reconstruction**|Chen Wang et.al.|[2602.20160](http://arxiv.org/abs/2602.20160)|null|
+|**2026-02-23**|**A Very Big Video Reasoning Suite**|Maijunxian Wang et.al.|[2602.20159](http://arxiv.org/abs/2602.20159)|null|
+|**2026-02-23**|**Generalized $\mathbb{Z}_p$ toric codes as qudit low-density parity-check codes**|Zijian Liang et.al.|[2602.20158](http://arxiv.org/abs/2602.20158)|null|
+|**2026-02-23**|**Flow3r: Factored Flow Prediction for Scalable Visual Geometry Learning**|Zhongxiao Cong et.al.|[2602.20157](http://arxiv.org/abs/2602.20157)|null|
+|**2026-02-23**|**Skill-Inject: Measuring Agent Vulnerability to Skill File Attacks**|David Schmotz et.al.|[2602.20156](http://arxiv.org/abs/2602.20156)|null|
+|**2026-02-23**|**JUCAL: Jointly Calibrating Aleatoric and Epistemic Uncertainty in Classification Tasks**|Jakob Heiss et.al.|[2602.20153](http://arxiv.org/abs/2602.20153)|null|
+|**2026-02-23**|**Behavior Learning (BL): Learning Hierarchical Optimization Structures from Data**|Zhenyao Ma et.al.|[2602.20152](http://arxiv.org/abs/2602.20152)|null|
+|**2026-02-23**|**Conformal Risk Control for Non-Monotonic Losses**|Anastasios N. Angelopoulos et.al.|[2602.20151](http://arxiv.org/abs/2602.20151)|null|
+|**2026-02-23**|**Simulation-Ready Cluttered Scene Estimation via Physics-aware Joint Shape and Pose Optimization**|Wei-Cheng Huang et.al.|[2602.20150](http://arxiv.org/abs/2602.20150)|null|
+|**2026-02-23**|**Vortex Tunneling and Critical State in an Oxide Heterostructure**|Jordan T. McCourt et.al.|[2602.20148](http://arxiv.org/abs/2602.20148)|null|
 |**2026-02-20**|**Chandra Proper Motions and Milliarcsecond Astrometry of Nineteen Pulsars**|Jack T. Dinsmore et.al.|[2602.18436](http://arxiv.org/abs/2602.18436)|null|
 |**2026-02-20**|**Assigning Confidence: K-partition Ensembles**|Aggelos Semoglou et.al.|[2602.18435](http://arxiv.org/abs/2602.18435)|null|
 |**2026-02-20**|**SARAH: Spatially Aware Real-time Agentic Humans**|Evonne Ng et.al.|[2602.18432](http://arxiv.org/abs/2602.18432)|null|
