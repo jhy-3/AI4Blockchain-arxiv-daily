@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.25
+## Updated on 2026.02.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-24**|**Minimal loop currents in doped Mott insulators**|Can Cui et.al.|[2602.21206](http://arxiv.org/abs/2602.21206)|null|
+|**2026-02-24**|**Test-Time Training with KV Binding Is Secretly Linear Attention**|Junchen Liu et.al.|[2602.21204](http://arxiv.org/abs/2602.21204)|null|
+|**2026-02-24**|**Squint: Fast Visual Reinforcement Learning for Sim-to-Real Robotics**|Abdulaziz Almuzairee et.al.|[2602.21203](http://arxiv.org/abs/2602.21203)|null|
+|**2026-02-24**|**Aletheia tackles FirstProof autonomously**|Tony Feng et.al.|[2602.21201](http://arxiv.org/abs/2602.21201)|null|
+|**2026-02-24**|**Topological Floquet Green's function zeros**|Elio J. König et.al.|[2602.21199](http://arxiv.org/abs/2602.21199)|null|
+|**2026-02-24**|**Untied Ulysses: Memory-Efficient Context Parallelism via Headwise Chunking**|Ravi Ghadia et.al.|[2602.21196](http://arxiv.org/abs/2602.21196)|null|
+|**2026-02-24**|**On Data Engineering for Scaling LLM Terminal Capabilities**|Renjie Pi et.al.|[2602.21193](http://arxiv.org/abs/2602.21193)|null|
+|**2026-02-24**|**Statistical Query Lower Bounds for Smoothed Agnostic Learning**|Ilias Diakonikolas et.al.|[2602.21191](http://arxiv.org/abs/2602.21191)|null|
+|**2026-02-24**|**On Gluing Data, Finite Ringed Spaces and schemes**|Rita Fioresi et.al.|[2602.21184](http://arxiv.org/abs/2602.21184)|null|
+|**2026-02-24**|**Circumventing the CAP Theorem with Open Atomic Ethernet**|Paul Borrill et.al.|[2602.21182](http://arxiv.org/abs/2602.21182)|null|
 |**2026-02-23**|**tttLRM: Test-Time Training for Long Context and Autoregressive 3D Reconstruction**|Chen Wang et.al.|[2602.20160](http://arxiv.org/abs/2602.20160)|null|
 |**2026-02-23**|**Generalized $\mathbb{Z}_p$ toric codes as qudit low-density parity-check codes**|Zijian Liang et.al.|[2602.20158](http://arxiv.org/abs/2602.20158)|null|
 |**2026-02-23**|**Skill-Inject: Measuring Agent Vulnerability to Skill File Attacks**|David Schmotz et.al.|[2602.20156](http://arxiv.org/abs/2602.20156)|null|
@@ -274,6 +284,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-24**|**Minimal loop currents in doped Mott insulators**|Can Cui et.al.|[2602.21206](http://arxiv.org/abs/2602.21206)|null|
+|**2026-02-24**|**Test-Time Training with KV Binding Is Secretly Linear Attention**|Junchen Liu et.al.|[2602.21204](http://arxiv.org/abs/2602.21204)|null|
+|**2026-02-24**|**Squint: Fast Visual Reinforcement Learning for Sim-to-Real Robotics**|Abdulaziz Almuzairee et.al.|[2602.21203](http://arxiv.org/abs/2602.21203)|null|
+|**2026-02-24**|**Multi-Vector Index Compression in Any Modality**|Hanxiang Qin et.al.|[2602.21202](http://arxiv.org/abs/2602.21202)|null|
+|**2026-02-24**|**A Time-Varying and Covariate-Dependent Correlation Model for Multivariate Longitudinal Studies**|Qingzhi Liu et.al.|[2602.21200](http://arxiv.org/abs/2602.21200)|null|
+|**2026-02-24**|**Learning from Trials and Errors: Reflective Test-Time Planning for Embodied LLMs**|Yining Hong et.al.|[2602.21198](http://arxiv.org/abs/2602.21198)|null|
+|**2026-02-24**|**Region of Interest Segmentation and Morphological Analysis for Membranes in Cryo-Electron Tomography**|Xingyi Cheng et.al.|[2602.21195](http://arxiv.org/abs/2602.21195)|null|
+|**2026-02-24**|**Why Pass@k Optimization Can Degrade Pass@1: Prompt Interference in LLM Post-training**|Anas Barakat et.al.|[2602.21189](http://arxiv.org/abs/2602.21189)|null|
+|**2026-02-24**|**Human Video Generation from a Single Image with 3D Pose and View Control**|Tiantian Wang et.al.|[2602.21188](http://arxiv.org/abs/2602.21188)|null|
+|**2026-02-24**|**Spa3R: Predictive Spatial Field Modeling for 3D Visual Reasoning**|Haoyi Jiang et.al.|[2602.21186](http://arxiv.org/abs/2602.21186)|null|
 |**2026-02-23**|**Mobile-O: Unified Multimodal Understanding and Generation on Mobile Device**|Abdelrahman Shaker et.al.|[2602.20161](http://arxiv.org/abs/2602.20161)|null|
 |**2026-02-23**|**tttLRM: Test-Time Training for Long Context and Autoregressive 3D Reconstruction**|Chen Wang et.al.|[2602.20160](http://arxiv.org/abs/2602.20160)|null|
 |**2026-02-23**|**A Very Big Video Reasoning Suite**|Maijunxian Wang et.al.|[2602.20159](http://arxiv.org/abs/2602.20159)|null|
@@ -409,6 +429,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-24**|**Minimal loop currents in doped Mott insulators**|Can Cui et.al.|[2602.21206](http://arxiv.org/abs/2602.21206)|null|
+|**2026-02-24**|**Test-Time Training with KV Binding Is Secretly Linear Attention**|Junchen Liu et.al.|[2602.21204](http://arxiv.org/abs/2602.21204)|null|
+|**2026-02-24**|**Squint: Fast Visual Reinforcement Learning for Sim-to-Real Robotics**|Abdulaziz Almuzairee et.al.|[2602.21203](http://arxiv.org/abs/2602.21203)|null|
+|**2026-02-24**|**Multi-Vector Index Compression in Any Modality**|Hanxiang Qin et.al.|[2602.21202](http://arxiv.org/abs/2602.21202)|null|
+|**2026-02-24**|**A Time-Varying and Covariate-Dependent Correlation Model for Multivariate Longitudinal Studies**|Qingzhi Liu et.al.|[2602.21200](http://arxiv.org/abs/2602.21200)|null|
+|**2026-02-24**|**Topological Floquet Green's function zeros**|Elio J. König et.al.|[2602.21199](http://arxiv.org/abs/2602.21199)|null|
+|**2026-02-24**|**Learning from Trials and Errors: Reflective Test-Time Planning for Embodied LLMs**|Yining Hong et.al.|[2602.21198](http://arxiv.org/abs/2602.21198)|null|
+|**2026-02-24**|**Variants of Raviart-Thomas mixed elements for curved domains using straight-edged tetrahedra**|Vittoriano Ruas et.al.|[2602.21197](http://arxiv.org/abs/2602.21197)|null|
+|**2026-02-24**|**Region of Interest Segmentation and Morphological Analysis for Membranes in Cryo-Electron Tomography**|Xingyi Cheng et.al.|[2602.21195](http://arxiv.org/abs/2602.21195)|null|
+|**2026-02-24**|**The Universe Fan**|Hadleigh Frost et.al.|[2602.21194](http://arxiv.org/abs/2602.21194)|null|
 |**2026-02-23**|**Mobile-O: Unified Multimodal Understanding and Generation on Mobile Device**|Abdelrahman Shaker et.al.|[2602.20161](http://arxiv.org/abs/2602.20161)|null|
 |**2026-02-23**|**Topography-Induced Stationary Waves and the Onset of Nightside Warming on Rocky Planets around M-dwarf Stars**|Howard Chen et.al.|[2602.20155](http://arxiv.org/abs/2602.20155)|null|
 |**2026-02-23**|**JUCAL: Jointly Calibrating Aleatoric and Epistemic Uncertainty in Classification Tasks**|Jakob Heiss et.al.|[2602.20153](http://arxiv.org/abs/2602.20153)|null|
@@ -544,6 +574,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-24**|**The JWST Resolved Stellar Populations Early Release Science Program. IX. The RR Lyrae Population in WLM with HST and JWST**|Catherine M. Slaughter et.al.|[2602.21205](http://arxiv.org/abs/2602.21205)|null|
+|**2026-02-24**|**Test-Time Training with KV Binding Is Secretly Linear Attention**|Junchen Liu et.al.|[2602.21204](http://arxiv.org/abs/2602.21204)|null|
+|**2026-02-24**|**Multi-Vector Index Compression in Any Modality**|Hanxiang Qin et.al.|[2602.21202](http://arxiv.org/abs/2602.21202)|null|
+|**2026-02-24**|**On Data Engineering for Scaling LLM Terminal Capabilities**|Renjie Pi et.al.|[2602.21193](http://arxiv.org/abs/2602.21193)|null|
+|**2026-02-24**|**XMorph: Explainable Brain Tumor Analysis Via LLM-Assisted Hybrid Deep Intelligence**|Sepehr Salem Ghahfarokhi et.al.|[2602.21178](http://arxiv.org/abs/2602.21178)|null|
+|**2026-02-24**|**Bayesian Parametric Portfolio Policies**|Miguel C. Herculano et.al.|[2602.21173](http://arxiv.org/abs/2602.21173)|null|
+|**2026-02-24**|**NoRD: A Data-Efficient Vision-Language-Action Model that Drives without Reasoning**|Ishaan Rawal et.al.|[2602.21172](http://arxiv.org/abs/2602.21172)|null|
+|**2026-02-24**|**cyclinbayes: Bayesian Causal Discovery with Linear Non-Gaussian Directed Acyclic and Cyclic Graphical Models**|Robert Lee et.al.|[2602.21170](http://arxiv.org/abs/2602.21170)|null|
+|**2026-02-24**|**Revisiting CPL with sign-switching density: to cross or not to cross the NECB**|Mine Gökçen et.al.|[2602.21169](http://arxiv.org/abs/2602.21169)|null|
+|**2026-02-24**|**Sequential Counterfactual Inference for Temporal Clinical Data: Addressing the Time Traveler Dilemma**|Jingya Cheng et.al.|[2602.21168](http://arxiv.org/abs/2602.21168)|null|
 |**2026-02-23**|**Topography-Induced Stationary Waves and the Onset of Nightside Warming on Rocky Planets around M-dwarf Stars**|Howard Chen et.al.|[2602.20155](http://arxiv.org/abs/2602.20155)|null|
 |**2026-02-23**|**Quantum simulation in the Heisenberg picture via vectorization**|Shao-Hen Chiew et.al.|[2602.20154](http://arxiv.org/abs/2602.20154)|null|
 |**2026-02-23**|**JUCAL: Jointly Calibrating Aleatoric and Epistemic Uncertainty in Classification Tasks**|Jakob Heiss et.al.|[2602.20153](http://arxiv.org/abs/2602.20153)|null|
@@ -699,6 +739,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-24**|**Minimal loop currents in doped Mott insulators**|Can Cui et.al.|[2602.21206](http://arxiv.org/abs/2602.21206)|null|
+|**2026-02-24**|**The JWST Resolved Stellar Populations Early Release Science Program. IX. The RR Lyrae Population in WLM with HST and JWST**|Catherine M. Slaughter et.al.|[2602.21205](http://arxiv.org/abs/2602.21205)|null|
+|**2026-02-24**|**Multi-Vector Index Compression in Any Modality**|Hanxiang Qin et.al.|[2602.21202](http://arxiv.org/abs/2602.21202)|null|
+|**2026-02-24**|**Aletheia tackles FirstProof autonomously**|Tony Feng et.al.|[2602.21201](http://arxiv.org/abs/2602.21201)|null|
+|**2026-02-24**|**A Time-Varying and Covariate-Dependent Correlation Model for Multivariate Longitudinal Studies**|Qingzhi Liu et.al.|[2602.21200](http://arxiv.org/abs/2602.21200)|null|
+|**2026-02-24**|**Topological Floquet Green's function zeros**|Elio J. König et.al.|[2602.21199](http://arxiv.org/abs/2602.21199)|null|
+|**2026-02-24**|**Learning from Trials and Errors: Reflective Test-Time Planning for Embodied LLMs**|Yining Hong et.al.|[2602.21198](http://arxiv.org/abs/2602.21198)|null|
+|**2026-02-24**|**Variants of Raviart-Thomas mixed elements for curved domains using straight-edged tetrahedra**|Vittoriano Ruas et.al.|[2602.21197](http://arxiv.org/abs/2602.21197)|null|
+|**2026-02-24**|**Untied Ulysses: Memory-Efficient Context Parallelism via Headwise Chunking**|Ravi Ghadia et.al.|[2602.21196](http://arxiv.org/abs/2602.21196)|null|
+|**2026-02-24**|**The Universe Fan**|Hadleigh Frost et.al.|[2602.21194](http://arxiv.org/abs/2602.21194)|null|
 |**2026-02-23**|**Mobile-O: Unified Multimodal Understanding and Generation on Mobile Device**|Abdelrahman Shaker et.al.|[2602.20161](http://arxiv.org/abs/2602.20161)|null|
 |**2026-02-23**|**tttLRM: Test-Time Training for Long Context and Autoregressive 3D Reconstruction**|Chen Wang et.al.|[2602.20160](http://arxiv.org/abs/2602.20160)|null|
 |**2026-02-23**|**Generalized $\mathbb{Z}_p$ toric codes as qudit low-density parity-check codes**|Zijian Liang et.al.|[2602.20158](http://arxiv.org/abs/2602.20158)|null|
@@ -844,6 +894,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-24**|**Test-Time Training with KV Binding Is Secretly Linear Attention**|Junchen Liu et.al.|[2602.21204](http://arxiv.org/abs/2602.21204)|null|
+|**2026-02-24**|**Squint: Fast Visual Reinforcement Learning for Sim-to-Real Robotics**|Abdulaziz Almuzairee et.al.|[2602.21203](http://arxiv.org/abs/2602.21203)|null|
+|**2026-02-24**|**Aletheia tackles FirstProof autonomously**|Tony Feng et.al.|[2602.21201](http://arxiv.org/abs/2602.21201)|null|
+|**2026-02-24**|**A Time-Varying and Covariate-Dependent Correlation Model for Multivariate Longitudinal Studies**|Qingzhi Liu et.al.|[2602.21200](http://arxiv.org/abs/2602.21200)|null|
+|**2026-02-24**|**Learning from Trials and Errors: Reflective Test-Time Planning for Embodied LLMs**|Yining Hong et.al.|[2602.21198](http://arxiv.org/abs/2602.21198)|null|
+|**2026-02-24**|**Variants of Raviart-Thomas mixed elements for curved domains using straight-edged tetrahedra**|Vittoriano Ruas et.al.|[2602.21197](http://arxiv.org/abs/2602.21197)|null|
+|**2026-02-24**|**Untied Ulysses: Memory-Efficient Context Parallelism via Headwise Chunking**|Ravi Ghadia et.al.|[2602.21196](http://arxiv.org/abs/2602.21196)|null|
+|**2026-02-24**|**Region of Interest Segmentation and Morphological Analysis for Membranes in Cryo-Electron Tomography**|Xingyi Cheng et.al.|[2602.21195](http://arxiv.org/abs/2602.21195)|null|
+|**2026-02-24**|**On Data Engineering for Scaling LLM Terminal Capabilities**|Renjie Pi et.al.|[2602.21193](http://arxiv.org/abs/2602.21193)|null|
+|**2026-02-24**|**Empirical formula for total inelastic cross-section of proton-nucleus scattering**|Hemant Kumar et.al.|[2602.21192](http://arxiv.org/abs/2602.21192)|null|
 |**2026-02-23**|**tttLRM: Test-Time Training for Long Context and Autoregressive 3D Reconstruction**|Chen Wang et.al.|[2602.20160](http://arxiv.org/abs/2602.20160)|null|
 |**2026-02-23**|**A Very Big Video Reasoning Suite**|Maijunxian Wang et.al.|[2602.20159](http://arxiv.org/abs/2602.20159)|null|
 |**2026-02-23**|**Generalized $\mathbb{Z}_p$ toric codes as qudit low-density parity-check codes**|Zijian Liang et.al.|[2602.20158](http://arxiv.org/abs/2602.20158)|null|
