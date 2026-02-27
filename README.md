@@ -1,4 +1,4 @@
-## Updated on 2026.02.26
+## Updated on 2026.02.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -61,7 +61,7 @@
 |**2025-04-22**|**Trustworthy Decentralized Autonomous Machines: A New Paradigm in Automation Economy**|Fernando Castillo et.al.|[2504.15676](http://arxiv.org/abs/2504.15676)|null|
 |**2025-03-20**|**Financial Twin Chain, a Platform to Support Financial Sustainability in Supply Chains**|Giuseppe Galante et.al.|[2503.15980](http://arxiv.org/abs/2503.15980)|null|
 
-<p align=right>(<a href=#updated-on-20260226>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260227>back to top</a>)</p>
 
 ## Smart Contracts & AI
 
@@ -88,7 +88,7 @@
 |**2025-10-07**|**Smart Contract Adoption under Discrete Overdispersed Demand: A Negative Binomial Optimization Perspective**|Jinho Cha et.al.|[2510.05487](http://arxiv.org/abs/2510.05487)|null|
 |**2025-10-06**|**LMM-Incentive: Large Multimodal Model-based Incentive Design for User-Generated Content in Web 3.0**|Jinbo Wen et.al.|[2510.04765](http://arxiv.org/abs/2510.04765)|null|
 
-<p align=right>(<a href=#updated-on-20260226>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260227>back to top</a>)</p>
 
 ## Blockchain Consensus & AI
 
@@ -124,7 +124,7 @@
 |**2022-09-30**|**Blockchain-based Monitoring for Poison Attack Detection in Decentralized Federated Learning**|Ranwa Al Mallah et.al.|[2210.02873](http://arxiv.org/abs/2210.02873)|null|
 |**2021-11-12**|**Device-Independent-Quantum-Randomness-Enhanced Zero-Knowledge Proof**|Cheng-Long Li et.al.|[2111.06717](http://arxiv.org/abs/2111.06717)|null|
 
-<p align=right>(<a href=#updated-on-20260226>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260227>back to top</a>)</p>
 
 ## DeFi & AI
 
@@ -143,12 +143,22 @@
 |**2025-10-24**|**Machine Learning Prediction of Magnetic Proximity Effect in van der Waals Heterostructures: From Atoms to Moiré**|Lukas Cvitkovich et.al.|[2508.12406](http://arxiv.org/abs/2508.12406)|null|
 |**2025-09-12**|**Web3 x AI Agents: Landscape, Integrations, and Foundational Challenges**|Yiming Shen et.al.|[2508.02773](http://arxiv.org/abs/2508.02773)|null|
 
-<p align=right>(<a href=#updated-on-20260226>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260227>back to top</a>)</p>
 
 ## Blockchain
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-25**|**Neu-PiG: Neural Preconditioned Grids for Fast Dynamic Surface Reconstruction on Long Sequences**|Julian Kaltheuner et.al.|[2602.22212](http://arxiv.org/abs/2602.22212)|null|
+|**2026-02-25**|**Computing with many encoded logical qubits beyond break-even**|Shival Dasu et.al.|[2602.22211](http://arxiv.org/abs/2602.22211)|null|
+|**2026-02-25**|**SIRIUS: The relation between the diversity of dwarf galaxies and their formation histories**|Chi-Hong Lin et.al.|[2602.22206](http://arxiv.org/abs/2602.22206)|null|
+|**2026-02-25**|**Local Bayesian Regression**|Nils Lid Hjort et.al.|[2602.22203](http://arxiv.org/abs/2602.22203)|null|
+|**2026-02-25**|**Controlled jump in the Clifford hierarchy**|Yichen Xu et.al.|[2602.22201](http://arxiv.org/abs/2602.22201)|null|
+|**2026-02-25**|**SumTablets: A Transliteration Dataset of Sumerian Tablets**|Cole Simmons et.al.|[2602.22200](http://arxiv.org/abs/2602.22200)|null|
+|**2026-02-25**|**Thermal activation drives a finite-size crossover from scale-free to runaway avalanches in amorphous solids**|Gieberth Rodriguez-Lopez et.al.|[2602.22198](http://arxiv.org/abs/2602.22198)|null|
+|**2026-02-25**|**Hybrid Consensus with Quantum Sybil Resistance**|Dar Gilboa et.al.|[2602.22195](http://arxiv.org/abs/2602.22195)|null|
+|**2026-02-25**|**Electrical coupling of a horizontal dipole antenna to a dielectric half-space: applications to radio astronomy from the lunar surface**|Kaja M. Rotermund et.al.|[2602.22194](http://arxiv.org/abs/2602.22194)|null|
+|**2026-02-25**|**UC-Secure Star DKG for Non-Exportable Key Shares with VSS-Free Enforcement**|Vipin Singh Sehrawat et.al.|[2602.22187](http://arxiv.org/abs/2602.22187)|null|
 |**2026-02-24**|**Minimal loop currents in doped Mott insulators**|Can Cui et.al.|[2602.21206](http://arxiv.org/abs/2602.21206)|null|
 |**2026-02-24**|**Test-Time Training with KV Binding Is Secretly Linear Attention**|Junchen Liu et.al.|[2602.21204](http://arxiv.org/abs/2602.21204)|null|
 |**2026-02-24**|**Squint: Fast Visual Reinforcement Learning for Sim-to-Real Robotics**|Abdulaziz Almuzairee et.al.|[2602.21203](http://arxiv.org/abs/2602.21203)|null|
@@ -300,12 +310,22 @@
 |**2026-02-04**|**Capacity Bounds on Doppler OFDM Channels**|Pablo Orellana et.al.|[2602.04862](http://arxiv.org/abs/2602.04862)|null|
 |**2026-02-04**|**CoT is Not the Chain of Truth: An Empirical Internal Analysis of Reasoning LLMs for Fake News Generation**|Zhao Tong et.al.|[2602.04856](http://arxiv.org/abs/2602.04856)|null|
 
-<p align=right>(<a href=#updated-on-20260226>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260227>back to top</a>)</p>
 
 ## Smart Contract
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-25**|**Neu-PiG: Neural Preconditioned Grids for Fast Dynamic Surface Reconstruction on Long Sequences**|Julian Kaltheuner et.al.|[2602.22212](http://arxiv.org/abs/2602.22212)|null|
+|**2026-02-25**|**WHOLE: World-Grounded Hand-Object Lifted from Egocentric Videos**|Yufei Ye et.al.|[2602.22209](http://arxiv.org/abs/2602.22209)|null|
+|**2026-02-25**|**Solaris: Building a Multiplayer Video World Model in Minecraft**|Georgy Savva et.al.|[2602.22208](http://arxiv.org/abs/2602.22208)|null|
+|**2026-02-25**|**SIRIUS: The relation between the diversity of dwarf galaxies and their formation histories**|Chi-Hong Lin et.al.|[2602.22206](http://arxiv.org/abs/2602.22206)|null|
+|**2026-02-25**|**Controlled jump in the Clifford hierarchy**|Yichen Xu et.al.|[2602.22201](http://arxiv.org/abs/2602.22201)|null|
+|**2026-02-25**|**Thermal activation drives a finite-size crossover from scale-free to runaway avalanches in amorphous solids**|Gieberth Rodriguez-Lopez et.al.|[2602.22198](http://arxiv.org/abs/2602.22198)|null|
+|**2026-02-25**|**Off-The-Shelf Image-to-Image Models Are All You Need To Defeat Image Protection Schemes**|Xavier Pleimling et.al.|[2602.22197](http://arxiv.org/abs/2602.22197)|null|
+|**2026-02-25**|**Hybrid Consensus with Quantum Sybil Resistance**|Dar Gilboa et.al.|[2602.22195](http://arxiv.org/abs/2602.22195)|null|
+|**2026-02-25**|**Electrical coupling of a horizontal dipole antenna to a dielectric half-space: applications to radio astronomy from the lunar surface**|Kaja M. Rotermund et.al.|[2602.22194](http://arxiv.org/abs/2602.22194)|null|
+|**2026-02-25**|**Improving Parametric Knowledge Access in Reasoning Language Models**|Melody Ma et.al.|[2602.22193](http://arxiv.org/abs/2602.22193)|null|
 |**2026-02-24**|**Minimal loop currents in doped Mott insulators**|Can Cui et.al.|[2602.21206](http://arxiv.org/abs/2602.21206)|null|
 |**2026-02-24**|**Test-Time Training with KV Binding Is Secretly Linear Attention**|Junchen Liu et.al.|[2602.21204](http://arxiv.org/abs/2602.21204)|null|
 |**2026-02-24**|**Squint: Fast Visual Reinforcement Learning for Sim-to-Real Robotics**|Abdulaziz Almuzairee et.al.|[2602.21203](http://arxiv.org/abs/2602.21203)|null|
@@ -447,12 +467,22 @@
 |**2026-02-04**|**Homological Mirror Symmetry for orbifold log Calabi-Yau surfaces**|Bogdan Simeonov et.al.|[2602.04866](http://arxiv.org/abs/2602.04866)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260226>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260227>back to top</a>)</p>
 
 ## Consensus
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-25**|**Computing with many encoded logical qubits beyond break-even**|Shival Dasu et.al.|[2602.22211](http://arxiv.org/abs/2602.22211)|null|
+|**2026-02-25**|**Solaris: Building a Multiplayer Video World Model in Minecraft**|Georgy Savva et.al.|[2602.22208](http://arxiv.org/abs/2602.22208)|null|
+|**2026-02-25**|**Recovered in Translation: Efficient Pipeline for Automated Translation of Benchmarks and Datasets**|Hanna Yukhymenko et.al.|[2602.22207](http://arxiv.org/abs/2602.22207)|null|
+|**2026-02-25**|**SIRIUS: The relation between the diversity of dwarf galaxies and their formation histories**|Chi-Hong Lin et.al.|[2602.22206](http://arxiv.org/abs/2602.22206)|null|
+|**2026-02-25**|**Quantum jumps in open cavity optomechanics and Liouvillian versus Hamiltonian exceptional points**|Aritra Ghosh et.al.|[2602.22205](http://arxiv.org/abs/2602.22205)|null|
+|**2026-02-25**|**Recovering 3D Magnetic Turbulence from Single-Frequency Faraday Screens**|Aliaksandr Melnichenka et.al.|[2602.22204](http://arxiv.org/abs/2602.22204)|null|
+|**2026-02-25**|**Local Bayesian Regression**|Nils Lid Hjort et.al.|[2602.22203](http://arxiv.org/abs/2602.22203)|null|
+|**2026-02-25**|**Off-The-Shelf Image-to-Image Models Are All You Need To Defeat Image Protection Schemes**|Xavier Pleimling et.al.|[2602.22197](http://arxiv.org/abs/2602.22197)|null|
+|**2026-02-25**|**Reimagining Data Work: Participatory Annotation Workshops as Feminist Practice**|Yujia Gao et.al.|[2602.22196](http://arxiv.org/abs/2602.22196)|null|
+|**2026-02-25**|**Hybrid Consensus with Quantum Sybil Resistance**|Dar Gilboa et.al.|[2602.22195](http://arxiv.org/abs/2602.22195)|null|
 |**2026-02-24**|**Minimal loop currents in doped Mott insulators**|Can Cui et.al.|[2602.21206](http://arxiv.org/abs/2602.21206)|null|
 |**2026-02-24**|**Test-Time Training with KV Binding Is Secretly Linear Attention**|Junchen Liu et.al.|[2602.21204](http://arxiv.org/abs/2602.21204)|null|
 |**2026-02-24**|**Squint: Fast Visual Reinforcement Learning for Sim-to-Real Robotics**|Abdulaziz Almuzairee et.al.|[2602.21203](http://arxiv.org/abs/2602.21203)|null|
@@ -594,12 +624,22 @@
 |**2026-02-04**|**Requirements for Teleportation in an Intercity Quantum Network**|Soubhadra Maiti et.al.|[2602.04869](http://arxiv.org/abs/2602.04869)|null|
 |**2026-02-04**|**CRoSS: A Continual Robotic Simulation Suite for Scalable Reinforcement Learning with High Task Diversity and Realistic Physics Simulation**|Yannick Denker et.al.|[2602.04868](http://arxiv.org/abs/2602.04868)|null|
 
-<p align=right>(<a href=#updated-on-20260226>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260227>back to top</a>)</p>
 
 ## DeFi
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-25**|**Solaris: Building a Multiplayer Video World Model in Minecraft**|Georgy Savva et.al.|[2602.22208](http://arxiv.org/abs/2602.22208)|null|
+|**2026-02-25**|**Recovered in Translation: Efficient Pipeline for Automated Translation of Benchmarks and Datasets**|Hanna Yukhymenko et.al.|[2602.22207](http://arxiv.org/abs/2602.22207)|null|
+|**2026-02-25**|**Controlled jump in the Clifford hierarchy**|Yichen Xu et.al.|[2602.22201](http://arxiv.org/abs/2602.22201)|null|
+|**2026-02-25**|**Thermal activation drives a finite-size crossover from scale-free to runaway avalanches in amorphous solids**|Gieberth Rodriguez-Lopez et.al.|[2602.22198](http://arxiv.org/abs/2602.22198)|null|
+|**2026-02-25**|**Hybrid Consensus with Quantum Sybil Resistance**|Dar Gilboa et.al.|[2602.22195](http://arxiv.org/abs/2602.22195)|null|
+|**2026-02-25**|**Electrical coupling of a horizontal dipole antenna to a dielectric half-space: applications to radio astronomy from the lunar surface**|Kaja M. Rotermund et.al.|[2602.22194](http://arxiv.org/abs/2602.22194)|null|
+|**2026-02-25**|**DySCO: Dynamic Attention-Scaling Decoding for Long-Context LMs**|Xi Ye et.al.|[2602.22175](http://arxiv.org/abs/2602.22175)|null|
+|**2026-02-25**|**Beyond Single-Shot Fidelity: Chernoff-Based Throughput Optimization in Superconducting Qubit Readout**|Sinan Bugu et.al.|[2602.22174](http://arxiv.org/abs/2602.22174)|null|
+|**2026-02-25**|**Applying a Random-Key Optimizer on Mixed Integer Programs**|Antonio A. Chaves et.al.|[2602.22173](http://arxiv.org/abs/2602.22173)|null|
+|**2026-02-25**|**ALP Dark Matter, Cosmological Magnetic Fields and the Direct Collapse Black Hole Formation Scenario**|Ashu Kushwaha et.al.|[2602.22170](http://arxiv.org/abs/2602.22170)|null|
 |**2026-02-24**|**The JWST Resolved Stellar Populations Early Release Science Program. IX. The RR Lyrae Population in WLM with HST and JWST**|Catherine M. Slaughter et.al.|[2602.21205](http://arxiv.org/abs/2602.21205)|null|
 |**2026-02-24**|**Test-Time Training with KV Binding Is Secretly Linear Attention**|Junchen Liu et.al.|[2602.21204](http://arxiv.org/abs/2602.21204)|null|
 |**2026-02-24**|**Multi-Vector Index Compression in Any Modality**|Hanxiang Qin et.al.|[2602.21202](http://arxiv.org/abs/2602.21202)|null|
@@ -761,12 +801,22 @@
 |**2026-02-05**|**TxRay: Agentic Postmortem of Live Blockchain Attacks**|Ziyue Wang et.al.|[2602.01317](http://arxiv.org/abs/2602.01317)|null|
 |**2026-01-30**|**Quasiperiodic Skin Criticality in an Exactly Solvable Non-Hermitian Quasicrystal**|Zhangyuan Chen et.al.|[2601.23015](http://arxiv.org/abs/2601.23015)|null|
 
-<p align=right>(<a href=#updated-on-20260226>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260227>back to top</a>)</p>
 
 ## Cryptography
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-25**|**Computing with many encoded logical qubits beyond break-even**|Shival Dasu et.al.|[2602.22211](http://arxiv.org/abs/2602.22211)|null|
+|**2026-02-25**|**Recovered in Translation: Efficient Pipeline for Automated Translation of Benchmarks and Datasets**|Hanna Yukhymenko et.al.|[2602.22207](http://arxiv.org/abs/2602.22207)|null|
+|**2026-02-25**|**SIRIUS: The relation between the diversity of dwarf galaxies and their formation histories**|Chi-Hong Lin et.al.|[2602.22206](http://arxiv.org/abs/2602.22206)|null|
+|**2026-02-25**|**Local Bayesian Regression**|Nils Lid Hjort et.al.|[2602.22203](http://arxiv.org/abs/2602.22203)|null|
+|**2026-02-25**|**Controlled jump in the Clifford hierarchy**|Yichen Xu et.al.|[2602.22201](http://arxiv.org/abs/2602.22201)|null|
+|**2026-02-25**|**SumTablets: A Transliteration Dataset of Sumerian Tablets**|Cole Simmons et.al.|[2602.22200](http://arxiv.org/abs/2602.22200)|null|
+|**2026-02-25**|**Off-The-Shelf Image-to-Image Models Are All You Need To Defeat Image Protection Schemes**|Xavier Pleimling et.al.|[2602.22197](http://arxiv.org/abs/2602.22197)|null|
+|**2026-02-25**|**Reimagining Data Work: Participatory Annotation Workshops as Feminist Practice**|Yujia Gao et.al.|[2602.22196](http://arxiv.org/abs/2602.22196)|null|
+|**2026-02-25**|**Hybrid Consensus with Quantum Sybil Resistance**|Dar Gilboa et.al.|[2602.22195](http://arxiv.org/abs/2602.22195)|null|
+|**2026-02-25**|**Electrical coupling of a horizontal dipole antenna to a dielectric half-space: applications to radio astronomy from the lunar surface**|Kaja M. Rotermund et.al.|[2602.22194](http://arxiv.org/abs/2602.22194)|null|
 |**2026-02-24**|**Minimal loop currents in doped Mott insulators**|Can Cui et.al.|[2602.21206](http://arxiv.org/abs/2602.21206)|null|
 |**2026-02-24**|**The JWST Resolved Stellar Populations Early Release Science Program. IX. The RR Lyrae Population in WLM with HST and JWST**|Catherine M. Slaughter et.al.|[2602.21205](http://arxiv.org/abs/2602.21205)|null|
 |**2026-02-24**|**Multi-Vector Index Compression in Any Modality**|Hanxiang Qin et.al.|[2602.21202](http://arxiv.org/abs/2602.21202)|null|
@@ -918,12 +968,22 @@
 |**2026-02-04**|**Characterizing $(d,h)$ -elliptic stable irreducible curves**|Juliana Coelho et.al.|[2602.04865](http://arxiv.org/abs/2602.04865)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260226>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260227>back to top</a>)</p>
 
 ## AI in Finance
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-25**|**Neu-PiG: Neural Preconditioned Grids for Fast Dynamic Surface Reconstruction on Long Sequences**|Julian Kaltheuner et.al.|[2602.22212](http://arxiv.org/abs/2602.22212)|null|
+|**2026-02-25**|**Computing with many encoded logical qubits beyond break-even**|Shival Dasu et.al.|[2602.22211](http://arxiv.org/abs/2602.22211)|null|
+|**2026-02-25**|**Real involutive systems on compact Lie groups**|Gabriel Araújo et.al.|[2602.22210](http://arxiv.org/abs/2602.22210)|null|
+|**2026-02-25**|**WHOLE: World-Grounded Hand-Object Lifted from Egocentric Videos**|Yufei Ye et.al.|[2602.22209](http://arxiv.org/abs/2602.22209)|null|
+|**2026-02-25**|**Recovered in Translation: Efficient Pipeline for Automated Translation of Benchmarks and Datasets**|Hanna Yukhymenko et.al.|[2602.22207](http://arxiv.org/abs/2602.22207)|null|
+|**2026-02-25**|**Quantum jumps in open cavity optomechanics and Liouvillian versus Hamiltonian exceptional points**|Aritra Ghosh et.al.|[2602.22205](http://arxiv.org/abs/2602.22205)|null|
+|**2026-02-25**|**Controlled jump in the Clifford hierarchy**|Yichen Xu et.al.|[2602.22201](http://arxiv.org/abs/2602.22201)|null|
+|**2026-02-25**|**SumTablets: A Transliteration Dataset of Sumerian Tablets**|Cole Simmons et.al.|[2602.22200](http://arxiv.org/abs/2602.22200)|null|
+|**2026-02-25**|**Off-The-Shelf Image-to-Image Models Are All You Need To Defeat Image Protection Schemes**|Xavier Pleimling et.al.|[2602.22197](http://arxiv.org/abs/2602.22197)|null|
+|**2026-02-25**|**Reimagining Data Work: Participatory Annotation Workshops as Feminist Practice**|Yujia Gao et.al.|[2602.22196](http://arxiv.org/abs/2602.22196)|null|
 |**2026-02-24**|**Test-Time Training with KV Binding Is Secretly Linear Attention**|Junchen Liu et.al.|[2602.21204](http://arxiv.org/abs/2602.21204)|null|
 |**2026-02-24**|**Squint: Fast Visual Reinforcement Learning for Sim-to-Real Robotics**|Abdulaziz Almuzairee et.al.|[2602.21203](http://arxiv.org/abs/2602.21203)|null|
 |**2026-02-24**|**Aletheia tackles FirstProof autonomously**|Tony Feng et.al.|[2602.21201](http://arxiv.org/abs/2602.21201)|null|
@@ -1080,7 +1140,7 @@
 |**2026-02-04**|**Multi-layer Cross-Attention is Provably Optimal for Multi-modal In-context Learning**|Nicholas Barnfield et.al.|[2602.04872](http://arxiv.org/abs/2602.04872)|null|
 |**2026-02-04**|**Multi-Head LatentMoE and Head Parallel: Communication-Efficient and Deterministic MoE Parallelism**|Chenwei Cui et.al.|[2602.04870](http://arxiv.org/abs/2602.04870)|null|
 
-<p align=right>(<a href=#updated-on-20260226>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260227>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/jhy-3/AI4Blockchain-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/jhy-3/AI4Blockchain-arxiv-daily/graphs/contributors
