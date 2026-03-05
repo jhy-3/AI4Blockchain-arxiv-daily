@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.04
+## Updated on 2026.03.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03**|**The Anatomy of Polymarket: Evidence from the 2024 Presidential Election**|Kwok Ping Tsang et.al.|[2603.03136](http://arxiv.org/abs/2603.03136)|null|
+|**2026-03-03**|**Blockchain Communication Vulnerabilities**|Andrei Lebedev et.al.|[2603.02661](http://arxiv.org/abs/2603.02661)|null|
 |**2026-03-02**|**Reasoning Core: A Scalable Procedural Data Generation Suite for Symbolic Pre-training and Post-Training**|Valentin Lacombe et.al.|[2603.02208](http://arxiv.org/abs/2603.02208)|null|
 |**2026-03-02**|**Analytical Exploration of Spatial Audio Cues: A Differentiable Multi-Sphere Scattering Model**|Siminfar Samakoush Galougah et.al.|[2603.02205](http://arxiv.org/abs/2603.02205)|null|
 |**2026-03-02**|**Partial Causal Structure Learning for Valid Selective Conformal Inference under Interventions**|Amir Asiaee et.al.|[2603.02204](http://arxiv.org/abs/2603.02204)|null|
@@ -139,6 +141,12 @@ layout: default
 |**2026-03-02**|**Symbol-Equivariant Recurrent Reasoning Models**|Richard Freinschlag et.al.|[2603.02193](http://arxiv.org/abs/2603.02193)|null|
 |**2026-03-02**|**Personal Health Data Integration and Intelligence through Semantic Web and Blockchain Technologies**|Oshani Seneviratne et.al.|[2603.02192](http://arxiv.org/abs/2603.02192)|null|
 |**2026-03-02**|**Algebraic statistics of Hüsler-Reiss graphical models in multivariate extremes**|Carlos Améndola et.al.|[2603.02191](http://arxiv.org/abs/2603.02191)|null|
+|**2026-03-02**|**Information and communications technologies for carbon sinks from economics and engineering perspectives**|Yuze Dong et.al.|[2603.01787](http://arxiv.org/abs/2603.01787)|null|
+|**2026-03-01**|**The Finality Calculator: Analyzing and Quantifying Filecoin's Finality Guarantees**|Guy Goren et.al.|[2603.01307](http://arxiv.org/abs/2603.01307)|null|
+|**2026-02-28**|**The On-Chain and Off-Chain Mechanisms of DAO-to-DAO Voting**|Thomas Lloyd et.al.|[2603.00708](http://arxiv.org/abs/2603.00708)|null|
+|**2026-02-28**|**FWeb3: A Practical Incentive-Aware Federated Learning Framework**|Peishen Yan et.al.|[2603.00666](http://arxiv.org/abs/2603.00666)|null|
+|**2026-02-28**|**COLE $^+$ : Towards Practical Column-based Learned Storage for Blockchain Systems**|Ce Zhang et.al.|[2603.00509](http://arxiv.org/abs/2603.00509)|null|
+|**2026-02-28**|**A Blockchain-Based Trust Framework for Resilient Cross-Domain UAV Service Orchestration**|Yao Wu et.al.|[2603.00456](http://arxiv.org/abs/2603.00456)|null|
 |**2026-02-27**|**Mode Seeking meets Mean Seeking for Fast Long Video Generation**|Shengqu Cai et.al.|[2602.24289](http://arxiv.org/abs/2602.24289)|null|
 |**2026-02-27**|**CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation**|Weinan Dai et.al.|[2602.24286](http://arxiv.org/abs/2602.24286)|null|
 |**2026-02-27**|**Chaotic Switching In The Minimal Pendula Network**|Pezhman Ebrahimzadeh et.al.|[2602.24284](http://arxiv.org/abs/2602.24284)|null|
@@ -149,6 +157,7 @@ layout: default
 |**2026-02-27**|**Who Guards the Guardians? The Challenges of Evaluating Identifiability of Learned Representations**|Shruti Joshi et.al.|[2602.24278](http://arxiv.org/abs/2602.24278)|null|
 |**2026-02-27**|**Resources for Automated Evaluation of Assistive RAG Systems that Help Readers with News Trustworthiness Assessment**|Dake Zhang et.al.|[2602.24277](http://arxiv.org/abs/2602.24277)|null|
 |**2026-02-27**|**Virtual Constraint for a Quadrotor UAV Enforcing a Body-Axis Pointing Direction**|Alexandre Anahory Simoes et.al.|[2602.24268](http://arxiv.org/abs/2602.24268)|null|
+|**2026-02-27**|**One Rising Ship Sinks Other Ships: Cross-Chain Negative Spillovers in Crypto Markets**|Mengzhong Ma et.al.|[2602.23762](http://arxiv.org/abs/2602.23762)|null|
 |**2026-02-26**|**TESS Planet Occurrence Rates Reveal the Disappearance of the Radius Valley Around Mid-to-Late M Dwarfs**|Erik Gillis et.al.|[2602.23364](http://arxiv.org/abs/2602.23364)|null|
 |**2026-02-26**|**Arrested Relaxation in a Disorder-Free Coulomb Spin Liquid**|Souvik Kundu et.al.|[2602.23362](http://arxiv.org/abs/2602.23362)|null|
 |**2026-02-26**|**VGG-T $^3$ : Offline Feed-Forward 3D Reconstruction at Scale**|Sven Elflein et.al.|[2602.23361](http://arxiv.org/abs/2602.23361)|null|
@@ -324,6 +333,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03**|**Utonia: Toward One Encoder for All Point Clouds**|Yujia Zhang et.al.|[2603.03283](http://arxiv.org/abs/2603.03283)|null|
+|**2026-03-03**|**MIBURI: Towards Expressive Interactive Gesture Synthesis**|M. Hamza Mughal et.al.|[2603.03282](http://arxiv.org/abs/2603.03282)|null|
+|**2026-03-03**|**CFG-Ctrl: Control-Based Classifier-Free Diffusion Guidance**|Hanyang Wang et.al.|[2603.03281](http://arxiv.org/abs/2603.03281)|null|
+|**2026-03-03**|**How to Peel with a Knife: Aligning Fine-Grained Manipulation with Human Preference**|Toru Lin et.al.|[2603.03280](http://arxiv.org/abs/2603.03280)|null|
+|**2026-03-03**|**ULTRA: Unified Multimodal Control for Autonomous Humanoid Whole-Body Loco-Manipulation**|Xialin He et.al.|[2603.03279](http://arxiv.org/abs/2603.03279)|null|
+|**2026-03-03**|**Tether: Autonomous Functional Play with Correspondence-Driven Trajectory Warping**|William Liang et.al.|[2603.03278](http://arxiv.org/abs/2603.03278)|null|
+|**2026-03-03**|**Beyond Language Modeling: An Exploration of Multimodal Pretraining**|Shengbang Tong et.al.|[2603.03276](http://arxiv.org/abs/2603.03276)|null|
+|**2026-03-03**|**Learning Demographic-Conditioned Mobility Trajectories with Aggregate Supervision**|Jessie Z. Li et.al.|[2603.03275](http://arxiv.org/abs/2603.03275)|null|
+|**2026-03-03**|**Improvement and assessment of the radiopurity of Micromegas readout planes**|Juan Castel et.al.|[2603.03274](http://arxiv.org/abs/2603.03274)|null|
+|**2026-03-03**|**Gravity Falls: A Comparative Analysis of Domain-Generation Algorithm (DGA) Detection Methods for Mobile Device Spearphishing**|Adam Dorian Wong et.al.|[2603.03270](http://arxiv.org/abs/2603.03270)|null|
 |**2026-03-02**|**Reconciling 3D Models for the Central 10 parsecs of the Milky Way**|Elisabeth A. C. Mills et.al.|[2603.02211](http://arxiv.org/abs/2603.02211)|null|
 |**2026-03-02**|**HiFi-Inpaint: Towards High-Fidelity Reference-Based Inpainting for Generating Detail-Preserving Human-Product Images**|Yichen Liu et.al.|[2603.02210](http://arxiv.org/abs/2603.02210)|null|
 |**2026-03-02**|**Analytical Exploration of Spatial Audio Cues: A Differentiable Multi-Sphere Scattering Model**|Siminfar Samakoush Galougah et.al.|[2603.02205](http://arxiv.org/abs/2603.02205)|null|
@@ -509,6 +528,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03**|**ULTRA: Unified Multimodal Control for Autonomous Humanoid Whole-Body Loco-Manipulation**|Xialin He et.al.|[2603.03279](http://arxiv.org/abs/2603.03279)|null|
+|**2026-03-03**|**Learning Demographic-Conditioned Mobility Trajectories with Aggregate Supervision**|Jessie Z. Li et.al.|[2603.03275](http://arxiv.org/abs/2603.03275)|null|
+|**2026-03-03**|**An Improved Combinatorial Algorithm for Edge-Colored Clustering in Hypergraphs**|Seongjune Han et.al.|[2603.03273](http://arxiv.org/abs/2603.03273)|null|
+|**2026-03-03**|**Gravity Falls: A Comparative Analysis of Domain-Generation Algorithm (DGA) Detection Methods for Mobile Device Spearphishing**|Adam Dorian Wong et.al.|[2603.03270](http://arxiv.org/abs/2603.03270)|null|
+|**2026-03-03**|**LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory**|Junyi Zhang et.al.|[2603.03269](http://arxiv.org/abs/2603.03269)|null|
+|**2026-03-03**|**Exponential ergodicity and finite-dimensional approximation for Markovian lifts of stochastic Volterra equations**|Yushi Hamaguchi et.al.|[2603.03268](http://arxiv.org/abs/2603.03268)|null|
+|**2026-03-03**|**Policy myopia as a mechanism of gradual disempowerment in Post-AGI governance, Circa 2049**|Subramanyam Sahoo et.al.|[2603.03267](http://arxiv.org/abs/2603.03267)|null|
+|**2026-03-03**|**Yeo's Theorem for Locally Colored Graphs: the Path to Sequentialization in Linear Logic**|Rémi Di Guardia et.al.|[2603.03262](http://arxiv.org/abs/2603.03262)|null|
+|**2026-03-03**|**Recentering with Malliavin derivative**|Yvain Bruned et.al.|[2603.03261](http://arxiv.org/abs/2603.03261)|null|
+|**2026-03-03**|**Physics-informed post-processing of stabilized finite element solutions for transient convection-dominated problems**|Süleyman Cengizci et.al.|[2603.03259](http://arxiv.org/abs/2603.03259)|null|
 |**2026-03-02**|**HiFi-Inpaint: Towards High-Fidelity Reference-Based Inpainting for Generating Detail-Preserving Human-Product Images**|Yichen Liu et.al.|[2603.02210](http://arxiv.org/abs/2603.02210)|null|
 |**2026-03-02**|**Ground-based Atmospheric Characterization of Super-Earth L 98-59 d at High Spectral Resolution**|Connor J. Cheverall et.al.|[2603.02209](http://arxiv.org/abs/2603.02209)|null|
 |**2026-03-02**|**Novel technique based on Léja Points Approximation for Log-determinant Estimation of Large matrices**|Verlon Roel Mbingui et.al.|[2603.02207](http://arxiv.org/abs/2603.02207)|null|
@@ -694,6 +723,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03**|**Neutrino mass limits and decaying dark matter: background evolution versus perturbations**|Thomas Montandon et.al.|[2603.03284](http://arxiv.org/abs/2603.03284)|null|
+|**2026-03-03**|**Utonia: Toward One Encoder for All Point Clouds**|Yujia Zhang et.al.|[2603.03283](http://arxiv.org/abs/2603.03283)|null|
+|**2026-03-03**|**MIBURI: Towards Expressive Interactive Gesture Synthesis**|M. Hamza Mughal et.al.|[2603.03282](http://arxiv.org/abs/2603.03282)|null|
+|**2026-03-03**|**Tether: Autonomous Functional Play with Correspondence-Driven Trajectory Warping**|William Liang et.al.|[2603.03278](http://arxiv.org/abs/2603.03278)|null|
+|**2026-03-03**|**Beyond Language Modeling: An Exploration of Multimodal Pretraining**|Shengbang Tong et.al.|[2603.03276](http://arxiv.org/abs/2603.03276)|null|
+|**2026-03-03**|**Virtual-Memory Assisted Buffer Management In Tiered Memory**|Yeasir Rayhan et.al.|[2603.03271](http://arxiv.org/abs/2603.03271)|null|
+|**2026-03-03**|**Exponential ergodicity and finite-dimensional approximation for Markovian lifts of stochastic Volterra equations**|Yushi Hamaguchi et.al.|[2603.03268](http://arxiv.org/abs/2603.03268)|null|
+|**2026-03-03**|**Generalised All-Optical Cat Correction**|Ari John Boon et.al.|[2603.03263](http://arxiv.org/abs/2603.03263)|null|
+|**2026-03-03**|**Nonclassical Turing instabilities induced by superdiffusive transport in FitzHugh-Nagumo dynamics**|Rossella Rizzo et.al.|[2603.03254](http://arxiv.org/abs/2603.03254)|null|
+|**2026-03-03**|**Probing Axions with Relativistic Jet Polarimetry**|Dashon Michel Jones et.al.|[2603.03244](http://arxiv.org/abs/2603.03244)|null|
 |**2026-03-02**|**HiFi-Inpaint: Towards High-Fidelity Reference-Based Inpainting for Generating Detail-Preserving Human-Product Images**|Yichen Liu et.al.|[2603.02210](http://arxiv.org/abs/2603.02210)|null|
 |**2026-03-02**|**Partial Causal Structure Learning for Valid Selective Conformal Inference under Interventions**|Amir Asiaee et.al.|[2603.02204](http://arxiv.org/abs/2603.02204)|null|
 |**2026-03-02**|**Predicting Gaia astrometry's ability to constrain the populations of circumbinary planets**|Thomas A. Baycroft et.al.|[2603.02198](http://arxiv.org/abs/2603.02198)|null|
@@ -899,6 +938,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03**|**Neutrino mass limits and decaying dark matter: background evolution versus perturbations**|Thomas Montandon et.al.|[2603.03284](http://arxiv.org/abs/2603.03284)|null|
+|**2026-03-03**|**How to Peel with a Knife: Aligning Fine-Grained Manipulation with Human Preference**|Toru Lin et.al.|[2603.03280](http://arxiv.org/abs/2603.03280)|null|
+|**2026-03-03**|**Tether: Autonomous Functional Play with Correspondence-Driven Trajectory Warping**|William Liang et.al.|[2603.03278](http://arxiv.org/abs/2603.03278)|null|
+|**2026-03-03**|**Beyond thresholds: reconstructing UV physics from IR expansions**|Hiromasa Takaura et.al.|[2603.03277](http://arxiv.org/abs/2603.03277)|null|
+|**2026-03-03**|**Beyond Language Modeling: An Exploration of Multimodal Pretraining**|Shengbang Tong et.al.|[2603.03276](http://arxiv.org/abs/2603.03276)|null|
+|**2026-03-03**|**Exponential ergodicity and finite-dimensional approximation for Markovian lifts of stochastic Volterra equations**|Yushi Hamaguchi et.al.|[2603.03268](http://arxiv.org/abs/2603.03268)|null|
+|**2026-03-03**|**A fast method to derive relative small-scale magnetic field variations from high resolution spectroscopy**|Paul I. Cristofari et.al.|[2603.03264](http://arxiv.org/abs/2603.03264)|null|
+|**2026-03-03**|**Generalised All-Optical Cat Correction**|Ari John Boon et.al.|[2603.03263](http://arxiv.org/abs/2603.03263)|null|
+|**2026-03-03**|**Yeo's Theorem for Locally Colored Graphs: the Path to Sequentialization in Linear Logic**|Rémi Di Guardia et.al.|[2603.03262](http://arxiv.org/abs/2603.03262)|null|
+|**2026-03-03**|**Recentering with Malliavin derivative**|Yvain Bruned et.al.|[2603.03261](http://arxiv.org/abs/2603.03261)|null|
 |**2026-03-02**|**Reasoning Core: A Scalable Procedural Data Generation Suite for Symbolic Pre-training and Post-Training**|Valentin Lacombe et.al.|[2603.02208](http://arxiv.org/abs/2603.02208)|null|
 |**2026-03-02**|**Novel technique based on Léja Points Approximation for Log-determinant Estimation of Large matrices**|Verlon Roel Mbingui et.al.|[2603.02207](http://arxiv.org/abs/2603.02207)|null|
 |**2026-03-02**|**Analytical Exploration of Spatial Audio Cues: A Differentiable Multi-Sphere Scattering Model**|Siminfar Samakoush Galougah et.al.|[2603.02205](http://arxiv.org/abs/2603.02205)|null|
@@ -1094,6 +1143,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03**|**Utonia: Toward One Encoder for All Point Clouds**|Yujia Zhang et.al.|[2603.03283](http://arxiv.org/abs/2603.03283)|null|
+|**2026-03-03**|**CFG-Ctrl: Control-Based Classifier-Free Diffusion Guidance**|Hanyang Wang et.al.|[2603.03281](http://arxiv.org/abs/2603.03281)|null|
+|**2026-03-03**|**How to Peel with a Knife: Aligning Fine-Grained Manipulation with Human Preference**|Toru Lin et.al.|[2603.03280](http://arxiv.org/abs/2603.03280)|null|
+|**2026-03-03**|**ULTRA: Unified Multimodal Control for Autonomous Humanoid Whole-Body Loco-Manipulation**|Xialin He et.al.|[2603.03279](http://arxiv.org/abs/2603.03279)|null|
+|**2026-03-03**|**Tether: Autonomous Functional Play with Correspondence-Driven Trajectory Warping**|William Liang et.al.|[2603.03278](http://arxiv.org/abs/2603.03278)|null|
+|**2026-03-03**|**Beyond Language Modeling: An Exploration of Multimodal Pretraining**|Shengbang Tong et.al.|[2603.03276](http://arxiv.org/abs/2603.03276)|null|
+|**2026-03-03**|**Learning Demographic-Conditioned Mobility Trajectories with Aggregate Supervision**|Jessie Z. Li et.al.|[2603.03275](http://arxiv.org/abs/2603.03275)|null|
+|**2026-03-03**|**Improvement and assessment of the radiopurity of Micromegas readout planes**|Juan Castel et.al.|[2603.03274](http://arxiv.org/abs/2603.03274)|null|
+|**2026-03-03**|**An Improved Combinatorial Algorithm for Edge-Colored Clustering in Hypergraphs**|Seongjune Han et.al.|[2603.03273](http://arxiv.org/abs/2603.03273)|null|
+|**2026-03-03**|**Virtual-Memory Assisted Buffer Management In Tiered Memory**|Yeasir Rayhan et.al.|[2603.03271](http://arxiv.org/abs/2603.03271)|null|
 |**2026-03-02**|**Reasoning Core: A Scalable Procedural Data Generation Suite for Symbolic Pre-training and Post-Training**|Valentin Lacombe et.al.|[2603.02208](http://arxiv.org/abs/2603.02208)|null|
 |**2026-03-02**|**Novel technique based on Léja Points Approximation for Log-determinant Estimation of Large matrices**|Verlon Roel Mbingui et.al.|[2603.02207](http://arxiv.org/abs/2603.02207)|null|
 |**2026-03-02**|**VoiceAgengRAG: Solving the RAG Latency Bottleneck in Real-Time Voice Agents Using Dual-Agent Architectures**|Jielin Qiu et.al.|[2603.02206](http://arxiv.org/abs/2603.02206)|null|
