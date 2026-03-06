@@ -1,4 +1,4 @@
-## Updated on 2026.03.05
+## Updated on 2026.03.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -61,7 +61,7 @@
 |**2025-04-22**|**Trustworthy Decentralized Autonomous Machines: A New Paradigm in Automation Economy**|Fernando Castillo et.al.|[2504.15676](http://arxiv.org/abs/2504.15676)|null|
 |**2025-03-20**|**Financial Twin Chain, a Platform to Support Financial Sustainability in Supply Chains**|Giuseppe Galante et.al.|[2503.15980](http://arxiv.org/abs/2503.15980)|null|
 
-<p align=right>(<a href=#updated-on-20260305>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260306>back to top</a>)</p>
 
 ## Smart Contracts & AI
 
@@ -88,7 +88,7 @@
 |**2025-10-07**|**Smart Contract Adoption under Discrete Overdispersed Demand: A Negative Binomial Optimization Perspective**|Jinho Cha et.al.|[2510.05487](http://arxiv.org/abs/2510.05487)|null|
 |**2025-10-06**|**LMM-Incentive: Large Multimodal Model-based Incentive Design for User-Generated Content in Web 3.0**|Jinbo Wen et.al.|[2510.04765](http://arxiv.org/abs/2510.04765)|null|
 
-<p align=right>(<a href=#updated-on-20260305>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260306>back to top</a>)</p>
 
 ## Blockchain Consensus & AI
 
@@ -124,7 +124,7 @@
 |**2022-09-30**|**Blockchain-based Monitoring for Poison Attack Detection in Decentralized Federated Learning**|Ranwa Al Mallah et.al.|[2210.02873](http://arxiv.org/abs/2210.02873)|null|
 |**2021-11-12**|**Device-Independent-Quantum-Randomness-Enhanced Zero-Knowledge Proof**|Cheng-Long Li et.al.|[2111.06717](http://arxiv.org/abs/2111.06717)|null|
 
-<p align=right>(<a href=#updated-on-20260305>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260306>back to top</a>)</p>
 
 ## DeFi & AI
 
@@ -143,12 +143,22 @@
 |**2025-10-24**|**Machine Learning Prediction of Magnetic Proximity Effect in van der Waals Heterostructures: From Atoms to Moiré**|Lukas Cvitkovich et.al.|[2508.12406](http://arxiv.org/abs/2508.12406)|null|
 |**2025-09-12**|**Web3 x AI Agents: Landscape, Integrations, and Foundational Challenges**|Yiming Shen et.al.|[2508.02773](http://arxiv.org/abs/2508.02773)|null|
 
-<p align=right>(<a href=#updated-on-20260305>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260306>back to top</a>)</p>
 
 ## Blockchain
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-04**|**Exploring gas thermodynamics around galaxies from the Sunyaev-Zel'dovich effects: impact of galaxy-halo connection, 2D projection and velocity field**|Sadaf Kadir et.al.|[2603.04397](http://arxiv.org/abs/2603.04397)|null|
+|**2026-03-04**|**bayesgrid: An Open-Source Python Tool for Generating Probabilistic Synthetic Transmission-Distribution Grids Using Bayesian Hierarchical Models**|Henrique O. Caetano et.al.|[2603.04393](http://arxiv.org/abs/2603.04393)|null|
+|**2026-03-04**|**SELDON: Supernova Explosions Learned by Deep ODE Networks**|Jiezhong Wu et.al.|[2603.04392](http://arxiv.org/abs/2603.04392)|null|
+|**2026-03-04**|**Unital $3$-dimensional structurable algebras: classification, properties and $\rm{AK}$ -construction**|Kobiljon Abdurasulov et.al.|[2603.04391](http://arxiv.org/abs/2603.04391)|null|
+|**2026-03-04**|**Hyperuniform Disorder in Photonic Crystal Slabs with Intrinsic non-Hermiticity**|Zeyu Zhang et.al.|[2603.04389](http://arxiv.org/abs/2603.04389)|null|
+|**2026-03-04**|**Super-decomposable pure-injective modules over some Jacobian algebras**|Shantanu Sardar et.al.|[2603.04387](http://arxiv.org/abs/2603.04387)|null|
+|**2026-03-04**|**The Gaussian Wave for Graphs of Finite Cone Type**|Amir Dembo et.al.|[2603.04386](http://arxiv.org/abs/2603.04386)|null|
+|**2026-03-04**|**ZipMap: Linear-Time Stateful 3D Reconstruction with Test-Time Training**|Haian Jin et.al.|[2603.04385](http://arxiv.org/abs/2603.04385)|null|
+|**2026-03-04**|**AgentIR: Reasoning-Aware Retrival for Deep Research Agents**|Zijian Chen et.al.|[2603.04384](http://arxiv.org/abs/2603.04384)|null|
+|**2026-03-04**|**Turning Trust to Transactions: Tracking Affiliate Marketing and FTC Compliance in YouTube's Influencer Economy**|Chen Sun et.al.|[2603.04383](http://arxiv.org/abs/2603.04383)|null|
 |**2026-03-03**|**The Anatomy of Polymarket: Evidence from the 2024 Presidential Election**|Kwok Ping Tsang et.al.|[2603.03136](http://arxiv.org/abs/2603.03136)|null|
 |**2026-03-03**|**Blockchain Communication Vulnerabilities**|Andrei Lebedev et.al.|[2603.02661](http://arxiv.org/abs/2603.02661)|null|
 |**2026-03-02**|**Reasoning Core: A Scalable Procedural Data Generation Suite for Symbolic Pre-training and Post-Training**|Valentin Lacombe et.al.|[2603.02208](http://arxiv.org/abs/2603.02208)|null|
@@ -349,12 +359,22 @@
 |**2026-02-04**|**Capacity Bounds on Doppler OFDM Channels**|Pablo Orellana et.al.|[2602.04862](http://arxiv.org/abs/2602.04862)|null|
 |**2026-02-04**|**CoT is Not the Chain of Truth: An Empirical Internal Analysis of Reasoning LLMs for Fake News Generation**|Zhao Tong et.al.|[2602.04856](http://arxiv.org/abs/2602.04856)|null|
 
-<p align=right>(<a href=#updated-on-20260305>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260306>back to top</a>)</p>
 
 ## Smart Contract
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-04**|**SimpliHuMoN: Simplifying Human Motion Prediction**|Aadya Agrawal et.al.|[2603.04399](http://arxiv.org/abs/2603.04399)|null|
+|**2026-03-04**|**HyQBench: A Benchmark Suite for Hybrid CV-DV Quantum Computing**|Shubdeep Mohapatra et.al.|[2603.04398](http://arxiv.org/abs/2603.04398)|null|
+|**2026-03-04**|**Exploring gas thermodynamics around galaxies from the Sunyaev-Zel'dovich effects: impact of galaxy-halo connection, 2D projection and velocity field**|Sadaf Kadir et.al.|[2603.04397](http://arxiv.org/abs/2603.04397)|null|
+|**2026-03-04**|**Accurate and Efficient Hybrid-Ensemble Atmospheric Data Assimilation in Latent Space with Uncertainty Quantification**|Hang Fan et.al.|[2603.04395](http://arxiv.org/abs/2603.04395)|null|
+|**2026-03-04**|**ZipMap: Linear-Time Stateful 3D Reconstruction with Test-Time Training**|Haian Jin et.al.|[2603.04385](http://arxiv.org/abs/2603.04385)|null|
+|**2026-03-04**|**Turning Trust to Transactions: Tracking Affiliate Marketing and FTC Compliance in YouTube's Influencer Economy**|Chen Sun et.al.|[2603.04383](http://arxiv.org/abs/2603.04383)|null|
+|**2026-03-04**|**A DualPI2 Module for Mahimahi: Behavioral Characterization and Cross-Platform Analysis**|Nawel Alioua et.al.|[2603.04381](http://arxiv.org/abs/2603.04381)|null|
+|**2026-03-04**|**TaxonRL: Reinforcement Learning with Intermediate Rewards for Interpretable Fine-Grained Visual Reasoning**|Maximilian von Klinski et.al.|[2603.04380](http://arxiv.org/abs/2603.04380)|null|
+|**2026-03-04**|**Helios: Real Real-Time Long Video Generation Model**|Shenghai Yuan et.al.|[2603.04379](http://arxiv.org/abs/2603.04379)|null|
+|**2026-03-04**|**Robustness of Agentic AI Systems via Adversarially-Aligned Jacobian Regularization**|Furkan Mumcu et.al.|[2603.04378](http://arxiv.org/abs/2603.04378)|null|
 |**2026-03-03**|**Utonia: Toward One Encoder for All Point Clouds**|Yujia Zhang et.al.|[2603.03283](http://arxiv.org/abs/2603.03283)|null|
 |**2026-03-03**|**MIBURI: Towards Expressive Interactive Gesture Synthesis**|M. Hamza Mughal et.al.|[2603.03282](http://arxiv.org/abs/2603.03282)|null|
 |**2026-03-03**|**CFG-Ctrl: Control-Based Classifier-Free Diffusion Guidance**|Hanyang Wang et.al.|[2603.03281](http://arxiv.org/abs/2603.03281)|null|
@@ -546,12 +566,22 @@
 |**2026-02-04**|**Homological Mirror Symmetry for orbifold log Calabi-Yau surfaces**|Bogdan Simeonov et.al.|[2602.04866](http://arxiv.org/abs/2602.04866)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260305>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260306>back to top</a>)</p>
 
 ## Consensus
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-04**|**Gravitational confinement of ghost scalar fields in neutron stars**|Argelia Bernal et.al.|[2603.04400](http://arxiv.org/abs/2603.04400)|null|
+|**2026-03-04**|**HyQBench: A Benchmark Suite for Hybrid CV-DV Quantum Computing**|Shubdeep Mohapatra et.al.|[2603.04398](http://arxiv.org/abs/2603.04398)|null|
+|**2026-03-04**|**Exploring gas thermodynamics around galaxies from the Sunyaev-Zel'dovich effects: impact of galaxy-halo connection, 2D projection and velocity field**|Sadaf Kadir et.al.|[2603.04397](http://arxiv.org/abs/2603.04397)|null|
+|**2026-03-04**|**Abelian-normal decimal expansions**|John M. Campbell et.al.|[2603.04396](http://arxiv.org/abs/2603.04396)|null|
+|**2026-03-04**|**A framework for missing-energy searches with anomalous light vectors**|Luca Di Luzio et.al.|[2603.04394](http://arxiv.org/abs/2603.04394)|null|
+|**2026-03-04**|**bayesgrid: An Open-Source Python Tool for Generating Probabilistic Synthetic Transmission-Distribution Grids Using Bayesian Hierarchical Models**|Henrique O. Caetano et.al.|[2603.04393](http://arxiv.org/abs/2603.04393)|null|
+|**2026-03-04**|**Hyperuniform Disorder in Photonic Crystal Slabs with Intrinsic non-Hermiticity**|Zeyu Zhang et.al.|[2603.04389](http://arxiv.org/abs/2603.04389)|null|
+|**2026-03-04**|**The Gaussian Wave for Graphs of Finite Cone Type**|Amir Dembo et.al.|[2603.04386](http://arxiv.org/abs/2603.04386)|null|
+|**2026-03-04**|**A DualPI2 Module for Mahimahi: Behavioral Characterization and Cross-Platform Analysis**|Nawel Alioua et.al.|[2603.04381](http://arxiv.org/abs/2603.04381)|null|
+|**2026-03-04**|**TaxonRL: Reinforcement Learning with Intermediate Rewards for Interpretable Fine-Grained Visual Reasoning**|Maximilian von Klinski et.al.|[2603.04380](http://arxiv.org/abs/2603.04380)|null|
 |**2026-03-03**|**ULTRA: Unified Multimodal Control for Autonomous Humanoid Whole-Body Loco-Manipulation**|Xialin He et.al.|[2603.03279](http://arxiv.org/abs/2603.03279)|null|
 |**2026-03-03**|**Learning Demographic-Conditioned Mobility Trajectories with Aggregate Supervision**|Jessie Z. Li et.al.|[2603.03275](http://arxiv.org/abs/2603.03275)|null|
 |**2026-03-03**|**An Improved Combinatorial Algorithm for Edge-Colored Clustering in Hypergraphs**|Seongjune Han et.al.|[2603.03273](http://arxiv.org/abs/2603.03273)|null|
@@ -743,12 +773,22 @@
 |**2026-02-04**|**Requirements for Teleportation in an Intercity Quantum Network**|Soubhadra Maiti et.al.|[2602.04869](http://arxiv.org/abs/2602.04869)|null|
 |**2026-02-04**|**CRoSS: A Continual Robotic Simulation Suite for Scalable Reinforcement Learning with High Task Diversity and Realistic Physics Simulation**|Yannick Denker et.al.|[2602.04868](http://arxiv.org/abs/2602.04868)|null|
 
-<p align=right>(<a href=#updated-on-20260305>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260306>back to top</a>)</p>
 
 ## DeFi
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-04**|**A Dual-Helix Governance Approach Towards Reliable Agentic AI for WebGIS Development**|Boyuan et.al.|[2603.04390](http://arxiv.org/abs/2603.04390)|null|
+|**2026-03-04**|**Dynamic properties in a collisional model for confined granular fluids. A review**|Ricardo Brito et.al.|[2603.04388](http://arxiv.org/abs/2603.04388)|null|
+|**2026-03-04**|**AgentIR: Reasoning-Aware Retrival for Deep Research Agents**|Zijian Chen et.al.|[2603.04384](http://arxiv.org/abs/2603.04384)|null|
+|**2026-03-04**|**Turning Trust to Transactions: Tracking Affiliate Marketing and FTC Compliance in YouTube's Influencer Economy**|Chen Sun et.al.|[2603.04383](http://arxiv.org/abs/2603.04383)|null|
+|**2026-03-04**|**TaxonRL: Reinforcement Learning with Intermediate Rewards for Interpretable Fine-Grained Visual Reasoning**|Maximilian von Klinski et.al.|[2603.04380](http://arxiv.org/abs/2603.04380)|null|
+|**2026-03-04**|**Helios: Real Real-Time Long Video Generation Model**|Shenghai Yuan et.al.|[2603.04379](http://arxiv.org/abs/2603.04379)|null|
+|**2026-03-04**|**Robustness of Agentic AI Systems via Adversarially-Aligned Jacobian Regularization**|Furkan Mumcu et.al.|[2603.04378](http://arxiv.org/abs/2603.04378)|null|
+|**2026-03-04**|**Benchmarking Quantum Computers via Protocols, Comparing IBM's Heron vs IBM's Eagle**|Nitay Mayo et.al.|[2603.04377](http://arxiv.org/abs/2603.04377)|null|
+|**2026-03-04**|**Non-Hermitian Quantum Mechanics with Applications to Gravity**|Oem Trivedi et.al.|[2603.04375](http://arxiv.org/abs/2603.04375)|null|
+|**2026-03-04**|**Scrollytelling as an Alternative Format for Privacy Policies**|Gonzalo Gabriel Méndez et.al.|[2603.04367](http://arxiv.org/abs/2603.04367)|null|
 |**2026-03-03**|**Neutrino mass limits and decaying dark matter: background evolution versus perturbations**|Thomas Montandon et.al.|[2603.03284](http://arxiv.org/abs/2603.03284)|null|
 |**2026-03-03**|**Utonia: Toward One Encoder for All Point Clouds**|Yujia Zhang et.al.|[2603.03283](http://arxiv.org/abs/2603.03283)|null|
 |**2026-03-03**|**MIBURI: Towards Expressive Interactive Gesture Synthesis**|M. Hamza Mughal et.al.|[2603.03282](http://arxiv.org/abs/2603.03282)|null|
@@ -960,12 +1000,22 @@
 |**2026-02-05**|**TxRay: Agentic Postmortem of Live Blockchain Attacks**|Ziyue Wang et.al.|[2602.01317](http://arxiv.org/abs/2602.01317)|null|
 |**2026-01-30**|**Quasiperiodic Skin Criticality in an Exactly Solvable Non-Hermitian Quasicrystal**|Zhangyuan Chen et.al.|[2601.23015](http://arxiv.org/abs/2601.23015)|null|
 
-<p align=right>(<a href=#updated-on-20260305>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260306>back to top</a>)</p>
 
 ## Cryptography
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-04**|**Post-inflationary axion constraints from the Lyman- $α$ forest**|Olga Garcia-Gallego et.al.|[2603.04401](http://arxiv.org/abs/2603.04401)|null|
+|**2026-03-04**|**Gravitational confinement of ghost scalar fields in neutron stars**|Argelia Bernal et.al.|[2603.04400](http://arxiv.org/abs/2603.04400)|null|
+|**2026-03-04**|**HyQBench: A Benchmark Suite for Hybrid CV-DV Quantum Computing**|Shubdeep Mohapatra et.al.|[2603.04398](http://arxiv.org/abs/2603.04398)|null|
+|**2026-03-04**|**Exploring gas thermodynamics around galaxies from the Sunyaev-Zel'dovich effects: impact of galaxy-halo connection, 2D projection and velocity field**|Sadaf Kadir et.al.|[2603.04397](http://arxiv.org/abs/2603.04397)|null|
+|**2026-03-04**|**Abelian-normal decimal expansions**|John M. Campbell et.al.|[2603.04396](http://arxiv.org/abs/2603.04396)|null|
+|**2026-03-04**|**A framework for missing-energy searches with anomalous light vectors**|Luca Di Luzio et.al.|[2603.04394](http://arxiv.org/abs/2603.04394)|null|
+|**2026-03-04**|**bayesgrid: An Open-Source Python Tool for Generating Probabilistic Synthetic Transmission-Distribution Grids Using Bayesian Hierarchical Models**|Henrique O. Caetano et.al.|[2603.04393](http://arxiv.org/abs/2603.04393)|null|
+|**2026-03-04**|**SELDON: Supernova Explosions Learned by Deep ODE Networks**|Jiezhong Wu et.al.|[2603.04392](http://arxiv.org/abs/2603.04392)|null|
+|**2026-03-04**|**Unital $3$-dimensional structurable algebras: classification, properties and $\rm{AK}$ -construction**|Kobiljon Abdurasulov et.al.|[2603.04391](http://arxiv.org/abs/2603.04391)|null|
+|**2026-03-04**|**A Dual-Helix Governance Approach Towards Reliable Agentic AI for WebGIS Development**|Boyuan et.al.|[2603.04390](http://arxiv.org/abs/2603.04390)|null|
 |**2026-03-03**|**Neutrino mass limits and decaying dark matter: background evolution versus perturbations**|Thomas Montandon et.al.|[2603.03284](http://arxiv.org/abs/2603.03284)|null|
 |**2026-03-03**|**How to Peel with a Knife: Aligning Fine-Grained Manipulation with Human Preference**|Toru Lin et.al.|[2603.03280](http://arxiv.org/abs/2603.03280)|null|
 |**2026-03-03**|**Tether: Autonomous Functional Play with Correspondence-Driven Trajectory Warping**|William Liang et.al.|[2603.03278](http://arxiv.org/abs/2603.03278)|null|
@@ -1167,12 +1217,22 @@
 |**2026-02-04**|**Characterizing $(d,h)$ -elliptic stable irreducible curves**|Juliana Coelho et.al.|[2602.04865](http://arxiv.org/abs/2602.04865)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260305>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260306>back to top</a>)</p>
 
 ## AI in Finance
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-04**|**Post-inflationary axion constraints from the Lyman- $α$ forest**|Olga Garcia-Gallego et.al.|[2603.04401](http://arxiv.org/abs/2603.04401)|null|
+|**2026-03-04**|**SimpliHuMoN: Simplifying Human Motion Prediction**|Aadya Agrawal et.al.|[2603.04399](http://arxiv.org/abs/2603.04399)|null|
+|**2026-03-04**|**HyQBench: A Benchmark Suite for Hybrid CV-DV Quantum Computing**|Shubdeep Mohapatra et.al.|[2603.04398](http://arxiv.org/abs/2603.04398)|null|
+|**2026-03-04**|**Accurate and Efficient Hybrid-Ensemble Atmospheric Data Assimilation in Latent Space with Uncertainty Quantification**|Hang Fan et.al.|[2603.04395](http://arxiv.org/abs/2603.04395)|null|
+|**2026-03-04**|**bayesgrid: An Open-Source Python Tool for Generating Probabilistic Synthetic Transmission-Distribution Grids Using Bayesian Hierarchical Models**|Henrique O. Caetano et.al.|[2603.04393](http://arxiv.org/abs/2603.04393)|null|
+|**2026-03-04**|**SELDON: Supernova Explosions Learned by Deep ODE Networks**|Jiezhong Wu et.al.|[2603.04392](http://arxiv.org/abs/2603.04392)|null|
+|**2026-03-04**|**A Dual-Helix Governance Approach Towards Reliable Agentic AI for WebGIS Development**|Boyuan et.al.|[2603.04390](http://arxiv.org/abs/2603.04390)|null|
+|**2026-03-04**|**Hyperuniform Disorder in Photonic Crystal Slabs with Intrinsic non-Hermiticity**|Zeyu Zhang et.al.|[2603.04389](http://arxiv.org/abs/2603.04389)|null|
+|**2026-03-04**|**Dynamic properties in a collisional model for confined granular fluids. A review**|Ricardo Brito et.al.|[2603.04388](http://arxiv.org/abs/2603.04388)|null|
+|**2026-03-04**|**ZipMap: Linear-Time Stateful 3D Reconstruction with Test-Time Training**|Haian Jin et.al.|[2603.04385](http://arxiv.org/abs/2603.04385)|null|
 |**2026-03-03**|**Utonia: Toward One Encoder for All Point Clouds**|Yujia Zhang et.al.|[2603.03283](http://arxiv.org/abs/2603.03283)|null|
 |**2026-03-03**|**CFG-Ctrl: Control-Based Classifier-Free Diffusion Guidance**|Hanyang Wang et.al.|[2603.03281](http://arxiv.org/abs/2603.03281)|null|
 |**2026-03-03**|**How to Peel with a Knife: Aligning Fine-Grained Manipulation with Human Preference**|Toru Lin et.al.|[2603.03280](http://arxiv.org/abs/2603.03280)|null|
@@ -1379,7 +1439,7 @@
 |**2026-02-04**|**Multi-layer Cross-Attention is Provably Optimal for Multi-modal In-context Learning**|Nicholas Barnfield et.al.|[2602.04872](http://arxiv.org/abs/2602.04872)|null|
 |**2026-02-04**|**Multi-Head LatentMoE and Head Parallel: Communication-Efficient and Deterministic MoE Parallelism**|Chenwei Cui et.al.|[2602.04870](http://arxiv.org/abs/2602.04870)|null|
 
-<p align=right>(<a href=#updated-on-20260305>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260306>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/jhy-3/AI4Blockchain-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/jhy-3/AI4Blockchain-arxiv-daily/graphs/contributors

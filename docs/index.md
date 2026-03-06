@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.05
+## Updated on 2026.03.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**Exploring gas thermodynamics around galaxies from the Sunyaev-Zel'dovich effects: impact of galaxy-halo connection, 2D projection and velocity field**|Sadaf Kadir et.al.|[2603.04397](http://arxiv.org/abs/2603.04397)|null|
+|**2026-03-04**|**bayesgrid: An Open-Source Python Tool for Generating Probabilistic Synthetic Transmission-Distribution Grids Using Bayesian Hierarchical Models**|Henrique O. Caetano et.al.|[2603.04393](http://arxiv.org/abs/2603.04393)|null|
+|**2026-03-04**|**SELDON: Supernova Explosions Learned by Deep ODE Networks**|Jiezhong Wu et.al.|[2603.04392](http://arxiv.org/abs/2603.04392)|null|
+|**2026-03-04**|**Unital $3$-dimensional structurable algebras: classification, properties and $\rm{AK}$ -construction**|Kobiljon Abdurasulov et.al.|[2603.04391](http://arxiv.org/abs/2603.04391)|null|
+|**2026-03-04**|**Hyperuniform Disorder in Photonic Crystal Slabs with Intrinsic non-Hermiticity**|Zeyu Zhang et.al.|[2603.04389](http://arxiv.org/abs/2603.04389)|null|
+|**2026-03-04**|**Super-decomposable pure-injective modules over some Jacobian algebras**|Shantanu Sardar et.al.|[2603.04387](http://arxiv.org/abs/2603.04387)|null|
+|**2026-03-04**|**The Gaussian Wave for Graphs of Finite Cone Type**|Amir Dembo et.al.|[2603.04386](http://arxiv.org/abs/2603.04386)|null|
+|**2026-03-04**|**ZipMap: Linear-Time Stateful 3D Reconstruction with Test-Time Training**|Haian Jin et.al.|[2603.04385](http://arxiv.org/abs/2603.04385)|null|
+|**2026-03-04**|**AgentIR: Reasoning-Aware Retrival for Deep Research Agents**|Zijian Chen et.al.|[2603.04384](http://arxiv.org/abs/2603.04384)|null|
+|**2026-03-04**|**Turning Trust to Transactions: Tracking Affiliate Marketing and FTC Compliance in YouTube's Influencer Economy**|Chen Sun et.al.|[2603.04383](http://arxiv.org/abs/2603.04383)|null|
 |**2026-03-03**|**The Anatomy of Polymarket: Evidence from the 2024 Presidential Election**|Kwok Ping Tsang et.al.|[2603.03136](http://arxiv.org/abs/2603.03136)|null|
 |**2026-03-03**|**Blockchain Communication Vulnerabilities**|Andrei Lebedev et.al.|[2603.02661](http://arxiv.org/abs/2603.02661)|null|
 |**2026-03-02**|**Reasoning Core: A Scalable Procedural Data Generation Suite for Symbolic Pre-training and Post-Training**|Valentin Lacombe et.al.|[2603.02208](http://arxiv.org/abs/2603.02208)|null|
@@ -333,6 +343,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**SimpliHuMoN: Simplifying Human Motion Prediction**|Aadya Agrawal et.al.|[2603.04399](http://arxiv.org/abs/2603.04399)|null|
+|**2026-03-04**|**HyQBench: A Benchmark Suite for Hybrid CV-DV Quantum Computing**|Shubdeep Mohapatra et.al.|[2603.04398](http://arxiv.org/abs/2603.04398)|null|
+|**2026-03-04**|**Exploring gas thermodynamics around galaxies from the Sunyaev-Zel'dovich effects: impact of galaxy-halo connection, 2D projection and velocity field**|Sadaf Kadir et.al.|[2603.04397](http://arxiv.org/abs/2603.04397)|null|
+|**2026-03-04**|**Accurate and Efficient Hybrid-Ensemble Atmospheric Data Assimilation in Latent Space with Uncertainty Quantification**|Hang Fan et.al.|[2603.04395](http://arxiv.org/abs/2603.04395)|null|
+|**2026-03-04**|**ZipMap: Linear-Time Stateful 3D Reconstruction with Test-Time Training**|Haian Jin et.al.|[2603.04385](http://arxiv.org/abs/2603.04385)|null|
+|**2026-03-04**|**Turning Trust to Transactions: Tracking Affiliate Marketing and FTC Compliance in YouTube's Influencer Economy**|Chen Sun et.al.|[2603.04383](http://arxiv.org/abs/2603.04383)|null|
+|**2026-03-04**|**A DualPI2 Module for Mahimahi: Behavioral Characterization and Cross-Platform Analysis**|Nawel Alioua et.al.|[2603.04381](http://arxiv.org/abs/2603.04381)|null|
+|**2026-03-04**|**TaxonRL: Reinforcement Learning with Intermediate Rewards for Interpretable Fine-Grained Visual Reasoning**|Maximilian von Klinski et.al.|[2603.04380](http://arxiv.org/abs/2603.04380)|null|
+|**2026-03-04**|**Helios: Real Real-Time Long Video Generation Model**|Shenghai Yuan et.al.|[2603.04379](http://arxiv.org/abs/2603.04379)|null|
+|**2026-03-04**|**Robustness of Agentic AI Systems via Adversarially-Aligned Jacobian Regularization**|Furkan Mumcu et.al.|[2603.04378](http://arxiv.org/abs/2603.04378)|null|
 |**2026-03-03**|**Utonia: Toward One Encoder for All Point Clouds**|Yujia Zhang et.al.|[2603.03283](http://arxiv.org/abs/2603.03283)|null|
 |**2026-03-03**|**MIBURI: Towards Expressive Interactive Gesture Synthesis**|M. Hamza Mughal et.al.|[2603.03282](http://arxiv.org/abs/2603.03282)|null|
 |**2026-03-03**|**CFG-Ctrl: Control-Based Classifier-Free Diffusion Guidance**|Hanyang Wang et.al.|[2603.03281](http://arxiv.org/abs/2603.03281)|null|
@@ -528,6 +548,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**Gravitational confinement of ghost scalar fields in neutron stars**|Argelia Bernal et.al.|[2603.04400](http://arxiv.org/abs/2603.04400)|null|
+|**2026-03-04**|**HyQBench: A Benchmark Suite for Hybrid CV-DV Quantum Computing**|Shubdeep Mohapatra et.al.|[2603.04398](http://arxiv.org/abs/2603.04398)|null|
+|**2026-03-04**|**Exploring gas thermodynamics around galaxies from the Sunyaev-Zel'dovich effects: impact of galaxy-halo connection, 2D projection and velocity field**|Sadaf Kadir et.al.|[2603.04397](http://arxiv.org/abs/2603.04397)|null|
+|**2026-03-04**|**Abelian-normal decimal expansions**|John M. Campbell et.al.|[2603.04396](http://arxiv.org/abs/2603.04396)|null|
+|**2026-03-04**|**A framework for missing-energy searches with anomalous light vectors**|Luca Di Luzio et.al.|[2603.04394](http://arxiv.org/abs/2603.04394)|null|
+|**2026-03-04**|**bayesgrid: An Open-Source Python Tool for Generating Probabilistic Synthetic Transmission-Distribution Grids Using Bayesian Hierarchical Models**|Henrique O. Caetano et.al.|[2603.04393](http://arxiv.org/abs/2603.04393)|null|
+|**2026-03-04**|**Hyperuniform Disorder in Photonic Crystal Slabs with Intrinsic non-Hermiticity**|Zeyu Zhang et.al.|[2603.04389](http://arxiv.org/abs/2603.04389)|null|
+|**2026-03-04**|**The Gaussian Wave for Graphs of Finite Cone Type**|Amir Dembo et.al.|[2603.04386](http://arxiv.org/abs/2603.04386)|null|
+|**2026-03-04**|**A DualPI2 Module for Mahimahi: Behavioral Characterization and Cross-Platform Analysis**|Nawel Alioua et.al.|[2603.04381](http://arxiv.org/abs/2603.04381)|null|
+|**2026-03-04**|**TaxonRL: Reinforcement Learning with Intermediate Rewards for Interpretable Fine-Grained Visual Reasoning**|Maximilian von Klinski et.al.|[2603.04380](http://arxiv.org/abs/2603.04380)|null|
 |**2026-03-03**|**ULTRA: Unified Multimodal Control for Autonomous Humanoid Whole-Body Loco-Manipulation**|Xialin He et.al.|[2603.03279](http://arxiv.org/abs/2603.03279)|null|
 |**2026-03-03**|**Learning Demographic-Conditioned Mobility Trajectories with Aggregate Supervision**|Jessie Z. Li et.al.|[2603.03275](http://arxiv.org/abs/2603.03275)|null|
 |**2026-03-03**|**An Improved Combinatorial Algorithm for Edge-Colored Clustering in Hypergraphs**|Seongjune Han et.al.|[2603.03273](http://arxiv.org/abs/2603.03273)|null|
@@ -723,6 +753,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**A Dual-Helix Governance Approach Towards Reliable Agentic AI for WebGIS Development**|Boyuan et.al.|[2603.04390](http://arxiv.org/abs/2603.04390)|null|
+|**2026-03-04**|**Dynamic properties in a collisional model for confined granular fluids. A review**|Ricardo Brito et.al.|[2603.04388](http://arxiv.org/abs/2603.04388)|null|
+|**2026-03-04**|**AgentIR: Reasoning-Aware Retrival for Deep Research Agents**|Zijian Chen et.al.|[2603.04384](http://arxiv.org/abs/2603.04384)|null|
+|**2026-03-04**|**Turning Trust to Transactions: Tracking Affiliate Marketing and FTC Compliance in YouTube's Influencer Economy**|Chen Sun et.al.|[2603.04383](http://arxiv.org/abs/2603.04383)|null|
+|**2026-03-04**|**TaxonRL: Reinforcement Learning with Intermediate Rewards for Interpretable Fine-Grained Visual Reasoning**|Maximilian von Klinski et.al.|[2603.04380](http://arxiv.org/abs/2603.04380)|null|
+|**2026-03-04**|**Helios: Real Real-Time Long Video Generation Model**|Shenghai Yuan et.al.|[2603.04379](http://arxiv.org/abs/2603.04379)|null|
+|**2026-03-04**|**Robustness of Agentic AI Systems via Adversarially-Aligned Jacobian Regularization**|Furkan Mumcu et.al.|[2603.04378](http://arxiv.org/abs/2603.04378)|null|
+|**2026-03-04**|**Benchmarking Quantum Computers via Protocols, Comparing IBM's Heron vs IBM's Eagle**|Nitay Mayo et.al.|[2603.04377](http://arxiv.org/abs/2603.04377)|null|
+|**2026-03-04**|**Non-Hermitian Quantum Mechanics with Applications to Gravity**|Oem Trivedi et.al.|[2603.04375](http://arxiv.org/abs/2603.04375)|null|
+|**2026-03-04**|**Scrollytelling as an Alternative Format for Privacy Policies**|Gonzalo Gabriel Méndez et.al.|[2603.04367](http://arxiv.org/abs/2603.04367)|null|
 |**2026-03-03**|**Neutrino mass limits and decaying dark matter: background evolution versus perturbations**|Thomas Montandon et.al.|[2603.03284](http://arxiv.org/abs/2603.03284)|null|
 |**2026-03-03**|**Utonia: Toward One Encoder for All Point Clouds**|Yujia Zhang et.al.|[2603.03283](http://arxiv.org/abs/2603.03283)|null|
 |**2026-03-03**|**MIBURI: Towards Expressive Interactive Gesture Synthesis**|M. Hamza Mughal et.al.|[2603.03282](http://arxiv.org/abs/2603.03282)|null|
@@ -938,6 +978,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**Post-inflationary axion constraints from the Lyman- $α$ forest**|Olga Garcia-Gallego et.al.|[2603.04401](http://arxiv.org/abs/2603.04401)|null|
+|**2026-03-04**|**Gravitational confinement of ghost scalar fields in neutron stars**|Argelia Bernal et.al.|[2603.04400](http://arxiv.org/abs/2603.04400)|null|
+|**2026-03-04**|**HyQBench: A Benchmark Suite for Hybrid CV-DV Quantum Computing**|Shubdeep Mohapatra et.al.|[2603.04398](http://arxiv.org/abs/2603.04398)|null|
+|**2026-03-04**|**Exploring gas thermodynamics around galaxies from the Sunyaev-Zel'dovich effects: impact of galaxy-halo connection, 2D projection and velocity field**|Sadaf Kadir et.al.|[2603.04397](http://arxiv.org/abs/2603.04397)|null|
+|**2026-03-04**|**Abelian-normal decimal expansions**|John M. Campbell et.al.|[2603.04396](http://arxiv.org/abs/2603.04396)|null|
+|**2026-03-04**|**A framework for missing-energy searches with anomalous light vectors**|Luca Di Luzio et.al.|[2603.04394](http://arxiv.org/abs/2603.04394)|null|
+|**2026-03-04**|**bayesgrid: An Open-Source Python Tool for Generating Probabilistic Synthetic Transmission-Distribution Grids Using Bayesian Hierarchical Models**|Henrique O. Caetano et.al.|[2603.04393](http://arxiv.org/abs/2603.04393)|null|
+|**2026-03-04**|**SELDON: Supernova Explosions Learned by Deep ODE Networks**|Jiezhong Wu et.al.|[2603.04392](http://arxiv.org/abs/2603.04392)|null|
+|**2026-03-04**|**Unital $3$-dimensional structurable algebras: classification, properties and $\rm{AK}$ -construction**|Kobiljon Abdurasulov et.al.|[2603.04391](http://arxiv.org/abs/2603.04391)|null|
+|**2026-03-04**|**A Dual-Helix Governance Approach Towards Reliable Agentic AI for WebGIS Development**|Boyuan et.al.|[2603.04390](http://arxiv.org/abs/2603.04390)|null|
 |**2026-03-03**|**Neutrino mass limits and decaying dark matter: background evolution versus perturbations**|Thomas Montandon et.al.|[2603.03284](http://arxiv.org/abs/2603.03284)|null|
 |**2026-03-03**|**How to Peel with a Knife: Aligning Fine-Grained Manipulation with Human Preference**|Toru Lin et.al.|[2603.03280](http://arxiv.org/abs/2603.03280)|null|
 |**2026-03-03**|**Tether: Autonomous Functional Play with Correspondence-Driven Trajectory Warping**|William Liang et.al.|[2603.03278](http://arxiv.org/abs/2603.03278)|null|
@@ -1143,6 +1193,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**Post-inflationary axion constraints from the Lyman- $α$ forest**|Olga Garcia-Gallego et.al.|[2603.04401](http://arxiv.org/abs/2603.04401)|null|
+|**2026-03-04**|**SimpliHuMoN: Simplifying Human Motion Prediction**|Aadya Agrawal et.al.|[2603.04399](http://arxiv.org/abs/2603.04399)|null|
+|**2026-03-04**|**HyQBench: A Benchmark Suite for Hybrid CV-DV Quantum Computing**|Shubdeep Mohapatra et.al.|[2603.04398](http://arxiv.org/abs/2603.04398)|null|
+|**2026-03-04**|**Accurate and Efficient Hybrid-Ensemble Atmospheric Data Assimilation in Latent Space with Uncertainty Quantification**|Hang Fan et.al.|[2603.04395](http://arxiv.org/abs/2603.04395)|null|
+|**2026-03-04**|**bayesgrid: An Open-Source Python Tool for Generating Probabilistic Synthetic Transmission-Distribution Grids Using Bayesian Hierarchical Models**|Henrique O. Caetano et.al.|[2603.04393](http://arxiv.org/abs/2603.04393)|null|
+|**2026-03-04**|**SELDON: Supernova Explosions Learned by Deep ODE Networks**|Jiezhong Wu et.al.|[2603.04392](http://arxiv.org/abs/2603.04392)|null|
+|**2026-03-04**|**A Dual-Helix Governance Approach Towards Reliable Agentic AI for WebGIS Development**|Boyuan et.al.|[2603.04390](http://arxiv.org/abs/2603.04390)|null|
+|**2026-03-04**|**Hyperuniform Disorder in Photonic Crystal Slabs with Intrinsic non-Hermiticity**|Zeyu Zhang et.al.|[2603.04389](http://arxiv.org/abs/2603.04389)|null|
+|**2026-03-04**|**Dynamic properties in a collisional model for confined granular fluids. A review**|Ricardo Brito et.al.|[2603.04388](http://arxiv.org/abs/2603.04388)|null|
+|**2026-03-04**|**ZipMap: Linear-Time Stateful 3D Reconstruction with Test-Time Training**|Haian Jin et.al.|[2603.04385](http://arxiv.org/abs/2603.04385)|null|
 |**2026-03-03**|**Utonia: Toward One Encoder for All Point Clouds**|Yujia Zhang et.al.|[2603.03283](http://arxiv.org/abs/2603.03283)|null|
 |**2026-03-03**|**CFG-Ctrl: Control-Based Classifier-Free Diffusion Guidance**|Hanyang Wang et.al.|[2603.03281](http://arxiv.org/abs/2603.03281)|null|
 |**2026-03-03**|**How to Peel with a Knife: Aligning Fine-Grained Manipulation with Human Preference**|Toru Lin et.al.|[2603.03280](http://arxiv.org/abs/2603.03280)|null|
