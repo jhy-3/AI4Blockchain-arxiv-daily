@@ -1,4 +1,4 @@
-## Updated on 2026.03.08
+## Updated on 2026.03.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -61,7 +61,7 @@
 |**2025-04-22**|**Trustworthy Decentralized Autonomous Machines: A New Paradigm in Automation Economy**|Fernando Castillo et.al.|[2504.15676](http://arxiv.org/abs/2504.15676)|null|
 |**2025-03-20**|**Financial Twin Chain, a Platform to Support Financial Sustainability in Supply Chains**|Giuseppe Galante et.al.|[2503.15980](http://arxiv.org/abs/2503.15980)|null|
 
-<p align=right>(<a href=#updated-on-20260308>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260309>back to top</a>)</p>
 
 ## Smart Contracts & AI
 
@@ -88,7 +88,7 @@
 |**2025-10-07**|**Smart Contract Adoption under Discrete Overdispersed Demand: A Negative Binomial Optimization Perspective**|Jinho Cha et.al.|[2510.05487](http://arxiv.org/abs/2510.05487)|null|
 |**2025-10-06**|**LMM-Incentive: Large Multimodal Model-based Incentive Design for User-Generated Content in Web 3.0**|Jinbo Wen et.al.|[2510.04765](http://arxiv.org/abs/2510.04765)|null|
 
-<p align=right>(<a href=#updated-on-20260308>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260309>back to top</a>)</p>
 
 ## Blockchain Consensus & AI
 
@@ -124,7 +124,7 @@
 |**2022-09-30**|**Blockchain-based Monitoring for Poison Attack Detection in Decentralized Federated Learning**|Ranwa Al Mallah et.al.|[2210.02873](http://arxiv.org/abs/2210.02873)|null|
 |**2021-11-12**|**Device-Independent-Quantum-Randomness-Enhanced Zero-Knowledge Proof**|Cheng-Long Li et.al.|[2111.06717](http://arxiv.org/abs/2111.06717)|null|
 
-<p align=right>(<a href=#updated-on-20260308>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260309>back to top</a>)</p>
 
 ## DeFi & AI
 
@@ -143,12 +143,22 @@
 |**2025-10-24**|**Machine Learning Prediction of Magnetic Proximity Effect in van der Waals Heterostructures: From Atoms to Moiré**|Lukas Cvitkovich et.al.|[2508.12406](http://arxiv.org/abs/2508.12406)|null|
 |**2025-09-12**|**Web3 x AI Agents: Landscape, Integrations, and Foundational Challenges**|Yiming Shen et.al.|[2508.02773](http://arxiv.org/abs/2508.02773)|null|
 
-<p align=right>(<a href=#updated-on-20260308>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260309>back to top</a>)</p>
 
 ## Blockchain
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-06**|**Comment on: "Third-order corrections to the slow-roll expansion: Calculation and constraints with Planck, ACT, SPT, and BICEP/Keck [2025 PDU 47 101813]"**|Pierre Auclair et.al.|[2603.06521](http://arxiv.org/abs/2603.06521)|null|
+|**2026-03-06**|**A Unified Multicarrier Waveform Framework for Next-generation Wireless Networks: Principles, Performance, and Challenges**|Xingyao Zhang et.al.|[2603.06515](http://arxiv.org/abs/2603.06515)|null|
+|**2026-03-06**|**On a PDE model for Learning in Stochastic Market Entry Games**|Esther Bou Dagher et.al.|[2603.06514](http://arxiv.org/abs/2603.06514)|null|
+|**2026-03-06**|**Remote Entanglement in Lattice Surgery: To Distill, or Not to Distill**|Sitong Liu et.al.|[2603.06513](http://arxiv.org/abs/2603.06513)|null|
+|**2026-03-06**|**When One Modality Rules Them All: Backdoor Modality Collapse in Multimodal Diffusion Models**|Qitong Wang et.al.|[2603.06508](http://arxiv.org/abs/2603.06508)|null|
+|**2026-03-06**|**Epitaxial stabilization of magnetic GdAuSb/LaAuSb superlattices**|Patrick J. Strohbeen et.al.|[2603.06500](http://arxiv.org/abs/2603.06500)|null|
+|**2026-03-06**|**A Unified Low-Dimensional Design Embedding for Joint Optimization of Shape, Material, and Actuation in Soft Robots**|Vittorio Candiello et.al.|[2603.06497](http://arxiv.org/abs/2603.06497)|null|
+|**2026-03-06**|**NOBLE: Accelerating Transformers with Nonlinear Low-Rank Branches**|Ethan Smith et.al.|[2603.06492](http://arxiv.org/abs/2603.06492)|null|
+|**2026-03-06**|**Bergman space, Conformally flat 2-disk operads and affine Heisenberg vertex algebra**|Yuto Moriwaki et.al.|[2603.06491](http://arxiv.org/abs/2603.06491)|null|
+|**2026-03-06**|**The DNA Coverage Depth Problem: Duality, Weight Distributions, and Applications**|Matteo Bertuzzo et.al.|[2603.06489](http://arxiv.org/abs/2603.06489)|null|
 |**2026-03-05**|**RoboPocket: Improve Robot Policies Instantly with Your Phone**|Junjie Fang et.al.|[2603.05504](http://arxiv.org/abs/2603.05504)|null|
 |**2026-03-05**|**Accelerating Text-to-Video Generation with Calibrated Sparse Attention**|Shai Yehezkel et.al.|[2603.05503](http://arxiv.org/abs/2603.05503)|null|
 |**2026-03-05**|**The Spike, the Sparse and the Sink: Anatomy of Massive Activations and Attention Sinks**|Shangwen Sun et.al.|[2603.05498](http://arxiv.org/abs/2603.05498)|null|
@@ -369,12 +379,22 @@
 |**2026-02-04**|**Capacity Bounds on Doppler OFDM Channels**|Pablo Orellana et.al.|[2602.04862](http://arxiv.org/abs/2602.04862)|null|
 |**2026-02-04**|**CoT is Not the Chain of Truth: An Empirical Internal Analysis of Reasoning LLMs for Fake News Generation**|Zhao Tong et.al.|[2602.04856](http://arxiv.org/abs/2602.04856)|null|
 
-<p align=right>(<a href=#updated-on-20260308>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260309>back to top</a>)</p>
 
 ## Smart Contract
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-06**|**Artificial Intelligence for Detecting Fetal Orofacial Clefts and Advancing Medical Education**|Yuanji Zhang et.al.|[2603.06522](http://arxiv.org/abs/2603.06522)|null|
+|**2026-03-06**|**Tomographic collective modes in a magnetic field**|Jeff Maki et.al.|[2603.06518](http://arxiv.org/abs/2603.06518)|null|
+|**2026-03-06**|**Evaluating the Predictability of Selected Weather Extremes with Aurora, an AI Weather Forecast Model**|Qin Huang et.al.|[2603.06516](http://arxiv.org/abs/2603.06516)|null|
+|**2026-03-06**|**Remote Entanglement in Lattice Surgery: To Distill, or Not to Distill**|Sitong Liu et.al.|[2603.06513](http://arxiv.org/abs/2603.06513)|null|
+|**2026-03-06**|**SG-DOR: Learning Scene Graphs with Direction-Conditioned Occlusion Reasoning for Pepper Plants**|Rohit Menon et.al.|[2603.06512](http://arxiv.org/abs/2603.06512)|null|
+|**2026-03-06**|**When One Modality Rules Them All: Backdoor Modality Collapse in Multimodal Diffusion Models**|Qitong Wang et.al.|[2603.06508](http://arxiv.org/abs/2603.06508)|null|
+|**2026-03-06**|**Self-Supervised Flow Matching for Scalable Multi-Modal Synthesis**|Hila Chefer et.al.|[2603.06507](http://arxiv.org/abs/2603.06507)|null|
+|**2026-03-06**|**Beyond Rows to Reasoning: Agentic Retrieval for Multimodal Spreadsheet Understanding and Editing**|Anmol Gulati et.al.|[2603.06503](http://arxiv.org/abs/2603.06503)|null|
+|**2026-03-06**|**Mapping the long-term trajectories of political violence in Africa**|Steven M. Radil et.al.|[2603.06502](http://arxiv.org/abs/2603.06502)|null|
+|**2026-03-06**|**A Unified Low-Dimensional Design Embedding for Joint Optimization of Shape, Material, and Actuation in Soft Robots**|Vittorio Candiello et.al.|[2603.06497](http://arxiv.org/abs/2603.06497)|null|
 |**2026-03-05**|**Transformer-Based Inpainting for Real-Time 3D Streaming in Sparse Multi-Camera Setups**|Leif Van Holland et.al.|[2603.05507](http://arxiv.org/abs/2603.05507)|null|
 |**2026-03-05**|**FaceCam: Portrait Video Camera Control via Scale-Aware Conditioning**|Weijie Lyu et.al.|[2603.05506](http://arxiv.org/abs/2603.05506)|null|
 |**2026-03-05**|**Core-bound waves on a Gross-Pitaevskii vortex**|Evan Papoutsis et.al.|[2603.05505](http://arxiv.org/abs/2603.05505)|null|
@@ -586,12 +606,22 @@
 |**2026-02-04**|**Homological Mirror Symmetry for orbifold log Calabi-Yau surfaces**|Bogdan Simeonov et.al.|[2602.04866](http://arxiv.org/abs/2602.04866)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260308>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260309>back to top</a>)</p>
 
 ## Consensus
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-06**|**Modern jet flavour tagging in hadronic Z decays with archived ALEPH data**|Matteo M. Defranchis et.al.|[2603.06524](http://arxiv.org/abs/2603.06524)|null|
+|**2026-03-06**|**Comment on: "Third-order corrections to the slow-roll expansion: Calculation and constraints with Planck, ACT, SPT, and BICEP/Keck [2025 PDU 47 101813]"**|Pierre Auclair et.al.|[2603.06521](http://arxiv.org/abs/2603.06521)|null|
+|**2026-03-06**|**Tomographic collective modes in a magnetic field**|Jeff Maki et.al.|[2603.06518](http://arxiv.org/abs/2603.06518)|null|
+|**2026-03-06**|**Evaluating the Predictability of Selected Weather Extremes with Aurora, an AI Weather Forecast Model**|Qin Huang et.al.|[2603.06516](http://arxiv.org/abs/2603.06516)|null|
+|**2026-03-06**|**A Unified Multicarrier Waveform Framework for Next-generation Wireless Networks: Principles, Performance, and Challenges**|Xingyao Zhang et.al.|[2603.06515](http://arxiv.org/abs/2603.06515)|null|
+|**2026-03-06**|**Remote Entanglement in Lattice Surgery: To Distill, or Not to Distill**|Sitong Liu et.al.|[2603.06513](http://arxiv.org/abs/2603.06513)|null|
+|**2026-03-06**|**Hybrid quantum-classical simulations of semiclassical gravity**|Carlos Fulgado-Claudio et.al.|[2603.06511](http://arxiv.org/abs/2603.06511)|null|
+|**2026-03-06**|**An Overview of Relativistic Particle Pushers and their Extension to Arbitrary Order Accuracy**|Holger Schmitz et.al.|[2603.06509](http://arxiv.org/abs/2603.06509)|null|
+|**2026-03-06**|**When One Modality Rules Them All: Backdoor Modality Collapse in Multimodal Diffusion Models**|Qitong Wang et.al.|[2603.06508](http://arxiv.org/abs/2603.06508)|null|
+|**2026-03-06**|**Self-Supervised Flow Matching for Scalable Multi-Modal Synthesis**|Hila Chefer et.al.|[2603.06507](http://arxiv.org/abs/2603.06507)|null|
 |**2026-03-05**|**Core-bound waves on a Gross-Pitaevskii vortex**|Evan Papoutsis et.al.|[2603.05505](http://arxiv.org/abs/2603.05505)|null|
 |**2026-03-05**|**Accelerating Text-to-Video Generation with Calibrated Sparse Attention**|Shai Yehezkel et.al.|[2603.05503](http://arxiv.org/abs/2603.05503)|null|
 |**2026-03-05**|**Universal quantum computation with group surface codes**|Naren Manjunath et.al.|[2603.05502](http://arxiv.org/abs/2603.05502)|null|
@@ -803,12 +833,22 @@
 |**2026-02-04**|**Requirements for Teleportation in an Intercity Quantum Network**|Soubhadra Maiti et.al.|[2602.04869](http://arxiv.org/abs/2602.04869)|null|
 |**2026-02-04**|**CRoSS: A Continual Robotic Simulation Suite for Scalable Reinforcement Learning with High Task Diversity and Realistic Physics Simulation**|Yannick Denker et.al.|[2602.04868](http://arxiv.org/abs/2602.04868)|null|
 
-<p align=right>(<a href=#updated-on-20260308>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260309>back to top</a>)</p>
 
 ## DeFi
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-06**|**Tomographic collective modes in a magnetic field**|Jeff Maki et.al.|[2603.06518](http://arxiv.org/abs/2603.06518)|null|
+|**2026-03-06**|**Constraining turbulent solar flare acceleration regions by connecting kinetic modeling and X-ray observations**|Morgan Stores et.al.|[2603.06517](http://arxiv.org/abs/2603.06517)|null|
+|**2026-03-06**|**On a PDE model for Learning in Stochastic Market Entry Games**|Esther Bou Dagher et.al.|[2603.06514](http://arxiv.org/abs/2603.06514)|null|
+|**2026-03-06**|**SG-DOR: Learning Scene Graphs with Direction-Conditioned Occlusion Reasoning for Pepper Plants**|Rohit Menon et.al.|[2603.06512](http://arxiv.org/abs/2603.06512)|null|
+|**2026-03-06**|**Hybrid quantum-classical simulations of semiclassical gravity**|Carlos Fulgado-Claudio et.al.|[2603.06511](http://arxiv.org/abs/2603.06511)|null|
+|**2026-03-06**|**When One Modality Rules Them All: Backdoor Modality Collapse in Multimodal Diffusion Models**|Qitong Wang et.al.|[2603.06508](http://arxiv.org/abs/2603.06508)|null|
+|**2026-03-06**|**Rotation-invariant graph message passing enables acquisition protocol generalisation in learning-based brain microstructure estimation**|Leevi Kerkelä et.al.|[2603.06496](http://arxiv.org/abs/2603.06496)|null|
+|**2026-03-06**|**Bergman space, Conformally flat 2-disk operads and affine Heisenberg vertex algebra**|Yuto Moriwaki et.al.|[2603.06491](http://arxiv.org/abs/2603.06491)|null|
+|**2026-03-06**|**PONTE: Personalized Orchestration for Natural Language Trustworthy Explanations**|Vittoria Vineis et.al.|[2603.06485](http://arxiv.org/abs/2603.06485)|null|
+|**2026-03-06**|**GreenRFM: Toward a resource-efficient radiology foundation model**|Yingtai Li et.al.|[2603.06467](http://arxiv.org/abs/2603.06467)|null|
 |**2026-03-05**|**Core-bound waves on a Gross-Pitaevskii vortex**|Evan Papoutsis et.al.|[2603.05505](http://arxiv.org/abs/2603.05505)|null|
 |**2026-03-05**|**Accelerating Text-to-Video Generation with Calibrated Sparse Attention**|Shai Yehezkel et.al.|[2603.05503](http://arxiv.org/abs/2603.05503)|null|
 |**2026-03-05**|**Calculating trace distances of bosonic states in Krylov subspace**|Javier Martínez-Cifuentes et.al.|[2603.05499](http://arxiv.org/abs/2603.05499)|null|
@@ -1040,12 +1080,22 @@
 |**2026-02-05**|**TxRay: Agentic Postmortem of Live Blockchain Attacks**|Ziyue Wang et.al.|[2602.01317](http://arxiv.org/abs/2602.01317)|null|
 |**2026-01-30**|**Quasiperiodic Skin Criticality in an Exactly Solvable Non-Hermitian Quasicrystal**|Zhangyuan Chen et.al.|[2601.23015](http://arxiv.org/abs/2601.23015)|null|
 
-<p align=right>(<a href=#updated-on-20260308>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260309>back to top</a>)</p>
 
 ## Cryptography
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-06**|**Comment on: "Third-order corrections to the slow-roll expansion: Calculation and constraints with Planck, ACT, SPT, and BICEP/Keck [2025 PDU 47 101813]"**|Pierre Auclair et.al.|[2603.06521](http://arxiv.org/abs/2603.06521)|null|
+|**2026-03-06**|**Lie symmetry method for a nonlinear heat-diffusion equation**|Julieta Bollati et.al.|[2603.06519](http://arxiv.org/abs/2603.06519)|null|
+|**2026-03-06**|**Evaluating the Predictability of Selected Weather Extremes with Aurora, an AI Weather Forecast Model**|Qin Huang et.al.|[2603.06516](http://arxiv.org/abs/2603.06516)|null|
+|**2026-03-06**|**On a PDE model for Learning in Stochastic Market Entry Games**|Esther Bou Dagher et.al.|[2603.06514](http://arxiv.org/abs/2603.06514)|null|
+|**2026-03-06**|**Remote Entanglement in Lattice Surgery: To Distill, or Not to Distill**|Sitong Liu et.al.|[2603.06513](http://arxiv.org/abs/2603.06513)|null|
+|**2026-03-06**|**An Overview of Relativistic Particle Pushers and their Extension to Arbitrary Order Accuracy**|Holger Schmitz et.al.|[2603.06509](http://arxiv.org/abs/2603.06509)|null|
+|**2026-03-06**|**Semantics-Aware Caching for Concept Learning**|Louis Mozart Kamdem Teyou et.al.|[2603.06506](http://arxiv.org/abs/2603.06506)|null|
+|**2026-03-06**|**Speak in Context: Multilingual ASR with Speech Context Alignment via Contrastive Learning**|Yuchen Zhang et.al.|[2603.06505](http://arxiv.org/abs/2603.06505)|null|
+|**2026-03-06**|**Beyond Rows to Reasoning: Agentic Retrieval for Multimodal Spreadsheet Understanding and Editing**|Anmol Gulati et.al.|[2603.06503](http://arxiv.org/abs/2603.06503)|null|
+|**2026-03-06**|**CFEAR-Teach-and-Repeat: Fast and Accurate Radar-only Localization**|Maximilian Hilger et.al.|[2603.06501](http://arxiv.org/abs/2603.06501)|null|
 |**2026-03-05**|**Accelerating Text-to-Video Generation with Calibrated Sparse Attention**|Shai Yehezkel et.al.|[2603.05503](http://arxiv.org/abs/2603.05503)|null|
 |**2026-03-05**|**Universal quantum computation with group surface codes**|Naren Manjunath et.al.|[2603.05502](http://arxiv.org/abs/2603.05502)|null|
 |**2026-03-05**|**POET-X: Memory-efficient LLM Training by Scaling Orthogonal Transformation**|Zeju Qiu et.al.|[2603.05500](http://arxiv.org/abs/2603.05500)|null|
@@ -1267,12 +1317,22 @@
 |**2026-02-04**|**Characterizing $(d,h)$ -elliptic stable irreducible curves**|Juliana Coelho et.al.|[2602.04865](http://arxiv.org/abs/2602.04865)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260308>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260309>back to top</a>)</p>
 
 ## AI in Finance
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-06**|**Modern jet flavour tagging in hadronic Z decays with archived ALEPH data**|Matteo M. Defranchis et.al.|[2603.06524](http://arxiv.org/abs/2603.06524)|null|
+|**2026-03-06**|**Artificial Intelligence for Detecting Fetal Orofacial Clefts and Advancing Medical Education**|Yuanji Zhang et.al.|[2603.06522](http://arxiv.org/abs/2603.06522)|null|
+|**2026-03-06**|**Lie symmetry method for a nonlinear heat-diffusion equation**|Julieta Bollati et.al.|[2603.06519](http://arxiv.org/abs/2603.06519)|null|
+|**2026-03-06**|**Tomographic collective modes in a magnetic field**|Jeff Maki et.al.|[2603.06518](http://arxiv.org/abs/2603.06518)|null|
+|**2026-03-06**|**Evaluating the Predictability of Selected Weather Extremes with Aurora, an AI Weather Forecast Model**|Qin Huang et.al.|[2603.06516](http://arxiv.org/abs/2603.06516)|null|
+|**2026-03-06**|**A Unified Multicarrier Waveform Framework for Next-generation Wireless Networks: Principles, Performance, and Challenges**|Xingyao Zhang et.al.|[2603.06515](http://arxiv.org/abs/2603.06515)|null|
+|**2026-03-06**|**On a PDE model for Learning in Stochastic Market Entry Games**|Esther Bou Dagher et.al.|[2603.06514](http://arxiv.org/abs/2603.06514)|null|
+|**2026-03-06**|**Remote Entanglement in Lattice Surgery: To Distill, or Not to Distill**|Sitong Liu et.al.|[2603.06513](http://arxiv.org/abs/2603.06513)|null|
+|**2026-03-06**|**SG-DOR: Learning Scene Graphs with Direction-Conditioned Occlusion Reasoning for Pepper Plants**|Rohit Menon et.al.|[2603.06512](http://arxiv.org/abs/2603.06512)|null|
+|**2026-03-06**|**Hybrid quantum-classical simulations of semiclassical gravity**|Carlos Fulgado-Claudio et.al.|[2603.06511](http://arxiv.org/abs/2603.06511)|null|
 |**2026-03-05**|**Transformer-Based Inpainting for Real-Time 3D Streaming in Sparse Multi-Camera Setups**|Leif Van Holland et.al.|[2603.05507](http://arxiv.org/abs/2603.05507)|null|
 |**2026-03-05**|**Core-bound waves on a Gross-Pitaevskii vortex**|Evan Papoutsis et.al.|[2603.05505](http://arxiv.org/abs/2603.05505)|null|
 |**2026-03-05**|**RoboPocket: Improve Robot Policies Instantly with Your Phone**|Junjie Fang et.al.|[2603.05504](http://arxiv.org/abs/2603.05504)|null|
@@ -1499,7 +1559,7 @@
 |**2026-02-04**|**Multi-layer Cross-Attention is Provably Optimal for Multi-modal In-context Learning**|Nicholas Barnfield et.al.|[2602.04872](http://arxiv.org/abs/2602.04872)|null|
 |**2026-02-04**|**Multi-Head LatentMoE and Head Parallel: Communication-Efficient and Deterministic MoE Parallelism**|Chenwei Cui et.al.|[2602.04870](http://arxiv.org/abs/2602.04870)|null|
 
-<p align=right>(<a href=#updated-on-20260308>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260309>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/jhy-3/AI4Blockchain-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/jhy-3/AI4Blockchain-arxiv-daily/graphs/contributors
