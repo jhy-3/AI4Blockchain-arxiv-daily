@@ -1,4 +1,4 @@
-## Updated on 2026.03.10
+## Updated on 2026.03.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -61,7 +61,7 @@
 |**2025-04-22**|**Trustworthy Decentralized Autonomous Machines: A New Paradigm in Automation Economy**|Fernando Castillo et.al.|[2504.15676](http://arxiv.org/abs/2504.15676)|null|
 |**2025-03-20**|**Financial Twin Chain, a Platform to Support Financial Sustainability in Supply Chains**|Giuseppe Galante et.al.|[2503.15980](http://arxiv.org/abs/2503.15980)|null|
 
-<p align=right>(<a href=#updated-on-20260310>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260311>back to top</a>)</p>
 
 ## Smart Contracts & AI
 
@@ -88,7 +88,7 @@
 |**2025-10-07**|**Smart Contract Adoption under Discrete Overdispersed Demand: A Negative Binomial Optimization Perspective**|Jinho Cha et.al.|[2510.05487](http://arxiv.org/abs/2510.05487)|null|
 |**2025-10-06**|**LMM-Incentive: Large Multimodal Model-based Incentive Design for User-Generated Content in Web 3.0**|Jinbo Wen et.al.|[2510.04765](http://arxiv.org/abs/2510.04765)|null|
 
-<p align=right>(<a href=#updated-on-20260310>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260311>back to top</a>)</p>
 
 ## Blockchain Consensus & AI
 
@@ -124,7 +124,7 @@
 |**2022-09-30**|**Blockchain-based Monitoring for Poison Attack Detection in Decentralized Federated Learning**|Ranwa Al Mallah et.al.|[2210.02873](http://arxiv.org/abs/2210.02873)|null|
 |**2021-11-12**|**Device-Independent-Quantum-Randomness-Enhanced Zero-Knowledge Proof**|Cheng-Long Li et.al.|[2111.06717](http://arxiv.org/abs/2111.06717)|null|
 
-<p align=right>(<a href=#updated-on-20260310>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260311>back to top</a>)</p>
 
 ## DeFi & AI
 
@@ -143,12 +143,22 @@
 |**2025-10-24**|**Machine Learning Prediction of Magnetic Proximity Effect in van der Waals Heterostructures: From Atoms to Moiré**|Lukas Cvitkovich et.al.|[2508.12406](http://arxiv.org/abs/2508.12406)|null|
 |**2025-09-12**|**Web3 x AI Agents: Landscape, Integrations, and Foundational Challenges**|Yiming Shen et.al.|[2508.02773](http://arxiv.org/abs/2508.02773)|null|
 
-<p align=right>(<a href=#updated-on-20260310>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260311>back to top</a>)</p>
 
 ## Blockchain
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-10**|**Fine asymptotics of the magnetization of the annealed dilute Curie-Weiss model**|Fabian Apostel et.al.|[2603.09672](http://arxiv.org/abs/2603.09672)|null|
+|**2026-03-10**|**Dynamics of quadratic f(R) cosmology with a perfect fluid: Jordan and Einstein frames**|Artur Alho et.al.|[2603.09667](http://arxiv.org/abs/2603.09667)|null|
+|**2026-03-10**|**Application of dual-tree complex wavelet transform for spectra background reduction**|Kazimierz Skrobas et.al.|[2603.09666](http://arxiv.org/abs/2603.09666)|null|
+|**2026-03-10**|**Evidence of universal spectral collapse at a marginal dynamical regime**|Udomsilp Pinsook et.al.|[2603.09665](http://arxiv.org/abs/2603.09665)|null|
+|**2026-03-10**|**Ulrich bundles on smooth toric threefolds with Picard number $2$**|Debojyoti Bhattacharya et.al.|[2603.09664](http://arxiv.org/abs/2603.09664)|null|
+|**2026-03-10**|**Pressure-Induced Structural and Magnetic Evolution in Layered Antiferromagnet YbMn $_2$Sb$_2$**|Mingyu Xu et.al.|[2603.09659](http://arxiv.org/abs/2603.09659)|null|
+|**2026-03-10**|**Kaluza-Klein mode mixing in braneworlds: constraints on scalar absorption and physical degrees of freedom**|Wen-Xuan Ma et.al.|[2603.09656](http://arxiv.org/abs/2603.09656)|null|
+|**2026-03-10**|**Understanding the Interplay between LLMs' Utilisation of Parametric and Contextual Knowledge: A keynote at ECIR 2025**|Isabelle Augenstein et.al.|[2603.09654](http://arxiv.org/abs/2603.09654)|null|
+|**2026-03-10**|**Three-stage melting of a macroscopic continuous spacetime crystal**|Guoqing Liu et.al.|[2603.09649](http://arxiv.org/abs/2603.09649)|null|
+|**2026-03-10**|**Perceptions and worldviews of Transgender individuals**|Eiji Yamamura et.al.|[2603.09648](http://arxiv.org/abs/2603.09648)|null|
 |**2026-03-08**|**Interpretable Aneurysm Classification via 3D Concept Bottleneck Models: Integrating Morphological and Hemodynamic Clinical Features**|Toqa Khaled et.al.|[2603.07399](http://arxiv.org/abs/2603.07399)|null|
 |**2026-03-08**|**Finite capture and the closure of roots of restricted polynomials**|Bernat Espigule et.al.|[2603.07397](http://arxiv.org/abs/2603.07397)|null|
 |**2026-03-08**|**AQuA: Toward Strategic Response Generation for Ambiguous Visual Questions**|Jihyoung Jang et.al.|[2603.07394](http://arxiv.org/abs/2603.07394)|null|
@@ -389,12 +399,22 @@
 |**2026-02-04**|**Capacity Bounds on Doppler OFDM Channels**|Pablo Orellana et.al.|[2602.04862](http://arxiv.org/abs/2602.04862)|null|
 |**2026-02-04**|**CoT is Not the Chain of Truth: An Empirical Internal Analysis of Reasoning LLMs for Fake News Generation**|Zhao Tong et.al.|[2602.04856](http://arxiv.org/abs/2602.04856)|null|
 
-<p align=right>(<a href=#updated-on-20260310>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260311>back to top</a>)</p>
 
 ## Smart Contract
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-10**|**VarSplat: Uncertainty-aware 3D Gaussian Splatting for Robust RGB-D SLAM**|Anh Thuan Tran et.al.|[2603.09673](http://arxiv.org/abs/2603.09673)|null|
+|**2026-03-10**|**Competition between DEXs through Dynamic Fees**|Leonardo Baggiani et.al.|[2603.09669](http://arxiv.org/abs/2603.09669)|null|
+|**2026-03-10**|**DiffWind: Physics-Informed Differentiable Modeling of Wind-Driven Object Dynamics**|Yuanhang Lei et.al.|[2603.09668](http://arxiv.org/abs/2603.09668)|null|
+|**2026-03-10**|**A Least-Squares-Based Regularity-Conforming Neural Networks (LS-ReCoNNs) for Solving Parametric Transmission Problems**|Shima Baharlouei et.al.|[2603.09663](http://arxiv.org/abs/2603.09663)|null|
+|**2026-03-10**|**FreqCycle: A Multi-Scale Time-Frequency Analysis Method for Time Series Forecasting**|Boya Zhang et.al.|[2603.09661](http://arxiv.org/abs/2603.09661)|null|
+|**2026-03-10**|**When to Lock Attention: Training-Free KV Control in Video Diffusion**|Tianyi Zeng et.al.|[2603.09657](http://arxiv.org/abs/2603.09657)|null|
+|**2026-03-10**|**OTPL-VIO: Robust Visual-Inertial Odometry with Optimal Transport Line Association and Adaptive Uncertainty**|Zikun Chen et.al.|[2603.09653](http://arxiv.org/abs/2603.09653)|null|
+|**2026-03-10**|**Infinite circle patterns in the Weil-Petersson class**|Wai Yeung Lam et.al.|[2603.09639](http://arxiv.org/abs/2603.09639)|null|
+|**2026-03-10**|**A Short Survey of Averaging Techniques in Stochastic Gradient Methods**|K. Lakshmanan et.al.|[2603.09634](http://arxiv.org/abs/2603.09634)|null|
+|**2026-03-10**|**Refined Estimates on the Dimensions of Maximal Faces of Completely Positive Cones**|O. I. Kostyukova et.al.|[2603.09633](http://arxiv.org/abs/2603.09633)|null|
 |**2026-03-08**|**Perceptive Variable-Timing Footstep Planning for Humanoid Locomotion on Disconnected Footholds**|Zhaoyang Xiang et.al.|[2603.07400](http://arxiv.org/abs/2603.07400)|null|
 |**2026-03-08**|**Interpretable Aneurysm Classification via 3D Concept Bottleneck Models: Integrating Morphological and Hemodynamic Clinical Features**|Toqa Khaled et.al.|[2603.07399](http://arxiv.org/abs/2603.07399)|null|
 |**2026-03-08**|**Online Tracking with Predictions for Nonlinear Systems with Koopman Linear Embedding**|Chih-Fan Pai et.al.|[2603.07395](http://arxiv.org/abs/2603.07395)|null|
@@ -626,12 +646,22 @@
 |**2026-02-04**|**Homological Mirror Symmetry for orbifold log Calabi-Yau surfaces**|Bogdan Simeonov et.al.|[2602.04866](http://arxiv.org/abs/2602.04866)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260310>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260311>back to top</a>)</p>
 
 ## Consensus
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-10**|**Embedded Model Predictive Control for EMS-type Maglev Vehicles**|Arnim Kargl et.al.|[2603.09671](http://arxiv.org/abs/2603.09671)|null|
+|**2026-03-10**|**Competition between DEXs through Dynamic Fees**|Leonardo Baggiani et.al.|[2603.09669](http://arxiv.org/abs/2603.09669)|null|
+|**2026-03-10**|**DiffWind: Physics-Informed Differentiable Modeling of Wind-Driven Object Dynamics**|Yuanhang Lei et.al.|[2603.09668](http://arxiv.org/abs/2603.09668)|null|
+|**2026-03-10**|**Dynamics of quadratic f(R) cosmology with a perfect fluid: Jordan and Einstein frames**|Artur Alho et.al.|[2603.09667](http://arxiv.org/abs/2603.09667)|null|
+|**2026-03-10**|**Application of dual-tree complex wavelet transform for spectra background reduction**|Kazimierz Skrobas et.al.|[2603.09666](http://arxiv.org/abs/2603.09666)|null|
+|**2026-03-10**|**Evidence of universal spectral collapse at a marginal dynamical regime**|Udomsilp Pinsook et.al.|[2603.09665](http://arxiv.org/abs/2603.09665)|null|
+|**2026-03-10**|**No evaluation without fair representation : Impact of label and selection bias on the evaluation, performance and mitigation of classification models**|Magali Legast et.al.|[2603.09662](http://arxiv.org/abs/2603.09662)|null|
+|**2026-03-10**|**Immiscible two-phase flow in porous media: a statistical mechanics approach**|Alex Hansen et.al.|[2603.09658](http://arxiv.org/abs/2603.09658)|null|
+|**2026-03-10**|**When to Lock Attention: Training-Free KV Control in Video Diffusion**|Tianyi Zeng et.al.|[2603.09657](http://arxiv.org/abs/2603.09657)|null|
+|**2026-03-10**|**Kaluza-Klein mode mixing in braneworlds: constraints on scalar absorption and physical degrees of freedom**|Wen-Xuan Ma et.al.|[2603.09656](http://arxiv.org/abs/2603.09656)|null|
 |**2026-03-08**|**Interpretable Aneurysm Classification via 3D Concept Bottleneck Models: Integrating Morphological and Hemodynamic Clinical Features**|Toqa Khaled et.al.|[2603.07399](http://arxiv.org/abs/2603.07399)|null|
 |**2026-03-08**|**A Consistent Interface Reconstruction and Coupling Method for Multiphysics Simulations**|Ethan Huff et.al.|[2603.07396](http://arxiv.org/abs/2603.07396)|null|
 |**2026-03-08**|**Online Tracking with Predictions for Nonlinear Systems with Koopman Linear Embedding**|Chih-Fan Pai et.al.|[2603.07395](http://arxiv.org/abs/2603.07395)|null|
@@ -863,12 +893,22 @@
 |**2026-02-04**|**Requirements for Teleportation in an Intercity Quantum Network**|Soubhadra Maiti et.al.|[2602.04869](http://arxiv.org/abs/2602.04869)|null|
 |**2026-02-04**|**CRoSS: A Continual Robotic Simulation Suite for Scalable Reinforcement Learning with High Task Diversity and Realistic Physics Simulation**|Yannick Denker et.al.|[2602.04868](http://arxiv.org/abs/2602.04868)|null|
 
-<p align=right>(<a href=#updated-on-20260310>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260311>back to top</a>)</p>
 
 ## DeFi
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-10**|**Competition between DEXs through Dynamic Fees**|Leonardo Baggiani et.al.|[2603.09669](http://arxiv.org/abs/2603.09669)|null|
+|**2026-03-10**|**OTPL-VIO: Robust Visual-Inertial Odometry with Optimal Transport Line Association and Adaptive Uncertainty**|Zikun Chen et.al.|[2603.09653](http://arxiv.org/abs/2603.09653)|null|
+|**2026-03-10**|**MiniAppBench: Evaluating the Shift from Text to Interactive HTML Responses in LLM-Powered Assistants**|Zuhao Zhang et.al.|[2603.09652](http://arxiv.org/abs/2603.09652)|null|
+|**2026-03-10**|**Three-stage melting of a macroscopic continuous spacetime crystal**|Guoqing Liu et.al.|[2603.09649](http://arxiv.org/abs/2603.09649)|null|
+|**2026-03-10**|**Site-Specific Finetuning of Neural Receivers with Real-World 5G NR Measurements**|Nuri Berke Baytekin et.al.|[2603.09644](http://arxiv.org/abs/2603.09644)|null|
+|**2026-03-10**|**MM-tau-p $^2$ : Persona-Adaptive Prompting for Robust Multi-Modal Agent Evaluation in Dual-Control Settings**|Anupam Purwar et.al.|[2603.09643](http://arxiv.org/abs/2603.09643)|null|
+|**2026-03-10**|**Tracking Cancer Through Text: Longitudinal Extraction From Radiology Reports Using Open-Source Large Language Models**|Luc Builtjes et.al.|[2603.09638](http://arxiv.org/abs/2603.09638)|null|
+|**2026-03-10**|**Pressure-Stabilized MnSb $_2$ with Complex Incommensurate Magnetic Order**|Mingyu Xu et.al.|[2603.09635](http://arxiv.org/abs/2603.09635)|null|
+|**2026-03-10**|**The Architecture of Inter-Level Representation**|Harry Sticker et.al.|[2603.09626](http://arxiv.org/abs/2603.09626)|null|
+|**2026-03-10**|**Grounding Synthetic Data Generation With Vision and Language Models**|Ümit Mert Çağlar et.al.|[2603.09625](http://arxiv.org/abs/2603.09625)|null|
 |**2026-03-08**|**Interpretable Aneurysm Classification via 3D Concept Bottleneck Models: Integrating Morphological and Hemodynamic Clinical Features**|Toqa Khaled et.al.|[2603.07399](http://arxiv.org/abs/2603.07399)|null|
 |**2026-03-08**|**An Index Theorem for Fredholm Operators via the Unitary Conjugation Groupoid**|Shih-Yu Chang et.al.|[2603.07386](http://arxiv.org/abs/2603.07386)|null|
 |**2026-03-07**|**Machine Learning Techniques for Enhancing Quantum Key Distribution**|Ali Al-Kuwari et.al.|[2603.07384](http://arxiv.org/abs/2603.07384)|null|
@@ -1120,12 +1160,22 @@
 |**2026-02-05**|**TxRay: Agentic Postmortem of Live Blockchain Attacks**|Ziyue Wang et.al.|[2602.01317](http://arxiv.org/abs/2602.01317)|null|
 |**2026-01-30**|**Quasiperiodic Skin Criticality in an Exactly Solvable Non-Hermitian Quasicrystal**|Zhangyuan Chen et.al.|[2601.23015](http://arxiv.org/abs/2601.23015)|null|
 
-<p align=right>(<a href=#updated-on-20260310>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260311>back to top</a>)</p>
 
 ## Cryptography
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-10**|**Application of dual-tree complex wavelet transform for spectra background reduction**|Kazimierz Skrobas et.al.|[2603.09666](http://arxiv.org/abs/2603.09666)|null|
+|**2026-03-10**|**Evidence of universal spectral collapse at a marginal dynamical regime**|Udomsilp Pinsook et.al.|[2603.09665](http://arxiv.org/abs/2603.09665)|null|
+|**2026-03-10**|**A Least-Squares-Based Regularity-Conforming Neural Networks (LS-ReCoNNs) for Solving Parametric Transmission Problems**|Shima Baharlouei et.al.|[2603.09663](http://arxiv.org/abs/2603.09663)|null|
+|**2026-03-10**|**Pressure-Induced Structural and Magnetic Evolution in Layered Antiferromagnet YbMn $_2$Sb$_2$**|Mingyu Xu et.al.|[2603.09659](http://arxiv.org/abs/2603.09659)|null|
+|**2026-03-10**|**Kaluza-Klein mode mixing in braneworlds: constraints on scalar absorption and physical degrees of freedom**|Wen-Xuan Ma et.al.|[2603.09656](http://arxiv.org/abs/2603.09656)|null|
+|**2026-03-10**|**Understanding the Interplay between LLMs' Utilisation of Parametric and Contextual Knowledge: A keynote at ECIR 2025**|Isabelle Augenstein et.al.|[2603.09654](http://arxiv.org/abs/2603.09654)|null|
+|**2026-03-10**|**OTPL-VIO: Robust Visual-Inertial Odometry with Optimal Transport Line Association and Adaptive Uncertainty**|Zikun Chen et.al.|[2603.09653](http://arxiv.org/abs/2603.09653)|null|
+|**2026-03-10**|**Extracting the speed of sound of QCD from transverse momentum fluctuations**|Mubarak Alqahtani et.al.|[2603.09647](http://arxiv.org/abs/2603.09647)|null|
+|**2026-03-10**|**Dimuon production in neutrino-nucleus collisions at next-to-next-to-leading order in perturbative QCD**|Ilkka Helenius et.al.|[2603.09646](http://arxiv.org/abs/2603.09646)|null|
+|**2026-03-10**|**Evolution of Photonic Quantum Machine Learning under Noise**|A. M. A. S. D. Alagiyawanna et.al.|[2603.09645](http://arxiv.org/abs/2603.09645)|null|
 |**2026-03-08**|**Interpretable Aneurysm Classification via 3D Concept Bottleneck Models: Integrating Morphological and Hemodynamic Clinical Features**|Toqa Khaled et.al.|[2603.07399](http://arxiv.org/abs/2603.07399)|null|
 |**2026-03-08**|**Finite capture and the closure of roots of restricted polynomials**|Bernat Espigule et.al.|[2603.07397](http://arxiv.org/abs/2603.07397)|null|
 |**2026-03-08**|**A Consistent Interface Reconstruction and Coupling Method for Multiphysics Simulations**|Ethan Huff et.al.|[2603.07396](http://arxiv.org/abs/2603.07396)|null|
@@ -1367,12 +1417,22 @@
 |**2026-02-04**|**Characterizing $(d,h)$ -elliptic stable irreducible curves**|Juliana Coelho et.al.|[2602.04865](http://arxiv.org/abs/2602.04865)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260310>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260311>back to top</a>)</p>
 
 ## AI in Finance
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-10**|**VarSplat: Uncertainty-aware 3D Gaussian Splatting for Robust RGB-D SLAM**|Anh Thuan Tran et.al.|[2603.09673](http://arxiv.org/abs/2603.09673)|null|
+|**2026-03-10**|**Embedded Model Predictive Control for EMS-type Maglev Vehicles**|Arnim Kargl et.al.|[2603.09671](http://arxiv.org/abs/2603.09671)|null|
+|**2026-03-10**|**Obscured Star Formation in the Dwarf Galaxy DDO 43? A Comparative UV-IR Analysis**|Áron Juhász et.al.|[2603.09670](http://arxiv.org/abs/2603.09670)|null|
+|**2026-03-10**|**Competition between DEXs through Dynamic Fees**|Leonardo Baggiani et.al.|[2603.09669](http://arxiv.org/abs/2603.09669)|null|
+|**2026-03-10**|**DiffWind: Physics-Informed Differentiable Modeling of Wind-Driven Object Dynamics**|Yuanhang Lei et.al.|[2603.09668](http://arxiv.org/abs/2603.09668)|null|
+|**2026-03-10**|**Dynamics of quadratic f(R) cosmology with a perfect fluid: Jordan and Einstein frames**|Artur Alho et.al.|[2603.09667](http://arxiv.org/abs/2603.09667)|null|
+|**2026-03-10**|**Application of dual-tree complex wavelet transform for spectra background reduction**|Kazimierz Skrobas et.al.|[2603.09666](http://arxiv.org/abs/2603.09666)|null|
+|**2026-03-10**|**A Least-Squares-Based Regularity-Conforming Neural Networks (LS-ReCoNNs) for Solving Parametric Transmission Problems**|Shima Baharlouei et.al.|[2603.09663](http://arxiv.org/abs/2603.09663)|null|
+|**2026-03-10**|**No evaluation without fair representation : Impact of label and selection bias on the evaluation, performance and mitigation of classification models**|Magali Legast et.al.|[2603.09662](http://arxiv.org/abs/2603.09662)|null|
+|**2026-03-10**|**FreqCycle: A Multi-Scale Time-Frequency Analysis Method for Time Series Forecasting**|Boya Zhang et.al.|[2603.09661](http://arxiv.org/abs/2603.09661)|null|
 |**2026-03-08**|**Perceptive Variable-Timing Footstep Planning for Humanoid Locomotion on Disconnected Footholds**|Zhaoyang Xiang et.al.|[2603.07400](http://arxiv.org/abs/2603.07400)|null|
 |**2026-03-08**|**Interpretable Aneurysm Classification via 3D Concept Bottleneck Models: Integrating Morphological and Hemodynamic Clinical Features**|Toqa Khaled et.al.|[2603.07399](http://arxiv.org/abs/2603.07399)|null|
 |**2026-03-08**|**Study of the cosmological tensions and DESI-DR2 in the framework of the Little Rip model**|Safae Dahmani et.al.|[2603.07398](http://arxiv.org/abs/2603.07398)|null|
@@ -1619,7 +1679,7 @@
 |**2026-02-04**|**Multi-layer Cross-Attention is Provably Optimal for Multi-modal In-context Learning**|Nicholas Barnfield et.al.|[2602.04872](http://arxiv.org/abs/2602.04872)|null|
 |**2026-02-04**|**Multi-Head LatentMoE and Head Parallel: Communication-Efficient and Deterministic MoE Parallelism**|Chenwei Cui et.al.|[2602.04870](http://arxiv.org/abs/2602.04870)|null|
 
-<p align=right>(<a href=#updated-on-20260310>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260311>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/jhy-3/AI4Blockchain-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/jhy-3/AI4Blockchain-arxiv-daily/graphs/contributors
