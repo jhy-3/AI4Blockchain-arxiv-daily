@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.11
+## Updated on 2026.03.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-11**|**Tuning correlated states of twisted mono-bilayer graphene with proximity-induced spin-orbit coupling**|Jeyong Park et.al.|[2603.10914](http://arxiv.org/abs/2603.10914)|null|
+|**2026-03-11**|**Forcing with random variables in bounded arithmetics and set theory**|Radek Honzik et.al.|[2603.10908](http://arxiv.org/abs/2603.10908)|null|
+|**2026-03-11**|**Sliding Ferroelectricity Driven Spin-Layertronics in Altermagnetic Multilayers**|Rui Peng et.al.|[2603.10907](http://arxiv.org/abs/2603.10907)|null|
+|**2026-03-11**|**Data Augmentation and Convolutional Network Architecture Influence on Distributed Learning**|Victor Forattini Jansen et.al.|[2603.10902](http://arxiv.org/abs/2603.10902)|null|
+|**2026-03-11**|**LookaheadKV: Fast and Accurate KV Cache Eviction by Glimpsing into the Future without Generation**|Jinwoo Ahn et.al.|[2603.10899](http://arxiv.org/abs/2603.10899)|null|
+|**2026-03-11**|**Calibration of electric fields in low-frequency off-resonant Rydberg receivers**|Baran Kayim et.al.|[2603.10898](http://arxiv.org/abs/2603.10898)|null|
+|**2026-03-11**|**Ergodicity in reinforcement learning**|Dominik Baumann et.al.|[2603.10895](http://arxiv.org/abs/2603.10895)|null|
+|**2026-03-11**|**A Hybrid Knowledge-Grounded Framework for Safety and Traceability in Prescription Verification**|Yichi Zhu et.al.|[2603.10891](http://arxiv.org/abs/2603.10891)|null|
+|**2026-03-11**|**A gripper for flap separation and opening of sealed bags**|Sergi Foix et.al.|[2603.10890](http://arxiv.org/abs/2603.10890)|null|
+|**2026-03-11**|**Dynamics-Predictive Sampling for Active RL Finetuning of Large Reasoning Models**|Yixiu Mao et.al.|[2603.10887](http://arxiv.org/abs/2603.10887)|null|
 |**2026-03-10**|**Fine asymptotics of the magnetization of the annealed dilute Curie-Weiss model**|Fabian Apostel et.al.|[2603.09672](http://arxiv.org/abs/2603.09672)|null|
 |**2026-03-10**|**Dynamics of quadratic f(R) cosmology with a perfect fluid: Jordan and Einstein frames**|Artur Alho et.al.|[2603.09667](http://arxiv.org/abs/2603.09667)|null|
 |**2026-03-10**|**Application of dual-tree complex wavelet transform for spectra background reduction**|Kazimierz Skrobas et.al.|[2603.09666](http://arxiv.org/abs/2603.09666)|null|
@@ -383,6 +393,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-11**|**LLM2Vec-Gen: Generative Embeddings from Large Language Models**|Parishad BehnamGhader et.al.|[2603.10913](http://arxiv.org/abs/2603.10913)|null|
+|**2026-03-11**|**Level Crossing Rate Analysis for Optimal Single-user RIS Systems**|Amy S. Inwood et.al.|[2603.10909](http://arxiv.org/abs/2603.10909)|null|
+|**2026-03-11**|**Towards Polynomial Immersion of Port-Hamiltonian Systems**|Mohammad Itani et.al.|[2603.10906](http://arxiv.org/abs/2603.10906)|null|
+|**2026-03-11**|**When Fine-Tuning Fails and when it Generalises: Role of Data Diversity and Mixed Training in LLM-based TTS**|Anupam Purwar et.al.|[2603.10904](http://arxiv.org/abs/2603.10904)|null|
+|**2026-03-11**|**Data Augmentation and Convolutional Network Architecture Influence on Distributed Learning**|Victor Forattini Jansen et.al.|[2603.10902](http://arxiv.org/abs/2603.10902)|null|
+|**2026-03-11**|**Phase Selection and Analysis for Multi-frequency Multi-user RIS Systems Employing Subsurfaces**|Amy S. Inwood et.al.|[2603.10901](http://arxiv.org/abs/2603.10901)|null|
+|**2026-03-11**|**Ergodicity in reinforcement learning**|Dominik Baumann et.al.|[2603.10895](http://arxiv.org/abs/2603.10895)|null|
+|**2026-03-11**|**S2D: Sparse to Dense Lifting for 3D Reconstruction with Minimal Inputs**|Yuzhou Ji et.al.|[2603.10893](http://arxiv.org/abs/2603.10893)|null|
+|**2026-03-11**|**A Hybrid Knowledge-Grounded Framework for Safety and Traceability in Prescription Verification**|Yichi Zhu et.al.|[2603.10891](http://arxiv.org/abs/2603.10891)|null|
+|**2026-03-11**|**VoxCare: Studying Natural Communication Behaviors of Hospital Caregivers through Wearable Sensing of Egocentric Audio**|Tiantian Feng et.al.|[2603.10888](http://arxiv.org/abs/2603.10888)|null|
 |**2026-03-10**|**VarSplat: Uncertainty-aware 3D Gaussian Splatting for Robust RGB-D SLAM**|Anh Thuan Tran et.al.|[2603.09673](http://arxiv.org/abs/2603.09673)|null|
 |**2026-03-10**|**Competition between DEXs through Dynamic Fees**|Leonardo Baggiani et.al.|[2603.09669](http://arxiv.org/abs/2603.09669)|null|
 |**2026-03-10**|**DiffWind: Physics-Informed Differentiable Modeling of Wind-Driven Object Dynamics**|Yuanhang Lei et.al.|[2603.09668](http://arxiv.org/abs/2603.09668)|null|
@@ -628,6 +648,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-11**|**Quantum Hypergraph States: A Review**|Davide Poderini et.al.|[2603.10917](http://arxiv.org/abs/2603.10917)|null|
+|**2026-03-11**|**LLM2Vec-Gen: Generative Embeddings from Large Language Models**|Parishad BehnamGhader et.al.|[2603.10913](http://arxiv.org/abs/2603.10913)|null|
+|**2026-03-11**|**GLM-OCR Technical Report**|Shuaiqi Duan et.al.|[2603.10910](http://arxiv.org/abs/2603.10910)|null|
+|**2026-03-11**|**Level Crossing Rate Analysis for Optimal Single-user RIS Systems**|Amy S. Inwood et.al.|[2603.10909](http://arxiv.org/abs/2603.10909)|null|
+|**2026-03-11**|**Forcing with random variables in bounded arithmetics and set theory**|Radek Honzik et.al.|[2603.10908](http://arxiv.org/abs/2603.10908)|null|
+|**2026-03-11**|**Sliding Ferroelectricity Driven Spin-Layertronics in Altermagnetic Multilayers**|Rui Peng et.al.|[2603.10907](http://arxiv.org/abs/2603.10907)|null|
+|**2026-03-11**|**TOI-4616 b: a benchmark Earth-sized planet transiting a nearby M4 dwarf**|F. Zong Lang et.al.|[2603.10905](http://arxiv.org/abs/2603.10905)|null|
+|**2026-03-11**|**When Fine-Tuning Fails and when it Generalises: Role of Data Diversity and Mixed Training in LLM-based TTS**|Anupam Purwar et.al.|[2603.10904](http://arxiv.org/abs/2603.10904)|null|
+|**2026-03-11**|**LookaheadKV: Fast and Accurate KV Cache Eviction by Glimpsing into the Future without Generation**|Jinwoo Ahn et.al.|[2603.10899](http://arxiv.org/abs/2603.10899)|null|
+|**2026-03-11**|**Expressive Boundedness of Authoritative DNS Response Selection**|Chris Bertinato et.al.|[2603.10897](http://arxiv.org/abs/2603.10897)|null|
 |**2026-03-10**|**Embedded Model Predictive Control for EMS-type Maglev Vehicles**|Arnim Kargl et.al.|[2603.09671](http://arxiv.org/abs/2603.09671)|null|
 |**2026-03-10**|**Competition between DEXs through Dynamic Fees**|Leonardo Baggiani et.al.|[2603.09669](http://arxiv.org/abs/2603.09669)|null|
 |**2026-03-10**|**DiffWind: Physics-Informed Differentiable Modeling of Wind-Driven Object Dynamics**|Yuanhang Lei et.al.|[2603.09668](http://arxiv.org/abs/2603.09668)|null|
@@ -873,6 +903,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-11**|**TOI-4616 b: a benchmark Earth-sized planet transiting a nearby M4 dwarf**|F. Zong Lang et.al.|[2603.10905](http://arxiv.org/abs/2603.10905)|null|
+|**2026-03-11**|**Expressive Boundedness of Authoritative DNS Response Selection**|Chris Bertinato et.al.|[2603.10897](http://arxiv.org/abs/2603.10897)|null|
+|**2026-03-11**|**Helium-Cooled Cryogenic STEM Imaging and Ptychography for Atomic-Scale Study of Low-Temperature Phases**|Noah Schnitzer et.al.|[2603.10892](http://arxiv.org/abs/2603.10892)|null|
+|**2026-03-11**|**A gripper for flap separation and opening of sealed bags**|Sergi Foix et.al.|[2603.10890](http://arxiv.org/abs/2603.10890)|null|
+|**2026-03-11**|**Dynamics-Predictive Sampling for Active RL Finetuning of Large Reasoning Models**|Yixiu Mao et.al.|[2603.10887](http://arxiv.org/abs/2603.10887)|null|
+|**2026-03-11**|**Ribbon concordance of fibered knots and compressions of surface homeomorphisms**|Ian Agol et.al.|[2603.10884](http://arxiv.org/abs/2603.10884)|null|
+|**2026-03-11**|**The potential and viability of V2G for California BEV drivers**|Clement Wong et.al.|[2603.10880](http://arxiv.org/abs/2603.10880)|null|
+|**2026-03-11**|**A Physics-Informed, Global-in-Time Neural Particle Method for the Spatially Homogeneous Landau Equation**|Minseok Kim et.al.|[2603.10874](http://arxiv.org/abs/2603.10874)|null|
+|**2026-03-11**|**SNPgen: Phenotype-Supervised Genotype Representation and Synthetic Data Generation via Latent Diffusion**|Andrea Lampis et.al.|[2603.10873](http://arxiv.org/abs/2603.10873)|null|
+|**2026-03-11**|**FG-CLTP: Fine-Grained Contrastive Language Tactile Pretraining for Robotic Manipulation**|Wenxuan Ma et.al.|[2603.10871](http://arxiv.org/abs/2603.10871)|null|
 |**2026-03-10**|**Competition between DEXs through Dynamic Fees**|Leonardo Baggiani et.al.|[2603.09669](http://arxiv.org/abs/2603.09669)|null|
 |**2026-03-10**|**OTPL-VIO: Robust Visual-Inertial Odometry with Optimal Transport Line Association and Adaptive Uncertainty**|Zikun Chen et.al.|[2603.09653](http://arxiv.org/abs/2603.09653)|null|
 |**2026-03-10**|**MiniAppBench: Evaluating the Shift from Text to Interactive HTML Responses in LLM-Powered Assistants**|Zuhao Zhang et.al.|[2603.09652](http://arxiv.org/abs/2603.09652)|null|
@@ -1138,6 +1178,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-11**|**Quantum Hypergraph States: A Review**|Davide Poderini et.al.|[2603.10917](http://arxiv.org/abs/2603.10917)|null|
+|**2026-03-11**|**NCAA Bracket Prediction Using Machine Learning and Combinatorial Fusion Analysis**|Yuanhong Wu et.al.|[2603.10916](http://arxiv.org/abs/2603.10916)|null|
+|**2026-03-11**|**Tuning correlated states of twisted mono-bilayer graphene with proximity-induced spin-orbit coupling**|Jeyong Park et.al.|[2603.10914](http://arxiv.org/abs/2603.10914)|null|
+|**2026-03-11**|**LLM2Vec-Gen: Generative Embeddings from Large Language Models**|Parishad BehnamGhader et.al.|[2603.10913](http://arxiv.org/abs/2603.10913)|null|
+|**2026-03-11**|**GLM-OCR Technical Report**|Shuaiqi Duan et.al.|[2603.10910](http://arxiv.org/abs/2603.10910)|null|
+|**2026-03-11**|**Level Crossing Rate Analysis for Optimal Single-user RIS Systems**|Amy S. Inwood et.al.|[2603.10909](http://arxiv.org/abs/2603.10909)|null|
+|**2026-03-11**|**Forcing with random variables in bounded arithmetics and set theory**|Radek Honzik et.al.|[2603.10908](http://arxiv.org/abs/2603.10908)|null|
+|**2026-03-11**|**Sliding Ferroelectricity Driven Spin-Layertronics in Altermagnetic Multilayers**|Rui Peng et.al.|[2603.10907](http://arxiv.org/abs/2603.10907)|null|
+|**2026-03-11**|**TOI-4616 b: a benchmark Earth-sized planet transiting a nearby M4 dwarf**|F. Zong Lang et.al.|[2603.10905](http://arxiv.org/abs/2603.10905)|null|
+|**2026-03-11**|**Catalogue and statistics of greater than 100 MeV solar proton events during solar cycles 23-25 from SOHO-ERNE observations**|M. Jarry et.al.|[2603.10903](http://arxiv.org/abs/2603.10903)|null|
 |**2026-03-10**|**Application of dual-tree complex wavelet transform for spectra background reduction**|Kazimierz Skrobas et.al.|[2603.09666](http://arxiv.org/abs/2603.09666)|null|
 |**2026-03-10**|**Evidence of universal spectral collapse at a marginal dynamical regime**|Udomsilp Pinsook et.al.|[2603.09665](http://arxiv.org/abs/2603.09665)|null|
 |**2026-03-10**|**A Least-Squares-Based Regularity-Conforming Neural Networks (LS-ReCoNNs) for Solving Parametric Transmission Problems**|Shima Baharlouei et.al.|[2603.09663](http://arxiv.org/abs/2603.09663)|null|
@@ -1393,6 +1443,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-11**|**Quantum Hypergraph States: A Review**|Davide Poderini et.al.|[2603.10917](http://arxiv.org/abs/2603.10917)|null|
+|**2026-03-11**|**NCAA Bracket Prediction Using Machine Learning and Combinatorial Fusion Analysis**|Yuanhong Wu et.al.|[2603.10916](http://arxiv.org/abs/2603.10916)|null|
+|**2026-03-11**|**LLM2Vec-Gen: Generative Embeddings from Large Language Models**|Parishad BehnamGhader et.al.|[2603.10913](http://arxiv.org/abs/2603.10913)|null|
+|**2026-03-11**|**VCSEL-Enhanced Holographic Communication for Next-Generation LiFi: State-of-the-Art, Applications, and Future Directions**|Hossein Safi et.al.|[2603.10912](http://arxiv.org/abs/2603.10912)|null|
+|**2026-03-11**|**GLM-OCR Technical Report**|Shuaiqi Duan et.al.|[2603.10910](http://arxiv.org/abs/2603.10910)|null|
+|**2026-03-11**|**Level Crossing Rate Analysis for Optimal Single-user RIS Systems**|Amy S. Inwood et.al.|[2603.10909](http://arxiv.org/abs/2603.10909)|null|
+|**2026-03-11**|**Towards Polynomial Immersion of Port-Hamiltonian Systems**|Mohammad Itani et.al.|[2603.10906](http://arxiv.org/abs/2603.10906)|null|
+|**2026-03-11**|**TOI-4616 b: a benchmark Earth-sized planet transiting a nearby M4 dwarf**|F. Zong Lang et.al.|[2603.10905](http://arxiv.org/abs/2603.10905)|null|
+|**2026-03-11**|**When Fine-Tuning Fails and when it Generalises: Role of Data Diversity and Mixed Training in LLM-based TTS**|Anupam Purwar et.al.|[2603.10904](http://arxiv.org/abs/2603.10904)|null|
+|**2026-03-11**|**Catalogue and statistics of greater than 100 MeV solar proton events during solar cycles 23-25 from SOHO-ERNE observations**|M. Jarry et.al.|[2603.10903](http://arxiv.org/abs/2603.10903)|null|
 |**2026-03-10**|**VarSplat: Uncertainty-aware 3D Gaussian Splatting for Robust RGB-D SLAM**|Anh Thuan Tran et.al.|[2603.09673](http://arxiv.org/abs/2603.09673)|null|
 |**2026-03-10**|**Embedded Model Predictive Control for EMS-type Maglev Vehicles**|Arnim Kargl et.al.|[2603.09671](http://arxiv.org/abs/2603.09671)|null|
 |**2026-03-10**|**Obscured Star Formation in the Dwarf Galaxy DDO 43? A Comparative UV-IR Analysis**|Áron Juhász et.al.|[2603.09670](http://arxiv.org/abs/2603.09670)|null|
