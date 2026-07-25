@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.07.24
+## Updated on 2026.07.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-23**|**Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers**|Sicheng Mo et.al.|[2607.21594](http://arxiv.org/abs/2607.21594)|null|
+|**2026-07-23**|**On the strong coupling limit of Yang-Mills matrix models**|Adrien Martina et.al.|[2607.21593](http://arxiv.org/abs/2607.21593)|null|
+|**2026-07-23**|**Unified Video Dense Prediction from Disjoint Data**|Yihong Sun et.al.|[2607.21592](http://arxiv.org/abs/2607.21592)|null|
+|**2026-07-23**|**Eigenfunctions, free boundaries, and time-frequency localization**|João P. G. Ramos et.al.|[2607.21590](http://arxiv.org/abs/2607.21590)|null|
+|**2026-07-23**|**Expanding Flow Maps**|Sophia Tang et.al.|[2607.21585](http://arxiv.org/abs/2607.21585)|null|
+|**2026-07-23**|**Flow-based Phase-space Tomography of Continuous-variable Quantum States**|Owen Dugan et.al.|[2607.21584](http://arxiv.org/abs/2607.21584)|null|
+|**2026-07-23**|**Symmetry and Quantum Geometry in Bloch Bands**|Ziwei Wang et.al.|[2607.21581](http://arxiv.org/abs/2607.21581)|null|
+|**2026-07-23**|**The Stability Landscape in Wave-Packet Scattering: Geometric Rigidity and Sharp Sobolev Thresholds**|Max Getter et.al.|[2607.21578](http://arxiv.org/abs/2607.21578)|null|
+|**2026-07-23**|**Parallel Tempered Metadynamics for full QCD**|Timo Eichhorn et.al.|[2607.21575](http://arxiv.org/abs/2607.21575)|null|
+|**2026-07-23**|**Surprisal Theory is Tautological (without Rational Grounding)**|Ryan Cotterell et.al.|[2607.21574](http://arxiv.org/abs/2607.21574)|null|
 |**2026-07-22**|**Towards Miniature Humanoid Tele-Loco-Manipulation Using Virtual Reality and Reinforcement Learning**|Nicolas Kosanovic et.al.|[2607.20399](http://arxiv.org/abs/2607.20399)|null|
 |**2026-07-22**|**Pulsar glitches in the presence of vortex traps**|Anantharaman Sekharipuram Viswanathan et.al.|[2607.20398](http://arxiv.org/abs/2607.20398)|null|
 |**2026-07-22**|**Near-Optimal Dimension Lower Bounds for Single-Vector Embeddings of Maximum Inner Product Similarity**|Rajesh Jayaram et.al.|[2607.20393](http://arxiv.org/abs/2607.20393)|null|
@@ -1198,6 +1208,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-23**|**3D-Aware VLMs with Implicit and Explicit Geometries**|Wenhao Li et.al.|[2607.21595](http://arxiv.org/abs/2607.21595)|null|
+|**2026-07-23**|**Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers**|Sicheng Mo et.al.|[2607.21594](http://arxiv.org/abs/2607.21594)|null|
+|**2026-07-23**|**Unified Video Dense Prediction from Disjoint Data**|Yihong Sun et.al.|[2607.21592](http://arxiv.org/abs/2607.21592)|null|
+|**2026-07-23**|**Inference-Time Scaling of Diffusion Models via Progressive Seed Pruning**|Rogerio Guimaraes et.al.|[2607.21591](http://arxiv.org/abs/2607.21591)|null|
+|**2026-07-23**|**Eigenfunctions, free boundaries, and time-frequency localization**|João P. G. Ramos et.al.|[2607.21590](http://arxiv.org/abs/2607.21590)|null|
+|**2026-07-23**|**Complexity transition in the Dicke model of light-matter interaction**|Yicheng Zhang et.al.|[2607.21583](http://arxiv.org/abs/2607.21583)|null|
+|**2026-07-23**|**Scale Up Strategically: Learning Compositional Generalization via Bias-Aware Evaluation and Data Collection for Robotic Manipulation**|Yu Qi et.al.|[2607.21582](http://arxiv.org/abs/2607.21582)|null|
+|**2026-07-23**|**GraphVid: Interactive Graph-Controllable Video Generation**|Vedant Shah et.al.|[2607.21580](http://arxiv.org/abs/2607.21580)|null|
+|**2026-07-23**|**Barzilai-Borwein Fails Superlinear Convergence on an Open Set of Quadratics for Every Dimension $n\geq 4$**|Dawei Li et.al.|[2607.21579](http://arxiv.org/abs/2607.21579)|null|
+|**2026-07-23**|**Synthetic data generation framework for quality control automation in gravure printing**|Korota Arsène Coulibaly et.al.|[2607.21577](http://arxiv.org/abs/2607.21577)|null|
 |**2026-07-22**|**A perturbative microscopic derivation of the focusing $Φ^6_1$ measure with rough cut-off**|Shahnaz Farhat et.al.|[2607.20400](http://arxiv.org/abs/2607.20400)|null|
 |**2026-07-22**|**Gas accretion onto the Milky Way: high-velocity cloud survival and the revival of the terminal-velocity paradigm**|Michael M. Schulreich et.al.|[2607.20394](http://arxiv.org/abs/2607.20394)|null|
 |**2026-07-22**|**Near-Optimal Dimension Lower Bounds for Single-Vector Embeddings of Maximum Inner Product Similarity**|Rajesh Jayaram et.al.|[2607.20393](http://arxiv.org/abs/2607.20393)|null|
@@ -2253,6 +2273,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-23**|**Inference-Time Scaling of Diffusion Models via Progressive Seed Pruning**|Rogerio Guimaraes et.al.|[2607.21591](http://arxiv.org/abs/2607.21591)|null|
+|**2026-07-23**|**Eigenfunctions, free boundaries, and time-frequency localization**|João P. G. Ramos et.al.|[2607.21590](http://arxiv.org/abs/2607.21590)|null|
+|**2026-07-23**|**The Frankl--Tokushige product conjectures for $r$ -cross-intersecting families**|Fan Chang et.al.|[2607.21589](http://arxiv.org/abs/2607.21589)|null|
+|**2026-07-23**|**AXIS: A Growable Community-Driven Data Engine for Scalable Robot Manipulation**|Mengfei Zhao et.al.|[2607.21588](http://arxiv.org/abs/2607.21588)|null|
+|**2026-07-23**|**Symmetry and Quantum Geometry in Bloch Bands**|Ziwei Wang et.al.|[2607.21581](http://arxiv.org/abs/2607.21581)|null|
+|**2026-07-23**|**GraphVid: Interactive Graph-Controllable Video Generation**|Vedant Shah et.al.|[2607.21580](http://arxiv.org/abs/2607.21580)|null|
+|**2026-07-23**|**Barzilai-Borwein Fails Superlinear Convergence on an Open Set of Quadratics for Every Dimension $n\geq 4$**|Dawei Li et.al.|[2607.21579](http://arxiv.org/abs/2607.21579)|null|
+|**2026-07-23**|**Synthetic data generation framework for quality control automation in gravure printing**|Korota Arsène Coulibaly et.al.|[2607.21577](http://arxiv.org/abs/2607.21577)|null|
+|**2026-07-23**|**Parallel Tempered Metadynamics for full QCD**|Timo Eichhorn et.al.|[2607.21575](http://arxiv.org/abs/2607.21575)|null|
+|**2026-07-23**|**Surprisal Theory is Tautological (without Rational Grounding)**|Ryan Cotterell et.al.|[2607.21574](http://arxiv.org/abs/2607.21574)|null|
 |**2026-07-22**|**A perturbative microscopic derivation of the focusing $Φ^6_1$ measure with rough cut-off**|Shahnaz Farhat et.al.|[2607.20400](http://arxiv.org/abs/2607.20400)|null|
 |**2026-07-22**|**Pulsar glitches in the presence of vortex traps**|Anantharaman Sekharipuram Viswanathan et.al.|[2607.20398](http://arxiv.org/abs/2607.20398)|null|
 |**2026-07-22**|**The ICSE 2026 Shadow PC: Training the Next Generation of Reviewers Through Deliberate Practice**|Christian Kästner et.al.|[2607.20396](http://arxiv.org/abs/2607.20396)|null|
@@ -3321,6 +3351,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-23**|**Inference-Time Scaling of Diffusion Models via Progressive Seed Pruning**|Rogerio Guimaraes et.al.|[2607.21591](http://arxiv.org/abs/2607.21591)|null|
+|**2026-07-23**|**AXIS: A Growable Community-Driven Data Engine for Scalable Robot Manipulation**|Mengfei Zhao et.al.|[2607.21588](http://arxiv.org/abs/2607.21588)|null|
+|**2026-07-23**|**Expanding Flow Maps**|Sophia Tang et.al.|[2607.21585](http://arxiv.org/abs/2607.21585)|null|
+|**2026-07-23**|**The Stability Landscape in Wave-Packet Scattering: Geometric Rigidity and Sharp Sobolev Thresholds**|Max Getter et.al.|[2607.21578](http://arxiv.org/abs/2607.21578)|null|
+|**2026-07-23**|**Synthetic data generation framework for quality control automation in gravure printing**|Korota Arsène Coulibaly et.al.|[2607.21577](http://arxiv.org/abs/2607.21577)|null|
+|**2026-07-23**|**Self-Supervised Learning of Structured Dynamics from Videos**|Lukas Knobel et.al.|[2607.21576](http://arxiv.org/abs/2607.21576)|null|
+|**2026-07-23**|**MedGame: Storytelling Gamification Empowered by Large Language Models for Medical Education**|Qian Wu et.al.|[2607.21570](http://arxiv.org/abs/2607.21570)|null|
+|**2026-07-23**|**A geometric framework for spin relaxation**|Sophia N. Fricke et.al.|[2607.21569](http://arxiv.org/abs/2607.21569)|null|
+|**2026-07-23**|**Scene Parameter Saliency via Differentiable Light Transport**|Linas Beresna et.al.|[2607.21562](http://arxiv.org/abs/2607.21562)|null|
+|**2026-07-23**|**Graph Learning on Ensembles of Cyclic Peptides: An Investigation of Molecular Ensemble Modeling**|Aaron Feller et.al.|[2607.21561](http://arxiv.org/abs/2607.21561)|null|
 |**2026-07-22**|**Automorphism groups of curves with simple Jacobians**|Luca Mauri et.al.|[2607.20397](http://arxiv.org/abs/2607.20397)|null|
 |**2026-07-22**|**Near-Optimal Dimension Lower Bounds for Single-Vector Embeddings of Maximum Inner Product Similarity**|Rajesh Jayaram et.al.|[2607.20393](http://arxiv.org/abs/2607.20393)|null|
 |**2026-07-22**|**Qoreo: Choreographic Programming for Quantum Distributed Systems**|Jennifer Paykin et.al.|[2607.20391](http://arxiv.org/abs/2607.20391)|null|
@@ -4416,6 +4456,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-23**|**Unified Video Dense Prediction from Disjoint Data**|Yihong Sun et.al.|[2607.21592](http://arxiv.org/abs/2607.21592)|null|
+|**2026-07-23**|**Inference-Time Scaling of Diffusion Models via Progressive Seed Pruning**|Rogerio Guimaraes et.al.|[2607.21591](http://arxiv.org/abs/2607.21591)|null|
+|**2026-07-23**|**Eigenfunctions, free boundaries, and time-frequency localization**|João P. G. Ramos et.al.|[2607.21590](http://arxiv.org/abs/2607.21590)|null|
+|**2026-07-23**|**The Frankl--Tokushige product conjectures for $r$ -cross-intersecting families**|Fan Chang et.al.|[2607.21589](http://arxiv.org/abs/2607.21589)|null|
+|**2026-07-23**|**XMM-Newton and Swift Unveil Another X-Ray Transient in NGC 4945, XMM J130514.64-493311.27**|Ryan W. Pfeifle et.al.|[2607.21587](http://arxiv.org/abs/2607.21587)|null|
+|**2026-07-23**|**Gauge coupling beta functions and gauge field anomalous dimensions at four loops in the Standard Model**|M. A. Bezuglov et.al.|[2607.21586](http://arxiv.org/abs/2607.21586)|null|
+|**2026-07-23**|**Flow-based Phase-space Tomography of Continuous-variable Quantum States**|Owen Dugan et.al.|[2607.21584](http://arxiv.org/abs/2607.21584)|null|
+|**2026-07-23**|**Barzilai-Borwein Fails Superlinear Convergence on an Open Set of Quadratics for Every Dimension $n\geq 4$**|Dawei Li et.al.|[2607.21579](http://arxiv.org/abs/2607.21579)|null|
+|**2026-07-23**|**The Stability Landscape in Wave-Packet Scattering: Geometric Rigidity and Sharp Sobolev Thresholds**|Max Getter et.al.|[2607.21578](http://arxiv.org/abs/2607.21578)|null|
+|**2026-07-23**|**Synthetic data generation framework for quality control automation in gravure printing**|Korota Arsène Coulibaly et.al.|[2607.21577](http://arxiv.org/abs/2607.21577)|null|
 |**2026-07-22**|**A perturbative microscopic derivation of the focusing $Φ^6_1$ measure with rough cut-off**|Shahnaz Farhat et.al.|[2607.20400](http://arxiv.org/abs/2607.20400)|null|
 |**2026-07-22**|**Pulsar glitches in the presence of vortex traps**|Anantharaman Sekharipuram Viswanathan et.al.|[2607.20398](http://arxiv.org/abs/2607.20398)|null|
 |**2026-07-22**|**Automorphism groups of curves with simple Jacobians**|Luca Mauri et.al.|[2607.20397](http://arxiv.org/abs/2607.20397)|null|
@@ -5527,6 +5577,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-23**|**3D-Aware VLMs with Implicit and Explicit Geometries**|Wenhao Li et.al.|[2607.21595](http://arxiv.org/abs/2607.21595)|null|
+|**2026-07-23**|**Unified Video Dense Prediction from Disjoint Data**|Yihong Sun et.al.|[2607.21592](http://arxiv.org/abs/2607.21592)|null|
+|**2026-07-23**|**Eigenfunctions, free boundaries, and time-frequency localization**|João P. G. Ramos et.al.|[2607.21590](http://arxiv.org/abs/2607.21590)|null|
+|**2026-07-23**|**The Frankl--Tokushige product conjectures for $r$ -cross-intersecting families**|Fan Chang et.al.|[2607.21589](http://arxiv.org/abs/2607.21589)|null|
+|**2026-07-23**|**AXIS: A Growable Community-Driven Data Engine for Scalable Robot Manipulation**|Mengfei Zhao et.al.|[2607.21588](http://arxiv.org/abs/2607.21588)|null|
+|**2026-07-23**|**XMM-Newton and Swift Unveil Another X-Ray Transient in NGC 4945, XMM J130514.64-493311.27**|Ryan W. Pfeifle et.al.|[2607.21587](http://arxiv.org/abs/2607.21587)|null|
+|**2026-07-23**|**Expanding Flow Maps**|Sophia Tang et.al.|[2607.21585](http://arxiv.org/abs/2607.21585)|null|
+|**2026-07-23**|**Flow-based Phase-space Tomography of Continuous-variable Quantum States**|Owen Dugan et.al.|[2607.21584](http://arxiv.org/abs/2607.21584)|null|
+|**2026-07-23**|**Scale Up Strategically: Learning Compositional Generalization via Bias-Aware Evaluation and Data Collection for Robotic Manipulation**|Yu Qi et.al.|[2607.21582](http://arxiv.org/abs/2607.21582)|null|
+|**2026-07-23**|**Barzilai-Borwein Fails Superlinear Convergence on an Open Set of Quadratics for Every Dimension $n\geq 4$**|Dawei Li et.al.|[2607.21579](http://arxiv.org/abs/2607.21579)|null|
 |**2026-07-22**|**A perturbative microscopic derivation of the focusing $Φ^6_1$ measure with rough cut-off**|Shahnaz Farhat et.al.|[2607.20400](http://arxiv.org/abs/2607.20400)|null|
 |**2026-07-22**|**Towards Miniature Humanoid Tele-Loco-Manipulation Using Virtual Reality and Reinforcement Learning**|Nicolas Kosanovic et.al.|[2607.20399](http://arxiv.org/abs/2607.20399)|null|
 |**2026-07-22**|**The ICSE 2026 Shadow PC: Training the Next Generation of Reviewers Through Deliberate Practice**|Christian Kästner et.al.|[2607.20396](http://arxiv.org/abs/2607.20396)|null|
