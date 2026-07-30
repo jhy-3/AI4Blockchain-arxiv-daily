@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.07.29
+## Updated on 2026.07.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-29**|**The $L^2$ contraction of solutions with large perturbation in multiple space dimensions from the oscillatory dispersive planar shock**|Geng Chen et.al.|[2607.27118](http://arxiv.org/abs/2607.27118)|null|
+|**2026-07-29**|**The Keyl-Werner algorithm is not optimal for spectrum estimation**|Angelos Pelecanos et.al.|[2607.27117](http://arxiv.org/abs/2607.27117)|null|
+|**2026-07-29**|**Instantaneous analytic smoothing of rough data for the modified and cubic gKdV equations**|Argenis J. Mendez G et.al.|[2607.27115](http://arxiv.org/abs/2607.27115)|null|
+|**2026-07-29**|**Interaction-induced sign reversal of the orbital magnetic susceptibility in Chern insulators**|Ke Huang et.al.|[2607.27112](http://arxiv.org/abs/2607.27112)|null|
+|**2026-07-29**|**Can Large Language Models Represent Urban Publics? Behavioral Replication and Population Mismatch in an Affordable-Housing Experiment**|Yuxuan Cai et.al.|[2607.27100](http://arxiv.org/abs/2607.27100)|null|
+|**2026-07-29**|**Riesz* Homomorphisms on the copositive Cone**|Pavankumar Raickwade et.al.|[2607.27097](http://arxiv.org/abs/2607.27097)|null|
+|**2026-07-29**|**A New Paradigm for 3D Turbomachinery Design: Generative Diffusion Model Based Framework with Direct Geometry Encoding**|Yingfan Geng et.al.|[2607.27093](http://arxiv.org/abs/2607.27093)|null|
+|**2026-07-29**|**Sky sphere representation in language models**|Aleksandr Berdnikov et.al.|[2607.27092](http://arxiv.org/abs/2607.27092)|null|
+|**2026-07-29**|**InferScale: GPU-Native KV Injection for Personalized LLM Serving**|Peter Li et.al.|[2607.27090](http://arxiv.org/abs/2607.27090)|null|
+|**2026-07-29**|**Geometric Properties of Higher Dimensional Solenoidal Attractors**|Daniele Galli et.al.|[2607.27089](http://arxiv.org/abs/2607.27089)|null|
 |**2026-07-26**|**On the post-hoc Evaluation of PDE Discovery: A Multifaceted Challenge of Scientific Advancement**|Baptiste Mathevon et.al.|[2607.23753](http://arxiv.org/abs/2607.23753)|null|
 |**2026-07-26**|**ZKP Security Tools and Verification: Coverage, Effectiveness, Adoption, and Challenges**|Arman Kolozyan et.al.|[2607.23752](http://arxiv.org/abs/2607.23752)|null|
 |**2026-07-26**|**Soft-Constrained Optimization of Latent Space in Variational Autoencoders**|Ye Shi et.al.|[2607.23751](http://arxiv.org/abs/2607.23751)|null|
@@ -1218,6 +1228,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-29**|**Integral Representations for Interface Problems for the Barenblatt-Sobolev-Galpern Pseudoparabolic Equation**|Andreas Chatziafratis et.al.|[2607.27119](http://arxiv.org/abs/2607.27119)|null|
+|**2026-07-29**|**The $L^2$ contraction of solutions with large perturbation in multiple space dimensions from the oscillatory dispersive planar shock**|Geng Chen et.al.|[2607.27118](http://arxiv.org/abs/2607.27118)|null|
+|**2026-07-29**|**The Keyl-Werner algorithm is not optimal for spectrum estimation**|Angelos Pelecanos et.al.|[2607.27117](http://arxiv.org/abs/2607.27117)|null|
+|**2026-07-29**|**Veritas++: Value-aware On-Policy Distillation for Perception-Enhanced AIGI Detection**|Hao Tan et.al.|[2607.27113](http://arxiv.org/abs/2607.27113)|null|
+|**2026-07-29**|**FreqForcing: Autoregressive Long Video Generation via Spectral Self-Anchoring**|Jiatong Li et.al.|[2607.27110](http://arxiv.org/abs/2607.27110)|null|
+|**2026-07-29**|**Formation of $\mathrm{L}1_2$-ordered $γ'$-$\mathrm{Ni}_3\mathrm{Al}$ precipitates in ternary Cu-Ni-Al alloys modelled using an ab initio concentration wave theory and atomistic simulations**|Christopher D. Woodgate et.al.|[2607.27108](http://arxiv.org/abs/2607.27108)|null|
+|**2026-07-29**|**Engineering SU( $N$ )-Symmetric Hubbard Models with Microwave-Shielded Dipolar Molecules**|Jing-Lun Li et.al.|[2607.27107](http://arxiv.org/abs/2607.27107)|null|
+|**2026-07-29**|**Detecting seizure onset and offset times using human intelligence: A critical-transitions-based approach**|Andrew Flynn et.al.|[2607.27105](http://arxiv.org/abs/2607.27105)|null|
+|**2026-07-29**|**Designing Pairwise-Stable Agent Seating Arrangements**|Frederik Glitzner et.al.|[2607.27102](http://arxiv.org/abs/2607.27102)|null|
+|**2026-07-29**|**It Doesn't Take a Thief: Optical-Scan Voting Systems Fail Even Without Adversaries**|Aleksander Essex et.al.|[2607.27101](http://arxiv.org/abs/2607.27101)|null|
 |**2026-07-26**|**Set-defined graph classes: $χ$ -boundedness meets tropical algebra**|Sarosh Adenwalla et.al.|[2607.23754](http://arxiv.org/abs/2607.23754)|null|
 |**2026-07-26**|**ZKP Security Tools and Verification: Coverage, Effectiveness, Adoption, and Challenges**|Arman Kolozyan et.al.|[2607.23752](http://arxiv.org/abs/2607.23752)|null|
 |**2026-07-26**|**Soft-Constrained Optimization of Latent Space in Variational Autoencoders**|Ye Shi et.al.|[2607.23751](http://arxiv.org/abs/2607.23751)|null|
@@ -2293,6 +2313,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-29**|**Integral Representations for Interface Problems for the Barenblatt-Sobolev-Galpern Pseudoparabolic Equation**|Andreas Chatziafratis et.al.|[2607.27119](http://arxiv.org/abs/2607.27119)|null|
+|**2026-07-29**|**The Keyl-Werner algorithm is not optimal for spectrum estimation**|Angelos Pelecanos et.al.|[2607.27117](http://arxiv.org/abs/2607.27117)|null|
+|**2026-07-29**|**Ky Fan majorization for binary tensor products**|Michael M. Wolf et.al.|[2607.27116](http://arxiv.org/abs/2607.27116)|null|
+|**2026-07-29**|**Instantaneous analytic smoothing of rough data for the modified and cubic gKdV equations**|Argenis J. Mendez G et.al.|[2607.27115](http://arxiv.org/abs/2607.27115)|null|
+|**2026-07-29**|**Veritas++: Value-aware On-Policy Distillation for Perception-Enhanced AIGI Detection**|Hao Tan et.al.|[2607.27113](http://arxiv.org/abs/2607.27113)|null|
+|**2026-07-29**|**Effective Hamiltonians for Predictive Quantum Control**|Razvan Stanescu et.al.|[2607.27111](http://arxiv.org/abs/2607.27111)|null|
+|**2026-07-29**|**Formation of $\mathrm{L}1_2$-ordered $γ'$-$\mathrm{Ni}_3\mathrm{Al}$ precipitates in ternary Cu-Ni-Al alloys modelled using an ab initio concentration wave theory and atomistic simulations**|Christopher D. Woodgate et.al.|[2607.27108](http://arxiv.org/abs/2607.27108)|null|
+|**2026-07-29**|**Hierarchical Spatio-Temporal Transformer for Coherent Emergency Department Forecasting**|Filipa Lino et.al.|[2607.27106](http://arxiv.org/abs/2607.27106)|null|
+|**2026-07-29**|**Detecting seizure onset and offset times using human intelligence: A critical-transitions-based approach**|Andrew Flynn et.al.|[2607.27105](http://arxiv.org/abs/2607.27105)|null|
+|**2026-07-29**|**Dual Enhancement of Superconductivity in FeSe/SrTiO3 via Orbital and Correlation Synergy**|Guihao Jia et.al.|[2607.27104](http://arxiv.org/abs/2607.27104)|null|
 |**2026-07-26**|**Set-defined graph classes: $χ$ -boundedness meets tropical algebra**|Sarosh Adenwalla et.al.|[2607.23754](http://arxiv.org/abs/2607.23754)|null|
 |**2026-07-26**|**On the post-hoc Evaluation of PDE Discovery: A Multifaceted Challenge of Scientific Advancement**|Baptiste Mathevon et.al.|[2607.23753](http://arxiv.org/abs/2607.23753)|null|
 |**2026-07-26**|**ZKP Security Tools and Verification: Coverage, Effectiveness, Adoption, and Challenges**|Arman Kolozyan et.al.|[2607.23752](http://arxiv.org/abs/2607.23752)|null|
@@ -3381,6 +3411,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-29**|**Integral Representations for Interface Problems for the Barenblatt-Sobolev-Galpern Pseudoparabolic Equation**|Andreas Chatziafratis et.al.|[2607.27119](http://arxiv.org/abs/2607.27119)|null|
+|**2026-07-29**|**Instantaneous analytic smoothing of rough data for the modified and cubic gKdV equations**|Argenis J. Mendez G et.al.|[2607.27115](http://arxiv.org/abs/2607.27115)|null|
+|**2026-07-29**|**Veritas++: Value-aware On-Policy Distillation for Perception-Enhanced AIGI Detection**|Hao Tan et.al.|[2607.27113](http://arxiv.org/abs/2607.27113)|null|
+|**2026-07-29**|**Interaction-induced sign reversal of the orbital magnetic susceptibility in Chern insulators**|Ke Huang et.al.|[2607.27112](http://arxiv.org/abs/2607.27112)|null|
+|**2026-07-29**|**Effective Hamiltonians for Predictive Quantum Control**|Razvan Stanescu et.al.|[2607.27111](http://arxiv.org/abs/2607.27111)|null|
+|**2026-07-29**|**Rainfall is rough**|Thomas Deschatre et.al.|[2607.27099](http://arxiv.org/abs/2607.27099)|null|
+|**2026-07-29**|**Native CCZ Gate with Fluxonium Qubits and a Microwave-Driven Coupler**|Grigoriy S. Mazhorin et.al.|[2607.27094](http://arxiv.org/abs/2607.27094)|null|
+|**2026-07-29**|**Entanglement-Assisted Quantum Locally Recoverable Codes: Characterizations, Bounds, and Constructions**|Yang Li et.al.|[2607.27091](http://arxiv.org/abs/2607.27091)|null|
+|**2026-07-29**|**Step-Attention Refinement of DINOv3 Features for Efficient Anterior Eye Segmentation**|Philippe Baumstimler et.al.|[2607.27087](http://arxiv.org/abs/2607.27087)|null|
+|**2026-07-29**|**Controlled Experiments on Lane Changing by Transitional Autonomous Vehicle: Dataset and Behavioral Insights**|Abhinav Sharma et.al.|[2607.27085](http://arxiv.org/abs/2607.27085)|null|
 |**2026-07-26**|**Separating Clicks from Baits: Using Large Language Models to Detect Misleading YouTube Thumbnails**|Wajiha Naveed et.al.|[2607.23739](http://arxiv.org/abs/2607.23739)|null|
 |**2026-07-26**|**AI Strategy: How to Choose What AI Product to Implement**|Foster Provost et.al.|[2607.23733](http://arxiv.org/abs/2607.23733)|null|
 |**2026-07-26**|**Outcome-Confounded Local Supervision in On-Policy Distillation**|Guoqing Ma et.al.|[2607.23731](http://arxiv.org/abs/2607.23731)|null|
@@ -4496,6 +4536,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-29**|**Ky Fan majorization for binary tensor products**|Michael M. Wolf et.al.|[2607.27116](http://arxiv.org/abs/2607.27116)|null|
+|**2026-07-29**|**Instantaneous analytic smoothing of rough data for the modified and cubic gKdV equations**|Argenis J. Mendez G et.al.|[2607.27115](http://arxiv.org/abs/2607.27115)|null|
+|**2026-07-29**|**Interaction-induced sign reversal of the orbital magnetic susceptibility in Chern insulators**|Ke Huang et.al.|[2607.27112](http://arxiv.org/abs/2607.27112)|null|
+|**2026-07-29**|**Formation of $\mathrm{L}1_2$-ordered $γ'$-$\mathrm{Ni}_3\mathrm{Al}$ precipitates in ternary Cu-Ni-Al alloys modelled using an ab initio concentration wave theory and atomistic simulations**|Christopher D. Woodgate et.al.|[2607.27108](http://arxiv.org/abs/2607.27108)|null|
+|**2026-07-29**|**Numerical approach to the London Equation of superconductivity**|Nicolás Barnafi et.al.|[2607.27103](http://arxiv.org/abs/2607.27103)|null|
+|**2026-07-29**|**Designing Pairwise-Stable Agent Seating Arrangements**|Frederik Glitzner et.al.|[2607.27102](http://arxiv.org/abs/2607.27102)|null|
+|**2026-07-29**|**Rainfall is rough**|Thomas Deschatre et.al.|[2607.27099](http://arxiv.org/abs/2607.27099)|null|
+|**2026-07-29**|**Combinatorial Bounds for Codes over Metric Spaces: Ramsey-Sidorenko Thresholds and Subgraph Counts**|Lucas Waite et.al.|[2607.27098](http://arxiv.org/abs/2607.27098)|null|
+|**2026-07-29**|**Riesz* Homomorphisms on the copositive Cone**|Pavankumar Raickwade et.al.|[2607.27097](http://arxiv.org/abs/2607.27097)|null|
+|**2026-07-29**|**No band gap, no problem: Defects in InAs using a band-avoiding occupation-constrained density functional theory**|Peter A. Schultz et.al.|[2607.27095](http://arxiv.org/abs/2607.27095)|null|
 |**2026-07-26**|**Set-defined graph classes: $χ$ -boundedness meets tropical algebra**|Sarosh Adenwalla et.al.|[2607.23754](http://arxiv.org/abs/2607.23754)|null|
 |**2026-07-26**|**On the post-hoc Evaluation of PDE Discovery: A Multifaceted Challenge of Scientific Advancement**|Baptiste Mathevon et.al.|[2607.23753](http://arxiv.org/abs/2607.23753)|null|
 |**2026-07-26**|**ZKP Security Tools and Verification: Coverage, Effectiveness, Adoption, and Challenges**|Arman Kolozyan et.al.|[2607.23752](http://arxiv.org/abs/2607.23752)|null|
@@ -5627,6 +5677,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-29**|**Integral Representations for Interface Problems for the Barenblatt-Sobolev-Galpern Pseudoparabolic Equation**|Andreas Chatziafratis et.al.|[2607.27119](http://arxiv.org/abs/2607.27119)|null|
+|**2026-07-29**|**The $L^2$ contraction of solutions with large perturbation in multiple space dimensions from the oscillatory dispersive planar shock**|Geng Chen et.al.|[2607.27118](http://arxiv.org/abs/2607.27118)|null|
+|**2026-07-29**|**The Keyl-Werner algorithm is not optimal for spectrum estimation**|Angelos Pelecanos et.al.|[2607.27117](http://arxiv.org/abs/2607.27117)|null|
+|**2026-07-29**|**Ky Fan majorization for binary tensor products**|Michael M. Wolf et.al.|[2607.27116](http://arxiv.org/abs/2607.27116)|null|
+|**2026-07-29**|**Instantaneous analytic smoothing of rough data for the modified and cubic gKdV equations**|Argenis J. Mendez G et.al.|[2607.27115](http://arxiv.org/abs/2607.27115)|null|
+|**2026-07-29**|**Weak geometric lemma for ADR boundary of a uniform domain implies uniform rectifiability**|Aritro Pathak et.al.|[2607.27114](http://arxiv.org/abs/2607.27114)|null|
+|**2026-07-29**|**Veritas++: Value-aware On-Policy Distillation for Perception-Enhanced AIGI Detection**|Hao Tan et.al.|[2607.27113](http://arxiv.org/abs/2607.27113)|null|
+|**2026-07-29**|**Effective Hamiltonians for Predictive Quantum Control**|Razvan Stanescu et.al.|[2607.27111](http://arxiv.org/abs/2607.27111)|null|
+|**2026-07-29**|**FreqForcing: Autoregressive Long Video Generation via Spectral Self-Anchoring**|Jiatong Li et.al.|[2607.27110](http://arxiv.org/abs/2607.27110)|null|
+|**2026-07-29**|**Formation of $\mathrm{L}1_2$-ordered $γ'$-$\mathrm{Ni}_3\mathrm{Al}$ precipitates in ternary Cu-Ni-Al alloys modelled using an ab initio concentration wave theory and atomistic simulations**|Christopher D. Woodgate et.al.|[2607.27108](http://arxiv.org/abs/2607.27108)|null|
 |**2026-07-26**|**Set-defined graph classes: $χ$ -boundedness meets tropical algebra**|Sarosh Adenwalla et.al.|[2607.23754](http://arxiv.org/abs/2607.23754)|null|
 |**2026-07-26**|**On the post-hoc Evaluation of PDE Discovery: A Multifaceted Challenge of Scientific Advancement**|Baptiste Mathevon et.al.|[2607.23753](http://arxiv.org/abs/2607.23753)|null|
 |**2026-07-26**|**ZKP Security Tools and Verification: Coverage, Effectiveness, Adoption, and Challenges**|Arman Kolozyan et.al.|[2607.23752](http://arxiv.org/abs/2607.23752)|null|
