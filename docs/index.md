@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.07.30
+## Updated on 2026.07.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-30**|**Encryption-Compatible Clustered Federated Learning via Distributed Expectation-Maximization over Metadata**|Michael Ben Ali et.al.|[2607.28338](http://arxiv.org/abs/2607.28338)|null|
+|**2026-07-30**|**FFLO transition and quantum criticality in polarized Fermi gases**|Francesco Pirolo et.al.|[2607.28335](http://arxiv.org/abs/2607.28335)|null|
+|**2026-07-30**|**A sharp Gaussian harmonic-mean inequality for Neumann eigenvalues of the Ornstein-Uhlenbeck operator**|Francesco Chiacchio et.al.|[2607.28328](http://arxiv.org/abs/2607.28328)|null|
+|**2026-07-30**|**Same Branches, Different Trees: A Bifurcation Connectedness Metric for Coronary Artery Segmentation and FFR-CT Decision Agreement**|Maame Owusu-Ansah et.al.|[2607.28327](http://arxiv.org/abs/2607.28327)|null|
+|**2026-07-30**|**Growth, geometry, and early-universe split of the matter density parameter $Ω_{\rm m}$**|Felicitas Keil et.al.|[2607.28326](http://arxiv.org/abs/2607.28326)|null|
+|**2026-07-30**|**Influence of Rotational Diffusion on Macromolecular Self-Assembly Kinetics**|Prabeen Kumar Pattnayak et.al.|[2607.28325](http://arxiv.org/abs/2607.28325)|null|
+|**2026-07-30**|**Non-partitioned e-detectors for nonparametric sequential change detection**|Aytijhya Saha et.al.|[2607.28322](http://arxiv.org/abs/2607.28322)|null|
+|**2026-07-30**|**AdaAnchor4D: Anchor-Conditioned Spatiotemporal Feature Aggregation for Monocular UAV 4D Reconstruction**|Peiyi Xu et.al.|[2607.28320](http://arxiv.org/abs/2607.28320)|null|
+|**2026-07-30**|**Fairness Pruning: Locating Demographic Bias in GLU-MLP Layers via Differential Activations**|Pere Martra et.al.|[2607.28319](http://arxiv.org/abs/2607.28319)|null|
+|**2026-07-30**|**Fully Inductive Cardinality Estimation**|Tim Schwabe et.al.|[2607.28311](http://arxiv.org/abs/2607.28311)|null|
 |**2026-07-29**|**The $L^2$ contraction of solutions with large perturbation in multiple space dimensions from the oscillatory dispersive planar shock**|Geng Chen et.al.|[2607.27118](http://arxiv.org/abs/2607.27118)|null|
 |**2026-07-29**|**The Keyl-Werner algorithm is not optimal for spectrum estimation**|Angelos Pelecanos et.al.|[2607.27117](http://arxiv.org/abs/2607.27117)|null|
 |**2026-07-29**|**Instantaneous analytic smoothing of rough data for the modified and cubic gKdV equations**|Argenis J. Mendez G et.al.|[2607.27115](http://arxiv.org/abs/2607.27115)|null|
@@ -1228,6 +1238,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-30**|**Encryption-Compatible Clustered Federated Learning via Distributed Expectation-Maximization over Metadata**|Michael Ben Ali et.al.|[2607.28338](http://arxiv.org/abs/2607.28338)|null|
+|**2026-07-30**|**FFLO transition and quantum criticality in polarized Fermi gases**|Francesco Pirolo et.al.|[2607.28335](http://arxiv.org/abs/2607.28335)|null|
+|**2026-07-30**|**Compressible solved-volatility stochastic fluid thermodynamics: source-consistent energy, finite-correlation reservoirs, entropy admissibility and boundary conditions**|Hsieh-Chen Tsai et.al.|[2607.28333](http://arxiv.org/abs/2607.28333)|null|
+|**2026-07-30**|**Same Branches, Different Trees: A Bifurcation Connectedness Metric for Coronary Artery Segmentation and FFR-CT Decision Agreement**|Maame Owusu-Ansah et.al.|[2607.28327](http://arxiv.org/abs/2607.28327)|null|
+|**2026-07-30**|**Measuring Distortion in the Empty Regions of Dimensionality Reduction Scatterplots with the Gap Index**|Jaume Ros et.al.|[2607.28324](http://arxiv.org/abs/2607.28324)|null|
+|**2026-07-30**|**Optimal Execution with Passive Market Impact**|Alexander Barzykin et.al.|[2607.28323](http://arxiv.org/abs/2607.28323)|null|
+|**2026-07-30**|**Non-partitioned e-detectors for nonparametric sequential change detection**|Aytijhya Saha et.al.|[2607.28322](http://arxiv.org/abs/2607.28322)|null|
+|**2026-07-30**|**AdaAnchor4D: Anchor-Conditioned Spatiotemporal Feature Aggregation for Monocular UAV 4D Reconstruction**|Peiyi Xu et.al.|[2607.28320](http://arxiv.org/abs/2607.28320)|null|
+|**2026-07-30**|**One Human, $N$ Agents: Audit-Budget Allocation for LLM Agent Fleets under Miscalibrated, Correlated Confidence**|Cesare Zavattari et.al.|[2607.28317](http://arxiv.org/abs/2607.28317)|null|
+|**2026-07-30**|**ObjectStream: Latent Objects as Memory Anchors for Streaming Video Understanding**|Mingkang Dong et.al.|[2607.28312](http://arxiv.org/abs/2607.28312)|null|
 |**2026-07-29**|**Integral Representations for Interface Problems for the Barenblatt-Sobolev-Galpern Pseudoparabolic Equation**|Andreas Chatziafratis et.al.|[2607.27119](http://arxiv.org/abs/2607.27119)|null|
 |**2026-07-29**|**The $L^2$ contraction of solutions with large perturbation in multiple space dimensions from the oscillatory dispersive planar shock**|Geng Chen et.al.|[2607.27118](http://arxiv.org/abs/2607.27118)|null|
 |**2026-07-29**|**The Keyl-Werner algorithm is not optimal for spectrum estimation**|Angelos Pelecanos et.al.|[2607.27117](http://arxiv.org/abs/2607.27117)|null|
@@ -2313,6 +2333,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-30**|**Encryption-Compatible Clustered Federated Learning via Distributed Expectation-Maximization over Metadata**|Michael Ben Ali et.al.|[2607.28338](http://arxiv.org/abs/2607.28338)|null|
+|**2026-07-30**|**Correcting What You Cannot See: Credit Assignment for Perception Distillation in Multimodal Reasoners**|Feng Xiong et.al.|[2607.28336](http://arxiv.org/abs/2607.28336)|null|
+|**2026-07-30**|**FFLO transition and quantum criticality in polarized Fermi gases**|Francesco Pirolo et.al.|[2607.28335](http://arxiv.org/abs/2607.28335)|null|
+|**2026-07-30**|**Search for high-mass dilepton resonances in $pp$ collisions at $\sqrt{s}=13.6$ TeV combined with 13 TeV results using the ATLAS detector**| ATLAS Collaboration et.al.|[2607.28334](http://arxiv.org/abs/2607.28334)|null|
+|**2026-07-30**|**Compressible solved-volatility stochastic fluid thermodynamics: source-consistent energy, finite-correlation reservoirs, entropy admissibility and boundary conditions**|Hsieh-Chen Tsai et.al.|[2607.28333](http://arxiv.org/abs/2607.28333)|null|
+|**2026-07-30**|**When AI Becomes Routine: A Decade of Public AI Mediation in Korean Go Commentary**|Haewoon Kwak et.al.|[2607.28332](http://arxiv.org/abs/2607.28332)|null|
+|**2026-07-30**|**Structural Validation of LLM-Generated Microservice Decompositions Using Source-Code Dependencies**|Daniel Silva et.al.|[2607.28331](http://arxiv.org/abs/2607.28331)|null|
+|**2026-07-30**|**Paying for Honesty Without Knowing the Truth: Reputation-Penalty Design for LLM Marketplace Agents**|Mingdai Yang et.al.|[2607.28330](http://arxiv.org/abs/2607.28330)|null|
+|**2026-07-30**|**Coupled Spin-Density-Wave and Bond-Order Driven Metal-Insulator Transition in Altermagnetic CsCr $_2$S$_2$ O**|Chenchao Xu et.al.|[2607.28329](http://arxiv.org/abs/2607.28329)|null|
+|**2026-07-30**|**A sharp Gaussian harmonic-mean inequality for Neumann eigenvalues of the Ornstein-Uhlenbeck operator**|Francesco Chiacchio et.al.|[2607.28328](http://arxiv.org/abs/2607.28328)|null|
 |**2026-07-29**|**Integral Representations for Interface Problems for the Barenblatt-Sobolev-Galpern Pseudoparabolic Equation**|Andreas Chatziafratis et.al.|[2607.27119](http://arxiv.org/abs/2607.27119)|null|
 |**2026-07-29**|**The Keyl-Werner algorithm is not optimal for spectrum estimation**|Angelos Pelecanos et.al.|[2607.27117](http://arxiv.org/abs/2607.27117)|null|
 |**2026-07-29**|**Ky Fan majorization for binary tensor products**|Michael M. Wolf et.al.|[2607.27116](http://arxiv.org/abs/2607.27116)|null|
@@ -3411,6 +3441,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-30**|**Compressible solved-volatility stochastic fluid thermodynamics: source-consistent energy, finite-correlation reservoirs, entropy admissibility and boundary conditions**|Hsieh-Chen Tsai et.al.|[2607.28333](http://arxiv.org/abs/2607.28333)|null|
+|**2026-07-30**|**Structural Validation of LLM-Generated Microservice Decompositions Using Source-Code Dependencies**|Daniel Silva et.al.|[2607.28331](http://arxiv.org/abs/2607.28331)|null|
+|**2026-07-30**|**Optimal Execution with Passive Market Impact**|Alexander Barzykin et.al.|[2607.28323](http://arxiv.org/abs/2607.28323)|null|
+|**2026-07-30**|**Charge-to-spin conversion in epitaxial and polycrystalline Bi and Bi/Ag layers**|Federica Nasr et.al.|[2607.28310](http://arxiv.org/abs/2607.28310)|null|
+|**2026-07-30**|**Charge-exchange reactions with pion and kaon beams in the NA64h experiment at CERN**|Sergei N. Gninenko et.al.|[2607.28299](http://arxiv.org/abs/2607.28299)|null|
+|**2026-07-30**|**The Turán number of the Cartesian product of trees via star-flip**|Lanchao Wang et.al.|[2607.28295](http://arxiv.org/abs/2607.28295)|null|
+|**2026-07-30**|**Bootstrap inference in autoregressive duration models**|Giuseppe Cavaliere et.al.|[2607.28294](http://arxiv.org/abs/2607.28294)|null|
+|**2026-07-30**|**CACHE-UK: A Stability-Aware Memory Editor for Sequentially Updated Quantized LLMs in Finance**|Anubhav Lakra et.al.|[2607.28292](http://arxiv.org/abs/2607.28292)|null|
+|**2026-07-30**|**A MATLAB Tool for the Stable Generation of Matrix Polynomial Evaluation Schemes with Two-Product Savings**|J. Ibáñez et.al.|[2607.28286](http://arxiv.org/abs/2607.28286)|null|
+|**2026-07-30**|**Beyond Visual Ambiguity: Guiding Robust Monocular Depth Estimation in Challenging Scenarios via Detailed Long Captions**|Junrui Zhang et.al.|[2607.28285](http://arxiv.org/abs/2607.28285)|null|
 |**2026-07-29**|**Integral Representations for Interface Problems for the Barenblatt-Sobolev-Galpern Pseudoparabolic Equation**|Andreas Chatziafratis et.al.|[2607.27119](http://arxiv.org/abs/2607.27119)|null|
 |**2026-07-29**|**Instantaneous analytic smoothing of rough data for the modified and cubic gKdV equations**|Argenis J. Mendez G et.al.|[2607.27115](http://arxiv.org/abs/2607.27115)|null|
 |**2026-07-29**|**Veritas++: Value-aware On-Policy Distillation for Perception-Enhanced AIGI Detection**|Hao Tan et.al.|[2607.27113](http://arxiv.org/abs/2607.27113)|null|
@@ -4536,6 +4576,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-30**|**Encryption-Compatible Clustered Federated Learning via Distributed Expectation-Maximization over Metadata**|Michael Ben Ali et.al.|[2607.28338](http://arxiv.org/abs/2607.28338)|null|
+|**2026-07-30**|**SU(3)-structures on quotients of 3-Sasakian manifolds**|Quentin Peres et.al.|[2607.28337](http://arxiv.org/abs/2607.28337)|null|
+|**2026-07-30**|**FFLO transition and quantum criticality in polarized Fermi gases**|Francesco Pirolo et.al.|[2607.28335](http://arxiv.org/abs/2607.28335)|null|
+|**2026-07-30**|**Search for high-mass dilepton resonances in $pp$ collisions at $\sqrt{s}=13.6$ TeV combined with 13 TeV results using the ATLAS detector**| ATLAS Collaboration et.al.|[2607.28334](http://arxiv.org/abs/2607.28334)|null|
+|**2026-07-30**|**Compressible solved-volatility stochastic fluid thermodynamics: source-consistent energy, finite-correlation reservoirs, entropy admissibility and boundary conditions**|Hsieh-Chen Tsai et.al.|[2607.28333](http://arxiv.org/abs/2607.28333)|null|
+|**2026-07-30**|**When AI Becomes Routine: A Decade of Public AI Mediation in Korean Go Commentary**|Haewoon Kwak et.al.|[2607.28332](http://arxiv.org/abs/2607.28332)|null|
+|**2026-07-30**|**Structural Validation of LLM-Generated Microservice Decompositions Using Source-Code Dependencies**|Daniel Silva et.al.|[2607.28331](http://arxiv.org/abs/2607.28331)|null|
+|**2026-07-30**|**A sharp Gaussian harmonic-mean inequality for Neumann eigenvalues of the Ornstein-Uhlenbeck operator**|Francesco Chiacchio et.al.|[2607.28328](http://arxiv.org/abs/2607.28328)|null|
+|**2026-07-30**|**Same Branches, Different Trees: A Bifurcation Connectedness Metric for Coronary Artery Segmentation and FFR-CT Decision Agreement**|Maame Owusu-Ansah et.al.|[2607.28327](http://arxiv.org/abs/2607.28327)|null|
+|**2026-07-30**|**Influence of Rotational Diffusion on Macromolecular Self-Assembly Kinetics**|Prabeen Kumar Pattnayak et.al.|[2607.28325](http://arxiv.org/abs/2607.28325)|null|
 |**2026-07-29**|**Ky Fan majorization for binary tensor products**|Michael M. Wolf et.al.|[2607.27116](http://arxiv.org/abs/2607.27116)|null|
 |**2026-07-29**|**Instantaneous analytic smoothing of rough data for the modified and cubic gKdV equations**|Argenis J. Mendez G et.al.|[2607.27115](http://arxiv.org/abs/2607.27115)|null|
 |**2026-07-29**|**Interaction-induced sign reversal of the orbital magnetic susceptibility in Chern insulators**|Ke Huang et.al.|[2607.27112](http://arxiv.org/abs/2607.27112)|null|
@@ -5677,6 +5727,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-30**|**Encryption-Compatible Clustered Federated Learning via Distributed Expectation-Maximization over Metadata**|Michael Ben Ali et.al.|[2607.28338](http://arxiv.org/abs/2607.28338)|null|
+|**2026-07-30**|**Correcting What You Cannot See: Credit Assignment for Perception Distillation in Multimodal Reasoners**|Feng Xiong et.al.|[2607.28336](http://arxiv.org/abs/2607.28336)|null|
+|**2026-07-30**|**Compressible solved-volatility stochastic fluid thermodynamics: source-consistent energy, finite-correlation reservoirs, entropy admissibility and boundary conditions**|Hsieh-Chen Tsai et.al.|[2607.28333](http://arxiv.org/abs/2607.28333)|null|
+|**2026-07-30**|**When AI Becomes Routine: A Decade of Public AI Mediation in Korean Go Commentary**|Haewoon Kwak et.al.|[2607.28332](http://arxiv.org/abs/2607.28332)|null|
+|**2026-07-30**|**Structural Validation of LLM-Generated Microservice Decompositions Using Source-Code Dependencies**|Daniel Silva et.al.|[2607.28331](http://arxiv.org/abs/2607.28331)|null|
+|**2026-07-30**|**Paying for Honesty Without Knowing the Truth: Reputation-Penalty Design for LLM Marketplace Agents**|Mingdai Yang et.al.|[2607.28330](http://arxiv.org/abs/2607.28330)|null|
+|**2026-07-30**|**Same Branches, Different Trees: A Bifurcation Connectedness Metric for Coronary Artery Segmentation and FFR-CT Decision Agreement**|Maame Owusu-Ansah et.al.|[2607.28327](http://arxiv.org/abs/2607.28327)|null|
+|**2026-07-30**|**Influence of Rotational Diffusion on Macromolecular Self-Assembly Kinetics**|Prabeen Kumar Pattnayak et.al.|[2607.28325](http://arxiv.org/abs/2607.28325)|null|
+|**2026-07-30**|**Measuring Distortion in the Empty Regions of Dimensionality Reduction Scatterplots with the Gap Index**|Jaume Ros et.al.|[2607.28324](http://arxiv.org/abs/2607.28324)|null|
+|**2026-07-30**|**Optimal Execution with Passive Market Impact**|Alexander Barzykin et.al.|[2607.28323](http://arxiv.org/abs/2607.28323)|null|
 |**2026-07-29**|**Integral Representations for Interface Problems for the Barenblatt-Sobolev-Galpern Pseudoparabolic Equation**|Andreas Chatziafratis et.al.|[2607.27119](http://arxiv.org/abs/2607.27119)|null|
 |**2026-07-29**|**The $L^2$ contraction of solutions with large perturbation in multiple space dimensions from the oscillatory dispersive planar shock**|Geng Chen et.al.|[2607.27118](http://arxiv.org/abs/2607.27118)|null|
 |**2026-07-29**|**The Keyl-Werner algorithm is not optimal for spectrum estimation**|Angelos Pelecanos et.al.|[2607.27117](http://arxiv.org/abs/2607.27117)|null|
