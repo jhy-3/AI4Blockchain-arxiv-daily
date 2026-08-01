@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.07.31
+## Updated on 2026.08.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-30**|**Learning to Trace Seiberg Dualities**|Jonathan J. Heckman et.al.|[2607.28628](http://arxiv.org/abs/2607.28628)|null|
+|**2026-07-30**|**ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine**|Yukang Cao et.al.|[2607.28625](http://arxiv.org/abs/2607.28625)|null|
+|**2026-07-30**|**A Four-dimensional Model-agnostic Probe into the Astrophysical Origins of Binary Black Hole Subpopulations**|Anarya Ray et.al.|[2607.28622](http://arxiv.org/abs/2607.28622)|null|
+|**2026-07-30**|**Lifting Lifted Product Codes**|Yuta Hirasaki et.al.|[2607.28621](http://arxiv.org/abs/2607.28621)|null|
+|**2026-07-30**|**On Optimal Measurement-State Preparation via Geometric Transport of the Squeezing Ellipse**|Vsevolod Salakhutdinov et.al.|[2607.28620](http://arxiv.org/abs/2607.28620)|null|
+|**2026-07-30**|**On Degree Powers in Intersecting Families**|Mengyu Cao et.al.|[2607.28616](http://arxiv.org/abs/2607.28616)|null|
+|**2026-07-30**|**Tampered Memory Elephant Random Walk on One-Dimensional Integer Lattice**|Vinita Mulay et.al.|[2607.28614](http://arxiv.org/abs/2607.28614)|null|
+|**2026-07-30**|**Chimera: Designing and Chinchilla-Scaling Hybrid Visual Diffusion Transformers**|Chongjian Ge et.al.|[2607.28611](http://arxiv.org/abs/2607.28611)|null|
+|**2026-07-30**|**Learning Arbitrary Lindbladians from Time Evolution**|Zhili Chen et.al.|[2607.28610](http://arxiv.org/abs/2607.28610)|null|
+|**2026-07-30**|**Cosmo-SPINN: Fuzzy Dark Matter Simulations with Physics-Informed Generative Networks**|Ashutosh Kumar Mishra et.al.|[2607.28604](http://arxiv.org/abs/2607.28604)|null|
 |**2026-07-30**|**Encryption-Compatible Clustered Federated Learning via Distributed Expectation-Maximization over Metadata**|Michael Ben Ali et.al.|[2607.28338](http://arxiv.org/abs/2607.28338)|null|
 |**2026-07-30**|**FFLO transition and quantum criticality in polarized Fermi gases**|Francesco Pirolo et.al.|[2607.28335](http://arxiv.org/abs/2607.28335)|null|
 |**2026-07-30**|**A sharp Gaussian harmonic-mean inequality for Neumann eigenvalues of the Ornstein-Uhlenbeck operator**|Francesco Chiacchio et.al.|[2607.28328](http://arxiv.org/abs/2607.28328)|null|
@@ -1238,6 +1248,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-30**|**ReToken: One Token to Improve Vision-Language Models for Visual Retrieval**|Yao Xiao et.al.|[2607.28627](http://arxiv.org/abs/2607.28627)|null|
+|**2026-07-30**|**ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine**|Yukang Cao et.al.|[2607.28625](http://arxiv.org/abs/2607.28625)|null|
+|**2026-07-30**|**PhiZero: A World Model Built Around Physical Language**|Shuyao Shang et.al.|[2607.28624](http://arxiv.org/abs/2607.28624)|null|
+|**2026-07-30**|**On Optimal Measurement-State Preparation via Geometric Transport of the Squeezing Ellipse**|Vsevolod Salakhutdinov et.al.|[2607.28620](http://arxiv.org/abs/2607.28620)|null|
+|**2026-07-30**|**AISPA: User-Centric System Prompt Auditing for Large Language Model Applications**|Xiangning Lin et.al.|[2607.28617](http://arxiv.org/abs/2607.28617)|null|
+|**2026-07-30**|**Chimera: Designing and Chinchilla-Scaling Hybrid Visual Diffusion Transformers**|Chongjian Ge et.al.|[2607.28611](http://arxiv.org/abs/2607.28611)|null|
+|**2026-07-30**|**Learning Arbitrary Lindbladians from Time Evolution**|Zhili Chen et.al.|[2607.28610](http://arxiv.org/abs/2607.28610)|null|
+|**2026-07-30**|**OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models**|Qiushi Sun et.al.|[2607.28609](http://arxiv.org/abs/2607.28609)|null|
+|**2026-07-30**|**KAISEN: Reproducible Subgroup Fairness Auditing for Clinical Risk Models**|Sparsh Roy et.al.|[2607.28608](http://arxiv.org/abs/2607.28608)|null|
+|**2026-07-30**|**Laboratory demonstration of low order wavefront control using light reflected off the vortex coronagraph**|Clarissa R. Do Ó et.al.|[2607.28603](http://arxiv.org/abs/2607.28603)|null|
 |**2026-07-30**|**Encryption-Compatible Clustered Federated Learning via Distributed Expectation-Maximization over Metadata**|Michael Ben Ali et.al.|[2607.28338](http://arxiv.org/abs/2607.28338)|null|
 |**2026-07-30**|**FFLO transition and quantum criticality in polarized Fermi gases**|Francesco Pirolo et.al.|[2607.28335](http://arxiv.org/abs/2607.28335)|null|
 |**2026-07-30**|**Compressible solved-volatility stochastic fluid thermodynamics: source-consistent energy, finite-correlation reservoirs, entropy admissibility and boundary conditions**|Hsieh-Chen Tsai et.al.|[2607.28333](http://arxiv.org/abs/2607.28333)|null|
@@ -2333,6 +2353,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-30**|**Learning to Trace Seiberg Dualities**|Jonathan J. Heckman et.al.|[2607.28628](http://arxiv.org/abs/2607.28628)|null|
+|**2026-07-30**|**PhiZero: A World Model Built Around Physical Language**|Shuyao Shang et.al.|[2607.28624](http://arxiv.org/abs/2607.28624)|null|
+|**2026-07-30**|**PAC-MAN: Perception-Aware CBF-RL for Whole-Body Safety in Humanoid Dodgeball**|Lizhi Yang et.al.|[2607.28623](http://arxiv.org/abs/2607.28623)|null|
+|**2026-07-30**|**Lifting Lifted Product Codes**|Yuta Hirasaki et.al.|[2607.28621](http://arxiv.org/abs/2607.28621)|null|
+|**2026-07-30**|**Improved Approximations for Collective Neutrino Oscillations**|Matthew Riccio et.al.|[2607.28619](http://arxiv.org/abs/2607.28619)|null|
+|**2026-07-30**|**AISPA: User-Centric System Prompt Auditing for Large Language Model Applications**|Xiangning Lin et.al.|[2607.28617](http://arxiv.org/abs/2607.28617)|null|
+|**2026-07-30**|**Why 4D? Spontaneous Dimensional Selection from Gauge Criticality**|Wen Yin et.al.|[2607.28615](http://arxiv.org/abs/2607.28615)|null|
+|**2026-07-30**|**Tampered Memory Elephant Random Walk on One-Dimensional Integer Lattice**|Vinita Mulay et.al.|[2607.28614](http://arxiv.org/abs/2607.28614)|null|
+|**2026-07-30**|**Lattice composite Fermi liquid with broken inversion symmetry**|Pavel A. Nosov et.al.|[2607.28613](http://arxiv.org/abs/2607.28613)|null|
+|**2026-07-30**|**Learning Arbitrary Lindbladians from Time Evolution**|Zhili Chen et.al.|[2607.28610](http://arxiv.org/abs/2607.28610)|null|
 |**2026-07-30**|**Encryption-Compatible Clustered Federated Learning via Distributed Expectation-Maximization over Metadata**|Michael Ben Ali et.al.|[2607.28338](http://arxiv.org/abs/2607.28338)|null|
 |**2026-07-30**|**Correcting What You Cannot See: Credit Assignment for Perception Distillation in Multimodal Reasoners**|Feng Xiong et.al.|[2607.28336](http://arxiv.org/abs/2607.28336)|null|
 |**2026-07-30**|**FFLO transition and quantum criticality in polarized Fermi gases**|Francesco Pirolo et.al.|[2607.28335](http://arxiv.org/abs/2607.28335)|null|
@@ -3441,6 +3471,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-30**|**ReToken: One Token to Improve Vision-Language Models for Visual Retrieval**|Yao Xiao et.al.|[2607.28627](http://arxiv.org/abs/2607.28627)|null|
+|**2026-07-30**|**A Four-dimensional Model-agnostic Probe into the Astrophysical Origins of Binary Black Hole Subpopulations**|Anarya Ray et.al.|[2607.28622](http://arxiv.org/abs/2607.28622)|null|
+|**2026-07-30**|**AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis**|Bing Yan et.al.|[2607.28618](http://arxiv.org/abs/2607.28618)|null|
+|**2026-07-30**|**Lattice composite Fermi liquid with broken inversion symmetry**|Pavel A. Nosov et.al.|[2607.28613](http://arxiv.org/abs/2607.28613)|null|
+|**2026-07-30**|**Chimera: Designing and Chinchilla-Scaling Hybrid Visual Diffusion Transformers**|Chongjian Ge et.al.|[2607.28611](http://arxiv.org/abs/2607.28611)|null|
+|**2026-07-30**|**KAISEN: Reproducible Subgroup Fairness Auditing for Clinical Risk Models**|Sparsh Roy et.al.|[2607.28608](http://arxiv.org/abs/2607.28608)|null|
+|**2026-07-30**|**Pauli Encodings & Unclonable Encryption**|Pierre Botteron et.al.|[2607.28602](http://arxiv.org/abs/2607.28602)|null|
+|**2026-07-30**|**SymFT: Universal Fault-Tolerant Quantum Circuit Simulation via Symbolic Clifford--Pauli Frames and Stabilizer Coordinates**|Wang Fang et.al.|[2607.28600](http://arxiv.org/abs/2607.28600)|null|
+|**2026-07-30**|**VAD: Attributing Visual Evidence for Target Reconstruction in Multimodal On-Policy Distillation**|Kangning Zhang et.al.|[2607.28590](http://arxiv.org/abs/2607.28590)|null|
+|**2026-07-30**|**The Complexity of Kemeny Aggregation with Three Rankings**|Péter Madarasi et.al.|[2607.28588](http://arxiv.org/abs/2607.28588)|null|
 |**2026-07-30**|**Compressible solved-volatility stochastic fluid thermodynamics: source-consistent energy, finite-correlation reservoirs, entropy admissibility and boundary conditions**|Hsieh-Chen Tsai et.al.|[2607.28333](http://arxiv.org/abs/2607.28333)|null|
 |**2026-07-30**|**Structural Validation of LLM-Generated Microservice Decompositions Using Source-Code Dependencies**|Daniel Silva et.al.|[2607.28331](http://arxiv.org/abs/2607.28331)|null|
 |**2026-07-30**|**Optimal Execution with Passive Market Impact**|Alexander Barzykin et.al.|[2607.28323](http://arxiv.org/abs/2607.28323)|null|
@@ -4576,6 +4616,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-30**|**Learning to Trace Seiberg Dualities**|Jonathan J. Heckman et.al.|[2607.28628](http://arxiv.org/abs/2607.28628)|null|
+|**2026-07-30**|**ReToken: One Token to Improve Vision-Language Models for Visual Retrieval**|Yao Xiao et.al.|[2607.28627](http://arxiv.org/abs/2607.28627)|null|
+|**2026-07-30**|**PhiZero: A World Model Built Around Physical Language**|Shuyao Shang et.al.|[2607.28624](http://arxiv.org/abs/2607.28624)|null|
+|**2026-07-30**|**PAC-MAN: Perception-Aware CBF-RL for Whole-Body Safety in Humanoid Dodgeball**|Lizhi Yang et.al.|[2607.28623](http://arxiv.org/abs/2607.28623)|null|
+|**2026-07-30**|**Improved Approximations for Collective Neutrino Oscillations**|Matthew Riccio et.al.|[2607.28619](http://arxiv.org/abs/2607.28619)|null|
+|**2026-07-30**|**AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis**|Bing Yan et.al.|[2607.28618](http://arxiv.org/abs/2607.28618)|null|
+|**2026-07-30**|**AISPA: User-Centric System Prompt Auditing for Large Language Model Applications**|Xiangning Lin et.al.|[2607.28617](http://arxiv.org/abs/2607.28617)|null|
+|**2026-07-30**|**Why 4D? Spontaneous Dimensional Selection from Gauge Criticality**|Wen Yin et.al.|[2607.28615](http://arxiv.org/abs/2607.28615)|null|
+|**2026-07-30**|**Tampered Memory Elephant Random Walk on One-Dimensional Integer Lattice**|Vinita Mulay et.al.|[2607.28614](http://arxiv.org/abs/2607.28614)|null|
+|**2026-07-30**|**Lattice composite Fermi liquid with broken inversion symmetry**|Pavel A. Nosov et.al.|[2607.28613](http://arxiv.org/abs/2607.28613)|null|
 |**2026-07-30**|**Encryption-Compatible Clustered Federated Learning via Distributed Expectation-Maximization over Metadata**|Michael Ben Ali et.al.|[2607.28338](http://arxiv.org/abs/2607.28338)|null|
 |**2026-07-30**|**SU(3)-structures on quotients of 3-Sasakian manifolds**|Quentin Peres et.al.|[2607.28337](http://arxiv.org/abs/2607.28337)|null|
 |**2026-07-30**|**FFLO transition and quantum criticality in polarized Fermi gases**|Francesco Pirolo et.al.|[2607.28335](http://arxiv.org/abs/2607.28335)|null|
@@ -5727,6 +5777,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-30**|**Learning to Trace Seiberg Dualities**|Jonathan J. Heckman et.al.|[2607.28628](http://arxiv.org/abs/2607.28628)|null|
+|**2026-07-30**|**ReToken: One Token to Improve Vision-Language Models for Visual Retrieval**|Yao Xiao et.al.|[2607.28627](http://arxiv.org/abs/2607.28627)|null|
+|**2026-07-30**|**ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine**|Yukang Cao et.al.|[2607.28625](http://arxiv.org/abs/2607.28625)|null|
+|**2026-07-30**|**PhiZero: A World Model Built Around Physical Language**|Shuyao Shang et.al.|[2607.28624](http://arxiv.org/abs/2607.28624)|null|
+|**2026-07-30**|**A Four-dimensional Model-agnostic Probe into the Astrophysical Origins of Binary Black Hole Subpopulations**|Anarya Ray et.al.|[2607.28622](http://arxiv.org/abs/2607.28622)|null|
+|**2026-07-30**|**On Optimal Measurement-State Preparation via Geometric Transport of the Squeezing Ellipse**|Vsevolod Salakhutdinov et.al.|[2607.28620](http://arxiv.org/abs/2607.28620)|null|
+|**2026-07-30**|**AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis**|Bing Yan et.al.|[2607.28618](http://arxiv.org/abs/2607.28618)|null|
+|**2026-07-30**|**AISPA: User-Centric System Prompt Auditing for Large Language Model Applications**|Xiangning Lin et.al.|[2607.28617](http://arxiv.org/abs/2607.28617)|null|
+|**2026-07-30**|**Chimera: Designing and Chinchilla-Scaling Hybrid Visual Diffusion Transformers**|Chongjian Ge et.al.|[2607.28611](http://arxiv.org/abs/2607.28611)|null|
+|**2026-07-30**|**Learning Arbitrary Lindbladians from Time Evolution**|Zhili Chen et.al.|[2607.28610](http://arxiv.org/abs/2607.28610)|null|
 |**2026-07-30**|**Encryption-Compatible Clustered Federated Learning via Distributed Expectation-Maximization over Metadata**|Michael Ben Ali et.al.|[2607.28338](http://arxiv.org/abs/2607.28338)|null|
 |**2026-07-30**|**Correcting What You Cannot See: Credit Assignment for Perception Distillation in Multimodal Reasoners**|Feng Xiong et.al.|[2607.28336](http://arxiv.org/abs/2607.28336)|null|
 |**2026-07-30**|**Compressible solved-volatility stochastic fluid thermodynamics: source-consistent energy, finite-correlation reservoirs, entropy admissibility and boundary conditions**|Hsieh-Chen Tsai et.al.|[2607.28333](http://arxiv.org/abs/2607.28333)|null|
