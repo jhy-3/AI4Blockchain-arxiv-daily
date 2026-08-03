@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.08.02
+## Updated on 2026.08.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -5777,6 +5777,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-31**|**Differentially Private Nonparametric Modal Learning with Applications to Regression and Clustering**|Arkajyoti Bhattacharjee et.al.|[2607.29675](http://arxiv.org/abs/2607.29675)|null|
+|**2026-07-31**|**Sign compression for Muon: SignMuon, MuonSign, and the Limits of Error Feedback**|Maria Smirnova et.al.|[2607.29674](http://arxiv.org/abs/2607.29674)|null|
+|**2026-07-31**|**Freeze, Then Select: Structured Field Adapters and Stability-Validated Weak Selection for PDE Discovery from Sparse Observations**|Juncheng Zhong et.al.|[2607.29665](http://arxiv.org/abs/2607.29665)|null|
+|**2026-07-31**|**GQ-FSL: Green Quantized Federated Split Learning**|Idan Roth et.al.|[2607.29659](http://arxiv.org/abs/2607.29659)|null|
+|**2026-07-31**|**Development of FDD-ON: an Ontology for VAV HVAC System Fault Detection and Diagnostics**|Yimin Chen et.al.|[2607.29657](http://arxiv.org/abs/2607.29657)|null|
+|**2026-07-31**|**Non-reciprocal torques guide self-assembly of active particles into clusters with controllable function**|Till Welker et.al.|[2607.29651](http://arxiv.org/abs/2607.29651)|null|
+|**2026-07-31**|**Evolving language compositionality in a frequency-structured meaning space**|Fabio De Ponte et.al.|[2607.29642](http://arxiv.org/abs/2607.29642)|null|
+|**2026-07-31**|**Bootstrapping Self-Supervised Learning of Binary Classification Using Error Bounds: A Case Study on a Robotic Insertion Task**|Zebin Duan et.al.|[2607.29640](http://arxiv.org/abs/2607.29640)|null|
+|**2026-07-31**|**CodeShrink: Adaptive Visual Compression for Efficient Multimodal Code Understanding**|Wenxin Tang et.al.|[2607.29637](http://arxiv.org/abs/2607.29637)|null|
+|**2026-07-31**|**OASIS: Occlusion-aware Single-image Hand Avatar Reconstruction via 3D Gaussian Splatting**|Zhisheng Han et.al.|[2607.29633](http://arxiv.org/abs/2607.29633)|null|
 |**2026-07-30**|**Learning to Trace Seiberg Dualities**|Jonathan J. Heckman et.al.|[2607.28628](http://arxiv.org/abs/2607.28628)|null|
 |**2026-07-30**|**ReToken: One Token to Improve Vision-Language Models for Visual Retrieval**|Yao Xiao et.al.|[2607.28627](http://arxiv.org/abs/2607.28627)|null|
 |**2026-07-30**|**ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine**|Yukang Cao et.al.|[2607.28625](http://arxiv.org/abs/2607.28625)|null|
