@@ -2366,7 +2366,7 @@ layout: default
 |**2026-07-30**|**Encryption-Compatible Clustered Federated Learning via Distributed Expectation-Maximization over Metadata**|Michael Ben Ali et.al.|[2607.28338](http://arxiv.org/abs/2607.28338)|null|
 |**2026-07-30**|**Correcting What You Cannot See: Credit Assignment for Perception Distillation in Multimodal Reasoners**|Feng Xiong et.al.|[2607.28336](http://arxiv.org/abs/2607.28336)|null|
 |**2026-07-30**|**FFLO transition and quantum criticality in polarized Fermi gases**|Francesco Pirolo et.al.|[2607.28335](http://arxiv.org/abs/2607.28335)|null|
-|**2026-07-30**|**Search for high-mass dilepton resonances in $pp$ collisions at $\sqrt{s}=13.6$ TeV combined with 13 TeV results using the ATLAS detector**| ATLAS Collaboration et.al.|[2607.28334](http://arxiv.org/abs/2607.28334)|null|
+|**2026-07-30**|**Search for high-mass dilepton resonances in $pp$ collisions at $\sqrt{s}=13.6$ TeV combined with 13 TeV results using the ATLAS detector**|ATLAS Collaboration et.al.|[2607.28334](http://arxiv.org/abs/2607.28334)|null|
 |**2026-07-30**|**Compressible solved-volatility stochastic fluid thermodynamics: source-consistent energy, finite-correlation reservoirs, entropy admissibility and boundary conditions**|Hsieh-Chen Tsai et.al.|[2607.28333](http://arxiv.org/abs/2607.28333)|null|
 |**2026-07-30**|**When AI Becomes Routine: A Decade of Public AI Mediation in Korean Go Commentary**|Haewoon Kwak et.al.|[2607.28332](http://arxiv.org/abs/2607.28332)|null|
 |**2026-07-30**|**Structural Validation of LLM-Generated Microservice Decompositions Using Source-Code Dependencies**|Daniel Silva et.al.|[2607.28331](http://arxiv.org/abs/2607.28331)|null|
@@ -4629,7 +4629,7 @@ layout: default
 |**2026-07-30**|**Encryption-Compatible Clustered Federated Learning via Distributed Expectation-Maximization over Metadata**|Michael Ben Ali et.al.|[2607.28338](http://arxiv.org/abs/2607.28338)|null|
 |**2026-07-30**|**SU(3)-structures on quotients of 3-Sasakian manifolds**|Quentin Peres et.al.|[2607.28337](http://arxiv.org/abs/2607.28337)|null|
 |**2026-07-30**|**FFLO transition and quantum criticality in polarized Fermi gases**|Francesco Pirolo et.al.|[2607.28335](http://arxiv.org/abs/2607.28335)|null|
-|**2026-07-30**|**Search for high-mass dilepton resonances in $pp$ collisions at $\sqrt{s}=13.6$ TeV combined with 13 TeV results using the ATLAS detector**| ATLAS Collaboration et.al.|[2607.28334](http://arxiv.org/abs/2607.28334)|null|
+|**2026-07-30**|**Search for high-mass dilepton resonances in $pp$ collisions at $\sqrt{s}=13.6$ TeV combined with 13 TeV results using the ATLAS detector**|ATLAS Collaboration et.al.|[2607.28334](http://arxiv.org/abs/2607.28334)|null|
 |**2026-07-30**|**Compressible solved-volatility stochastic fluid thermodynamics: source-consistent energy, finite-correlation reservoirs, entropy admissibility and boundary conditions**|Hsieh-Chen Tsai et.al.|[2607.28333](http://arxiv.org/abs/2607.28333)|null|
 |**2026-07-30**|**When AI Becomes Routine: A Decade of Public AI Mediation in Korean Go Commentary**|Haewoon Kwak et.al.|[2607.28332](http://arxiv.org/abs/2607.28332)|null|
 |**2026-07-30**|**Structural Validation of LLM-Generated Microservice Decompositions Using Source-Code Dependencies**|Daniel Silva et.al.|[2607.28331](http://arxiv.org/abs/2607.28331)|null|
@@ -4653,7 +4653,7 @@ layout: default
 |**2026-07-26**|**Robust estimation of the autocorrelation function via forward ratios**|A. Montañés et.al.|[2607.23744](http://arxiv.org/abs/2607.23744)|null|
 |**2026-07-26**|**Spectral properties of mesoscale fluctuations in interplanetary coronal mass ejections**|Anna-Sofia Jylhä et.al.|[2607.23742](http://arxiv.org/abs/2607.23742)|null|
 |**2026-07-26**|**Angular Momentum of Planet-Forming Disks: Implications for Infall Driven Misalignments**|Aashish Gupta et.al.|[2607.23741](http://arxiv.org/abs/2607.23741)|null|
-|**2026-07-26**|**Zing: Social Mind for LLMs**| Zing Team et.al.|[2607.23740](http://arxiv.org/abs/2607.23740)|null|
+|**2026-07-26**|**Zing: Social Mind for LLMs**|Zing Team et.al.|[2607.23740](http://arxiv.org/abs/2607.23740)|null|
 |**2026-07-26**|**Cross-System Neural Precoder: Exploiting Structural Consistency for Fast Adaptation**|Jia Guo et.al.|[2607.23738](http://arxiv.org/abs/2607.23738)|null|
 |**2026-07-26**|**Radiative decays $J/ψ,\,ψ(2S)\rightarrowγη^{(\prime)}$ in perturbative QCD with relativistic corrections**|Jun-Kang He et.al.|[2607.23737](http://arxiv.org/abs/2607.23737)|null|
 |**2026-07-23**|**Unified Video Dense Prediction from Disjoint Data**|Yihong Sun et.al.|[2607.21592](http://arxiv.org/abs/2607.21592)|null|
