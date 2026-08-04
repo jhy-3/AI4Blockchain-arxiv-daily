@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.08.03
+## Updated on 2026.08.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-02**|**Role-Decoupled Attention Residuals: Separating Matching and Content Retrieval Across Depth**|Kehan Wang et.al.|[2608.01075](http://arxiv.org/abs/2608.01075)|null|
+|**2026-08-02**|**Logit-Origin Centering for Singleton Test-Time Adaptation**|Mayank Sharma et.al.|[2608.01074](http://arxiv.org/abs/2608.01074)|null|
+|**2026-08-02**|**PlantRig - From Bones to Branches: Adaptation of Autoregressive Rigging Models for Plant Skeletal Reconstruction**|Nathan Hu et.al.|[2608.01072](http://arxiv.org/abs/2608.01072)|null|
+|**2026-08-02**|**adabay: an R package for rapid evaluation and calibration of Bayesian group sequential designs across common endpoint types**|Zhangyi He et.al.|[2608.01068](http://arxiv.org/abs/2608.01068)|null|
+|**2026-08-02**|**ReACT-CLIP: Response-Aware Test-Time Defense for Vision--Language Models**|Hashmat Shadab Malik et.al.|[2608.01067](http://arxiv.org/abs/2608.01067)|null|
+|**2026-08-02**|**Sharp Boundary Recession Criteria for the Special Lagrangian Curvature Potential Equation**|Rongli Huang et.al.|[2608.01065](http://arxiv.org/abs/2608.01065)|null|
+|**2026-08-02**|**Degeneracy-Aware Resource Allocation for Resilient 6G RAN**|Sayanti Ghosh et.al.|[2608.01063](http://arxiv.org/abs/2608.01063)|null|
+|**2026-08-02**|**Magnetic circular dichroism of THz modes and selection rules of Raman-active optical phonons in the polar altermagnet candidate \ce{Mn2Mo3O8}**|F. Schilberth et.al.|[2608.01062](http://arxiv.org/abs/2608.01062)|null|
+|**2026-08-02**|**Joins and ear decompositions beyond graphic matroids**|Yuhang Bai et.al.|[2608.01059](http://arxiv.org/abs/2608.01059)|null|
+|**2026-08-02**|**Arithmetic of elliptic curves induced by regular Diophantine triples**|Nikola Adžaga et.al.|[2608.01057](http://arxiv.org/abs/2608.01057)|null|
 |**2026-07-30**|**Learning to Trace Seiberg Dualities**|Jonathan J. Heckman et.al.|[2607.28628](http://arxiv.org/abs/2607.28628)|null|
 |**2026-07-30**|**ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine**|Yukang Cao et.al.|[2607.28625](http://arxiv.org/abs/2607.28625)|null|
 |**2026-07-30**|**A Four-dimensional Model-agnostic Probe into the Astrophysical Origins of Binary Black Hole Subpopulations**|Anarya Ray et.al.|[2607.28622](http://arxiv.org/abs/2607.28622)|null|
@@ -1248,6 +1258,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-02**|**Logit-Origin Centering for Singleton Test-Time Adaptation**|Mayank Sharma et.al.|[2608.01074](http://arxiv.org/abs/2608.01074)|null|
+|**2026-08-02**|**PlantRig - From Bones to Branches: Adaptation of Autoregressive Rigging Models for Plant Skeletal Reconstruction**|Nathan Hu et.al.|[2608.01072](http://arxiv.org/abs/2608.01072)|null|
+|**2026-08-02**|**4D Topology optimization of moving rigid bodies in fluid flows**|Yuta Tanabe et.al.|[2608.01071](http://arxiv.org/abs/2608.01071)|null|
+|**2026-08-02**|**Computational Microwave Localization and Material Identification Using Conformal Metasurface Antennas**|Sajedeh Keshmiri et.al.|[2608.01070](http://arxiv.org/abs/2608.01070)|null|
+|**2026-08-02**|**Characterizing Bias in Post-Bandit Inference under Index Algorithms**|Lisu Wang et.al.|[2608.01069](http://arxiv.org/abs/2608.01069)|null|
+|**2026-08-02**|**ReACT-CLIP: Response-Aware Test-Time Defense for Vision--Language Models**|Hashmat Shadab Malik et.al.|[2608.01067](http://arxiv.org/abs/2608.01067)|null|
+|**2026-08-02**|**Sharp Boundary Recession Criteria for the Special Lagrangian Curvature Potential Equation**|Rongli Huang et.al.|[2608.01065](http://arxiv.org/abs/2608.01065)|null|
+|**2026-08-02**|**Degeneracy-Aware Resource Allocation for Resilient 6G RAN**|Sayanti Ghosh et.al.|[2608.01063](http://arxiv.org/abs/2608.01063)|null|
+|**2026-08-02**|**Optimal frequency scales for probing black-hole geometries**|Saulo Albuquerque et.al.|[2608.01061](http://arxiv.org/abs/2608.01061)|null|
+|**2026-08-02**|**One Query, Many Scales: Sparse Mixture-of-Experts for Efficient Hierarchical Cross-View Geo-Localization**|Ruijie Fan et.al.|[2608.01060](http://arxiv.org/abs/2608.01060)|null|
 |**2026-07-30**|**ReToken: One Token to Improve Vision-Language Models for Visual Retrieval**|Yao Xiao et.al.|[2607.28627](http://arxiv.org/abs/2607.28627)|null|
 |**2026-07-30**|**ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine**|Yukang Cao et.al.|[2607.28625](http://arxiv.org/abs/2607.28625)|null|
 |**2026-07-30**|**PhiZero: A World Model Built Around Physical Language**|Shuyao Shang et.al.|[2607.28624](http://arxiv.org/abs/2607.28624)|null|
@@ -2353,6 +2373,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-02**|**Role-Decoupled Attention Residuals: Separating Matching and Content Retrieval Across Depth**|Kehan Wang et.al.|[2608.01075](http://arxiv.org/abs/2608.01075)|null|
+|**2026-08-02**|**PlantRig - From Bones to Branches: Adaptation of Autoregressive Rigging Models for Plant Skeletal Reconstruction**|Nathan Hu et.al.|[2608.01072](http://arxiv.org/abs/2608.01072)|null|
+|**2026-08-02**|**4D Topology optimization of moving rigid bodies in fluid flows**|Yuta Tanabe et.al.|[2608.01071](http://arxiv.org/abs/2608.01071)|null|
+|**2026-08-02**|**Characterizing Bias in Post-Bandit Inference under Index Algorithms**|Lisu Wang et.al.|[2608.01069](http://arxiv.org/abs/2608.01069)|null|
+|**2026-08-02**|**ReACT-CLIP: Response-Aware Test-Time Defense for Vision--Language Models**|Hashmat Shadab Malik et.al.|[2608.01067](http://arxiv.org/abs/2608.01067)|null|
+|**2026-08-02**|**Degeneracy-Aware Resource Allocation for Resilient 6G RAN**|Sayanti Ghosh et.al.|[2608.01063](http://arxiv.org/abs/2608.01063)|null|
+|**2026-08-02**|**Arithmetic of elliptic curves induced by regular Diophantine triples**|Nikola Adžaga et.al.|[2608.01057](http://arxiv.org/abs/2608.01057)|null|
+|**2026-08-02**|**Don't Offer What Can't Be Done: Deterministic Executability Gating for LLM Skill Selection at Scale**|Ortal Ashkenazi et.al.|[2608.01050](http://arxiv.org/abs/2608.01050)|null|
+|**2026-08-02**|**VeraRAN: Pre-Actuation Certification and Event-Causal Synchronization Repair for Asynchronous Multi-Interface RAN Plans**|Yinghan Hou et.al.|[2608.01047](http://arxiv.org/abs/2608.01047)|null|
+|**2026-08-02**|**DeBERTa-Sentinel: Toward Transparent and Trustworthy Detection of AI-Generated Text**|Muhammad Yousaf Rehman et.al.|[2608.01046](http://arxiv.org/abs/2608.01046)|null|
 |**2026-07-30**|**Learning to Trace Seiberg Dualities**|Jonathan J. Heckman et.al.|[2607.28628](http://arxiv.org/abs/2607.28628)|null|
 |**2026-07-30**|**PhiZero: A World Model Built Around Physical Language**|Shuyao Shang et.al.|[2607.28624](http://arxiv.org/abs/2607.28624)|null|
 |**2026-07-30**|**PAC-MAN: Perception-Aware CBF-RL for Whole-Body Safety in Humanoid Dodgeball**|Lizhi Yang et.al.|[2607.28623](http://arxiv.org/abs/2607.28623)|null|
@@ -3471,6 +3501,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-02**|**EpiLENS: Patient-Relative Epileptogenic Zone Localization from Multi-Center Intracranial EEG**|Yuanchu Gong et.al.|[2608.01076](http://arxiv.org/abs/2608.01076)|null|
+|**2026-08-02**|**Role-Decoupled Attention Residuals: Separating Matching and Content Retrieval Across Depth**|Kehan Wang et.al.|[2608.01075](http://arxiv.org/abs/2608.01075)|null|
+|**2026-08-02**|**PlantRig - From Bones to Branches: Adaptation of Autoregressive Rigging Models for Plant Skeletal Reconstruction**|Nathan Hu et.al.|[2608.01072](http://arxiv.org/abs/2608.01072)|null|
+|**2026-08-02**|**Sharp Boundary Recession Criteria for the Special Lagrangian Curvature Potential Equation**|Rongli Huang et.al.|[2608.01065](http://arxiv.org/abs/2608.01065)|null|
+|**2026-08-02**|**Control Under Compression: Reliability Frontiers for Tool-Using Agents**|Yinghan Hou et.al.|[2608.01056](http://arxiv.org/abs/2608.01056)|null|
+|**2026-08-02**|**Investigations of MWISP Bubbles: Identification and Analysis of Enclosed Molecular Bubbles by Weight Fields**|Yu Jiang et.al.|[2608.01052](http://arxiv.org/abs/2608.01052)|null|
+|**2026-08-02**|**State space modeling of RLC ladder circuits**|Stephan Scholz et.al.|[2608.01051](http://arxiv.org/abs/2608.01051)|null|
+|**2026-08-02**|**DeBERTa-Sentinel: Toward Transparent and Trustworthy Detection of AI-Generated Text**|Muhammad Yousaf Rehman et.al.|[2608.01046](http://arxiv.org/abs/2608.01046)|null|
+|**2026-08-02**|**On Riemannian Geometry in Elastic Diffeology**|Yusuke Shiobara et.al.|[2608.01037](http://arxiv.org/abs/2608.01037)|null|
+|**2026-08-02**|**WAM-Diff2: Hierarchical AR-to-Diffusion Distillation for Highly Efficient Autonomous Driving VLA**|Zhihao Zhu et.al.|[2608.01035](http://arxiv.org/abs/2608.01035)|null|
 |**2026-07-30**|**ReToken: One Token to Improve Vision-Language Models for Visual Retrieval**|Yao Xiao et.al.|[2607.28627](http://arxiv.org/abs/2607.28627)|null|
 |**2026-07-30**|**A Four-dimensional Model-agnostic Probe into the Astrophysical Origins of Binary Black Hole Subpopulations**|Anarya Ray et.al.|[2607.28622](http://arxiv.org/abs/2607.28622)|null|
 |**2026-07-30**|**AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis**|Bing Yan et.al.|[2607.28618](http://arxiv.org/abs/2607.28618)|null|
@@ -4616,6 +4656,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-02**|**Role-Decoupled Attention Residuals: Separating Matching and Content Retrieval Across Depth**|Kehan Wang et.al.|[2608.01075](http://arxiv.org/abs/2608.01075)|null|
+|**2026-08-02**|**Logit-Origin Centering for Singleton Test-Time Adaptation**|Mayank Sharma et.al.|[2608.01074](http://arxiv.org/abs/2608.01074)|null|
+|**2026-08-02**|**A Novel Bijective Angle and Volume-preservation Balanced Parameterization for $n$ -dimensional Manifolds**|Tiexiang Li et.al.|[2608.01073](http://arxiv.org/abs/2608.01073)|null|
+|**2026-08-02**|**PlantRig - From Bones to Branches: Adaptation of Autoregressive Rigging Models for Plant Skeletal Reconstruction**|Nathan Hu et.al.|[2608.01072](http://arxiv.org/abs/2608.01072)|null|
+|**2026-08-02**|**4D Topology optimization of moving rigid bodies in fluid flows**|Yuta Tanabe et.al.|[2608.01071](http://arxiv.org/abs/2608.01071)|null|
+|**2026-08-02**|**Computational Microwave Localization and Material Identification Using Conformal Metasurface Antennas**|Sajedeh Keshmiri et.al.|[2608.01070](http://arxiv.org/abs/2608.01070)|null|
+|**2026-08-02**|**Characterizing Bias in Post-Bandit Inference under Index Algorithms**|Lisu Wang et.al.|[2608.01069](http://arxiv.org/abs/2608.01069)|null|
+|**2026-08-02**|**adabay: an R package for rapid evaluation and calibration of Bayesian group sequential designs across common endpoint types**|Zhangyi He et.al.|[2608.01068](http://arxiv.org/abs/2608.01068)|null|
+|**2026-08-02**|**ReACT-CLIP: Response-Aware Test-Time Defense for Vision--Language Models**|Hashmat Shadab Malik et.al.|[2608.01067](http://arxiv.org/abs/2608.01067)|null|
+|**2026-08-02**|**Sharp Boundary Recession Criteria for the Special Lagrangian Curvature Potential Equation**|Rongli Huang et.al.|[2608.01065](http://arxiv.org/abs/2608.01065)|null|
 |**2026-07-30**|**Learning to Trace Seiberg Dualities**|Jonathan J. Heckman et.al.|[2607.28628](http://arxiv.org/abs/2607.28628)|null|
 |**2026-07-30**|**ReToken: One Token to Improve Vision-Language Models for Visual Retrieval**|Yao Xiao et.al.|[2607.28627](http://arxiv.org/abs/2607.28627)|null|
 |**2026-07-30**|**PhiZero: A World Model Built Around Physical Language**|Shuyao Shang et.al.|[2607.28624](http://arxiv.org/abs/2607.28624)|null|
@@ -5777,6 +5827,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-02**|**EpiLENS: Patient-Relative Epileptogenic Zone Localization from Multi-Center Intracranial EEG**|Yuanchu Gong et.al.|[2608.01076](http://arxiv.org/abs/2608.01076)|null|
+|**2026-08-02**|**Role-Decoupled Attention Residuals: Separating Matching and Content Retrieval Across Depth**|Kehan Wang et.al.|[2608.01075](http://arxiv.org/abs/2608.01075)|null|
+|**2026-08-02**|**Logit-Origin Centering for Singleton Test-Time Adaptation**|Mayank Sharma et.al.|[2608.01074](http://arxiv.org/abs/2608.01074)|null|
+|**2026-08-02**|**A Novel Bijective Angle and Volume-preservation Balanced Parameterization for $n$ -dimensional Manifolds**|Tiexiang Li et.al.|[2608.01073](http://arxiv.org/abs/2608.01073)|null|
+|**2026-08-02**|**PlantRig - From Bones to Branches: Adaptation of Autoregressive Rigging Models for Plant Skeletal Reconstruction**|Nathan Hu et.al.|[2608.01072](http://arxiv.org/abs/2608.01072)|null|
+|**2026-08-02**|**4D Topology optimization of moving rigid bodies in fluid flows**|Yuta Tanabe et.al.|[2608.01071](http://arxiv.org/abs/2608.01071)|null|
+|**2026-08-02**|**Characterizing Bias in Post-Bandit Inference under Index Algorithms**|Lisu Wang et.al.|[2608.01069](http://arxiv.org/abs/2608.01069)|null|
+|**2026-08-02**|**ReACT-CLIP: Response-Aware Test-Time Defense for Vision--Language Models**|Hashmat Shadab Malik et.al.|[2608.01067](http://arxiv.org/abs/2608.01067)|null|
+|**2026-08-02**|**OC-VLA++: Monocular Geometry-Guided Cross-View Consistency for Viewpoint-Robust Robotic Manipulation**|Tianyi Zhang et.al.|[2608.01066](http://arxiv.org/abs/2608.01066)|null|
+|**2026-08-02**|**Sharp Boundary Recession Criteria for the Special Lagrangian Curvature Potential Equation**|Rongli Huang et.al.|[2608.01065](http://arxiv.org/abs/2608.01065)|null|
 |**2026-07-31**|**Differentially Private Nonparametric Modal Learning with Applications to Regression and Clustering**|Arkajyoti Bhattacharjee et.al.|[2607.29675](http://arxiv.org/abs/2607.29675)|null|
 |**2026-07-31**|**Sign compression for Muon: SignMuon, MuonSign, and the Limits of Error Feedback**|Maria Smirnova et.al.|[2607.29674](http://arxiv.org/abs/2607.29674)|null|
 |**2026-07-31**|**Freeze, Then Select: Structured Field Adapters and Stability-Validated Weak Selection for PDE Discovery from Sparse Observations**|Juncheng Zhong et.al.|[2607.29665](http://arxiv.org/abs/2607.29665)|null|
