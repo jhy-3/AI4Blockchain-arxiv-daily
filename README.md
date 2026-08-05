@@ -1,4 +1,4 @@
-## Updated on 2026.08.04
+## Updated on 2026.08.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -61,7 +61,7 @@
 |**2025-04-22**|**Trustworthy Decentralized Autonomous Machines: A New Paradigm in Automation Economy**|Fernando Castillo et.al.|[2504.15676](http://arxiv.org/abs/2504.15676)|null|
 |**2025-03-20**|**Financial Twin Chain, a Platform to Support Financial Sustainability in Supply Chains**|Giuseppe Galante et.al.|[2503.15980](http://arxiv.org/abs/2503.15980)|null|
 
-<p align=right>(<a href=#updated-on-20260804>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260805>back to top</a>)</p>
 
 ## Smart Contracts & AI
 
@@ -88,7 +88,7 @@
 |**2025-10-07**|**Smart Contract Adoption under Discrete Overdispersed Demand: A Negative Binomial Optimization Perspective**|Jinho Cha et.al.|[2510.05487](http://arxiv.org/abs/2510.05487)|null|
 |**2025-10-06**|**LMM-Incentive: Large Multimodal Model-based Incentive Design for User-Generated Content in Web 3.0**|Jinbo Wen et.al.|[2510.04765](http://arxiv.org/abs/2510.04765)|null|
 
-<p align=right>(<a href=#updated-on-20260804>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260805>back to top</a>)</p>
 
 ## Blockchain Consensus & AI
 
@@ -124,7 +124,7 @@
 |**2022-09-30**|**Blockchain-based Monitoring for Poison Attack Detection in Decentralized Federated Learning**|Ranwa Al Mallah et.al.|[2210.02873](http://arxiv.org/abs/2210.02873)|null|
 |**2021-11-12**|**Device-Independent-Quantum-Randomness-Enhanced Zero-Knowledge Proof**|Cheng-Long Li et.al.|[2111.06717](http://arxiv.org/abs/2111.06717)|null|
 
-<p align=right>(<a href=#updated-on-20260804>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260805>back to top</a>)</p>
 
 ## DeFi & AI
 
@@ -143,12 +143,22 @@
 |**2025-10-24**|**Machine Learning Prediction of Magnetic Proximity Effect in van der Waals Heterostructures: From Atoms to Moiré**|Lukas Cvitkovich et.al.|[2508.12406](http://arxiv.org/abs/2508.12406)|null|
 |**2025-09-12**|**Web3 x AI Agents: Landscape, Integrations, and Foundational Challenges**|Yiming Shen et.al.|[2508.02773](http://arxiv.org/abs/2508.02773)|null|
 
-<p align=right>(<a href=#updated-on-20260804>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260805>back to top</a>)</p>
 
 ## Blockchain
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-04**|**Multi-Signal Safety Surveillance with Bayesian Latent Factor Modeling and Bias Correction**|Ziyang Pan et.al.|[2608.03775](http://arxiv.org/abs/2608.03775)|null|
+|**2026-08-04**|**Weak local law and delocalization for the Sachdev-Ye-Kitaev model**|Lucas Benigni et.al.|[2608.03771](http://arxiv.org/abs/2608.03771)|null|
+|**2026-08-04**|**Analytical results of Typical Medium Theory for the Bethe lattice with Cauchy disorder**|A. Östlin et.al.|[2608.03770](http://arxiv.org/abs/2608.03770)|null|
+|**2026-08-04**|**MDLMPE: Distribution Aware Positional Encoding for Masked Diffusion Language Models**|Tong Ling et.al.|[2608.03769](http://arxiv.org/abs/2608.03769)|null|
+|**2026-08-04**|**Circuit-Level Design, Modeling, and On-Wafer Characterization of a Coplanar THz Optoelectronic Mixer**|S. Islam et.al.|[2608.03768](http://arxiv.org/abs/2608.03768)|null|
+|**2026-08-04**|**Sharp Orlicz Endpoints for Spatial-Temporal Ergodic Averaging**|Jie Li et.al.|[2608.03767](http://arxiv.org/abs/2608.03767)|null|
+|**2026-08-04**|**Linked Barcode for Persistence Induced by Filtrations**|Tamal K. Dey et.al.|[2608.03765](http://arxiv.org/abs/2608.03765)|null|
+|**2026-08-04**|**GDPevo: Evaluating Agent Self-Evolution on Real Business Tasks**|Leijun Zhou et.al.|[2608.03764](http://arxiv.org/abs/2608.03764)|null|
+|**2026-08-04**|**TDVR: Joint Text Disambiguation and Viewpoint Reasoning for Zero-Shot 3D Visual Grounding**|Qingxi Du et.al.|[2608.03763](http://arxiv.org/abs/2608.03763)|null|
+|**2026-08-04**|**Unsupervised Adversarial Domain Adaptation for Uterine layer Segmentation: From Labeled Cine to Unlabeled Dynamic EPI MRI**|Smiti Tripathy et.al.|[2608.03762](http://arxiv.org/abs/2608.03762)|null|
 |**2026-08-02**|**Role-Decoupled Attention Residuals: Separating Matching and Content Retrieval Across Depth**|Kehan Wang et.al.|[2608.01075](http://arxiv.org/abs/2608.01075)|null|
 |**2026-08-02**|**Logit-Origin Centering for Singleton Test-Time Adaptation**|Mayank Sharma et.al.|[2608.01074](http://arxiv.org/abs/2608.01074)|null|
 |**2026-08-02**|**PlantRig - From Bones to Branches: Adaptation of Autoregressive Rigging Models for Plant Skeletal Reconstruction**|Nathan Hu et.al.|[2608.01072](http://arxiv.org/abs/2608.01072)|null|
@@ -1274,12 +1284,22 @@
 |**2026-02-04**|**Capacity Bounds on Doppler OFDM Channels**|Pablo Orellana et.al.|[2602.04862](http://arxiv.org/abs/2602.04862)|null|
 |**2026-02-04**|**CoT is Not the Chain of Truth: An Empirical Internal Analysis of Reasoning LLMs for Fake News Generation**|Zhao Tong et.al.|[2602.04856](http://arxiv.org/abs/2602.04856)|null|
 
-<p align=right>(<a href=#updated-on-20260804>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260805>back to top</a>)</p>
 
 ## Smart Contract
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-04**|**MDLMPE: Distribution Aware Positional Encoding for Masked Diffusion Language Models**|Tong Ling et.al.|[2608.03769](http://arxiv.org/abs/2608.03769)|null|
+|**2026-08-04**|**GDPevo: Evaluating Agent Self-Evolution on Real Business Tasks**|Leijun Zhou et.al.|[2608.03764](http://arxiv.org/abs/2608.03764)|null|
+|**2026-08-04**|**TDVR: Joint Text Disambiguation and Viewpoint Reasoning for Zero-Shot 3D Visual Grounding**|Qingxi Du et.al.|[2608.03763](http://arxiv.org/abs/2608.03763)|null|
+|**2026-08-04**|**Unsupervised Adversarial Domain Adaptation for Uterine layer Segmentation: From Labeled Cine to Unlabeled Dynamic EPI MRI**|Smiti Tripathy et.al.|[2608.03762](http://arxiv.org/abs/2608.03762)|null|
+|**2026-08-04**|**AFLOW-EMERALD: ElectroMagnetic modes EngineeRing in Advanced LayereD materials**|Stefano Campanaro et.al.|[2608.03759](http://arxiv.org/abs/2608.03759)|null|
+|**2026-08-04**|**AP Association for RHS-Enabled Cell-Free Uplink MIMO in Industrial Indoor UAV Networks**|Liangshun Wu et.al.|[2608.03752](http://arxiv.org/abs/2608.03752)|null|
+|**2026-08-04**|**Delay Attacks on the German Smart Metering Infrastructure: A Security Analysis of CLS Channel Timing Constraints**|Fabio Stoll et.al.|[2608.03751](http://arxiv.org/abs/2608.03751)|null|
+|**2026-08-04**|**Predictive Triggering for Outage-Resilient Threshold Decisions over Short-Packet Links**|Nho-Duc Tran et.al.|[2608.03750](http://arxiv.org/abs/2608.03750)|null|
+|**2026-08-04**|**Can LLMs Test Terminal User Interfaces?**|Chao Peng et.al.|[2608.03743](http://arxiv.org/abs/2608.03743)|null|
+|**2026-08-04**|**When Does Disaggregation Pay? Simulating Prefill--Decode--Attention--FFN Specialization for Agentic LLM Inference**|Przemyslaw Forys et.al.|[2608.03741](http://arxiv.org/abs/2608.03741)|null|
 |**2026-08-02**|**Logit-Origin Centering for Singleton Test-Time Adaptation**|Mayank Sharma et.al.|[2608.01074](http://arxiv.org/abs/2608.01074)|null|
 |**2026-08-02**|**PlantRig - From Bones to Branches: Adaptation of Autoregressive Rigging Models for Plant Skeletal Reconstruction**|Nathan Hu et.al.|[2608.01072](http://arxiv.org/abs/2608.01072)|null|
 |**2026-08-02**|**4D Topology optimization of moving rigid bodies in fluid flows**|Yuta Tanabe et.al.|[2608.01071](http://arxiv.org/abs/2608.01071)|null|
@@ -2391,12 +2411,22 @@
 |**2026-02-04**|**Homological Mirror Symmetry for orbifold log Calabi-Yau surfaces**|Bogdan Simeonov et.al.|[2602.04866](http://arxiv.org/abs/2602.04866)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260804>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260805>back to top</a>)</p>
 
 ## Consensus
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-04**|**Testing for Smooth Structural Change in Cointegrated Systems**|Haofeng Liao et.al.|[2608.03773](http://arxiv.org/abs/2608.03773)|null|
+|**2026-08-04**|**MDLMPE: Distribution Aware Positional Encoding for Masked Diffusion Language Models**|Tong Ling et.al.|[2608.03769](http://arxiv.org/abs/2608.03769)|null|
+|**2026-08-04**|**Circuit-Level Design, Modeling, and On-Wafer Characterization of a Coplanar THz Optoelectronic Mixer**|S. Islam et.al.|[2608.03768](http://arxiv.org/abs/2608.03768)|null|
+|**2026-08-04**|**Linked Barcode for Persistence Induced by Filtrations**|Tamal K. Dey et.al.|[2608.03765](http://arxiv.org/abs/2608.03765)|null|
+|**2026-08-04**|**GDPevo: Evaluating Agent Self-Evolution on Real Business Tasks**|Leijun Zhou et.al.|[2608.03764](http://arxiv.org/abs/2608.03764)|null|
+|**2026-08-04**|**TDVR: Joint Text Disambiguation and Viewpoint Reasoning for Zero-Shot 3D Visual Grounding**|Qingxi Du et.al.|[2608.03763](http://arxiv.org/abs/2608.03763)|null|
+|**2026-08-04**|**Guided Synthesis of EMT Zeolites by Machine Learning**|Emmanuel A. Olanrewaju et.al.|[2608.03760](http://arxiv.org/abs/2608.03760)|null|
+|**2026-08-04**|**AFLOW-EMERALD: ElectroMagnetic modes EngineeRing in Advanced LayereD materials**|Stefano Campanaro et.al.|[2608.03759](http://arxiv.org/abs/2608.03759)|null|
+|**2026-08-04**|**A New Look at Gaussian Mixtures in the Presence of Missing-at-Random Responses and Covariates**|Hung Tong et.al.|[2608.03757](http://arxiv.org/abs/2608.03757)|null|
+|**2026-08-04**|**LegalPincite: Multi-level Legal Information Retrieval Dataset**|Theresia Veronika Rampisela et.al.|[2608.03756](http://arxiv.org/abs/2608.03756)|null|
 |**2026-08-02**|**Role-Decoupled Attention Residuals: Separating Matching and Content Retrieval Across Depth**|Kehan Wang et.al.|[2608.01075](http://arxiv.org/abs/2608.01075)|null|
 |**2026-08-02**|**PlantRig - From Bones to Branches: Adaptation of Autoregressive Rigging Models for Plant Skeletal Reconstruction**|Nathan Hu et.al.|[2608.01072](http://arxiv.org/abs/2608.01072)|null|
 |**2026-08-02**|**4D Topology optimization of moving rigid bodies in fluid flows**|Yuta Tanabe et.al.|[2608.01071](http://arxiv.org/abs/2608.01071)|null|
@@ -3521,12 +3551,22 @@
 |**2026-02-04**|**Requirements for Teleportation in an Intercity Quantum Network**|Soubhadra Maiti et.al.|[2602.04869](http://arxiv.org/abs/2602.04869)|null|
 |**2026-02-04**|**CRoSS: A Continual Robotic Simulation Suite for Scalable Reinforcement Learning with High Task Diversity and Realistic Physics Simulation**|Yannick Denker et.al.|[2602.04868](http://arxiv.org/abs/2602.04868)|null|
 
-<p align=right>(<a href=#updated-on-20260804>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260805>back to top</a>)</p>
 
 ## DeFi
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-04**|**Multi-Signal Safety Surveillance with Bayesian Latent Factor Modeling and Bias Correction**|Ziyang Pan et.al.|[2608.03775](http://arxiv.org/abs/2608.03775)|null|
+|**2026-08-04**|**Formation of Quark-Gluon Plasma droplets under Ultra-Relativistic Heavy Ion Collisions in the presence of magnetic fields with a modified hadronic medium**|Ananya Sharma et.al.|[2608.03774](http://arxiv.org/abs/2608.03774)|null|
+|**2026-08-04**|**Testing for Smooth Structural Change in Cointegrated Systems**|Haofeng Liao et.al.|[2608.03773](http://arxiv.org/abs/2608.03773)|null|
+|**2026-08-04**|**Computing Actual Causes for Neural Network Predictions under Structured Causal Inputs**|Jannick Strobel et.al.|[2608.03772](http://arxiv.org/abs/2608.03772)|null|
+|**2026-08-04**|**MDLMPE: Distribution Aware Positional Encoding for Masked Diffusion Language Models**|Tong Ling et.al.|[2608.03769](http://arxiv.org/abs/2608.03769)|null|
+|**2026-08-04**|**Sharp Orlicz Endpoints for Spatial-Temporal Ergodic Averaging**|Jie Li et.al.|[2608.03767](http://arxiv.org/abs/2608.03767)|null|
+|**2026-08-04**|**GDPevo: Evaluating Agent Self-Evolution on Real Business Tasks**|Leijun Zhou et.al.|[2608.03764](http://arxiv.org/abs/2608.03764)|null|
+|**2026-08-04**|**Uncovering Non-Gaussianity through Multi-Copy Symmetries**|Hao Dai et.al.|[2608.03755](http://arxiv.org/abs/2608.03755)|null|
+|**2026-08-04**|**Chaos suppression via adaptive feedback control of intermittency: From exactly solvable ergodic maps to interacting microbubble clusters**|Mohammad Yahyavi et.al.|[2608.03754](http://arxiv.org/abs/2608.03754)|null|
+|**2026-08-04**|**GORDON: Graph-based Object-centric Rewards for Decomposition of Long-Horizon Manipulation**|Andrea Protopapa et.al.|[2608.03753](http://arxiv.org/abs/2608.03753)|null|
 |**2026-08-02**|**EpiLENS: Patient-Relative Epileptogenic Zone Localization from Multi-Center Intracranial EEG**|Yuanchu Gong et.al.|[2608.01076](http://arxiv.org/abs/2608.01076)|null|
 |**2026-08-02**|**Role-Decoupled Attention Residuals: Separating Matching and Content Retrieval Across Depth**|Kehan Wang et.al.|[2608.01075](http://arxiv.org/abs/2608.01075)|null|
 |**2026-08-02**|**PlantRig - From Bones to Branches: Adaptation of Autoregressive Rigging Models for Plant Skeletal Reconstruction**|Nathan Hu et.al.|[2608.01072](http://arxiv.org/abs/2608.01072)|null|
@@ -4678,12 +4718,22 @@
 |**2026-02-05**|**TxRay: Agentic Postmortem of Live Blockchain Attacks**|Ziyue Wang et.al.|[2602.01317](http://arxiv.org/abs/2602.01317)|null|
 |**2026-01-30**|**Quasiperiodic Skin Criticality in an Exactly Solvable Non-Hermitian Quasicrystal**|Zhangyuan Chen et.al.|[2601.23015](http://arxiv.org/abs/2601.23015)|null|
 
-<p align=right>(<a href=#updated-on-20260804>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260805>back to top</a>)</p>
 
 ## Cryptography
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-04**|**Formation of Quark-Gluon Plasma droplets under Ultra-Relativistic Heavy Ion Collisions in the presence of magnetic fields with a modified hadronic medium**|Ananya Sharma et.al.|[2608.03774](http://arxiv.org/abs/2608.03774)|null|
+|**2026-08-04**|**Testing for Smooth Structural Change in Cointegrated Systems**|Haofeng Liao et.al.|[2608.03773](http://arxiv.org/abs/2608.03773)|null|
+|**2026-08-04**|**Computing Actual Causes for Neural Network Predictions under Structured Causal Inputs**|Jannick Strobel et.al.|[2608.03772](http://arxiv.org/abs/2608.03772)|null|
+|**2026-08-04**|**Analytical results of Typical Medium Theory for the Bethe lattice with Cauchy disorder**|A. Östlin et.al.|[2608.03770](http://arxiv.org/abs/2608.03770)|null|
+|**2026-08-04**|**MDLMPE: Distribution Aware Positional Encoding for Masked Diffusion Language Models**|Tong Ling et.al.|[2608.03769](http://arxiv.org/abs/2608.03769)|null|
+|**2026-08-04**|**Sharp Orlicz Endpoints for Spatial-Temporal Ergodic Averaging**|Jie Li et.al.|[2608.03767](http://arxiv.org/abs/2608.03767)|null|
+|**2026-08-04**|**TDVR: Joint Text Disambiguation and Viewpoint Reasoning for Zero-Shot 3D Visual Grounding**|Qingxi Du et.al.|[2608.03763](http://arxiv.org/abs/2608.03763)|null|
+|**2026-08-04**|**Unsupervised Adversarial Domain Adaptation for Uterine layer Segmentation: From Labeled Cine to Unlabeled Dynamic EPI MRI**|Smiti Tripathy et.al.|[2608.03762](http://arxiv.org/abs/2608.03762)|null|
+|**2026-08-04**|**The Hitchin and Sutcliffe metrics for hyperbolic 2-monopoles**|Thomas Galvin et.al.|[2608.03761](http://arxiv.org/abs/2608.03761)|null|
+|**2026-08-04**|**AFLOW-EMERALD: ElectroMagnetic modes EngineeRing in Advanced LayereD materials**|Stefano Campanaro et.al.|[2608.03759](http://arxiv.org/abs/2608.03759)|null|
 |**2026-08-02**|**Role-Decoupled Attention Residuals: Separating Matching and Content Retrieval Across Depth**|Kehan Wang et.al.|[2608.01075](http://arxiv.org/abs/2608.01075)|null|
 |**2026-08-02**|**Logit-Origin Centering for Singleton Test-Time Adaptation**|Mayank Sharma et.al.|[2608.01074](http://arxiv.org/abs/2608.01074)|null|
 |**2026-08-02**|**A Novel Bijective Angle and Volume-preservation Balanced Parameterization for $n$ -dimensional Manifolds**|Tiexiang Li et.al.|[2608.01073](http://arxiv.org/abs/2608.01073)|null|
@@ -5851,12 +5901,22 @@
 |**2026-02-04**|**Characterizing $(d,h)$ -elliptic stable irreducible curves**|Juliana Coelho et.al.|[2602.04865](http://arxiv.org/abs/2602.04865)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260804>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260805>back to top</a>)</p>
 
 ## AI in Finance
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-04**|**Multi-Signal Safety Surveillance with Bayesian Latent Factor Modeling and Bias Correction**|Ziyang Pan et.al.|[2608.03775](http://arxiv.org/abs/2608.03775)|null|
+|**2026-08-04**|**Formation of Quark-Gluon Plasma droplets under Ultra-Relativistic Heavy Ion Collisions in the presence of magnetic fields with a modified hadronic medium**|Ananya Sharma et.al.|[2608.03774](http://arxiv.org/abs/2608.03774)|null|
+|**2026-08-04**|**Testing for Smooth Structural Change in Cointegrated Systems**|Haofeng Liao et.al.|[2608.03773](http://arxiv.org/abs/2608.03773)|null|
+|**2026-08-04**|**Computing Actual Causes for Neural Network Predictions under Structured Causal Inputs**|Jannick Strobel et.al.|[2608.03772](http://arxiv.org/abs/2608.03772)|null|
+|**2026-08-04**|**Circuit-Level Design, Modeling, and On-Wafer Characterization of a Coplanar THz Optoelectronic Mixer**|S. Islam et.al.|[2608.03768](http://arxiv.org/abs/2608.03768)|null|
+|**2026-08-04**|**Linked Barcode for Persistence Induced by Filtrations**|Tamal K. Dey et.al.|[2608.03765](http://arxiv.org/abs/2608.03765)|null|
+|**2026-08-04**|**GDPevo: Evaluating Agent Self-Evolution on Real Business Tasks**|Leijun Zhou et.al.|[2608.03764](http://arxiv.org/abs/2608.03764)|null|
+|**2026-08-04**|**TDVR: Joint Text Disambiguation and Viewpoint Reasoning for Zero-Shot 3D Visual Grounding**|Qingxi Du et.al.|[2608.03763](http://arxiv.org/abs/2608.03763)|null|
+|**2026-08-04**|**The Hitchin and Sutcliffe metrics for hyperbolic 2-monopoles**|Thomas Galvin et.al.|[2608.03761](http://arxiv.org/abs/2608.03761)|null|
+|**2026-08-04**|**Guided Synthesis of EMT Zeolites by Machine Learning**|Emmanuel A. Olanrewaju et.al.|[2608.03760](http://arxiv.org/abs/2608.03760)|null|
 |**2026-08-02**|**EpiLENS: Patient-Relative Epileptogenic Zone Localization from Multi-Center Intracranial EEG**|Yuanchu Gong et.al.|[2608.01076](http://arxiv.org/abs/2608.01076)|null|
 |**2026-08-02**|**Role-Decoupled Attention Residuals: Separating Matching and Content Retrieval Across Depth**|Kehan Wang et.al.|[2608.01075](http://arxiv.org/abs/2608.01075)|null|
 |**2026-08-02**|**Logit-Origin Centering for Singleton Test-Time Adaptation**|Mayank Sharma et.al.|[2608.01074](http://arxiv.org/abs/2608.01074)|null|
@@ -7053,7 +7113,7 @@
 |**2026-02-04**|**Multi-layer Cross-Attention is Provably Optimal for Multi-modal In-context Learning**|Nicholas Barnfield et.al.|[2602.04872](http://arxiv.org/abs/2602.04872)|null|
 |**2026-02-04**|**Multi-Head LatentMoE and Head Parallel: Communication-Efficient and Deterministic MoE Parallelism**|Chenwei Cui et.al.|[2602.04870](http://arxiv.org/abs/2602.04870)|null|
 
-<p align=right>(<a href=#updated-on-20260804>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260805>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/jhy-3/AI4Blockchain-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/jhy-3/AI4Blockchain-arxiv-daily/graphs/contributors
