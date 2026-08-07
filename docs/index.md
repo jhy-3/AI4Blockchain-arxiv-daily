@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.08.06
+## Updated on 2026.08.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -1268,6 +1268,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-06**|**GLSM monodromy on quantum period lattice of Calabi-Yau fourfold flops**|Ban Lin et.al.|[2608.06280](http://arxiv.org/abs/2608.06280)|null|
+|**2026-08-06**|**Hardware Keystores for AI Agent Signing Workflows: A Zero-Trust MCP Enforcement Architecture**|Leo Sambrook et.al.|[2608.06130](http://arxiv.org/abs/2608.06130)|null|
+|**2026-08-06**|**The Local Sky as an Introductory Solar System Astronomy Laboratory Using Smart-Telescopes**|Roger M. Hart et.al.|[2608.06127](http://arxiv.org/abs/2608.06127)|null|
+|**2026-08-06**|**HERALD: Counterfactual Audits and Minimal Repairs for Proof-of-Retrieval Rewards**|Zhuowen Liu et.al.|[2608.06012](http://arxiv.org/abs/2608.06012)|null|
+|**2026-08-06**|**Coherent End-to-End Search for Generic Extreme-Mass-Ratio Inspirals**|Xiaobo Zou et.al.|[2608.05974](http://arxiv.org/abs/2608.05974)|null|
+|**2026-08-06**|**The Institutional Window: Occupation- and Jurisdiction-Specific Calibration of Liability Signaling for Preserved Human Fallback Capability**|Andreas Bauer et.al.|[2608.05969](http://arxiv.org/abs/2608.05969)|null|
+|**2026-08-06**|**Runtime Observability for Heterogeneous Attention Memory**|Fanzhe Wei et.al.|[2608.05863](http://arxiv.org/abs/2608.05863)|null|
+|**2026-08-06**|**Learning to Rank Tensor Network Contraction Plans for GPU-Accelerated Quantum Circuit Simulation**|Alfred M. Pastor et.al.|[2608.05819](http://arxiv.org/abs/2608.05819)|null|
+|**2026-08-06**|**Asymmetric Quantum Oppenheimer-Snyder Collapse**|Michał Bobula et.al.|[2608.05818](http://arxiv.org/abs/2608.05818)|null|
+|**2026-08-06**|**SEAM: Global consistency beyond local accuracy in scientific machine learning**|Gnankan Landry Regis N'guessan et.al.|[2608.05702](http://arxiv.org/abs/2608.05702)|null|
 |**2026-08-04**|**MDLMPE: Distribution Aware Positional Encoding for Masked Diffusion Language Models**|Tong Ling et.al.|[2608.03769](http://arxiv.org/abs/2608.03769)|null|
 |**2026-08-04**|**GDPevo: Evaluating Agent Self-Evolution on Real Business Tasks**|Leijun Zhou et.al.|[2608.03764](http://arxiv.org/abs/2608.03764)|null|
 |**2026-08-04**|**TDVR: Joint Text Disambiguation and Viewpoint Reasoning for Zero-Shot 3D Visual Grounding**|Qingxi Du et.al.|[2608.03763](http://arxiv.org/abs/2608.03763)|null|
@@ -4696,6 +4706,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-06**|**A Coprimality Topology on the Gaussian Integers: Kolmogorov Quotient and Gaussian Prime Density**|Souvik Mandal et.al.|[2608.06373](http://arxiv.org/abs/2608.06373)|null|
+|**2026-08-06**|**A proof of Andersen's rainbow path conjecture for large $n$**|Candida Bowtell et.al.|[2608.06369](http://arxiv.org/abs/2608.06369)|null|
+|**2026-08-06**|**Quasiconvexity for the Dacorogna--Marcellini Energy**|Giuseppe Bruno et.al.|[2608.06367](http://arxiv.org/abs/2608.06367)|null|
+|**2026-08-06**|**AV-AIVAT: 74x Cheaper Agent Evaluation with Certified Anytime-Valid Stopping in Imperfect-Information Games**|Boning Li et.al.|[2608.06362](http://arxiv.org/abs/2608.06362)|null|
+|**2026-08-06**|**Universality in random graphs via optimal linking systems: trees and beyond**|Asaf Cohen Antonir et.al.|[2608.06358](http://arxiv.org/abs/2608.06358)|null|
+|**2026-08-06**|**Phonon spectral functions of low-density polaron metals**|Luis Walther et.al.|[2608.06357](http://arxiv.org/abs/2608.06357)|null|
+|**2026-08-06**|**On number of cyclic $n$ -roots and disjointness of Fourier supports**|Weiqi Zhou et.al.|[2608.06335](http://arxiv.org/abs/2608.06335)|null|
+|**2026-08-06**|**GeniWorld: A Generalizable Interactive World Model for Robotic Manipulation via Visual Actions**|Chenghao Gu et.al.|[2608.06332](http://arxiv.org/abs/2608.06332)|null|
+|**2026-08-06**|**Tytan: Interactive Neurosymbolic Construction of Analytic Semantic Schemas from Relational Data**|Donna Hooshmand et.al.|[2608.06331](http://arxiv.org/abs/2608.06331)|null|
+|**2026-08-06**|**Multi-State Geometry of Density Matrices and Rectification Sum Rules**|Barry Bradlyn et.al.|[2608.06326](http://arxiv.org/abs/2608.06326)|null|
 |**2026-08-04**|**Formation of Quark-Gluon Plasma droplets under Ultra-Relativistic Heavy Ion Collisions in the presence of magnetic fields with a modified hadronic medium**|Ananya Sharma et.al.|[2608.03774](http://arxiv.org/abs/2608.03774)|null|
 |**2026-08-04**|**Testing for Smooth Structural Change in Cointegrated Systems**|Haofeng Liao et.al.|[2608.03773](http://arxiv.org/abs/2608.03773)|null|
 |**2026-08-04**|**Computing Actual Causes for Neural Network Predictions under Structured Causal Inputs**|Jannick Strobel et.al.|[2608.03772](http://arxiv.org/abs/2608.03772)|null|
