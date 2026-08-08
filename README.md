@@ -1,4 +1,4 @@
-## Updated on 2026.08.07
+## Updated on 2026.08.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -61,7 +61,7 @@
 |**2025-04-22**|**Trustworthy Decentralized Autonomous Machines: A New Paradigm in Automation Economy**|Fernando Castillo et.al.|[2504.15676](http://arxiv.org/abs/2504.15676)|null|
 |**2025-03-20**|**Financial Twin Chain, a Platform to Support Financial Sustainability in Supply Chains**|Giuseppe Galante et.al.|[2503.15980](http://arxiv.org/abs/2503.15980)|null|
 
-<p align=right>(<a href=#updated-on-20260807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260808>back to top</a>)</p>
 
 ## Smart Contracts & AI
 
@@ -88,7 +88,7 @@
 |**2025-10-07**|**Smart Contract Adoption under Discrete Overdispersed Demand: A Negative Binomial Optimization Perspective**|Jinho Cha et.al.|[2510.05487](http://arxiv.org/abs/2510.05487)|null|
 |**2025-10-06**|**LMM-Incentive: Large Multimodal Model-based Incentive Design for User-Generated Content in Web 3.0**|Jinbo Wen et.al.|[2510.04765](http://arxiv.org/abs/2510.04765)|null|
 
-<p align=right>(<a href=#updated-on-20260807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260808>back to top</a>)</p>
 
 ## Blockchain Consensus & AI
 
@@ -124,7 +124,7 @@
 |**2022-09-30**|**Blockchain-based Monitoring for Poison Attack Detection in Decentralized Federated Learning**|Ranwa Al Mallah et.al.|[2210.02873](http://arxiv.org/abs/2210.02873)|null|
 |**2021-11-12**|**Device-Independent-Quantum-Randomness-Enhanced Zero-Knowledge Proof**|Cheng-Long Li et.al.|[2111.06717](http://arxiv.org/abs/2111.06717)|null|
 
-<p align=right>(<a href=#updated-on-20260807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260808>back to top</a>)</p>
 
 ## DeFi & AI
 
@@ -143,12 +143,22 @@
 |**2025-10-24**|**Machine Learning Prediction of Magnetic Proximity Effect in van der Waals Heterostructures: From Atoms to Moiré**|Lukas Cvitkovich et.al.|[2508.12406](http://arxiv.org/abs/2508.12406)|null|
 |**2025-09-12**|**Web3 x AI Agents: Landscape, Integrations, and Foundational Challenges**|Yiming Shen et.al.|[2508.02773](http://arxiv.org/abs/2508.02773)|null|
 
-<p align=right>(<a href=#updated-on-20260807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260808>back to top</a>)</p>
 
 ## Blockchain
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-06**|**DyPES-VLA: Learning Shared Dynamics Priors and Embodiment-Specific Control for Cross-Embodiment Manipulation**|Junfeng Li et.al.|[2608.06374](http://arxiv.org/abs/2608.06374)|null|
+|**2026-08-06**|**Squarefree Matrix Formulas for the CWR Invariant of Alternating Knots and Links**|Michal Jablonowski et.al.|[2608.06372](http://arxiv.org/abs/2608.06372)|null|
+|**2026-08-06**|**Global weak solutions to the Cahn-Hilliard equation with degenerate mobility and singular diffusion**|Monica Conti et.al.|[2608.06371](http://arxiv.org/abs/2608.06371)|null|
+|**2026-08-06**|**The Bitter Lesson of Tool Calling**|Ishan Patel et.al.|[2608.06370](http://arxiv.org/abs/2608.06370)|null|
+|**2026-08-06**|**A proof of Andersen's rainbow path conjecture for large $n$**|Candida Bowtell et.al.|[2608.06369](http://arxiv.org/abs/2608.06369)|null|
+|**2026-08-06**|**A Universal Control Budget for First-Passage Kinetics**|Shiling Liang et.al.|[2608.06368](http://arxiv.org/abs/2608.06368)|null|
+|**2026-08-06**|**Quasiconvexity for the Dacorogna--Marcellini Energy**|Giuseppe Bruno et.al.|[2608.06367](http://arxiv.org/abs/2608.06367)|null|
+|**2026-08-06**|**An Optimal Agnostic PAC Algorithm**|Markus Engelund Mathiasen et.al.|[2608.06363](http://arxiv.org/abs/2608.06363)|null|
+|**2026-08-06**|**Universality in random graphs via optimal linking systems: trees and beyond**|Asaf Cohen Antonir et.al.|[2608.06358](http://arxiv.org/abs/2608.06358)|null|
+|**2026-08-06**|**A Master-Salve Robot Manipulator for Needle-Based Teleoperation in MRI Chamber**|Omar Curiel et.al.|[2608.06354](http://arxiv.org/abs/2608.06354)|null|
 |**2026-08-04**|**Multi-Signal Safety Surveillance with Bayesian Latent Factor Modeling and Bias Correction**|Ziyang Pan et.al.|[2608.03775](http://arxiv.org/abs/2608.03775)|null|
 |**2026-08-04**|**Weak local law and delocalization for the Sachdev-Ye-Kitaev model**|Lucas Benigni et.al.|[2608.03771](http://arxiv.org/abs/2608.03771)|null|
 |**2026-08-04**|**Analytical results of Typical Medium Theory for the Bethe lattice with Cauchy disorder**|A. Östlin et.al.|[2608.03770](http://arxiv.org/abs/2608.03770)|null|
@@ -1284,12 +1294,22 @@
 |**2026-02-04**|**Capacity Bounds on Doppler OFDM Channels**|Pablo Orellana et.al.|[2602.04862](http://arxiv.org/abs/2602.04862)|null|
 |**2026-02-04**|**CoT is Not the Chain of Truth: An Empirical Internal Analysis of Reasoning LLMs for Fake News Generation**|Zhao Tong et.al.|[2602.04856](http://arxiv.org/abs/2602.04856)|null|
 
-<p align=right>(<a href=#updated-on-20260807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260808>back to top</a>)</p>
 
 ## Smart Contract
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-06**|**Learning When to Trust via Selective Context Preference Optimization**|Xian Sun et.al.|[2608.06377](http://arxiv.org/abs/2608.06377)|null|
+|**2026-08-06**|**A Tale of Two Compact Bosons**|Christian Ferko et.al.|[2608.06376](http://arxiv.org/abs/2608.06376)|null|
+|**2026-08-06**|**Tracing the Heart: An Evidence-Linked Pipeline for Heart-Failure Feature Engineering**|Soorya Ram Shimgekar et.al.|[2608.06366](http://arxiv.org/abs/2608.06366)|null|
+|**2026-08-06**|**Investigating Artificial Intelligence Digital Sovereignty in Mobile Shopping Apps: A Case Study of Nigeria**|George Grispos et.al.|[2608.06364](http://arxiv.org/abs/2608.06364)|null|
+|**2026-08-06**|**An Optimal Agnostic PAC Algorithm**|Markus Engelund Mathiasen et.al.|[2608.06363](http://arxiv.org/abs/2608.06363)|null|
+|**2026-08-06**|**AV-AIVAT: 74x Cheaper Agent Evaluation with Certified Anytime-Valid Stopping in Imperfect-Information Games**|Boning Li et.al.|[2608.06362](http://arxiv.org/abs/2608.06362)|null|
+|**2026-08-06**|**The Low Frequency Trap: Video Language Models Fail at Simple Event Bookkeeping**|Sarvesh Baskar et.al.|[2608.06361](http://arxiv.org/abs/2608.06361)|null|
+|**2026-08-06**|**Universality in random graphs via optimal linking systems: trees and beyond**|Asaf Cohen Antonir et.al.|[2608.06358](http://arxiv.org/abs/2608.06358)|null|
+|**2026-08-06**|**The Benefits of an Integrated Approach for Stability-Constrained Power System Planning**|Gereon Recht et.al.|[2608.06349](http://arxiv.org/abs/2608.06349)|null|
+|**2026-08-06**|**RP-OPSD: Reasoning-Pivot-Guided On-Policy Self-Distillation for Multilingual Reasoning Transfer**|Xinye Wang et.al.|[2608.06347](http://arxiv.org/abs/2608.06347)|null|
 |**2026-08-06**|**GLSM monodromy on quantum period lattice of Calabi-Yau fourfold flops**|Ban Lin et.al.|[2608.06280](http://arxiv.org/abs/2608.06280)|null|
 |**2026-08-06**|**Hardware Keystores for AI Agent Signing Workflows: A Zero-Trust MCP Enforcement Architecture**|Leo Sambrook et.al.|[2608.06130](http://arxiv.org/abs/2608.06130)|null|
 |**2026-08-06**|**The Local Sky as an Introductory Solar System Astronomy Laboratory Using Smart-Telescopes**|Roger M. Hart et.al.|[2608.06127](http://arxiv.org/abs/2608.06127)|null|
@@ -2421,12 +2441,22 @@
 |**2026-02-04**|**Homological Mirror Symmetry for orbifold log Calabi-Yau surfaces**|Bogdan Simeonov et.al.|[2602.04866](http://arxiv.org/abs/2602.04866)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260808>back to top</a>)</p>
 
 ## Consensus
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-06**|**Learning When to Trust via Selective Context Preference Optimization**|Xian Sun et.al.|[2608.06377](http://arxiv.org/abs/2608.06377)|null|
+|**2026-08-06**|**A Coprimality Topology on the Gaussian Integers: Kolmogorov Quotient and Gaussian Prime Density**|Souvik Mandal et.al.|[2608.06373](http://arxiv.org/abs/2608.06373)|null|
+|**2026-08-06**|**The Bitter Lesson of Tool Calling**|Ishan Patel et.al.|[2608.06370](http://arxiv.org/abs/2608.06370)|null|
+|**2026-08-06**|**A proof of Andersen's rainbow path conjecture for large $n$**|Candida Bowtell et.al.|[2608.06369](http://arxiv.org/abs/2608.06369)|null|
+|**2026-08-06**|**Quasiconvexity for the Dacorogna--Marcellini Energy**|Giuseppe Bruno et.al.|[2608.06367](http://arxiv.org/abs/2608.06367)|null|
+|**2026-08-06**|**Tracing the Heart: An Evidence-Linked Pipeline for Heart-Failure Feature Engineering**|Soorya Ram Shimgekar et.al.|[2608.06366](http://arxiv.org/abs/2608.06366)|null|
+|**2026-08-06**|**Investigating Artificial Intelligence Digital Sovereignty in Mobile Shopping Apps: A Case Study of Nigeria**|George Grispos et.al.|[2608.06364](http://arxiv.org/abs/2608.06364)|null|
+|**2026-08-06**|**An Optimal Agnostic PAC Algorithm**|Markus Engelund Mathiasen et.al.|[2608.06363](http://arxiv.org/abs/2608.06363)|null|
+|**2026-08-06**|**AV-AIVAT: 74x Cheaper Agent Evaluation with Certified Anytime-Valid Stopping in Imperfect-Information Games**|Boning Li et.al.|[2608.06362](http://arxiv.org/abs/2608.06362)|null|
+|**2026-08-06**|**The Low Frequency Trap: Video Language Models Fail at Simple Event Bookkeeping**|Sarvesh Baskar et.al.|[2608.06361](http://arxiv.org/abs/2608.06361)|null|
 |**2026-08-04**|**Testing for Smooth Structural Change in Cointegrated Systems**|Haofeng Liao et.al.|[2608.03773](http://arxiv.org/abs/2608.03773)|null|
 |**2026-08-04**|**MDLMPE: Distribution Aware Positional Encoding for Masked Diffusion Language Models**|Tong Ling et.al.|[2608.03769](http://arxiv.org/abs/2608.03769)|null|
 |**2026-08-04**|**Circuit-Level Design, Modeling, and On-Wafer Characterization of a Coplanar THz Optoelectronic Mixer**|S. Islam et.al.|[2608.03768](http://arxiv.org/abs/2608.03768)|null|
@@ -3561,12 +3591,22 @@
 |**2026-02-04**|**Requirements for Teleportation in an Intercity Quantum Network**|Soubhadra Maiti et.al.|[2602.04869](http://arxiv.org/abs/2602.04869)|null|
 |**2026-02-04**|**CRoSS: A Continual Robotic Simulation Suite for Scalable Reinforcement Learning with High Task Diversity and Realistic Physics Simulation**|Yannick Denker et.al.|[2602.04868](http://arxiv.org/abs/2602.04868)|null|
 
-<p align=right>(<a href=#updated-on-20260807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260808>back to top</a>)</p>
 
 ## DeFi
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-06**|**A Tale of Two Compact Bosons**|Christian Ferko et.al.|[2608.06376](http://arxiv.org/abs/2608.06376)|null|
+|**2026-08-06**|**Squarefree Matrix Formulas for the CWR Invariant of Alternating Knots and Links**|Michal Jablonowski et.al.|[2608.06372](http://arxiv.org/abs/2608.06372)|null|
+|**2026-08-06**|**Tracing the Heart: An Evidence-Linked Pipeline for Heart-Failure Feature Engineering**|Soorya Ram Shimgekar et.al.|[2608.06366](http://arxiv.org/abs/2608.06366)|null|
+|**2026-08-06**|**The Low Frequency Trap: Video Language Models Fail at Simple Event Bookkeeping**|Sarvesh Baskar et.al.|[2608.06361](http://arxiv.org/abs/2608.06361)|null|
+|**2026-08-06**|**Structured coherence: A modern perspective on optical coherence as a resource**|Ayman F. Abouraddy et.al.|[2608.06356](http://arxiv.org/abs/2608.06356)|null|
+|**2026-08-06**|**Resourced Authority A Mechanism-Design Model for Participatory Governance of Deployed AI Agents**|Praphul Chandra et.al.|[2608.06353](http://arxiv.org/abs/2608.06353)|null|
+|**2026-08-06**|**CalibForge: Adversarial Solver Calibration for Scaling Learnable Terminal Tasks**|Fanzhe Meng et.al.|[2608.06352](http://arxiv.org/abs/2608.06352)|null|
+|**2026-08-06**|**Dimension-Free Polylogarithmic Quantum Shadow Tomography from Sequential Pretty-Good Measurements**|Fernando Granha Jeronimo et.al.|[2608.06345](http://arxiv.org/abs/2608.06345)|null|
+|**2026-08-06**|**A General Aubry-Mather Theory**|Nassif Ghoussoub et.al.|[2608.06344](http://arxiv.org/abs/2608.06344)|null|
+|**2026-08-06**|**Distributed coordination for transmission-distribution systems with nonlinear flexibility aggregation**|Xinliang Dai et.al.|[2608.06341](http://arxiv.org/abs/2608.06341)|null|
 |**2026-08-04**|**Multi-Signal Safety Surveillance with Bayesian Latent Factor Modeling and Bias Correction**|Ziyang Pan et.al.|[2608.03775](http://arxiv.org/abs/2608.03775)|null|
 |**2026-08-04**|**Formation of Quark-Gluon Plasma droplets under Ultra-Relativistic Heavy Ion Collisions in the presence of magnetic fields with a modified hadronic medium**|Ananya Sharma et.al.|[2608.03774](http://arxiv.org/abs/2608.03774)|null|
 |**2026-08-04**|**Testing for Smooth Structural Change in Cointegrated Systems**|Haofeng Liao et.al.|[2608.03773](http://arxiv.org/abs/2608.03773)|null|
@@ -4728,16 +4768,21 @@
 |**2026-02-05**|**TxRay: Agentic Postmortem of Live Blockchain Attacks**|Ziyue Wang et.al.|[2602.01317](http://arxiv.org/abs/2602.01317)|null|
 |**2026-01-30**|**Quasiperiodic Skin Criticality in an Exactly Solvable Non-Hermitian Quasicrystal**|Zhangyuan Chen et.al.|[2601.23015](http://arxiv.org/abs/2601.23015)|null|
 
-<p align=right>(<a href=#updated-on-20260807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260808>back to top</a>)</p>
 
 ## Cryptography
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-06**|**Learning When to Trust via Selective Context Preference Optimization**|Xian Sun et.al.|[2608.06377](http://arxiv.org/abs/2608.06377)|null|
 |**2026-08-06**|**A Coprimality Topology on the Gaussian Integers: Kolmogorov Quotient and Gaussian Prime Density**|Souvik Mandal et.al.|[2608.06373](http://arxiv.org/abs/2608.06373)|null|
+|**2026-08-06**|**Global weak solutions to the Cahn-Hilliard equation with degenerate mobility and singular diffusion**|Monica Conti et.al.|[2608.06371](http://arxiv.org/abs/2608.06371)|null|
+|**2026-08-06**|**The Bitter Lesson of Tool Calling**|Ishan Patel et.al.|[2608.06370](http://arxiv.org/abs/2608.06370)|null|
 |**2026-08-06**|**A proof of Andersen's rainbow path conjecture for large $n$**|Candida Bowtell et.al.|[2608.06369](http://arxiv.org/abs/2608.06369)|null|
 |**2026-08-06**|**Quasiconvexity for the Dacorogna--Marcellini Energy**|Giuseppe Bruno et.al.|[2608.06367](http://arxiv.org/abs/2608.06367)|null|
+|**2026-08-06**|**Stability of kernel bundles on projective bundles over curves**|Abel Castorena et.al.|[2608.06365](http://arxiv.org/abs/2608.06365)|null|
 |**2026-08-06**|**AV-AIVAT: 74x Cheaper Agent Evaluation with Certified Anytime-Valid Stopping in Imperfect-Information Games**|Boning Li et.al.|[2608.06362](http://arxiv.org/abs/2608.06362)|null|
+|**2026-08-06**|**The Low Frequency Trap: Video Language Models Fail at Simple Event Bookkeeping**|Sarvesh Baskar et.al.|[2608.06361](http://arxiv.org/abs/2608.06361)|null|
 |**2026-08-06**|**Universality in random graphs via optimal linking systems: trees and beyond**|Asaf Cohen Antonir et.al.|[2608.06358](http://arxiv.org/abs/2608.06358)|null|
 |**2026-08-06**|**Phonon spectral functions of low-density polaron metals**|Luis Walther et.al.|[2608.06357](http://arxiv.org/abs/2608.06357)|null|
 |**2026-08-06**|**On number of cyclic $n$ -roots and disjointness of Fourier supports**|Weiqi Zhou et.al.|[2608.06335](http://arxiv.org/abs/2608.06335)|null|
@@ -5921,12 +5966,22 @@
 |**2026-02-04**|**Characterizing $(d,h)$ -elliptic stable irreducible curves**|Juliana Coelho et.al.|[2602.04865](http://arxiv.org/abs/2602.04865)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260808>back to top</a>)</p>
 
 ## AI in Finance
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-06**|**Learning When to Trust via Selective Context Preference Optimization**|Xian Sun et.al.|[2608.06377](http://arxiv.org/abs/2608.06377)|null|
+|**2026-08-06**|**$ω$ -0: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation**|Zhe Li et.al.|[2608.06375](http://arxiv.org/abs/2608.06375)|null|
+|**2026-08-06**|**DyPES-VLA: Learning Shared Dynamics Priors and Embodiment-Specific Control for Cross-Embodiment Manipulation**|Junfeng Li et.al.|[2608.06374](http://arxiv.org/abs/2608.06374)|null|
+|**2026-08-06**|**Global weak solutions to the Cahn-Hilliard equation with degenerate mobility and singular diffusion**|Monica Conti et.al.|[2608.06371](http://arxiv.org/abs/2608.06371)|null|
+|**2026-08-06**|**Quasiconvexity for the Dacorogna--Marcellini Energy**|Giuseppe Bruno et.al.|[2608.06367](http://arxiv.org/abs/2608.06367)|null|
+|**2026-08-06**|**Tracing the Heart: An Evidence-Linked Pipeline for Heart-Failure Feature Engineering**|Soorya Ram Shimgekar et.al.|[2608.06366](http://arxiv.org/abs/2608.06366)|null|
+|**2026-08-06**|**Investigating Artificial Intelligence Digital Sovereignty in Mobile Shopping Apps: A Case Study of Nigeria**|George Grispos et.al.|[2608.06364](http://arxiv.org/abs/2608.06364)|null|
+|**2026-08-06**|**An Optimal Agnostic PAC Algorithm**|Markus Engelund Mathiasen et.al.|[2608.06363](http://arxiv.org/abs/2608.06363)|null|
+|**2026-08-06**|**AV-AIVAT: 74x Cheaper Agent Evaluation with Certified Anytime-Valid Stopping in Imperfect-Information Games**|Boning Li et.al.|[2608.06362](http://arxiv.org/abs/2608.06362)|null|
+|**2026-08-06**|**PyOMES: an open-source framework for biochemical process modelling**|Ethan Errington et.al.|[2608.06360](http://arxiv.org/abs/2608.06360)|null|
 |**2026-08-04**|**Multi-Signal Safety Surveillance with Bayesian Latent Factor Modeling and Bias Correction**|Ziyang Pan et.al.|[2608.03775](http://arxiv.org/abs/2608.03775)|null|
 |**2026-08-04**|**Formation of Quark-Gluon Plasma droplets under Ultra-Relativistic Heavy Ion Collisions in the presence of magnetic fields with a modified hadronic medium**|Ananya Sharma et.al.|[2608.03774](http://arxiv.org/abs/2608.03774)|null|
 |**2026-08-04**|**Testing for Smooth Structural Change in Cointegrated Systems**|Haofeng Liao et.al.|[2608.03773](http://arxiv.org/abs/2608.03773)|null|
@@ -7133,7 +7188,7 @@
 |**2026-02-04**|**Multi-layer Cross-Attention is Provably Optimal for Multi-modal In-context Learning**|Nicholas Barnfield et.al.|[2602.04872](http://arxiv.org/abs/2602.04872)|null|
 |**2026-02-04**|**Multi-Head LatentMoE and Head Parallel: Communication-Efficient and Deterministic MoE Parallelism**|Chenwei Cui et.al.|[2602.04870](http://arxiv.org/abs/2602.04870)|null|
 
-<p align=right>(<a href=#updated-on-20260807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260808>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/jhy-3/AI4Blockchain-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/jhy-3/AI4Blockchain-arxiv-daily/graphs/contributors
