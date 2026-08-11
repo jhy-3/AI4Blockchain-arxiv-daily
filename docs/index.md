@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.08.10
+## Updated on 2026.08.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-07**|**HST imaging, pipeline modeling, and time-delay predictions of 2 triply-imaged and 15 quadruply-imaged lensed quasars**|William Sheu et.al.|[2608.07470](http://arxiv.org/abs/2608.07470)|null|
+|**2026-08-07**|**Maximal estimates for perturbations of the Schrödinger operator on $\mathbb{T}^d$**|Inbo Gottlieb Fenves et.al.|[2608.07464](http://arxiv.org/abs/2608.07464)|null|
+|**2026-08-07**|**A clear detection of proper motion confirms that the claimed $\mathbf{z\simeq32}$ galaxy candidate, "Capotauro'', is a Y-type brown dwarf**|F. -Y. F. Liu et.al.|[2608.07461](http://arxiv.org/abs/2608.07461)|null|
+|**2026-08-07**|**SkillProx: Self-Evolving Agent Skills via Proximal Textual Gradient Descent**|Mingxuan Zheng et.al.|[2608.07449](http://arxiv.org/abs/2608.07449)|null|
+|**2026-08-07**|**Observation of $Π$ -symmetry ultralong-range Rydberg molecules**|Matthew T. Eiles et.al.|[2608.07447](http://arxiv.org/abs/2608.07447)|null|
+|**2026-08-07**|**Taxonomy-Driven Analysis of Open-Source AI Risk Mitigation Tools**|Afreen Alam et.al.|[2608.07446](http://arxiv.org/abs/2608.07446)|null|
+|**2026-08-07**|**Permutation invariant neural network prediction of vacancy formation under deformation and varying chemical environment in FCC high entropy alloys**|Tanvir Sohail et.al.|[2608.07445](http://arxiv.org/abs/2608.07445)|null|
+|**2026-08-07**|**Blast Radius**|MY Pitsane et.al.|[2608.07440](http://arxiv.org/abs/2608.07440)|null|
+|**2026-08-07**|**An Exploratory Evaluation of LLM-Assisted Rewriting of Moderate-Complexity Financial Sentences for DisCoCat-Based Sentiment Analysis**|Brian Llinas et.al.|[2608.07439](http://arxiv.org/abs/2608.07439)|null|
+|**2026-08-07**|**Post-Grokking Collapse at the Representation-Readout Interface in Muon-Trained Transformers**|Ali Janati et.al.|[2608.07436](http://arxiv.org/abs/2608.07436)|null|
 |**2026-08-06**|**DyPES-VLA: Learning Shared Dynamics Priors and Embodiment-Specific Control for Cross-Embodiment Manipulation**|Junfeng Li et.al.|[2608.06374](http://arxiv.org/abs/2608.06374)|null|
 |**2026-08-06**|**Squarefree Matrix Formulas for the CWR Invariant of Alternating Knots and Links**|Michal Jablonowski et.al.|[2608.06372](http://arxiv.org/abs/2608.06372)|null|
 |**2026-08-06**|**Global weak solutions to the Cahn-Hilliard equation with degenerate mobility and singular diffusion**|Monica Conti et.al.|[2608.06371](http://arxiv.org/abs/2608.06371)|null|
@@ -1278,6 +1288,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-07**|**SimWAM: A Simple World Action Model for End-to-End Autonomous Driving**|Zongchuang Zhao et.al.|[2608.07468](http://arxiv.org/abs/2608.07468)|null|
+|**2026-08-07**|**Quantum de Sitter and Analytically Continued Chern Simons Theory**|Stephon Alexander et.al.|[2608.07467](http://arxiv.org/abs/2608.07467)|null|
+|**2026-08-07**|**MirrorWorld: Taming Video Diffusion Models for Mirror Reflection Generation**|Youjun Zhao et.al.|[2608.07463](http://arxiv.org/abs/2608.07463)|null|
+|**2026-08-07**|**CoinRAG: Contextualized Information Nugget KV Cache Reuse for Long-Context RAG**|Gyuwan Kim et.al.|[2608.07458](http://arxiv.org/abs/2608.07458)|null|
+|**2026-08-07**|**Optimal Calibration-Free Observable for the Nucleon-Coupling Ratio in a Dual-Alkali Comagnetometer for Dark Matter Searches**|Yossi Rosenzweig et.al.|[2608.07456](http://arxiv.org/abs/2608.07456)|null|
+|**2026-08-07**|**An Analysis of Architectural and Operational Dynamics of Phishkits in the Wild**|Behzad Ousat et.al.|[2608.07451](http://arxiv.org/abs/2608.07451)|null|
+|**2026-08-07**|**SkillProx: Self-Evolving Agent Skills via Proximal Textual Gradient Descent**|Mingxuan Zheng et.al.|[2608.07449](http://arxiv.org/abs/2608.07449)|null|
+|**2026-08-07**|**Active movement of foraging sea turtles generates anomalous looping**|Vijay Kumar et.al.|[2608.07448](http://arxiv.org/abs/2608.07448)|null|
+|**2026-08-07**|**Taxonomy-Driven Analysis of Open-Source AI Risk Mitigation Tools**|Afreen Alam et.al.|[2608.07446](http://arxiv.org/abs/2608.07446)|null|
+|**2026-08-07**|**Phase-Noise-Induced Heating in Optical Lattices**|Jean Paul Nohra et.al.|[2608.07442](http://arxiv.org/abs/2608.07442)|null|
 |**2026-08-06**|**Learning When to Trust via Selective Context Preference Optimization**|Xian Sun et.al.|[2608.06377](http://arxiv.org/abs/2608.06377)|null|
 |**2026-08-06**|**A Tale of Two Compact Bosons**|Christian Ferko et.al.|[2608.06376](http://arxiv.org/abs/2608.06376)|null|
 |**2026-08-06**|**Tracing the Heart: An Evidence-Linked Pipeline for Heart-Failure Feature Engineering**|Soorya Ram Shimgekar et.al.|[2608.06366](http://arxiv.org/abs/2608.06366)|null|
@@ -2423,6 +2443,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-07**|**Characterization of a prototype parallel-plate $^{238}$ U fission chamber with DD and DT fusion neutron sources**|V. Hagenlocker et.al.|[2608.07466](http://arxiv.org/abs/2608.07466)|null|
+|**2026-08-07**|**Maximal estimates for perturbations of the Schrödinger operator on $\mathbb{T}^d$**|Inbo Gottlieb Fenves et.al.|[2608.07464](http://arxiv.org/abs/2608.07464)|null|
+|**2026-08-07**|**CoinRAG: Contextualized Information Nugget KV Cache Reuse for Long-Context RAG**|Gyuwan Kim et.al.|[2608.07458](http://arxiv.org/abs/2608.07458)|null|
+|**2026-08-07**|**Optimal Calibration-Free Observable for the Nucleon-Coupling Ratio in a Dual-Alkali Comagnetometer for Dark Matter Searches**|Yossi Rosenzweig et.al.|[2608.07456](http://arxiv.org/abs/2608.07456)|null|
+|**2026-08-07**|**Strategy-first synthesis planning for complex natural products**|Daniel Armstrong et.al.|[2608.07454](http://arxiv.org/abs/2608.07454)|null|
+|**2026-08-07**|**Sensitivity of Next-Generation CMB Surveys to Neutrinos and Other Light Relics**|Cynthia Trendafilova et.al.|[2608.07453](http://arxiv.org/abs/2608.07453)|null|
+|**2026-08-07**|**An Analysis of Architectural and Operational Dynamics of Phishkits in the Wild**|Behzad Ousat et.al.|[2608.07451](http://arxiv.org/abs/2608.07451)|null|
+|**2026-08-07**|**Numerical analysis and coarsening dynamics of the Active Cahn-Hilliard equation**|Abramo Agosti et.al.|[2608.07450](http://arxiv.org/abs/2608.07450)|null|
+|**2026-08-07**|**SkillProx: Self-Evolving Agent Skills via Proximal Textual Gradient Descent**|Mingxuan Zheng et.al.|[2608.07449](http://arxiv.org/abs/2608.07449)|null|
+|**2026-08-07**|**Active movement of foraging sea turtles generates anomalous looping**|Vijay Kumar et.al.|[2608.07448](http://arxiv.org/abs/2608.07448)|null|
 |**2026-08-06**|**Learning When to Trust via Selective Context Preference Optimization**|Xian Sun et.al.|[2608.06377](http://arxiv.org/abs/2608.06377)|null|
 |**2026-08-06**|**A Coprimality Topology on the Gaussian Integers: Kolmogorov Quotient and Gaussian Prime Density**|Souvik Mandal et.al.|[2608.06373](http://arxiv.org/abs/2608.06373)|null|
 |**2026-08-06**|**The Bitter Lesson of Tool Calling**|Ishan Patel et.al.|[2608.06370](http://arxiv.org/abs/2608.06370)|null|
@@ -3571,6 +3601,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-07**|**HST imaging, pipeline modeling, and time-delay predictions of 2 triply-imaged and 15 quadruply-imaged lensed quasars**|William Sheu et.al.|[2608.07470](http://arxiv.org/abs/2608.07470)|null|
+|**2026-08-07**|**Efficient three-dimensional variational data assimilation of multi-plane PIV data**|Uttam Cadambi Padmanaban et.al.|[2608.07469](http://arxiv.org/abs/2608.07469)|null|
+|**2026-08-07**|**Quantum de Sitter and Analytically Continued Chern Simons Theory**|Stephon Alexander et.al.|[2608.07467](http://arxiv.org/abs/2608.07467)|null|
+|**2026-08-07**|**Characterization of a prototype parallel-plate $^{238}$ U fission chamber with DD and DT fusion neutron sources**|V. Hagenlocker et.al.|[2608.07466](http://arxiv.org/abs/2608.07466)|null|
+|**2026-08-07**|**Entanglement Mpemba Effect**|Ruicheng Bao et.al.|[2608.07465](http://arxiv.org/abs/2608.07465)|null|
+|**2026-08-07**|**CoinRAG: Contextualized Information Nugget KV Cache Reuse for Long-Context RAG**|Gyuwan Kim et.al.|[2608.07458](http://arxiv.org/abs/2608.07458)|null|
+|**2026-08-07**|**Strategy-first synthesis planning for complex natural products**|Daniel Armstrong et.al.|[2608.07454](http://arxiv.org/abs/2608.07454)|null|
+|**2026-08-07**|**Taxonomy-Driven Analysis of Open-Source AI Risk Mitigation Tools**|Afreen Alam et.al.|[2608.07446](http://arxiv.org/abs/2608.07446)|null|
+|**2026-08-07**|**RIS-Aided mmWave Localization Under Cross-Link Interference via Beam-Domain ML Fingerprinting**|Md Tarek Hassan et.al.|[2608.07444](http://arxiv.org/abs/2608.07444)|null|
+|**2026-08-07**|**Fisher-R1: Training LLM Agents for Reliable Hypothesis Testing**|Jiacheng Miao et.al.|[2608.07437](http://arxiv.org/abs/2608.07437)|null|
 |**2026-08-06**|**A Tale of Two Compact Bosons**|Christian Ferko et.al.|[2608.06376](http://arxiv.org/abs/2608.06376)|null|
 |**2026-08-06**|**Squarefree Matrix Formulas for the CWR Invariant of Alternating Knots and Links**|Michal Jablonowski et.al.|[2608.06372](http://arxiv.org/abs/2608.06372)|null|
 |**2026-08-06**|**Tracing the Heart: An Evidence-Linked Pipeline for Heart-Failure Feature Engineering**|Soorya Ram Shimgekar et.al.|[2608.06366](http://arxiv.org/abs/2608.06366)|null|
@@ -4746,6 +4786,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-07**|**SimWAM: A Simple World Action Model for End-to-End Autonomous Driving**|Zongchuang Zhao et.al.|[2608.07468](http://arxiv.org/abs/2608.07468)|null|
+|**2026-08-07**|**Quantum de Sitter and Analytically Continued Chern Simons Theory**|Stephon Alexander et.al.|[2608.07467](http://arxiv.org/abs/2608.07467)|null|
+|**2026-08-07**|**Characterization of a prototype parallel-plate $^{238}$ U fission chamber with DD and DT fusion neutron sources**|V. Hagenlocker et.al.|[2608.07466](http://arxiv.org/abs/2608.07466)|null|
+|**2026-08-07**|**Maximal estimates for perturbations of the Schrödinger operator on $\mathbb{T}^d$**|Inbo Gottlieb Fenves et.al.|[2608.07464](http://arxiv.org/abs/2608.07464)|null|
+|**2026-08-07**|**SemBridge: Semantic Token Anchoring for Continuous-Latent Autoregressive Speech Generation**|Hanke Xie et.al.|[2608.07462](http://arxiv.org/abs/2608.07462)|null|
+|**2026-08-07**|**A clear detection of proper motion confirms that the claimed $\mathbf{z\simeq32}$ galaxy candidate, "Capotauro'', is a Y-type brown dwarf**|F. -Y. F. Liu et.al.|[2608.07461](http://arxiv.org/abs/2608.07461)|null|
+|**2026-08-07**|**CreativeInstruct: Scalably Teaching LLMs to Balance Quality, Creativity, and Diversity**|Ananya Sahu et.al.|[2608.07460](http://arxiv.org/abs/2608.07460)|null|
+|**2026-08-07**|**Equality of Dual Immaculate Functions Under Automorphisms**|Maria Esipova et.al.|[2608.07459](http://arxiv.org/abs/2608.07459)|null|
+|**2026-08-07**|**CoinRAG: Contextualized Information Nugget KV Cache Reuse for Long-Context RAG**|Gyuwan Kim et.al.|[2608.07458](http://arxiv.org/abs/2608.07458)|null|
+|**2026-08-07**|**Strategy-first synthesis planning for complex natural products**|Daniel Armstrong et.al.|[2608.07454](http://arxiv.org/abs/2608.07454)|null|
 |**2026-08-06**|**Learning When to Trust via Selective Context Preference Optimization**|Xian Sun et.al.|[2608.06377](http://arxiv.org/abs/2608.06377)|null|
 |**2026-08-06**|**A Coprimality Topology on the Gaussian Integers: Kolmogorov Quotient and Gaussian Prime Density**|Souvik Mandal et.al.|[2608.06373](http://arxiv.org/abs/2608.06373)|null|
 |**2026-08-06**|**Global weak solutions to the Cahn-Hilliard equation with degenerate mobility and singular diffusion**|Monica Conti et.al.|[2608.06371](http://arxiv.org/abs/2608.06371)|null|
@@ -5942,6 +5992,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-07**|**HST imaging, pipeline modeling, and time-delay predictions of 2 triply-imaged and 15 quadruply-imaged lensed quasars**|William Sheu et.al.|[2608.07470](http://arxiv.org/abs/2608.07470)|null|
+|**2026-08-07**|**SimWAM: A Simple World Action Model for End-to-End Autonomous Driving**|Zongchuang Zhao et.al.|[2608.07468](http://arxiv.org/abs/2608.07468)|null|
+|**2026-08-07**|**Characterization of a prototype parallel-plate $^{238}$ U fission chamber with DD and DT fusion neutron sources**|V. Hagenlocker et.al.|[2608.07466](http://arxiv.org/abs/2608.07466)|null|
+|**2026-08-07**|**Maximal estimates for perturbations of the Schrödinger operator on $\mathbb{T}^d$**|Inbo Gottlieb Fenves et.al.|[2608.07464](http://arxiv.org/abs/2608.07464)|null|
+|**2026-08-07**|**MirrorWorld: Taming Video Diffusion Models for Mirror Reflection Generation**|Youjun Zhao et.al.|[2608.07463](http://arxiv.org/abs/2608.07463)|null|
+|**2026-08-07**|**SemBridge: Semantic Token Anchoring for Continuous-Latent Autoregressive Speech Generation**|Hanke Xie et.al.|[2608.07462](http://arxiv.org/abs/2608.07462)|null|
+|**2026-08-07**|**A clear detection of proper motion confirms that the claimed $\mathbf{z\simeq32}$ galaxy candidate, "Capotauro'', is a Y-type brown dwarf**|F. -Y. F. Liu et.al.|[2608.07461](http://arxiv.org/abs/2608.07461)|null|
+|**2026-08-07**|**CreativeInstruct: Scalably Teaching LLMs to Balance Quality, Creativity, and Diversity**|Ananya Sahu et.al.|[2608.07460](http://arxiv.org/abs/2608.07460)|null|
+|**2026-08-07**|**CoinRAG: Contextualized Information Nugget KV Cache Reuse for Long-Context RAG**|Gyuwan Kim et.al.|[2608.07458](http://arxiv.org/abs/2608.07458)|null|
+|**2026-08-07**|**Interaction Creates Dynamical AI Behavior Absent in Isolation**|Bella Xinrui Li et.al.|[2608.07457](http://arxiv.org/abs/2608.07457)|null|
 |**2026-08-06**|**Learning When to Trust via Selective Context Preference Optimization**|Xian Sun et.al.|[2608.06377](http://arxiv.org/abs/2608.06377)|null|
 |**2026-08-06**|**$ω$ -0: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation**|Zhe Li et.al.|[2608.06375](http://arxiv.org/abs/2608.06375)|null|
 |**2026-08-06**|**DyPES-VLA: Learning Shared Dynamics Priors and Embodiment-Specific Control for Cross-Embodiment Manipulation**|Junfeng Li et.al.|[2608.06374](http://arxiv.org/abs/2608.06374)|null|
