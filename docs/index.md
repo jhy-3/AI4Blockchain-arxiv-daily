@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.08.12
+## Updated on 2026.08.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-10**|**Enhancing Reliability of Symbolic Execution Tools for Smart Contract Analysis through Rule-Based False Positive Reduction**|Muhammad Ali Hassan Ahmad et.al.|[2608.10265](http://arxiv.org/abs/2608.10265)|null|
+|**2026-08-10**|**Defining Decentralization: An Ontological Perspective**|Jakub Kacper Szeląg et.al.|[2608.09748](http://arxiv.org/abs/2608.09748)|null|
+|**2026-08-10**|**Scaling laws of Stablecoin Transactions: Evidence from USDT and USDC on the Ethereum blockchain**|Kundan Mukhia et.al.|[2608.09378](http://arxiv.org/abs/2608.09378)|null|
+|**2026-08-08**|**China RealDID: Verifiable Credentials Anchored in Legal Identity**|Yifan He et.al.|[2608.07846](http://arxiv.org/abs/2608.07846)|null|
+|**2026-08-07**|**Who Verifies the Benchmark? Decentralizing Trust in Large Language Model Evaluation**|Sahil Pardasani et.al.|[2608.07762](http://arxiv.org/abs/2608.07762)|null|
 |**2026-08-07**|**HST imaging, pipeline modeling, and time-delay predictions of 2 triply-imaged and 15 quadruply-imaged lensed quasars**|William Sheu et.al.|[2608.07470](http://arxiv.org/abs/2608.07470)|null|
 |**2026-08-07**|**Maximal estimates for perturbations of the Schrödinger operator on $\mathbb{T}^d$**|Inbo Gottlieb Fenves et.al.|[2608.07464](http://arxiv.org/abs/2608.07464)|null|
 |**2026-08-07**|**A clear detection of proper motion confirms that the claimed $\mathbf{z\simeq32}$ galaxy candidate, "Capotauro'', is a Y-type brown dwarf**|F. -Y. F. Liu et.al.|[2608.07461](http://arxiv.org/abs/2608.07461)|null|
@@ -149,6 +154,10 @@ layout: default
 |**2026-08-06**|**An Optimal Agnostic PAC Algorithm**|Markus Engelund Mathiasen et.al.|[2608.06363](http://arxiv.org/abs/2608.06363)|null|
 |**2026-08-06**|**Universality in random graphs via optimal linking systems: trees and beyond**|Asaf Cohen Antonir et.al.|[2608.06358](http://arxiv.org/abs/2608.06358)|null|
 |**2026-08-06**|**A Master-Salve Robot Manipulator for Needle-Based Teleoperation in MRI Chamber**|Omar Curiel et.al.|[2608.06354](http://arxiv.org/abs/2608.06354)|null|
+|**2026-08-06**|**ChainClaw: A Layered Agent Framework for Reliable On-Chain Execution**|Jiacheng Wei et.al.|[2608.05790](http://arxiv.org/abs/2608.05790)|null|
+|**2026-08-05**|**The Trust-Free Aggregation Layer of the Unicity Infrastructure**|Risto Laanoja et.al.|[2608.05316](http://arxiv.org/abs/2608.05316)|null|
+|**2026-08-11**|**Towards Decentralized Searcher Competition in MEV Markets**|Roozbeh Sarenche et.al.|[2608.05011](http://arxiv.org/abs/2608.05011)|null|
+|**2026-08-05**|**Blockchain Empowered Trustworthy Agent Networks: Foundations, Taxonomy, and Future Directions**|Liehuang Zhu et.al.|[2608.04626](http://arxiv.org/abs/2608.04626)|null|
 |**2026-08-04**|**Multi-Signal Safety Surveillance with Bayesian Latent Factor Modeling and Bias Correction**|Ziyang Pan et.al.|[2608.03775](http://arxiv.org/abs/2608.03775)|null|
 |**2026-08-04**|**Weak local law and delocalization for the Sachdev-Ye-Kitaev model**|Lucas Benigni et.al.|[2608.03771](http://arxiv.org/abs/2608.03771)|null|
 |**2026-08-04**|**Analytical results of Typical Medium Theory for the Bethe lattice with Cauchy disorder**|A. Östlin et.al.|[2608.03770](http://arxiv.org/abs/2608.03770)|null|
@@ -159,6 +168,7 @@ layout: default
 |**2026-08-04**|**GDPevo: Evaluating Agent Self-Evolution on Real Business Tasks**|Leijun Zhou et.al.|[2608.03764](http://arxiv.org/abs/2608.03764)|null|
 |**2026-08-04**|**TDVR: Joint Text Disambiguation and Viewpoint Reasoning for Zero-Shot 3D Visual Grounding**|Qingxi Du et.al.|[2608.03763](http://arxiv.org/abs/2608.03763)|null|
 |**2026-08-04**|**Unsupervised Adversarial Domain Adaptation for Uterine layer Segmentation: From Labeled Cine to Unlabeled Dynamic EPI MRI**|Smiti Tripathy et.al.|[2608.03762](http://arxiv.org/abs/2608.03762)|null|
+|**2026-08-04**|**ReputationChain: Robust Trust Updating for Blockchain-Enabled Supply Chains**|Adnan Iftekhar et.al.|[2608.03554](http://arxiv.org/abs/2608.03554)|null|
 |**2026-08-02**|**Role-Decoupled Attention Residuals: Separating Matching and Content Retrieval Across Depth**|Kehan Wang et.al.|[2608.01075](http://arxiv.org/abs/2608.01075)|null|
 |**2026-08-02**|**Logit-Origin Centering for Singleton Test-Time Adaptation**|Mayank Sharma et.al.|[2608.01074](http://arxiv.org/abs/2608.01074)|null|
 |**2026-08-02**|**PlantRig - From Bones to Branches: Adaptation of Autoregressive Rigging Models for Plant Skeletal Reconstruction**|Nathan Hu et.al.|[2608.01072](http://arxiv.org/abs/2608.01072)|null|
