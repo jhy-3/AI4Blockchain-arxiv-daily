@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.08.14
+## Updated on 2026.08.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-13**|**Experimental Quantum Key Distribution in an Indefinite Causal Order**|Yann Valibouse et.al.|[2608.13561](http://arxiv.org/abs/2608.13561)|null|
+|**2026-08-13**|**OmniScientist: An Omni-Modal Omni-Discipline AI Scientist**|Bobo Li et.al.|[2608.13558](http://arxiv.org/abs/2608.13558)|null|
+|**2026-08-13**|**Localised Horizons and Holographic Thermodynamics: Supercooling in the 1/D Expansion**|Prateek Agrawal et.al.|[2608.13557](http://arxiv.org/abs/2608.13557)|null|
+|**2026-08-13**|**Heat kernel geometry and Gromov's volume growth conjecture**|Jian Ge et.al.|[2608.13553](http://arxiv.org/abs/2608.13553)|null|
+|**2026-08-13**|**Every PPT channel has finite entanglement-breaking index**|Sang-Jun Park et.al.|[2608.13551](http://arxiv.org/abs/2608.13551)|null|
+|**2026-08-13**|**Exponential Convex Calibration Dimension for the Multi-Label Jaccard Measure**|Mingyuan Zhang et.al.|[2608.13549](http://arxiv.org/abs/2608.13549)|null|
+|**2026-08-13**|**Alaya-EVOKE: From Linear-Scaling Supervision to Endless World**|Yuanyang Yin et.al.|[2608.13546](http://arxiv.org/abs/2608.13546)|null|
+|**2026-08-13**|**Clifford Circuit Synthesis for Distributed Quantum Architectures with Arbitrary Network Topology**|Tuomas Laakkonen et.al.|[2608.13543](http://arxiv.org/abs/2608.13543)|null|
+|**2026-08-13**|**Effective field theory of quasi-hydrodynamics from kinetic theory**|Lorenzo Gavassino et.al.|[2608.13542](http://arxiv.org/abs/2608.13542)|null|
+|**2026-08-13**|**Insight into SRF cavity performance from simulations of Nb's surface oxide dissolution and diffusion**|Ryan M. L. McFadden et.al.|[2608.13540](http://arxiv.org/abs/2608.13540)|null|
 |**2026-08-10**|**Enhancing Reliability of Symbolic Execution Tools for Smart Contract Analysis through Rule-Based False Positive Reduction**|Muhammad Ali Hassan Ahmad et.al.|[2608.10265](http://arxiv.org/abs/2608.10265)|null|
 |**2026-08-10**|**Defining Decentralization: An Ontological Perspective**|Jakub Kacper Szeląg et.al.|[2608.09748](http://arxiv.org/abs/2608.09748)|null|
 |**2026-08-10**|**Scaling laws of Stablecoin Transactions: Evidence from USDT and USDC on the Ethereum blockchain**|Kundan Mukhia et.al.|[2608.09378](http://arxiv.org/abs/2608.09378)|null|
@@ -1298,6 +1308,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-13**|**Experimental Quantum Key Distribution in an Indefinite Causal Order**|Yann Valibouse et.al.|[2608.13561](http://arxiv.org/abs/2608.13561)|null|
+|**2026-08-13**|**AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design**|Yaxin Luo et.al.|[2608.13560](http://arxiv.org/abs/2608.13560)|null|
+|**2026-08-13**|**V-RAE: Rethinking Video Latent Spaces for Generation**|Minghui Guo et.al.|[2608.13556](http://arxiv.org/abs/2608.13556)|null|
+|**2026-08-13**|**HumanTracker: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark**|Dairu Liu et.al.|[2608.13555](http://arxiv.org/abs/2608.13555)|null|
+|**2026-08-13**|**PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives**|Kaixin Ding et.al.|[2608.13552](http://arxiv.org/abs/2608.13552)|null|
+|**2026-08-13**|**Positive Toeplitz operators on pluriharmonic Fock space: Schatten class criteria and sharp norm comparisons**|Sam Looi et.al.|[2608.13550](http://arxiv.org/abs/2608.13550)|null|
+|**2026-08-13**|**Exponential Convex Calibration Dimension for the Multi-Label Jaccard Measure**|Mingyuan Zhang et.al.|[2608.13549](http://arxiv.org/abs/2608.13549)|null|
+|**2026-08-13**|**QuoteBench: How Matched Scores Can Hide Command-Path Failures**|Shangao Li et.al.|[2608.13547](http://arxiv.org/abs/2608.13547)|null|
+|**2026-08-13**|**Alaya-EVOKE: From Linear-Scaling Supervision to Endless World**|Yuanyang Yin et.al.|[2608.13546](http://arxiv.org/abs/2608.13546)|null|
+|**2026-08-13**|**Clifford Circuit Synthesis for Distributed Quantum Architectures with Arbitrary Network Topology**|Tuomas Laakkonen et.al.|[2608.13543](http://arxiv.org/abs/2608.13543)|null|
 |**2026-08-07**|**SimWAM: A Simple World Action Model for End-to-End Autonomous Driving**|Zongchuang Zhao et.al.|[2608.07468](http://arxiv.org/abs/2608.07468)|null|
 |**2026-08-07**|**Quantum de Sitter and Analytically Continued Chern Simons Theory**|Stephon Alexander et.al.|[2608.07467](http://arxiv.org/abs/2608.07467)|null|
 |**2026-08-07**|**MirrorWorld: Taming Video Diffusion Models for Mirror Reflection Generation**|Youjun Zhao et.al.|[2608.07463](http://arxiv.org/abs/2608.07463)|null|
@@ -2453,6 +2473,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-13**|**Experimental Quantum Key Distribution in an Indefinite Causal Order**|Yann Valibouse et.al.|[2608.13561](http://arxiv.org/abs/2608.13561)|null|
+|**2026-08-13**|**OmniScientist: An Omni-Modal Omni-Discipline AI Scientist**|Bobo Li et.al.|[2608.13558](http://arxiv.org/abs/2608.13558)|null|
+|**2026-08-13**|**Defensive Boosting for Online Probabilistic Forecasting**|Georgy Noarov et.al.|[2608.13554](http://arxiv.org/abs/2608.13554)|null|
+|**2026-08-13**|**PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives**|Kaixin Ding et.al.|[2608.13552](http://arxiv.org/abs/2608.13552)|null|
+|**2026-08-13**|**Positive Toeplitz operators on pluriharmonic Fock space: Schatten class criteria and sharp norm comparisons**|Sam Looi et.al.|[2608.13550](http://arxiv.org/abs/2608.13550)|null|
+|**2026-08-13**|**Exponential Convex Calibration Dimension for the Multi-Label Jaccard Measure**|Mingyuan Zhang et.al.|[2608.13549](http://arxiv.org/abs/2608.13549)|null|
+|**2026-08-13**|**QuoteBench: How Matched Scores Can Hide Command-Path Failures**|Shangao Li et.al.|[2608.13547](http://arxiv.org/abs/2608.13547)|null|
+|**2026-08-13**|**Skew Hives, Skew Skeps, Skew Schur Log-Concavity**|Tuong Le et.al.|[2608.13544](http://arxiv.org/abs/2608.13544)|null|
+|**2026-08-13**|**Clifford Circuit Synthesis for Distributed Quantum Architectures with Arbitrary Network Topology**|Tuomas Laakkonen et.al.|[2608.13543](http://arxiv.org/abs/2608.13543)|null|
+|**2026-08-13**|**Insight into SRF cavity performance from simulations of Nb's surface oxide dissolution and diffusion**|Ryan M. L. McFadden et.al.|[2608.13540](http://arxiv.org/abs/2608.13540)|null|
 |**2026-08-07**|**Characterization of a prototype parallel-plate $^{238}$ U fission chamber with DD and DT fusion neutron sources**|V. Hagenlocker et.al.|[2608.07466](http://arxiv.org/abs/2608.07466)|null|
 |**2026-08-07**|**Maximal estimates for perturbations of the Schrödinger operator on $\mathbb{T}^d$**|Inbo Gottlieb Fenves et.al.|[2608.07464](http://arxiv.org/abs/2608.07464)|null|
 |**2026-08-07**|**CoinRAG: Contextualized Information Nugget KV Cache Reuse for Long-Context RAG**|Gyuwan Kim et.al.|[2608.07458](http://arxiv.org/abs/2608.07458)|null|
@@ -3611,6 +3641,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-13**|**Experimental Quantum Key Distribution in an Indefinite Causal Order**|Yann Valibouse et.al.|[2608.13561](http://arxiv.org/abs/2608.13561)|null|
+|**2026-08-13**|**OmniScientist: An Omni-Modal Omni-Discipline AI Scientist**|Bobo Li et.al.|[2608.13558](http://arxiv.org/abs/2608.13558)|null|
+|**2026-08-13**|**V-RAE: Rethinking Video Latent Spaces for Generation**|Minghui Guo et.al.|[2608.13556](http://arxiv.org/abs/2608.13556)|null|
+|**2026-08-13**|**Defensive Boosting for Online Probabilistic Forecasting**|Georgy Noarov et.al.|[2608.13554](http://arxiv.org/abs/2608.13554)|null|
+|**2026-08-13**|**Positive Toeplitz operators on pluriharmonic Fock space: Schatten class criteria and sharp norm comparisons**|Sam Looi et.al.|[2608.13550](http://arxiv.org/abs/2608.13550)|null|
+|**2026-08-13**|**Alaya-EVOKE: From Linear-Scaling Supervision to Endless World**|Yuanyang Yin et.al.|[2608.13546](http://arxiv.org/abs/2608.13546)|null|
+|**2026-08-13**|**LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure**|Fanfei Li et.al.|[2608.13545](http://arxiv.org/abs/2608.13545)|null|
+|**2026-08-13**|**Insight into SRF cavity performance from simulations of Nb's surface oxide dissolution and diffusion**|Ryan M. L. McFadden et.al.|[2608.13540](http://arxiv.org/abs/2608.13540)|null|
+|**2026-08-13**|**SAEVerbalizer: Generating Explanations for Sparse Autoencoder Features via Representation Verbalization**|Weihan Meng et.al.|[2608.13538](http://arxiv.org/abs/2608.13538)|null|
+|**2026-08-13**|**Joint Communication-Control Strategy Optimization with Partially Nested Information Structures: The Linear-Quadratic Case**|Haoyi You et.al.|[2608.13535](http://arxiv.org/abs/2608.13535)|null|
 |**2026-08-07**|**HST imaging, pipeline modeling, and time-delay predictions of 2 triply-imaged and 15 quadruply-imaged lensed quasars**|William Sheu et.al.|[2608.07470](http://arxiv.org/abs/2608.07470)|null|
 |**2026-08-07**|**Efficient three-dimensional variational data assimilation of multi-plane PIV data**|Uttam Cadambi Padmanaban et.al.|[2608.07469](http://arxiv.org/abs/2608.07469)|null|
 |**2026-08-07**|**Quantum de Sitter and Analytically Continued Chern Simons Theory**|Stephon Alexander et.al.|[2608.07467](http://arxiv.org/abs/2608.07467)|null|
@@ -4796,6 +4836,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-13**|**Experimental Quantum Key Distribution in an Indefinite Causal Order**|Yann Valibouse et.al.|[2608.13561](http://arxiv.org/abs/2608.13561)|null|
+|**2026-08-13**|**AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design**|Yaxin Luo et.al.|[2608.13560](http://arxiv.org/abs/2608.13560)|null|
+|**2026-08-13**|**OmniScientist: An Omni-Modal Omni-Discipline AI Scientist**|Bobo Li et.al.|[2608.13558](http://arxiv.org/abs/2608.13558)|null|
+|**2026-08-13**|**Defensive Boosting for Online Probabilistic Forecasting**|Georgy Noarov et.al.|[2608.13554](http://arxiv.org/abs/2608.13554)|null|
+|**2026-08-13**|**Positive Toeplitz operators on pluriharmonic Fock space: Schatten class criteria and sharp norm comparisons**|Sam Looi et.al.|[2608.13550](http://arxiv.org/abs/2608.13550)|null|
+|**2026-08-13**|**Exponential Convex Calibration Dimension for the Multi-Label Jaccard Measure**|Mingyuan Zhang et.al.|[2608.13549](http://arxiv.org/abs/2608.13549)|null|
+|**2026-08-13**|**QuoteBench: How Matched Scores Can Hide Command-Path Failures**|Shangao Li et.al.|[2608.13547](http://arxiv.org/abs/2608.13547)|null|
+|**2026-08-13**|**Alaya-EVOKE: From Linear-Scaling Supervision to Endless World**|Yuanyang Yin et.al.|[2608.13546](http://arxiv.org/abs/2608.13546)|null|
+|**2026-08-13**|**LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure**|Fanfei Li et.al.|[2608.13545](http://arxiv.org/abs/2608.13545)|null|
+|**2026-08-13**|**Skew Hives, Skew Skeps, Skew Schur Log-Concavity**|Tuong Le et.al.|[2608.13544](http://arxiv.org/abs/2608.13544)|null|
 |**2026-08-07**|**SimWAM: A Simple World Action Model for End-to-End Autonomous Driving**|Zongchuang Zhao et.al.|[2608.07468](http://arxiv.org/abs/2608.07468)|null|
 |**2026-08-07**|**Quantum de Sitter and Analytically Continued Chern Simons Theory**|Stephon Alexander et.al.|[2608.07467](http://arxiv.org/abs/2608.07467)|null|
 |**2026-08-07**|**Characterization of a prototype parallel-plate $^{238}$ U fission chamber with DD and DT fusion neutron sources**|V. Hagenlocker et.al.|[2608.07466](http://arxiv.org/abs/2608.07466)|null|
@@ -6002,6 +6052,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-13**|**Experimental Quantum Key Distribution in an Indefinite Causal Order**|Yann Valibouse et.al.|[2608.13561](http://arxiv.org/abs/2608.13561)|null|
+|**2026-08-13**|**AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design**|Yaxin Luo et.al.|[2608.13560](http://arxiv.org/abs/2608.13560)|null|
+|**2026-08-13**|**OmniScientist: An Omni-Modal Omni-Discipline AI Scientist**|Bobo Li et.al.|[2608.13558](http://arxiv.org/abs/2608.13558)|null|
+|**2026-08-13**|**Localised Horizons and Holographic Thermodynamics: Supercooling in the 1/D Expansion**|Prateek Agrawal et.al.|[2608.13557](http://arxiv.org/abs/2608.13557)|null|
+|**2026-08-13**|**V-RAE: Rethinking Video Latent Spaces for Generation**|Minghui Guo et.al.|[2608.13556](http://arxiv.org/abs/2608.13556)|null|
+|**2026-08-13**|**HumanTracker: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark**|Dairu Liu et.al.|[2608.13555](http://arxiv.org/abs/2608.13555)|null|
+|**2026-08-13**|**Defensive Boosting for Online Probabilistic Forecasting**|Georgy Noarov et.al.|[2608.13554](http://arxiv.org/abs/2608.13554)|null|
+|**2026-08-13**|**Positive Toeplitz operators on pluriharmonic Fock space: Schatten class criteria and sharp norm comparisons**|Sam Looi et.al.|[2608.13550](http://arxiv.org/abs/2608.13550)|null|
+|**2026-08-13**|**Exponential Convex Calibration Dimension for the Multi-Label Jaccard Measure**|Mingyuan Zhang et.al.|[2608.13549](http://arxiv.org/abs/2608.13549)|null|
+|**2026-08-13**|**Alaya-EVOKE: From Linear-Scaling Supervision to Endless World**|Yuanyang Yin et.al.|[2608.13546](http://arxiv.org/abs/2608.13546)|null|
 |**2026-08-07**|**HST imaging, pipeline modeling, and time-delay predictions of 2 triply-imaged and 15 quadruply-imaged lensed quasars**|William Sheu et.al.|[2608.07470](http://arxiv.org/abs/2608.07470)|null|
 |**2026-08-07**|**SimWAM: A Simple World Action Model for End-to-End Autonomous Driving**|Zongchuang Zhao et.al.|[2608.07468](http://arxiv.org/abs/2608.07468)|null|
 |**2026-08-07**|**Characterization of a prototype parallel-plate $^{238}$ U fission chamber with DD and DT fusion neutron sources**|V. Hagenlocker et.al.|[2608.07466](http://arxiv.org/abs/2608.07466)|null|
