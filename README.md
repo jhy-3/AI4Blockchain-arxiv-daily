@@ -1,4 +1,4 @@
-## Updated on 2026.08.19
+## Updated on 2026.08.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -61,7 +61,7 @@
 |**2025-04-22**|**Trustworthy Decentralized Autonomous Machines: A New Paradigm in Automation Economy**|Fernando Castillo et.al.|[2504.15676](http://arxiv.org/abs/2504.15676)|null|
 |**2025-03-20**|**Financial Twin Chain, a Platform to Support Financial Sustainability in Supply Chains**|Giuseppe Galante et.al.|[2503.15980](http://arxiv.org/abs/2503.15980)|null|
 
-<p align=right>(<a href=#updated-on-20260819>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260820>back to top</a>)</p>
 
 ## Smart Contracts & AI
 
@@ -88,7 +88,7 @@
 |**2025-10-07**|**Smart Contract Adoption under Discrete Overdispersed Demand: A Negative Binomial Optimization Perspective**|Jinho Cha et.al.|[2510.05487](http://arxiv.org/abs/2510.05487)|null|
 |**2025-10-06**|**LMM-Incentive: Large Multimodal Model-based Incentive Design for User-Generated Content in Web 3.0**|Jinbo Wen et.al.|[2510.04765](http://arxiv.org/abs/2510.04765)|null|
 
-<p align=right>(<a href=#updated-on-20260819>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260820>back to top</a>)</p>
 
 ## Blockchain Consensus & AI
 
@@ -124,7 +124,7 @@
 |**2022-09-30**|**Blockchain-based Monitoring for Poison Attack Detection in Decentralized Federated Learning**|Ranwa Al Mallah et.al.|[2210.02873](http://arxiv.org/abs/2210.02873)|null|
 |**2021-11-12**|**Device-Independent-Quantum-Randomness-Enhanced Zero-Knowledge Proof**|Cheng-Long Li et.al.|[2111.06717](http://arxiv.org/abs/2111.06717)|null|
 
-<p align=right>(<a href=#updated-on-20260819>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260820>back to top</a>)</p>
 
 ## DeFi & AI
 
@@ -143,12 +143,22 @@
 |**2025-10-24**|**Machine Learning Prediction of Magnetic Proximity Effect in van der Waals Heterostructures: From Atoms to Moiré**|Lukas Cvitkovich et.al.|[2508.12406](http://arxiv.org/abs/2508.12406)|null|
 |**2025-09-12**|**Web3 x AI Agents: Landscape, Integrations, and Foundational Challenges**|Yiming Shen et.al.|[2508.02773](http://arxiv.org/abs/2508.02773)|null|
 
-<p align=right>(<a href=#updated-on-20260819>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260820>back to top</a>)</p>
 
 ## Blockchain
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-18**|**From Corpora to Co-Evolving Capabilities: Capability-Centric Data Design for Generalist Image Generation**|Xingjian Wang et.al.|[2608.18076](http://arxiv.org/abs/2608.18076)|null|
+|**2026-08-18**|**Analytic Continuation of Conformal Integrals in Momentum Space**|Jonathan Gräfe et.al.|[2608.18073](http://arxiv.org/abs/2608.18073)|null|
+|**2026-08-18**|**Multi-Agent AI System for Radiology Report Structuring and Quality Assurance with Independent Radiologist Evaluation**|Iryna Hartsock et.al.|[2608.18072](http://arxiv.org/abs/2608.18072)|null|
+|**2026-08-18**|**Nearly Sample-Optimal Estimators for Quantum Rényi and Tsallis Entropies**|Kean Chen et.al.|[2608.18070](http://arxiv.org/abs/2608.18070)|null|
+|**2026-08-18**|**A dimension-free weak-type $(1,1)$ bound for the vector Riesz transform on $\mathbb{R}^n$**|Yuyuan Ouyang et.al.|[2608.18068](http://arxiv.org/abs/2608.18068)|null|
+|**2026-08-18**|**On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification**|Qinyuan Ye et.al.|[2608.18066](http://arxiv.org/abs/2608.18066)|null|
+|**2026-08-18**|**Quantum Geometric Tensor Preconditioning for Stable Training of Recurrent Neural Quantum States**|Adil Attar et.al.|[2608.18065](http://arxiv.org/abs/2608.18065)|null|
+|**2026-08-18**|**The concentration game: Bayesian updating, regret, and information**|Akshay Balsubramani et.al.|[2608.18061](http://arxiv.org/abs/2608.18061)|null|
+|**2026-08-18**|**Variable Star Polarimetry with PICSARR-2**|Daniel V. Cotton et.al.|[2608.18051](http://arxiv.org/abs/2608.18051)|null|
+|**2026-08-18**|**An Approximate Cauchy-Schwarz Inequality and Improved Bounds for Sherali-Adams Refutation of Semirandom CSPs**|Pravesh K. Kothari et.al.|[2608.18048](http://arxiv.org/abs/2608.18048)|null|
 |**2026-08-17**|**Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory**|Bingxin Xu et.al.|[2608.16889](http://arxiv.org/abs/2608.16889)|null|
 |**2026-08-17**|**Q-based Variational Inverse Reinforcement Learning**|Ondrej Bajgar et.al.|[2608.16888](http://arxiv.org/abs/2608.16888)|null|
 |**2026-08-17**|**$τ_0$ -VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation**|Xiaowei Cai et.al.|[2608.16885](http://arxiv.org/abs/2608.16885)|null|
@@ -1344,12 +1354,22 @@
 |**2026-02-04**|**Capacity Bounds on Doppler OFDM Channels**|Pablo Orellana et.al.|[2602.04862](http://arxiv.org/abs/2602.04862)|null|
 |**2026-02-04**|**CoT is Not the Chain of Truth: An Empirical Internal Analysis of Reasoning LLMs for Fake News Generation**|Zhao Tong et.al.|[2602.04856](http://arxiv.org/abs/2602.04856)|null|
 
-<p align=right>(<a href=#updated-on-20260819>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260820>back to top</a>)</p>
 
 ## Smart Contract
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-18**|**From Corpora to Co-Evolving Capabilities: Capability-Centric Data Design for Generalist Image Generation**|Xingjian Wang et.al.|[2608.18076](http://arxiv.org/abs/2608.18076)|null|
+|**2026-08-18**|**Unique Ergodicity for the Projective Process of the 2D Navier--Stokes Equation with Nondegenerate Noise**|Zeng Lian et.al.|[2608.18075](http://arxiv.org/abs/2608.18075)|null|
+|**2026-08-18**|**Ultrafast and high resolution spatial light modulation for cold atoms**|Alexander Dennisovich Deters et.al.|[2608.18071](http://arxiv.org/abs/2608.18071)|null|
+|**2026-08-18**|**Nearly Sample-Optimal Estimators for Quantum Rényi and Tsallis Entropies**|Kean Chen et.al.|[2608.18070](http://arxiv.org/abs/2608.18070)|null|
+|**2026-08-18**|**Revisiting the Intra-Team Communication Method to Elicit Level-k Reasoning in Beauty Contests and 11-20 Games**|Zitian Wang et.al.|[2608.18069](http://arxiv.org/abs/2608.18069)|null|
+|**2026-08-18**|**Planning Against Learning in Rank-1 Games**|William Overman et.al.|[2608.18067](http://arxiv.org/abs/2608.18067)|null|
+|**2026-08-18**|**Quantum Geometric Tensor Preconditioning for Stable Training of Recurrent Neural Quantum States**|Adil Attar et.al.|[2608.18065](http://arxiv.org/abs/2608.18065)|null|
+|**2026-08-18**|**EDITBRIDGE: Towards Faithful and Efficient Ultra-High-Resolution Image Editing**|Jiayi Song et.al.|[2608.18063](http://arxiv.org/abs/2608.18063)|null|
+|**2026-08-18**|**The concentration game: Bayesian updating, regret, and information**|Akshay Balsubramani et.al.|[2608.18061](http://arxiv.org/abs/2608.18061)|null|
+|**2026-08-18**|**Delegation Asymmetry in Agentic Recommender Systems: Measuring Two-Sided Receptivity in Online Dating**|Daria Leshchikova et.al.|[2608.18058](http://arxiv.org/abs/2608.18058)|null|
 |**2026-08-17**|**Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory**|Bingxin Xu et.al.|[2608.16889](http://arxiv.org/abs/2608.16889)|null|
 |**2026-08-17**|**Q-based Variational Inverse Reinforcement Learning**|Ondrej Bajgar et.al.|[2608.16888](http://arxiv.org/abs/2608.16888)|null|
 |**2026-08-17**|**An Empirical Study of Training Pixel-Space Text-to-Image Diffusion Models**|Dengyang Jiang et.al.|[2608.16887](http://arxiv.org/abs/2608.16887)|null|
@@ -2531,12 +2551,22 @@
 |**2026-02-04**|**Homological Mirror Symmetry for orbifold log Calabi-Yau surfaces**|Bogdan Simeonov et.al.|[2602.04866](http://arxiv.org/abs/2602.04866)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260819>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260820>back to top</a>)</p>
 
 ## Consensus
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-18**|**Hydra-0: Action Flow for Generalist World Modeling and Control**|Hongyu Li et.al.|[2608.18077](http://arxiv.org/abs/2608.18077)|null|
+|**2026-08-18**|**Unique Ergodicity for the Projective Process of the 2D Navier--Stokes Equation with Nondegenerate Noise**|Zeng Lian et.al.|[2608.18075](http://arxiv.org/abs/2608.18075)|null|
+|**2026-08-18**|**Analytic Continuation of Conformal Integrals in Momentum Space**|Jonathan Gräfe et.al.|[2608.18073](http://arxiv.org/abs/2608.18073)|null|
+|**2026-08-18**|**Multi-Agent AI System for Radiology Report Structuring and Quality Assurance with Independent Radiologist Evaluation**|Iryna Hartsock et.al.|[2608.18072](http://arxiv.org/abs/2608.18072)|null|
+|**2026-08-18**|**Ultrafast and high resolution spatial light modulation for cold atoms**|Alexander Dennisovich Deters et.al.|[2608.18071](http://arxiv.org/abs/2608.18071)|null|
+|**2026-08-18**|**A dimension-free weak-type $(1,1)$ bound for the vector Riesz transform on $\mathbb{R}^n$**|Yuyuan Ouyang et.al.|[2608.18068](http://arxiv.org/abs/2608.18068)|null|
+|**2026-08-18**|**Planning Against Learning in Rank-1 Games**|William Overman et.al.|[2608.18067](http://arxiv.org/abs/2608.18067)|null|
+|**2026-08-18**|**On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification**|Qinyuan Ye et.al.|[2608.18066](http://arxiv.org/abs/2608.18066)|null|
+|**2026-08-18**|**Quantum Geometric Tensor Preconditioning for Stable Training of Recurrent Neural Quantum States**|Adil Attar et.al.|[2608.18065](http://arxiv.org/abs/2608.18065)|null|
+|**2026-08-18**|**Universal admissibility for scattering transforms**|Max Getter et.al.|[2608.18064](http://arxiv.org/abs/2608.18064)|null|
 |**2026-08-17**|**An Empirical Study of Training Pixel-Space Text-to-Image Diffusion Models**|Dengyang Jiang et.al.|[2608.16887](http://arxiv.org/abs/2608.16887)|null|
 |**2026-08-17**|**Evaluating Beyond the Screen: Collective Assessment of AI-Generated Business Plans with Resource-Constrained Entrepreneurs**|Qi Zhao et.al.|[2608.16886](http://arxiv.org/abs/2608.16886)|null|
 |**2026-08-17**|**$τ_0$ -VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation**|Xiaowei Cai et.al.|[2608.16885](http://arxiv.org/abs/2608.16885)|null|
@@ -3721,12 +3751,22 @@
 |**2026-02-04**|**Requirements for Teleportation in an Intercity Quantum Network**|Soubhadra Maiti et.al.|[2602.04869](http://arxiv.org/abs/2602.04869)|null|
 |**2026-02-04**|**CRoSS: A Continual Robotic Simulation Suite for Scalable Reinforcement Learning with High Task Diversity and Realistic Physics Simulation**|Yannick Denker et.al.|[2602.04868](http://arxiv.org/abs/2602.04868)|null|
 
-<p align=right>(<a href=#updated-on-20260819>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260820>back to top</a>)</p>
 
 ## DeFi
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-18**|**On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification**|Qinyuan Ye et.al.|[2608.18066](http://arxiv.org/abs/2608.18066)|null|
+|**2026-08-18**|**The concentration game: Bayesian updating, regret, and information**|Akshay Balsubramani et.al.|[2608.18061](http://arxiv.org/abs/2608.18061)|null|
+|**2026-08-18**|**Long-time fermionic quantum transport with controlled full-state error using an adaptive reservoir-mode window**|Mikhail Umanskii et.al.|[2608.18049](http://arxiv.org/abs/2608.18049)|null|
+|**2026-08-18**|**Generalized Non-linear Bayesian Pulsar Timing with Enterprise**|Andrew R. Kaiser et.al.|[2608.18047](http://arxiv.org/abs/2608.18047)|null|
+|**2026-08-18**|**Global Optimization of Flexible District Heating Networks**|Marc E. Pfetsch et.al.|[2608.18046](http://arxiv.org/abs/2608.18046)|null|
+|**2026-08-18**|**The instantaneous mass accretion rate of novae in quiescence: - an archival ultraviolet optical spectral analysis**|Patrick Godon et.al.|[2608.18037](http://arxiv.org/abs/2608.18037)|null|
+|**2026-08-18**|**Deep Academic Survey: Stateful Agentic Closed-Loop Paradigm for Academic Survey Automation**|Zhikai Xu et.al.|[2608.18034](http://arxiv.org/abs/2608.18034)|null|
+|**2026-08-18**|**Where A Small Language Model Helps in Invoice Categorisation, Understood Through Embedding Geometry**|Emma Ceccherini et.al.|[2608.18033](http://arxiv.org/abs/2608.18033)|null|
+|**2026-08-18**|**Minimizing Commit Rules for DAG-based Atomic Broadcast**|Petr Kuznetsov et.al.|[2608.18029](http://arxiv.org/abs/2608.18029)|null|
+|**2026-08-18**|**Initialization-Free Bundle Adjustment Revisited: A Controlled Experimental Study**|Simon Weber et.al.|[2608.18028](http://arxiv.org/abs/2608.18028)|null|
 |**2026-08-17**|**Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory**|Bingxin Xu et.al.|[2608.16889](http://arxiv.org/abs/2608.16889)|null|
 |**2026-08-17**|**Evaluating Beyond the Screen: Collective Assessment of AI-Generated Business Plans with Resource-Constrained Entrepreneurs**|Qi Zhao et.al.|[2608.16886](http://arxiv.org/abs/2608.16886)|null|
 |**2026-08-17**|**Improving the matrix multiplication exponent with modern optimization and AlphaEvolve**|Emilien Dupont et.al.|[2608.16884](http://arxiv.org/abs/2608.16884)|null|
@@ -4938,12 +4978,22 @@
 |**2026-02-05**|**TxRay: Agentic Postmortem of Live Blockchain Attacks**|Ziyue Wang et.al.|[2602.01317](http://arxiv.org/abs/2602.01317)|null|
 |**2026-01-30**|**Quasiperiodic Skin Criticality in an Exactly Solvable Non-Hermitian Quasicrystal**|Zhangyuan Chen et.al.|[2601.23015](http://arxiv.org/abs/2601.23015)|null|
 
-<p align=right>(<a href=#updated-on-20260819>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260820>back to top</a>)</p>
 
 ## Cryptography
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-18**|**Hydra-0: Action Flow for Generalist World Modeling and Control**|Hongyu Li et.al.|[2608.18077](http://arxiv.org/abs/2608.18077)|null|
+|**2026-08-18**|**From Corpora to Co-Evolving Capabilities: Capability-Centric Data Design for Generalist Image Generation**|Xingjian Wang et.al.|[2608.18076](http://arxiv.org/abs/2608.18076)|null|
+|**2026-08-18**|**Unique Ergodicity for the Projective Process of the 2D Navier--Stokes Equation with Nondegenerate Noise**|Zeng Lian et.al.|[2608.18075](http://arxiv.org/abs/2608.18075)|null|
+|**2026-08-18**|**Analytic Continuation of Conformal Integrals in Momentum Space**|Jonathan Gräfe et.al.|[2608.18073](http://arxiv.org/abs/2608.18073)|null|
+|**2026-08-18**|**Multi-Agent AI System for Radiology Report Structuring and Quality Assurance with Independent Radiologist Evaluation**|Iryna Hartsock et.al.|[2608.18072](http://arxiv.org/abs/2608.18072)|null|
+|**2026-08-18**|**Ultrafast and high resolution spatial light modulation for cold atoms**|Alexander Dennisovich Deters et.al.|[2608.18071](http://arxiv.org/abs/2608.18071)|null|
+|**2026-08-18**|**A dimension-free weak-type $(1,1)$ bound for the vector Riesz transform on $\mathbb{R}^n$**|Yuyuan Ouyang et.al.|[2608.18068](http://arxiv.org/abs/2608.18068)|null|
+|**2026-08-18**|**Planning Against Learning in Rank-1 Games**|William Overman et.al.|[2608.18067](http://arxiv.org/abs/2608.18067)|null|
+|**2026-08-18**|**On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification**|Qinyuan Ye et.al.|[2608.18066](http://arxiv.org/abs/2608.18066)|null|
+|**2026-08-18**|**Quantum Geometric Tensor Preconditioning for Stable Training of Recurrent Neural Quantum States**|Adil Attar et.al.|[2608.18065](http://arxiv.org/abs/2608.18065)|null|
 |**2026-08-17**|**Q-based Variational Inverse Reinforcement Learning**|Ondrej Bajgar et.al.|[2608.16888](http://arxiv.org/abs/2608.16888)|null|
 |**2026-08-17**|**Evaluating Beyond the Screen: Collective Assessment of AI-Generated Business Plans with Resource-Constrained Entrepreneurs**|Qi Zhao et.al.|[2608.16886](http://arxiv.org/abs/2608.16886)|null|
 |**2026-08-17**|**$τ_0$ -VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation**|Xiaowei Cai et.al.|[2608.16885](http://arxiv.org/abs/2608.16885)|null|
@@ -6176,12 +6226,22 @@
 |**2026-02-04**|**Characterizing $(d,h)$ -elliptic stable irreducible curves**|Juliana Coelho et.al.|[2602.04865](http://arxiv.org/abs/2602.04865)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260819>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260820>back to top</a>)</p>
 
 ## AI in Finance
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-18**|**Hydra-0: Action Flow for Generalist World Modeling and Control**|Hongyu Li et.al.|[2608.18077](http://arxiv.org/abs/2608.18077)|null|
+|**2026-08-18**|**From Corpora to Co-Evolving Capabilities: Capability-Centric Data Design for Generalist Image Generation**|Xingjian Wang et.al.|[2608.18076](http://arxiv.org/abs/2608.18076)|null|
+|**2026-08-18**|**Unique Ergodicity for the Projective Process of the 2D Navier--Stokes Equation with Nondegenerate Noise**|Zeng Lian et.al.|[2608.18075](http://arxiv.org/abs/2608.18075)|null|
+|**2026-08-18**|**On Chern's conjecture for minimal submanifolds of the sphere**|Benjy Firester et.al.|[2608.18074](http://arxiv.org/abs/2608.18074)|null|
+|**2026-08-18**|**Multi-Agent AI System for Radiology Report Structuring and Quality Assurance with Independent Radiologist Evaluation**|Iryna Hartsock et.al.|[2608.18072](http://arxiv.org/abs/2608.18072)|null|
+|**2026-08-18**|**Ultrafast and high resolution spatial light modulation for cold atoms**|Alexander Dennisovich Deters et.al.|[2608.18071](http://arxiv.org/abs/2608.18071)|null|
+|**2026-08-18**|**Nearly Sample-Optimal Estimators for Quantum Rényi and Tsallis Entropies**|Kean Chen et.al.|[2608.18070](http://arxiv.org/abs/2608.18070)|null|
+|**2026-08-18**|**A dimension-free weak-type $(1,1)$ bound for the vector Riesz transform on $\mathbb{R}^n$**|Yuyuan Ouyang et.al.|[2608.18068](http://arxiv.org/abs/2608.18068)|null|
+|**2026-08-18**|**Planning Against Learning in Rank-1 Games**|William Overman et.al.|[2608.18067](http://arxiv.org/abs/2608.18067)|null|
+|**2026-08-18**|**On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification**|Qinyuan Ye et.al.|[2608.18066](http://arxiv.org/abs/2608.18066)|null|
 |**2026-08-17**|**Q-based Variational Inverse Reinforcement Learning**|Ondrej Bajgar et.al.|[2608.16888](http://arxiv.org/abs/2608.16888)|null|
 |**2026-08-17**|**An Empirical Study of Training Pixel-Space Text-to-Image Diffusion Models**|Dengyang Jiang et.al.|[2608.16887](http://arxiv.org/abs/2608.16887)|null|
 |**2026-08-17**|**Evaluating Beyond the Screen: Collective Assessment of AI-Generated Business Plans with Resource-Constrained Entrepreneurs**|Qi Zhao et.al.|[2608.16886](http://arxiv.org/abs/2608.16886)|null|
@@ -7438,7 +7498,7 @@
 |**2026-02-04**|**Multi-layer Cross-Attention is Provably Optimal for Multi-modal In-context Learning**|Nicholas Barnfield et.al.|[2602.04872](http://arxiv.org/abs/2602.04872)|null|
 |**2026-02-04**|**Multi-Head LatentMoE and Head Parallel: Communication-Efficient and Deterministic MoE Parallelism**|Chenwei Cui et.al.|[2602.04870](http://arxiv.org/abs/2602.04870)|null|
 
-<p align=right>(<a href=#updated-on-20260819>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260820>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/jhy-3/AI4Blockchain-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/jhy-3/AI4Blockchain-arxiv-daily/graphs/contributors
