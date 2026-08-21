@@ -1,4 +1,4 @@
-## Updated on 2026.08.20
+## Updated on 2026.08.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -61,7 +61,7 @@
 |**2025-04-22**|**Trustworthy Decentralized Autonomous Machines: A New Paradigm in Automation Economy**|Fernando Castillo et.al.|[2504.15676](http://arxiv.org/abs/2504.15676)|null|
 |**2025-03-20**|**Financial Twin Chain, a Platform to Support Financial Sustainability in Supply Chains**|Giuseppe Galante et.al.|[2503.15980](http://arxiv.org/abs/2503.15980)|null|
 
-<p align=right>(<a href=#updated-on-20260820>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260821>back to top</a>)</p>
 
 ## Smart Contracts & AI
 
@@ -88,7 +88,7 @@
 |**2025-10-07**|**Smart Contract Adoption under Discrete Overdispersed Demand: A Negative Binomial Optimization Perspective**|Jinho Cha et.al.|[2510.05487](http://arxiv.org/abs/2510.05487)|null|
 |**2025-10-06**|**LMM-Incentive: Large Multimodal Model-based Incentive Design for User-Generated Content in Web 3.0**|Jinbo Wen et.al.|[2510.04765](http://arxiv.org/abs/2510.04765)|null|
 
-<p align=right>(<a href=#updated-on-20260820>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260821>back to top</a>)</p>
 
 ## Blockchain Consensus & AI
 
@@ -124,7 +124,7 @@
 |**2022-09-30**|**Blockchain-based Monitoring for Poison Attack Detection in Decentralized Federated Learning**|Ranwa Al Mallah et.al.|[2210.02873](http://arxiv.org/abs/2210.02873)|null|
 |**2021-11-12**|**Device-Independent-Quantum-Randomness-Enhanced Zero-Knowledge Proof**|Cheng-Long Li et.al.|[2111.06717](http://arxiv.org/abs/2111.06717)|null|
 
-<p align=right>(<a href=#updated-on-20260820>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260821>back to top</a>)</p>
 
 ## DeFi & AI
 
@@ -143,12 +143,22 @@
 |**2025-10-24**|**Machine Learning Prediction of Magnetic Proximity Effect in van der Waals Heterostructures: From Atoms to Moiré**|Lukas Cvitkovich et.al.|[2508.12406](http://arxiv.org/abs/2508.12406)|null|
 |**2025-09-12**|**Web3 x AI Agents: Landscape, Integrations, and Foundational Challenges**|Yiming Shen et.al.|[2508.02773](http://arxiv.org/abs/2508.02773)|null|
 
-<p align=right>(<a href=#updated-on-20260820>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260821>back to top</a>)</p>
 
 ## Blockchain
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-19**|**SPADE: Self-Play in Adaptive Synthetic Executable Environments**|Bo Liu et.al.|[2608.19197](http://arxiv.org/abs/2608.19197)|null|
+|**2026-08-19**|**An improved volume bound under Ricci and scalar curvature lower bounds**|Kwok-Kun Kwong et.al.|[2608.19196](http://arxiv.org/abs/2608.19196)|null|
+|**2026-08-19**|**A Localized Fourier Extension Method for Piecewise-Smooth Inverse Source Reconstruction**|Zhihong Dou et.al.|[2608.19193](http://arxiv.org/abs/2608.19193)|null|
+|**2026-08-19**|**The Structured Totient Preimage Problem: Reconstruction, Collisions, and Cryptographic Implications**|Luis Adrián Lizama-Pérez et.al.|[2608.19191](http://arxiv.org/abs/2608.19191)|null|
+|**2026-08-19**|**Diffuse HI emission in the circumgalactic medium of NGC891 and NGC4565 - III: azimuthal profiles**|Mary Rickel et.al.|[2608.19186](http://arxiv.org/abs/2608.19186)|null|
+|**2026-08-19**|**A Fast Deterministic Algorithm for $(Δ+1)$ -edge coloring in CONGEST**|Sebastian Brandt et.al.|[2608.19184](http://arxiv.org/abs/2608.19184)|null|
+|**2026-08-19**|**The regular pentagon is canonically Ramsey**|Benedict Randall Shaw et.al.|[2608.19183](http://arxiv.org/abs/2608.19183)|null|
+|**2026-08-19**|**Beyond Teacher Likelihood: Group-Calibrated On-Policy Distillation for Long-Context Reasoning**|Zhu Zhang et.al.|[2608.19181](http://arxiv.org/abs/2608.19181)|null|
+|**2026-08-19**|**A random walk on p-groups with a symmetric perfect pairing**|Nikita Lvov et.al.|[2608.19179](http://arxiv.org/abs/2608.19179)|null|
+|**2026-08-19**|**Chiral bosonic mean-field Ansatz and spin dynamics in spin-1 Kitaev magnets**|Daiki Sasamoto et.al.|[2608.19178](http://arxiv.org/abs/2608.19178)|null|
 |**2026-08-18**|**From Corpora to Co-Evolving Capabilities: Capability-Centric Data Design for Generalist Image Generation**|Xingjian Wang et.al.|[2608.18076](http://arxiv.org/abs/2608.18076)|null|
 |**2026-08-18**|**Analytic Continuation of Conformal Integrals in Momentum Space**|Jonathan Gräfe et.al.|[2608.18073](http://arxiv.org/abs/2608.18073)|null|
 |**2026-08-18**|**Multi-Agent AI System for Radiology Report Structuring and Quality Assurance with Independent Radiologist Evaluation**|Iryna Hartsock et.al.|[2608.18072](http://arxiv.org/abs/2608.18072)|null|
@@ -1354,12 +1364,22 @@
 |**2026-02-04**|**Capacity Bounds on Doppler OFDM Channels**|Pablo Orellana et.al.|[2602.04862](http://arxiv.org/abs/2602.04862)|null|
 |**2026-02-04**|**CoT is Not the Chain of Truth: An Empirical Internal Analysis of Reasoning LLMs for Fake News Generation**|Zhao Tong et.al.|[2602.04856](http://arxiv.org/abs/2602.04856)|null|
 
-<p align=right>(<a href=#updated-on-20260820>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260821>back to top</a>)</p>
 
 ## Smart Contract
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-19**|**Probabilistic Representation and Convergence of Gromov-Wasserstein Gradient Flows**|Venkatkrishna Karumanchi et.al.|[2608.19198](http://arxiv.org/abs/2608.19198)|null|
+|**2026-08-19**|**SPADE: Self-Play in Adaptive Synthetic Executable Environments**|Bo Liu et.al.|[2608.19197](http://arxiv.org/abs/2608.19197)|null|
+|**2026-08-19**|**The Structured Totient Preimage Problem: Reconstruction, Collisions, and Cryptographic Implications**|Luis Adrián Lizama-Pérez et.al.|[2608.19191](http://arxiv.org/abs/2608.19191)|null|
+|**2026-08-19**|**SiNMULI: Novel Signed Network Approach for Malicious URL Identification**|Avijit Gayen et.al.|[2608.19190](http://arxiv.org/abs/2608.19190)|null|
+|**2026-08-19**|**Entry growth in Gaussian elimination**|Rikhav Shah et.al.|[2608.19189](http://arxiv.org/abs/2608.19189)|null|
+|**2026-08-19**|**PartialBiGrasp: Inferring Hidden Local Geometry for Bimanual Grasping from Partial Views**|Ayush Kaura et.al.|[2608.19188](http://arxiv.org/abs/2608.19188)|null|
+|**2026-08-19**|**A Fast Deterministic Algorithm for $(Δ+1)$ -edge coloring in CONGEST**|Sebastian Brandt et.al.|[2608.19184](http://arxiv.org/abs/2608.19184)|null|
+|**2026-08-19**|**Electrostriction in a Bose-Einstein Condensate of Dipolar Molecules**|Haneul Kwak et.al.|[2608.19180](http://arxiv.org/abs/2608.19180)|null|
+|**2026-08-19**|**Chiral bosonic mean-field Ansatz and spin dynamics in spin-1 Kitaev magnets**|Daiki Sasamoto et.al.|[2608.19178](http://arxiv.org/abs/2608.19178)|null|
+|**2026-08-19**|**Image-Guided Pavement Defect Recognition in GPR Data with novel 3D Deep Learning Architecture**|Yuandong Pan et.al.|[2608.19177](http://arxiv.org/abs/2608.19177)|null|
 |**2026-08-18**|**From Corpora to Co-Evolving Capabilities: Capability-Centric Data Design for Generalist Image Generation**|Xingjian Wang et.al.|[2608.18076](http://arxiv.org/abs/2608.18076)|null|
 |**2026-08-18**|**Unique Ergodicity for the Projective Process of the 2D Navier--Stokes Equation with Nondegenerate Noise**|Zeng Lian et.al.|[2608.18075](http://arxiv.org/abs/2608.18075)|null|
 |**2026-08-18**|**Ultrafast and high resolution spatial light modulation for cold atoms**|Alexander Dennisovich Deters et.al.|[2608.18071](http://arxiv.org/abs/2608.18071)|null|
@@ -2551,12 +2571,22 @@
 |**2026-02-04**|**Homological Mirror Symmetry for orbifold log Calabi-Yau surfaces**|Bogdan Simeonov et.al.|[2602.04866](http://arxiv.org/abs/2602.04866)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260820>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260821>back to top</a>)</p>
 
 ## Consensus
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-19**|**Probabilistic Representation and Convergence of Gromov-Wasserstein Gradient Flows**|Venkatkrishna Karumanchi et.al.|[2608.19198](http://arxiv.org/abs/2608.19198)|null|
+|**2026-08-19**|**SPADE: Self-Play in Adaptive Synthetic Executable Environments**|Bo Liu et.al.|[2608.19197](http://arxiv.org/abs/2608.19197)|null|
+|**2026-08-19**|**An improved volume bound under Ricci and scalar curvature lower bounds**|Kwok-Kun Kwong et.al.|[2608.19196](http://arxiv.org/abs/2608.19196)|null|
+|**2026-08-19**|**Qualified Cross-References as a Verification Method: The Normative Environment of the EU AI Act**|Nicola Fabiano et.al.|[2608.19194](http://arxiv.org/abs/2608.19194)|null|
+|**2026-08-19**|**The Structured Totient Preimage Problem: Reconstruction, Collisions, and Cryptographic Implications**|Luis Adrián Lizama-Pérez et.al.|[2608.19191](http://arxiv.org/abs/2608.19191)|null|
+|**2026-08-19**|**SiNMULI: Novel Signed Network Approach for Malicious URL Identification**|Avijit Gayen et.al.|[2608.19190](http://arxiv.org/abs/2608.19190)|null|
+|**2026-08-19**|**Entry growth in Gaussian elimination**|Rikhav Shah et.al.|[2608.19189](http://arxiv.org/abs/2608.19189)|null|
+|**2026-08-19**|**PartialBiGrasp: Inferring Hidden Local Geometry for Bimanual Grasping from Partial Views**|Ayush Kaura et.al.|[2608.19188](http://arxiv.org/abs/2608.19188)|null|
+|**2026-08-19**|**Unconventional bond- and current-density waves on hexagonal lattices**|Andras Szabo et.al.|[2608.19185](http://arxiv.org/abs/2608.19185)|null|
+|**2026-08-19**|**A Fast Deterministic Algorithm for $(Δ+1)$ -edge coloring in CONGEST**|Sebastian Brandt et.al.|[2608.19184](http://arxiv.org/abs/2608.19184)|null|
 |**2026-08-18**|**Hydra-0: Action Flow for Generalist World Modeling and Control**|Hongyu Li et.al.|[2608.18077](http://arxiv.org/abs/2608.18077)|null|
 |**2026-08-18**|**Unique Ergodicity for the Projective Process of the 2D Navier--Stokes Equation with Nondegenerate Noise**|Zeng Lian et.al.|[2608.18075](http://arxiv.org/abs/2608.18075)|null|
 |**2026-08-18**|**Analytic Continuation of Conformal Integrals in Momentum Space**|Jonathan Gräfe et.al.|[2608.18073](http://arxiv.org/abs/2608.18073)|null|
@@ -3751,12 +3781,22 @@
 |**2026-02-04**|**Requirements for Teleportation in an Intercity Quantum Network**|Soubhadra Maiti et.al.|[2602.04869](http://arxiv.org/abs/2602.04869)|null|
 |**2026-02-04**|**CRoSS: A Continual Robotic Simulation Suite for Scalable Reinforcement Learning with High Task Diversity and Realistic Physics Simulation**|Yannick Denker et.al.|[2602.04868](http://arxiv.org/abs/2602.04868)|null|
 
-<p align=right>(<a href=#updated-on-20260820>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260821>back to top</a>)</p>
 
 ## DeFi
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-19**|**Probabilistic Representation and Convergence of Gromov-Wasserstein Gradient Flows**|Venkatkrishna Karumanchi et.al.|[2608.19198](http://arxiv.org/abs/2608.19198)|null|
+|**2026-08-19**|**SPADE: Self-Play in Adaptive Synthetic Executable Environments**|Bo Liu et.al.|[2608.19197](http://arxiv.org/abs/2608.19197)|null|
+|**2026-08-19**|**An improved volume bound under Ricci and scalar curvature lower bounds**|Kwok-Kun Kwong et.al.|[2608.19196](http://arxiv.org/abs/2608.19196)|null|
+|**2026-08-19**|**Qualified Cross-References as a Verification Method: The Normative Environment of the EU AI Act**|Nicola Fabiano et.al.|[2608.19194](http://arxiv.org/abs/2608.19194)|null|
+|**2026-08-19**|**Chiral bosonic mean-field Ansatz and spin dynamics in spin-1 Kitaev magnets**|Daiki Sasamoto et.al.|[2608.19178](http://arxiv.org/abs/2608.19178)|null|
+|**2026-08-19**|**Image-Guided Pavement Defect Recognition in GPR Data with novel 3D Deep Learning Architecture**|Yuandong Pan et.al.|[2608.19177](http://arxiv.org/abs/2608.19177)|null|
+|**2026-08-19**|**Beyond the Transcript: Detecting Covert Co ordination in Latent Multi-Agent Communication**|Ramneet Kaur et.al.|[2608.19161](http://arxiv.org/abs/2608.19161)|null|
+|**2026-08-19**|**Characterisation of Commercially Available NUV-MT Silicon Photomultipliers**|T. Avgitas et.al.|[2608.19156](http://arxiv.org/abs/2608.19156)|null|
+|**2026-08-19**|**Sweep-based, implicit solutions of the multidimensional BGK equation on unstructured grids**|Thomas M. Evans et.al.|[2608.19150](http://arxiv.org/abs/2608.19150)|null|
+|**2026-08-19**|**Trade-offs in Data Color Palette Design Tools**|Shiyi He et.al.|[2608.19148](http://arxiv.org/abs/2608.19148)|null|
 |**2026-08-18**|**On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification**|Qinyuan Ye et.al.|[2608.18066](http://arxiv.org/abs/2608.18066)|null|
 |**2026-08-18**|**The concentration game: Bayesian updating, regret, and information**|Akshay Balsubramani et.al.|[2608.18061](http://arxiv.org/abs/2608.18061)|null|
 |**2026-08-18**|**Long-time fermionic quantum transport with controlled full-state error using an adaptive reservoir-mode window**|Mikhail Umanskii et.al.|[2608.18049](http://arxiv.org/abs/2608.18049)|null|
@@ -4978,12 +5018,22 @@
 |**2026-02-05**|**TxRay: Agentic Postmortem of Live Blockchain Attacks**|Ziyue Wang et.al.|[2602.01317](http://arxiv.org/abs/2602.01317)|null|
 |**2026-01-30**|**Quasiperiodic Skin Criticality in an Exactly Solvable Non-Hermitian Quasicrystal**|Zhangyuan Chen et.al.|[2601.23015](http://arxiv.org/abs/2601.23015)|null|
 
-<p align=right>(<a href=#updated-on-20260820>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260821>back to top</a>)</p>
 
 ## Cryptography
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-19**|**SPADE: Self-Play in Adaptive Synthetic Executable Environments**|Bo Liu et.al.|[2608.19197](http://arxiv.org/abs/2608.19197)|null|
+|**2026-08-19**|**An improved volume bound under Ricci and scalar curvature lower bounds**|Kwok-Kun Kwong et.al.|[2608.19196](http://arxiv.org/abs/2608.19196)|null|
+|**2026-08-19**|**Qualified Cross-References as a Verification Method: The Normative Environment of the EU AI Act**|Nicola Fabiano et.al.|[2608.19194](http://arxiv.org/abs/2608.19194)|null|
+|**2026-08-19**|**The Structured Totient Preimage Problem: Reconstruction, Collisions, and Cryptographic Implications**|Luis Adrián Lizama-Pérez et.al.|[2608.19191](http://arxiv.org/abs/2608.19191)|null|
+|**2026-08-19**|**SiNMULI: Novel Signed Network Approach for Malicious URL Identification**|Avijit Gayen et.al.|[2608.19190](http://arxiv.org/abs/2608.19190)|null|
+|**2026-08-19**|**A Fast Deterministic Algorithm for $(Δ+1)$ -edge coloring in CONGEST**|Sebastian Brandt et.al.|[2608.19184](http://arxiv.org/abs/2608.19184)|null|
+|**2026-08-19**|**ADEPT: Accelerating Dexterity via Pre-Training and Post-Training using Reinforcement Learning**|Jayjun Lee et.al.|[2608.19182](http://arxiv.org/abs/2608.19182)|null|
+|**2026-08-19**|**Beyond Teacher Likelihood: Group-Calibrated On-Policy Distillation for Long-Context Reasoning**|Zhu Zhang et.al.|[2608.19181](http://arxiv.org/abs/2608.19181)|null|
+|**2026-08-19**|**Electrostriction in a Bose-Einstein Condensate of Dipolar Molecules**|Haneul Kwak et.al.|[2608.19180](http://arxiv.org/abs/2608.19180)|null|
+|**2026-08-19**|**Chiral bosonic mean-field Ansatz and spin dynamics in spin-1 Kitaev magnets**|Daiki Sasamoto et.al.|[2608.19178](http://arxiv.org/abs/2608.19178)|null|
 |**2026-08-18**|**Hydra-0: Action Flow for Generalist World Modeling and Control**|Hongyu Li et.al.|[2608.18077](http://arxiv.org/abs/2608.18077)|null|
 |**2026-08-18**|**From Corpora to Co-Evolving Capabilities: Capability-Centric Data Design for Generalist Image Generation**|Xingjian Wang et.al.|[2608.18076](http://arxiv.org/abs/2608.18076)|null|
 |**2026-08-18**|**Unique Ergodicity for the Projective Process of the 2D Navier--Stokes Equation with Nondegenerate Noise**|Zeng Lian et.al.|[2608.18075](http://arxiv.org/abs/2608.18075)|null|
@@ -6226,12 +6276,22 @@
 |**2026-02-04**|**Characterizing $(d,h)$ -elliptic stable irreducible curves**|Juliana Coelho et.al.|[2602.04865](http://arxiv.org/abs/2602.04865)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260820>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260821>back to top</a>)</p>
 
 ## AI in Finance
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-19**|**Probabilistic Representation and Convergence of Gromov-Wasserstein Gradient Flows**|Venkatkrishna Karumanchi et.al.|[2608.19198](http://arxiv.org/abs/2608.19198)|null|
+|**2026-08-19**|**SPADE: Self-Play in Adaptive Synthetic Executable Environments**|Bo Liu et.al.|[2608.19197](http://arxiv.org/abs/2608.19197)|null|
+|**2026-08-19**|**An improved volume bound under Ricci and scalar curvature lower bounds**|Kwok-Kun Kwong et.al.|[2608.19196](http://arxiv.org/abs/2608.19196)|null|
+|**2026-08-19**|**Qualified Cross-References as a Verification Method: The Normative Environment of the EU AI Act**|Nicola Fabiano et.al.|[2608.19194](http://arxiv.org/abs/2608.19194)|null|
+|**2026-08-19**|**A Localized Fourier Extension Method for Piecewise-Smooth Inverse Source Reconstruction**|Zhihong Dou et.al.|[2608.19193](http://arxiv.org/abs/2608.19193)|null|
+|**2026-08-19**|**The Structured Totient Preimage Problem: Reconstruction, Collisions, and Cryptographic Implications**|Luis Adrián Lizama-Pérez et.al.|[2608.19191](http://arxiv.org/abs/2608.19191)|null|
+|**2026-08-19**|**SiNMULI: Novel Signed Network Approach for Malicious URL Identification**|Avijit Gayen et.al.|[2608.19190](http://arxiv.org/abs/2608.19190)|null|
+|**2026-08-19**|**Entry growth in Gaussian elimination**|Rikhav Shah et.al.|[2608.19189](http://arxiv.org/abs/2608.19189)|null|
+|**2026-08-19**|**PartialBiGrasp: Inferring Hidden Local Geometry for Bimanual Grasping from Partial Views**|Ayush Kaura et.al.|[2608.19188](http://arxiv.org/abs/2608.19188)|null|
+|**2026-08-19**|**Diffuse HI emission in the circumgalactic medium of NGC891 and NGC4565 - III: azimuthal profiles**|Mary Rickel et.al.|[2608.19186](http://arxiv.org/abs/2608.19186)|null|
 |**2026-08-18**|**Hydra-0: Action Flow for Generalist World Modeling and Control**|Hongyu Li et.al.|[2608.18077](http://arxiv.org/abs/2608.18077)|null|
 |**2026-08-18**|**From Corpora to Co-Evolving Capabilities: Capability-Centric Data Design for Generalist Image Generation**|Xingjian Wang et.al.|[2608.18076](http://arxiv.org/abs/2608.18076)|null|
 |**2026-08-18**|**Unique Ergodicity for the Projective Process of the 2D Navier--Stokes Equation with Nondegenerate Noise**|Zeng Lian et.al.|[2608.18075](http://arxiv.org/abs/2608.18075)|null|
@@ -7498,7 +7558,7 @@
 |**2026-02-04**|**Multi-layer Cross-Attention is Provably Optimal for Multi-modal In-context Learning**|Nicholas Barnfield et.al.|[2602.04872](http://arxiv.org/abs/2602.04872)|null|
 |**2026-02-04**|**Multi-Head LatentMoE and Head Parallel: Communication-Efficient and Deterministic MoE Parallelism**|Chenwei Cui et.al.|[2602.04870](http://arxiv.org/abs/2602.04870)|null|
 
-<p align=right>(<a href=#updated-on-20260820>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260821>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/jhy-3/AI4Blockchain-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/jhy-3/AI4Blockchain-arxiv-daily/graphs/contributors
