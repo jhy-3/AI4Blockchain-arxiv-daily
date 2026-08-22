@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.08.21
+## Updated on 2026.08.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-20**|**Group-theoretic treatment of strong light-matter coupling with an arbitrary number of excitations**|Antti Peltola et.al.|[2608.20340](http://arxiv.org/abs/2608.20340)|null|
+|**2026-08-20**|**Information on trajectories: martingales and random times**|Akshay Balsubramani et.al.|[2608.20337](http://arxiv.org/abs/2608.20337)|null|
+|**2026-08-20**|**WithEveryone: Unified Planning and Identity Grounding for Group Image Generation**|Hengyuan Xu et.al.|[2608.20336](http://arxiv.org/abs/2608.20336)|null|
+|**2026-08-20**|**Maximal Torus Topological Entanglement Entropy in WZW Theories at Bounded Ground-State Degeneracy**|Ce Shen et.al.|[2608.20333](http://arxiv.org/abs/2608.20333)|null|
+|**2026-08-20**|**Correspondence between hydrodynamic frames, transport coefficients, and hydrodynamic modes in relativistic fluids**|Md Hasanujjaman et.al.|[2608.20324](http://arxiv.org/abs/2608.20324)|null|
+|**2026-08-20**|**Large Sample Properties of Higher Order Markov Models**|Tuhin Majumder et.al.|[2608.20321](http://arxiv.org/abs/2608.20321)|null|
+|**2026-08-20**|**An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction**|Narges Ahmadi et.al.|[2608.20320](http://arxiv.org/abs/2608.20320)|null|
+|**2026-08-20**|**Signatures of a light-induced exciton condensate exhibiting BEC-BCS crossover**|Khanh Duy Nguyen et.al.|[2608.20310](http://arxiv.org/abs/2608.20310)|null|
+|**2026-08-20**|**The Nearby Star Formation and Supernova Histories Reconstructed from Young Star Clusters**|Cameren Swiggum et.al.|[2608.20307](http://arxiv.org/abs/2608.20307)|null|
+|**2026-08-20**|**Calibration-Induced Degeneracy in LLM Financial Forecasting: An Audit-Trailed Case Study on Next-Day Market Risk**|Arin Mohanty et.al.|[2608.20304](http://arxiv.org/abs/2608.20304)|null|
 |**2026-08-19**|**SPADE: Self-Play in Adaptive Synthetic Executable Environments**|Bo Liu et.al.|[2608.19197](http://arxiv.org/abs/2608.19197)|null|
 |**2026-08-19**|**An improved volume bound under Ricci and scalar curvature lower bounds**|Kwok-Kun Kwong et.al.|[2608.19196](http://arxiv.org/abs/2608.19196)|null|
 |**2026-08-19**|**A Localized Fourier Extension Method for Piecewise-Smooth Inverse Source Reconstruction**|Zhihong Dou et.al.|[2608.19193](http://arxiv.org/abs/2608.19193)|null|
@@ -1348,6 +1358,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-20**|**An Optical Illusion: High Electron Densities Create Extremely Metal-Poor Galaxy Impostors**|Tiger Yu-Yang Hsiao et.al.|[2608.20339](http://arxiv.org/abs/2608.20339)|null|
+|**2026-08-20**|**WithEveryone: Unified Planning and Identity Grounding for Group Image Generation**|Hengyuan Xu et.al.|[2608.20336](http://arxiv.org/abs/2608.20336)|null|
+|**2026-08-20**|**4DAnyone: Create Anyone in 4D from a Casual Monocular Video**|Yudong Jin et.al.|[2608.20335](http://arxiv.org/abs/2608.20335)|null|
+|**2026-08-20**|**Swift-Image: Exploring the Performance Frontier of Compact Unified Image Generation Models**|Taihang Hu et.al.|[2608.20334](http://arxiv.org/abs/2608.20334)|null|
+|**2026-08-20**|**Maximal Torus Topological Entanglement Entropy in WZW Theories at Bounded Ground-State Degeneracy**|Ce Shen et.al.|[2608.20333](http://arxiv.org/abs/2608.20333)|null|
+|**2026-08-20**|**A Protocol for Shielding-Enhanced Loading of Single Polar Molecules into Optical Tweezers**|Reuben R. W. Wang et.al.|[2608.20332](http://arxiv.org/abs/2608.20332)|null|
+|**2026-08-20**|**G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation**|Shiao Xie et.al.|[2608.20331](http://arxiv.org/abs/2608.20331)|null|
+|**2026-08-20**|**Competing triangular and stripe supersolid orders in a dipolar quantum gas**|Karthik Chandrashekara et.al.|[2608.20327](http://arxiv.org/abs/2608.20327)|null|
+|**2026-08-20**|**Correspondence between hydrodynamic frames, transport coefficients, and hydrodynamic modes in relativistic fluids**|Md Hasanujjaman et.al.|[2608.20324](http://arxiv.org/abs/2608.20324)|null|
+|**2026-08-20**|**Spin-torque microwave detectors of positive rectangular pulse signals**|V. Prokopenko et.al.|[2608.20323](http://arxiv.org/abs/2608.20323)|null|
 |**2026-08-19**|**Probabilistic Representation and Convergence of Gromov-Wasserstein Gradient Flows**|Venkatkrishna Karumanchi et.al.|[2608.19198](http://arxiv.org/abs/2608.19198)|null|
 |**2026-08-19**|**SPADE: Self-Play in Adaptive Synthetic Executable Environments**|Bo Liu et.al.|[2608.19197](http://arxiv.org/abs/2608.19197)|null|
 |**2026-08-19**|**The Structured Totient Preimage Problem: Reconstruction, Collisions, and Cryptographic Implications**|Luis Adrián Lizama-Pérez et.al.|[2608.19191](http://arxiv.org/abs/2608.19191)|null|
@@ -2553,6 +2573,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-20**|**Group-theoretic treatment of strong light-matter coupling with an arbitrary number of excitations**|Antti Peltola et.al.|[2608.20340](http://arxiv.org/abs/2608.20340)|null|
+|**2026-08-20**|**ConceptGuard: Benchmarking Context-Sensitive Unlearning in Large Language Models**|Sahil Kale et.al.|[2608.20338](http://arxiv.org/abs/2608.20338)|null|
+|**2026-08-20**|**Swift-Image: Exploring the Performance Frontier of Compact Unified Image Generation Models**|Taihang Hu et.al.|[2608.20334](http://arxiv.org/abs/2608.20334)|null|
+|**2026-08-20**|**Maximal Torus Topological Entanglement Entropy in WZW Theories at Bounded Ground-State Degeneracy**|Ce Shen et.al.|[2608.20333](http://arxiv.org/abs/2608.20333)|null|
+|**2026-08-20**|**A Protocol for Shielding-Enhanced Loading of Single Polar Molecules into Optical Tweezers**|Reuben R. W. Wang et.al.|[2608.20332](http://arxiv.org/abs/2608.20332)|null|
+|**2026-08-20**|**Torus Berry Data Determine All-Genus Abelian Topological Orders**|Daniel Galviz et.al.|[2608.20330](http://arxiv.org/abs/2608.20330)|null|
+|**2026-08-20**|**Production of quarkonium pairs via the fragmentation mechanism**|Franco Barattini et.al.|[2608.20329](http://arxiv.org/abs/2608.20329)|null|
+|**2026-08-20**|**The Memory Hidden in Response Fluctuations: Trajectory-Level Fluctuation-Response Theory and Inequalities for Non-Markovian Jump Dynamics**|Jiming Zheng et.al.|[2608.20328](http://arxiv.org/abs/2608.20328)|null|
+|**2026-08-20**|**$TCP_α$ : Margin-Controlled Confidence estimation for reliable Music Information Retrieval**|Parampreet Singh et.al.|[2608.20326](http://arxiv.org/abs/2608.20326)|null|
+|**2026-08-20**|**Correspondence between hydrodynamic frames, transport coefficients, and hydrodynamic modes in relativistic fluids**|Md Hasanujjaman et.al.|[2608.20324](http://arxiv.org/abs/2608.20324)|null|
 |**2026-08-19**|**Probabilistic Representation and Convergence of Gromov-Wasserstein Gradient Flows**|Venkatkrishna Karumanchi et.al.|[2608.19198](http://arxiv.org/abs/2608.19198)|null|
 |**2026-08-19**|**SPADE: Self-Play in Adaptive Synthetic Executable Environments**|Bo Liu et.al.|[2608.19197](http://arxiv.org/abs/2608.19197)|null|
 |**2026-08-19**|**An improved volume bound under Ricci and scalar curvature lower bounds**|Kwok-Kun Kwong et.al.|[2608.19196](http://arxiv.org/abs/2608.19196)|null|
@@ -3761,6 +3791,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-20**|**An Optical Illusion: High Electron Densities Create Extremely Metal-Poor Galaxy Impostors**|Tiger Yu-Yang Hsiao et.al.|[2608.20339](http://arxiv.org/abs/2608.20339)|null|
+|**2026-08-20**|**Information on trajectories: martingales and random times**|Akshay Balsubramani et.al.|[2608.20337](http://arxiv.org/abs/2608.20337)|null|
+|**2026-08-20**|**A Protocol for Shielding-Enhanced Loading of Single Polar Molecules into Optical Tweezers**|Reuben R. W. Wang et.al.|[2608.20332](http://arxiv.org/abs/2608.20332)|null|
+|**2026-08-20**|**G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation**|Shiao Xie et.al.|[2608.20331](http://arxiv.org/abs/2608.20331)|null|
+|**2026-08-20**|**Torus Berry Data Determine All-Genus Abelian Topological Orders**|Daniel Galviz et.al.|[2608.20330](http://arxiv.org/abs/2608.20330)|null|
+|**2026-08-20**|**The Memory Hidden in Response Fluctuations: Trajectory-Level Fluctuation-Response Theory and Inequalities for Non-Markovian Jump Dynamics**|Jiming Zheng et.al.|[2608.20328](http://arxiv.org/abs/2608.20328)|null|
+|**2026-08-20**|**Large Sample Properties of Higher Order Markov Models**|Tuhin Majumder et.al.|[2608.20321](http://arxiv.org/abs/2608.20321)|null|
+|**2026-08-20**|**An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction**|Narges Ahmadi et.al.|[2608.20320](http://arxiv.org/abs/2608.20320)|null|
+|**2026-08-20**|**Projecting BrowseComp-Plus onto ClimbMix: Toward More Realistic Corpora for Agentic Search**|Sahel Sharifymoghaddam et.al.|[2608.20317](http://arxiv.org/abs/2608.20317)|null|
+|**2026-08-20**|**Pandora's AI Model Routing Box: Efficient Allocation with Costly Value Estimation**|Adam Fisch et.al.|[2608.20316](http://arxiv.org/abs/2608.20316)|null|
 |**2026-08-19**|**Probabilistic Representation and Convergence of Gromov-Wasserstein Gradient Flows**|Venkatkrishna Karumanchi et.al.|[2608.19198](http://arxiv.org/abs/2608.19198)|null|
 |**2026-08-19**|**SPADE: Self-Play in Adaptive Synthetic Executable Environments**|Bo Liu et.al.|[2608.19197](http://arxiv.org/abs/2608.19197)|null|
 |**2026-08-19**|**An improved volume bound under Ricci and scalar curvature lower bounds**|Kwok-Kun Kwong et.al.|[2608.19196](http://arxiv.org/abs/2608.19196)|null|
@@ -4996,6 +5036,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-20**|**Group-theoretic treatment of strong light-matter coupling with an arbitrary number of excitations**|Antti Peltola et.al.|[2608.20340](http://arxiv.org/abs/2608.20340)|null|
+|**2026-08-20**|**ConceptGuard: Benchmarking Context-Sensitive Unlearning in Large Language Models**|Sahil Kale et.al.|[2608.20338](http://arxiv.org/abs/2608.20338)|null|
+|**2026-08-20**|**Information on trajectories: martingales and random times**|Akshay Balsubramani et.al.|[2608.20337](http://arxiv.org/abs/2608.20337)|null|
+|**2026-08-20**|**Swift-Image: Exploring the Performance Frontier of Compact Unified Image Generation Models**|Taihang Hu et.al.|[2608.20334](http://arxiv.org/abs/2608.20334)|null|
+|**2026-08-20**|**A Protocol for Shielding-Enhanced Loading of Single Polar Molecules into Optical Tweezers**|Reuben R. W. Wang et.al.|[2608.20332](http://arxiv.org/abs/2608.20332)|null|
+|**2026-08-20**|**G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation**|Shiao Xie et.al.|[2608.20331](http://arxiv.org/abs/2608.20331)|null|
+|**2026-08-20**|**Production of quarkonium pairs via the fragmentation mechanism**|Franco Barattini et.al.|[2608.20329](http://arxiv.org/abs/2608.20329)|null|
+|**2026-08-20**|**Large Sample Properties of Higher Order Markov Models**|Tuhin Majumder et.al.|[2608.20321](http://arxiv.org/abs/2608.20321)|null|
+|**2026-08-20**|**An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction**|Narges Ahmadi et.al.|[2608.20320](http://arxiv.org/abs/2608.20320)|null|
+|**2026-08-20**|**Inducing Task Models from Computer-Use Traces**|Yucheng Jiang et.al.|[2608.20319](http://arxiv.org/abs/2608.20319)|null|
 |**2026-08-19**|**SPADE: Self-Play in Adaptive Synthetic Executable Environments**|Bo Liu et.al.|[2608.19197](http://arxiv.org/abs/2608.19197)|null|
 |**2026-08-19**|**An improved volume bound under Ricci and scalar curvature lower bounds**|Kwok-Kun Kwong et.al.|[2608.19196](http://arxiv.org/abs/2608.19196)|null|
 |**2026-08-19**|**Qualified Cross-References as a Verification Method: The Normative Environment of the EU AI Act**|Nicola Fabiano et.al.|[2608.19194](http://arxiv.org/abs/2608.19194)|null|
@@ -6252,6 +6302,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-20**|**An Optical Illusion: High Electron Densities Create Extremely Metal-Poor Galaxy Impostors**|Tiger Yu-Yang Hsiao et.al.|[2608.20339](http://arxiv.org/abs/2608.20339)|null|
+|**2026-08-20**|**ConceptGuard: Benchmarking Context-Sensitive Unlearning in Large Language Models**|Sahil Kale et.al.|[2608.20338](http://arxiv.org/abs/2608.20338)|null|
+|**2026-08-20**|**Information on trajectories: martingales and random times**|Akshay Balsubramani et.al.|[2608.20337](http://arxiv.org/abs/2608.20337)|null|
+|**2026-08-20**|**WithEveryone: Unified Planning and Identity Grounding for Group Image Generation**|Hengyuan Xu et.al.|[2608.20336](http://arxiv.org/abs/2608.20336)|null|
+|**2026-08-20**|**Swift-Image: Exploring the Performance Frontier of Compact Unified Image Generation Models**|Taihang Hu et.al.|[2608.20334](http://arxiv.org/abs/2608.20334)|null|
+|**2026-08-20**|**Maximal Torus Topological Entanglement Entropy in WZW Theories at Bounded Ground-State Degeneracy**|Ce Shen et.al.|[2608.20333](http://arxiv.org/abs/2608.20333)|null|
+|**2026-08-20**|**G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation**|Shiao Xie et.al.|[2608.20331](http://arxiv.org/abs/2608.20331)|null|
+|**2026-08-20**|**The Memory Hidden in Response Fluctuations: Trajectory-Level Fluctuation-Response Theory and Inequalities for Non-Markovian Jump Dynamics**|Jiming Zheng et.al.|[2608.20328](http://arxiv.org/abs/2608.20328)|null|
+|**2026-08-20**|**Competing triangular and stripe supersolid orders in a dipolar quantum gas**|Karthik Chandrashekara et.al.|[2608.20327](http://arxiv.org/abs/2608.20327)|null|
+|**2026-08-20**|**$TCP_α$ : Margin-Controlled Confidence estimation for reliable Music Information Retrieval**|Parampreet Singh et.al.|[2608.20326](http://arxiv.org/abs/2608.20326)|null|
 |**2026-08-19**|**Probabilistic Representation and Convergence of Gromov-Wasserstein Gradient Flows**|Venkatkrishna Karumanchi et.al.|[2608.19198](http://arxiv.org/abs/2608.19198)|null|
 |**2026-08-19**|**SPADE: Self-Play in Adaptive Synthetic Executable Environments**|Bo Liu et.al.|[2608.19197](http://arxiv.org/abs/2608.19197)|null|
 |**2026-08-19**|**An improved volume bound under Ricci and scalar curvature lower bounds**|Kwok-Kun Kwong et.al.|[2608.19196](http://arxiv.org/abs/2608.19196)|null|
