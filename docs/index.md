@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.08.24
+## Updated on 2026.08.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-21**|**Mining beyond Earth with Space Robots: Exploration, Sampling, and Extraction**|Dong Li et.al.|[2608.21358](http://arxiv.org/abs/2608.21358)|null|
+|**2026-08-21**|**AI with Authority, from Application to Silicon**|Jason Hickey et.al.|[2608.21356](http://arxiv.org/abs/2608.21356)|null|
+|**2026-08-21**|**ViTacPhys: Physical Property-Aware Grasping from Human Visual-Tactile Demonstrations**|Yiwen Liu et.al.|[2608.21355](http://arxiv.org/abs/2608.21355)|null|
+|**2026-08-21**|**Pattern avoidance in canon permutations**|Robert Laudone et.al.|[2608.21351](http://arxiv.org/abs/2608.21351)|null|
+|**2026-08-21**|**Magic Velocity Selection in Atom Interferometry**|Yuno Iwasaki et.al.|[2608.21350](http://arxiv.org/abs/2608.21350)|null|
+|**2026-08-21**|**Truthful Calibration Measures for Sequential Prediction**|Anagha Gokul et.al.|[2608.21348](http://arxiv.org/abs/2608.21348)|null|
+|**2026-08-21**|**Sums of products of Kloosterman sums to prime power moduli**|Djordje Milićević et.al.|[2608.21346](http://arxiv.org/abs/2608.21346)|null|
+|**2026-08-21**|**Bottomonium transport in the sQGP at RHIC and the LHC**|Biaogang Wu et.al.|[2608.21344](http://arxiv.org/abs/2608.21344)|null|
+|**2026-08-21**|**Slepian Bounds on the Success Probability of Virtual Distillation**|Masayuki Ohzeki et.al.|[2608.21342](http://arxiv.org/abs/2608.21342)|null|
+|**2026-08-21**|**Efficient Event Generation for High-Multiplicity LHC Processes: An End-to-End GPU Workflow with Normalizing Flows**|Enrico Bothmann et.al.|[2608.21338](http://arxiv.org/abs/2608.21338)|null|
 |**2026-08-20**|**Group-theoretic treatment of strong light-matter coupling with an arbitrary number of excitations**|Antti Peltola et.al.|[2608.20340](http://arxiv.org/abs/2608.20340)|null|
 |**2026-08-20**|**Information on trajectories: martingales and random times**|Akshay Balsubramani et.al.|[2608.20337](http://arxiv.org/abs/2608.20337)|null|
 |**2026-08-20**|**WithEveryone: Unified Planning and Identity Grounding for Group Image Generation**|Hengyuan Xu et.al.|[2608.20336](http://arxiv.org/abs/2608.20336)|null|
@@ -1358,6 +1368,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-21**|**OmniAssistBench: Assistant-style Interaction Benchmark for Omni-LLMs**|Xianyun Sun et.al.|[2608.21360](http://arxiv.org/abs/2608.21360)|null|
+|**2026-08-21**|**Primal Acceleration of Newton's Method**|Nikita Doikov et.al.|[2608.21359](http://arxiv.org/abs/2608.21359)|null|
+|**2026-08-21**|**Cohomological Reduction for Fiber-Contracting Extensions:From Subcohomology to Thermodynamic Formalism**|Giovane Ferreira et.al.|[2608.21352](http://arxiv.org/abs/2608.21352)|null|
+|**2026-08-21**|**Pattern avoidance in canon permutations**|Robert Laudone et.al.|[2608.21351](http://arxiv.org/abs/2608.21351)|null|
+|**2026-08-21**|**Natural-Language Workflows Are Not Software Yet: Artifact-Driven Compilation for Reliable Agent Execution**|Xiangzhe Xu et.al.|[2608.21341](http://arxiv.org/abs/2608.21341)|null|
+|**2026-08-21**|**Anatomy-Informed Neural Networks: Encoding Anatomic Priors in Loss and Architecture, with an SE(3) Formulation of Guidewire-Induced Aortoiliac Deformation**|David P. Stonko et.al.|[2608.21332](http://arxiv.org/abs/2608.21332)|null|
+|**2026-08-21**|**Dynamics of localized solutions in three core coupled waveguides with quasi-periodic nonlinearity**|Bruno M. Miranda et.al.|[2608.21331](http://arxiv.org/abs/2608.21331)|null|
+|**2026-08-21**|**Machine learning predictions of the Hessian matrix for peptides chains and small proteins**|Giorgio Domenichini et.al.|[2608.21322](http://arxiv.org/abs/2608.21322)|null|
+|**2026-08-21**|**Hypothesis testing between quantum ensembles**|Jian Yao et.al.|[2608.21321](http://arxiv.org/abs/2608.21321)|null|
+|**2026-08-21**|**Unified Branch-and-Bound Search for the Steiner Traveling Salesman Problem on Graphs of Convex Sets**|Jingtao Tang et.al.|[2608.21319](http://arxiv.org/abs/2608.21319)|null|
 |**2026-08-20**|**An Optical Illusion: High Electron Densities Create Extremely Metal-Poor Galaxy Impostors**|Tiger Yu-Yang Hsiao et.al.|[2608.20339](http://arxiv.org/abs/2608.20339)|null|
 |**2026-08-20**|**WithEveryone: Unified Planning and Identity Grounding for Group Image Generation**|Hengyuan Xu et.al.|[2608.20336](http://arxiv.org/abs/2608.20336)|null|
 |**2026-08-20**|**4DAnyone: Create Anyone in 4D from a Casual Monocular Video**|Yudong Jin et.al.|[2608.20335](http://arxiv.org/abs/2608.20335)|null|
@@ -2573,6 +2593,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-21**|**Primal Acceleration of Newton's Method**|Nikita Doikov et.al.|[2608.21359](http://arxiv.org/abs/2608.21359)|null|
+|**2026-08-21**|**Mining beyond Earth with Space Robots: Exploration, Sampling, and Extraction**|Dong Li et.al.|[2608.21358](http://arxiv.org/abs/2608.21358)|null|
+|**2026-08-21**|**AI with Authority, from Application to Silicon**|Jason Hickey et.al.|[2608.21356](http://arxiv.org/abs/2608.21356)|null|
+|**2026-08-21**|**Cohomological Reduction for Fiber-Contracting Extensions:From Subcohomology to Thermodynamic Formalism**|Giovane Ferreira et.al.|[2608.21352](http://arxiv.org/abs/2608.21352)|null|
+|**2026-08-21**|**Sums of products of Kloosterman sums to prime power moduli**|Djordje Milićević et.al.|[2608.21346](http://arxiv.org/abs/2608.21346)|null|
+|**2026-08-21**|**Asymmetric Capacity Allocation in Self-Refinement Pipelines**|Zhuoyi Yang et.al.|[2608.21345](http://arxiv.org/abs/2608.21345)|null|
+|**2026-08-21**|**Bottomonium transport in the sQGP at RHIC and the LHC**|Biaogang Wu et.al.|[2608.21344](http://arxiv.org/abs/2608.21344)|null|
+|**2026-08-21**|**TurboBias 2.0: Streaming Context-Biasing for Production-Efficient ASR Systems**|Vladimir Bataev et.al.|[2608.21343](http://arxiv.org/abs/2608.21343)|null|
+|**2026-08-21**|**Natural-Language Workflows Are Not Software Yet: Artifact-Driven Compilation for Reliable Agent Execution**|Xiangzhe Xu et.al.|[2608.21341](http://arxiv.org/abs/2608.21341)|null|
+|**2026-08-21**|**The first tight classification of skew-constacyclic codes over finite fields**|Monica Nevins et.al.|[2608.21339](http://arxiv.org/abs/2608.21339)|null|
 |**2026-08-20**|**Group-theoretic treatment of strong light-matter coupling with an arbitrary number of excitations**|Antti Peltola et.al.|[2608.20340](http://arxiv.org/abs/2608.20340)|null|
 |**2026-08-20**|**ConceptGuard: Benchmarking Context-Sensitive Unlearning in Large Language Models**|Sahil Kale et.al.|[2608.20338](http://arxiv.org/abs/2608.20338)|null|
 |**2026-08-20**|**Swift-Image: Exploring the Performance Frontier of Compact Unified Image Generation Models**|Taihang Hu et.al.|[2608.20334](http://arxiv.org/abs/2608.20334)|null|
@@ -3791,6 +3821,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-21**|**Dissipative framework for subsystem dynamics of noninteracting quantum chains**|Michele Coppola et.al.|[2608.21336](http://arxiv.org/abs/2608.21336)|null|
+|**2026-08-21**|**Dirac Surface States and Nonlocal Quantum Tunneling in Topological Semiconductor Mo $_2$SeTe$_3$ for High-Performance Tunnel FETs**|Zafar Sadik Mehrub et.al.|[2608.21333](http://arxiv.org/abs/2608.21333)|null|
+|**2026-08-21**|**Hypothesis testing between quantum ensembles**|Jian Yao et.al.|[2608.21321](http://arxiv.org/abs/2608.21321)|null|
+|**2026-08-21**|**VTRQ: Enabling Verifiable Trajectory Range Queries in Hybrid-Storage Blockchains**|Zhongming Yao et.al.|[2608.21314](http://arxiv.org/abs/2608.21314)|null|
+|**2026-08-21**|**Beyond Fault Localization: A Trajectory-Level Study of LLM Agents for Microservice Root Cause Analysis**|Qisheng Lu et.al.|[2608.21310](http://arxiv.org/abs/2608.21310)|null|
+|**2026-08-21**|**SPARCL: Spectral Partitioned Analytic Continual Learning**|James Hartley et.al.|[2608.21307](http://arxiv.org/abs/2608.21307)|null|
+|**2026-08-21**|**Basin-Preserving Discretizations of Modern Hopfield Retrieval Dynamics: Energy Cells, Dissipation, and the Attention Limit**|Francisco R. Villatoro et.al.|[2608.21304](http://arxiv.org/abs/2608.21304)|null|
+|**2026-08-21**|**Chemical Control of Electronic Structure and Topology in Tellurium-Encapsulated Silicene**|Gabriel Elyas Gama Araujo et.al.|[2608.21295](http://arxiv.org/abs/2608.21295)|null|
+|**2026-08-21**|**Event-Time Confounding Under Bursty Human Dynamics**|Michael Iannelli et.al.|[2608.21294](http://arxiv.org/abs/2608.21294)|null|
+|**2026-08-21**|**The Random Magnetic Field of the Milky Way**|Michael Unger et.al.|[2608.21293](http://arxiv.org/abs/2608.21293)|null|
 |**2026-08-20**|**An Optical Illusion: High Electron Densities Create Extremely Metal-Poor Galaxy Impostors**|Tiger Yu-Yang Hsiao et.al.|[2608.20339](http://arxiv.org/abs/2608.20339)|null|
 |**2026-08-20**|**Information on trajectories: martingales and random times**|Akshay Balsubramani et.al.|[2608.20337](http://arxiv.org/abs/2608.20337)|null|
 |**2026-08-20**|**A Protocol for Shielding-Enhanced Loading of Single Polar Molecules into Optical Tweezers**|Reuben R. W. Wang et.al.|[2608.20332](http://arxiv.org/abs/2608.20332)|null|
@@ -5036,6 +5076,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-21**|**Classical versus non-classical photon states for detecting vacuum non-linearity**|N. Ahmadiniaz et.al.|[2608.21361](http://arxiv.org/abs/2608.21361)|null|
+|**2026-08-21**|**OmniAssistBench: Assistant-style Interaction Benchmark for Omni-LLMs**|Xianyun Sun et.al.|[2608.21360](http://arxiv.org/abs/2608.21360)|null|
+|**2026-08-21**|**Primal Acceleration of Newton's Method**|Nikita Doikov et.al.|[2608.21359](http://arxiv.org/abs/2608.21359)|null|
+|**2026-08-21**|**VIALS: A Benchmark for Visual Interpretation of Artifacts in the Life Sciences**|Elaine Lau et.al.|[2608.21357](http://arxiv.org/abs/2608.21357)|null|
+|**2026-08-21**|**AI with Authority, from Application to Silicon**|Jason Hickey et.al.|[2608.21356](http://arxiv.org/abs/2608.21356)|null|
+|**2026-08-21**|**Almost sure upper bound for sums of random multiplicative functions and critical chaos**|William Verreault et.al.|[2608.21354](http://arxiv.org/abs/2608.21354)|null|
+|**2026-08-21**|**High-Energy Neutrino Constraints on memory burdened Bardeen and Kerr Primordial Black Holes**|Md Riajul Haque et.al.|[2608.21353](http://arxiv.org/abs/2608.21353)|null|
+|**2026-08-21**|**Cohomological Reduction for Fiber-Contracting Extensions:From Subcohomology to Thermodynamic Formalism**|Giovane Ferreira et.al.|[2608.21352](http://arxiv.org/abs/2608.21352)|null|
+|**2026-08-21**|**Pattern avoidance in canon permutations**|Robert Laudone et.al.|[2608.21351](http://arxiv.org/abs/2608.21351)|null|
+|**2026-08-21**|**Exact Minimum $d$ -Degree Thresholds for Hypergraph Perfect Matchings**|Jie Han et.al.|[2608.21347](http://arxiv.org/abs/2608.21347)|null|
 |**2026-08-20**|**Group-theoretic treatment of strong light-matter coupling with an arbitrary number of excitations**|Antti Peltola et.al.|[2608.20340](http://arxiv.org/abs/2608.20340)|null|
 |**2026-08-20**|**ConceptGuard: Benchmarking Context-Sensitive Unlearning in Large Language Models**|Sahil Kale et.al.|[2608.20338](http://arxiv.org/abs/2608.20338)|null|
 |**2026-08-20**|**Information on trajectories: martingales and random times**|Akshay Balsubramani et.al.|[2608.20337](http://arxiv.org/abs/2608.20337)|null|
@@ -6302,6 +6352,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-21**|**Classical versus non-classical photon states for detecting vacuum non-linearity**|N. Ahmadiniaz et.al.|[2608.21361](http://arxiv.org/abs/2608.21361)|null|
+|**2026-08-21**|**Primal Acceleration of Newton's Method**|Nikita Doikov et.al.|[2608.21359](http://arxiv.org/abs/2608.21359)|null|
+|**2026-08-21**|**Mining beyond Earth with Space Robots: Exploration, Sampling, and Extraction**|Dong Li et.al.|[2608.21358](http://arxiv.org/abs/2608.21358)|null|
+|**2026-08-21**|**VIALS: A Benchmark for Visual Interpretation of Artifacts in the Life Sciences**|Elaine Lau et.al.|[2608.21357](http://arxiv.org/abs/2608.21357)|null|
+|**2026-08-21**|**AI with Authority, from Application to Silicon**|Jason Hickey et.al.|[2608.21356](http://arxiv.org/abs/2608.21356)|null|
+|**2026-08-21**|**Cohomological Reduction for Fiber-Contracting Extensions:From Subcohomology to Thermodynamic Formalism**|Giovane Ferreira et.al.|[2608.21352](http://arxiv.org/abs/2608.21352)|null|
+|**2026-08-21**|**PerturbRx: Learning Treatment-Conditioned Latent Transitions for Patient Drug Response Prediction**|Yoshitaka Inoue et.al.|[2608.21349](http://arxiv.org/abs/2608.21349)|null|
+|**2026-08-21**|**Truthful Calibration Measures for Sequential Prediction**|Anagha Gokul et.al.|[2608.21348](http://arxiv.org/abs/2608.21348)|null|
+|**2026-08-21**|**Asymmetric Capacity Allocation in Self-Refinement Pipelines**|Zhuoyi Yang et.al.|[2608.21345](http://arxiv.org/abs/2608.21345)|null|
+|**2026-08-21**|**TurboBias 2.0: Streaming Context-Biasing for Production-Efficient ASR Systems**|Vladimir Bataev et.al.|[2608.21343](http://arxiv.org/abs/2608.21343)|null|
 |**2026-08-20**|**An Optical Illusion: High Electron Densities Create Extremely Metal-Poor Galaxy Impostors**|Tiger Yu-Yang Hsiao et.al.|[2608.20339](http://arxiv.org/abs/2608.20339)|null|
 |**2026-08-20**|**ConceptGuard: Benchmarking Context-Sensitive Unlearning in Large Language Models**|Sahil Kale et.al.|[2608.20338](http://arxiv.org/abs/2608.20338)|null|
 |**2026-08-20**|**Information on trajectories: martingales and random times**|Akshay Balsubramani et.al.|[2608.20337](http://arxiv.org/abs/2608.20337)|null|
