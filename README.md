@@ -1,4 +1,4 @@
-## Updated on 2026.08.26
+## Updated on 2026.08.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -61,7 +61,7 @@
 |**2025-04-22**|**Trustworthy Decentralized Autonomous Machines: A New Paradigm in Automation Economy**|Fernando Castillo et.al.|[2504.15676](http://arxiv.org/abs/2504.15676)|null|
 |**2025-03-20**|**Financial Twin Chain, a Platform to Support Financial Sustainability in Supply Chains**|Giuseppe Galante et.al.|[2503.15980](http://arxiv.org/abs/2503.15980)|null|
 
-<p align=right>(<a href=#updated-on-20260826>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260827>back to top</a>)</p>
 
 ## Smart Contracts & AI
 
@@ -88,7 +88,7 @@
 |**2025-10-07**|**Smart Contract Adoption under Discrete Overdispersed Demand: A Negative Binomial Optimization Perspective**|Jinho Cha et.al.|[2510.05487](http://arxiv.org/abs/2510.05487)|null|
 |**2025-10-06**|**LMM-Incentive: Large Multimodal Model-based Incentive Design for User-Generated Content in Web 3.0**|Jinbo Wen et.al.|[2510.04765](http://arxiv.org/abs/2510.04765)|null|
 
-<p align=right>(<a href=#updated-on-20260826>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260827>back to top</a>)</p>
 
 ## Blockchain Consensus & AI
 
@@ -124,7 +124,7 @@
 |**2022-09-30**|**Blockchain-based Monitoring for Poison Attack Detection in Decentralized Federated Learning**|Ranwa Al Mallah et.al.|[2210.02873](http://arxiv.org/abs/2210.02873)|null|
 |**2021-11-12**|**Device-Independent-Quantum-Randomness-Enhanced Zero-Knowledge Proof**|Cheng-Long Li et.al.|[2111.06717](http://arxiv.org/abs/2111.06717)|null|
 
-<p align=right>(<a href=#updated-on-20260826>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260827>back to top</a>)</p>
 
 ## DeFi & AI
 
@@ -143,12 +143,22 @@
 |**2025-10-24**|**Machine Learning Prediction of Magnetic Proximity Effect in van der Waals Heterostructures: From Atoms to Moiré**|Lukas Cvitkovich et.al.|[2508.12406](http://arxiv.org/abs/2508.12406)|null|
 |**2025-09-12**|**Web3 x AI Agents: Landscape, Integrations, and Foundational Challenges**|Yiming Shen et.al.|[2508.02773](http://arxiv.org/abs/2508.02773)|null|
 
-<p align=right>(<a href=#updated-on-20260826>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260827>back to top</a>)</p>
 
 ## Blockchain
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-26**|**VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning**|Junxiang Xu et.al.|[2608.26105](http://arxiv.org/abs/2608.26105)|null|
+|**2026-08-26**|**Exact analytical spectrum, eigenstates, and quantum geometry of the quarter-flux Harper-Hofstadter model**|Isaac Tesfaye et.al.|[2608.26099](http://arxiv.org/abs/2608.26099)|null|
+|**2026-08-26**|**Torsion balances as operational probes of semiclassical gravity: Matched-filter bounds, torque-diffusion constraints, and quantum-noise benchmarks**|Jyotirmaya Mohanta et.al.|[2608.26096](http://arxiv.org/abs/2608.26096)|null|
+|**2026-08-26**|**Agentic Autoresearch for Cell-Edge Power Control: Radically Redefining the Researcher's Role**|Ahmad Khan et.al.|[2608.26093](http://arxiv.org/abs/2608.26093)|null|
+|**2026-08-26**|**Optimal differentiability of isotropic positive definite functions on even-dimensional spheres**|Yan Ge et.al.|[2608.26092](http://arxiv.org/abs/2608.26092)|null|
+|**2026-08-26**|**Planetary Prediction Engine: Autonomous Geospatial Prediction via Intelligent Data Selection and Foundation Model Embeddings**|Evelyn Ma et.al.|[2608.26088](http://arxiv.org/abs/2608.26088)|null|
+|**2026-08-26**|**ICON Decomposition: Multivariate Concept-Level Explanations of Deep Representations for Model Auditing**|Roshan Prakash Rane et.al.|[2608.26083](http://arxiv.org/abs/2608.26083)|null|
+|**2026-08-26**|**Yang-Lee Criticality as a Dissipative Dynamical Phase Transition: Quantum Simulation of non-Hermitian Physics without Post-selection**|Stephen W. Yan et.al.|[2608.26082](http://arxiv.org/abs/2608.26082)|null|
+|**2026-08-26**|**Negative Effective Divisors and Bridgeland Stability of Line Bundles on Surfaces**|Anthony Mäkelä et.al.|[2608.26080](http://arxiv.org/abs/2608.26080)|null|
+|**2026-08-26**|**Parity Anomaly as Modular Commutator with Massless Dirac Fermion**|Meng Zeng et.al.|[2608.26078](http://arxiv.org/abs/2608.26078)|null|
 |**2026-08-24**|**ReWorld: An Interactive World Model with Long-Horizon Memory**|Zhifei Chen et.al.|[2608.23565](http://arxiv.org/abs/2608.23565)|null|
 |**2026-08-24**|**SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?**|Deyao Hong et.al.|[2608.23564](http://arxiv.org/abs/2608.23564)|null|
 |**2026-08-24**|**Power-saving bounds for Thue--Mahler and Mordell equations**|Hector Pasten et.al.|[2608.23559](http://arxiv.org/abs/2608.23559)|null|
@@ -1394,12 +1404,22 @@
 |**2026-02-04**|**Capacity Bounds on Doppler OFDM Channels**|Pablo Orellana et.al.|[2602.04862](http://arxiv.org/abs/2602.04862)|null|
 |**2026-02-04**|**CoT is Not the Chain of Truth: An Empirical Internal Analysis of Reasoning LLMs for Fake News Generation**|Zhao Tong et.al.|[2602.04856](http://arxiv.org/abs/2602.04856)|null|
 
-<p align=right>(<a href=#updated-on-20260826>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260827>back to top</a>)</p>
 
 ## Smart Contract
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-26**|**VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning**|Junxiang Xu et.al.|[2608.26105](http://arxiv.org/abs/2608.26105)|null|
+|**2026-08-26**|**Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization**|Jiaming Zhou et.al.|[2608.26103](http://arxiv.org/abs/2608.26103)|null|
+|**2026-08-26**|**Viscochiral Transport: Chiral Selection of Hydrodynamic Vortices by Berry Curvature**|Archisman Panigrahi et.al.|[2608.26102](http://arxiv.org/abs/2608.26102)|null|
+|**2026-08-26**|**RefVideo-6M: A Reliable Reference-Based Dataset for Instructional Video Editing**|Bojia Zi et.al.|[2608.26101](http://arxiv.org/abs/2608.26101)|null|
+|**2026-08-26**|**Integrated Hardware Annealing based on Langevin Dynamics for Ising Machines**|Yongchao Liu et.al.|[2608.26100](http://arxiv.org/abs/2608.26100)|null|
+|**2026-08-26**|**Exact analytical spectrum, eigenstates, and quantum geometry of the quarter-flux Harper-Hofstadter model**|Isaac Tesfaye et.al.|[2608.26099](http://arxiv.org/abs/2608.26099)|null|
+|**2026-08-26**|**A Visual Dependence-Aware Framework for Multimodal Unsupervised Continual Post-Training**|Kaichen Li et.al.|[2608.26095](http://arxiv.org/abs/2608.26095)|null|
+|**2026-08-26**|**MyoMechanix: Biomechanically-Grounded Compositional Skilled Activity Understanding and Coaching**|Hao Yin et.al.|[2608.26094](http://arxiv.org/abs/2608.26094)|null|
+|**2026-08-26**|**Agentic Autoresearch for Cell-Edge Power Control: Radically Redefining the Researcher's Role**|Ahmad Khan et.al.|[2608.26093](http://arxiv.org/abs/2608.26093)|null|
+|**2026-08-26**|**Optimal differentiability of isotropic positive definite functions on even-dimensional spheres**|Yan Ge et.al.|[2608.26092](http://arxiv.org/abs/2608.26092)|null|
 |**2026-08-24**|**How to Train a Critic Stably and Efficiently**|Penghui Qi et.al.|[2608.23566](http://arxiv.org/abs/2608.23566)|null|
 |**2026-08-24**|**SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?**|Deyao Hong et.al.|[2608.23564](http://arxiv.org/abs/2608.23564)|null|
 |**2026-08-24**|**EG-ARSA: An Expert-Grounded Open Model for Visual Road Safety Auditing in Low-Resource Settings**|Md Thamed Bin Zaman Chowdhury et.al.|[2608.23563](http://arxiv.org/abs/2608.23563)|null|
@@ -2631,12 +2651,22 @@
 |**2026-02-04**|**Homological Mirror Symmetry for orbifold log Calabi-Yau surfaces**|Bogdan Simeonov et.al.|[2602.04866](http://arxiv.org/abs/2602.04866)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260826>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260827>back to top</a>)</p>
 
 ## Consensus
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-26**|**VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning**|Junxiang Xu et.al.|[2608.26105](http://arxiv.org/abs/2608.26105)|null|
+|**2026-08-26**|**Viscochiral Transport: Chiral Selection of Hydrodynamic Vortices by Berry Curvature**|Archisman Panigrahi et.al.|[2608.26102](http://arxiv.org/abs/2608.26102)|null|
+|**2026-08-26**|**Integrated Hardware Annealing based on Langevin Dynamics for Ising Machines**|Yongchao Liu et.al.|[2608.26100](http://arxiv.org/abs/2608.26100)|null|
+|**2026-08-26**|**Exact analytical spectrum, eigenstates, and quantum geometry of the quarter-flux Harper-Hofstadter model**|Isaac Tesfaye et.al.|[2608.26099](http://arxiv.org/abs/2608.26099)|null|
+|**2026-08-26**|**Probing the Properties of Neutral Clouds in the Vicinity of the Local Bubble: Linking three-dimensional Dust with Neutral Hydrogen Absorption**|Aishani Das-Ghosh et.al.|[2608.26098](http://arxiv.org/abs/2608.26098)|null|
+|**2026-08-26**|**A Visual Dependence-Aware Framework for Multimodal Unsupervised Continual Post-Training**|Kaichen Li et.al.|[2608.26095](http://arxiv.org/abs/2608.26095)|null|
+|**2026-08-26**|**MyoMechanix: Biomechanically-Grounded Compositional Skilled Activity Understanding and Coaching**|Hao Yin et.al.|[2608.26094](http://arxiv.org/abs/2608.26094)|null|
+|**2026-08-26**|**Agentic Autoresearch for Cell-Edge Power Control: Radically Redefining the Researcher's Role**|Ahmad Khan et.al.|[2608.26093](http://arxiv.org/abs/2608.26093)|null|
+|**2026-08-26**|**PlanSightRAG: A Visual-First Multimodal RAG for Automating Question Answering and Compliance Checking for Civil Standard Plans**|Nabaraj Subedi et.al.|[2608.26091](http://arxiv.org/abs/2608.26091)|null|
+|**2026-08-26**|**Finding and using interpretable latents in a neutrino foundation model with sparse autoencoders**|Raphaël Bonnet-Guerrini et.al.|[2608.26090](http://arxiv.org/abs/2608.26090)|null|
 |**2026-08-24**|**How to Train a Critic Stably and Efficiently**|Penghui Qi et.al.|[2608.23566](http://arxiv.org/abs/2608.23566)|null|
 |**2026-08-24**|**Physics-Constrained Deep Learning Model for Contactless Blood Pressure Monitoring from Triaxial Bodyseismography**|Yuanyuan Zhang et.al.|[2608.23562](http://arxiv.org/abs/2608.23562)|null|
 |**2026-08-24**|**Spinor condensate persistent currents in an atomtronic Josephson necklace**|Sayan Chatterjee et.al.|[2608.23560](http://arxiv.org/abs/2608.23560)|null|
@@ -3871,12 +3901,22 @@
 |**2026-02-04**|**Requirements for Teleportation in an Intercity Quantum Network**|Soubhadra Maiti et.al.|[2602.04869](http://arxiv.org/abs/2602.04869)|null|
 |**2026-02-04**|**CRoSS: A Continual Robotic Simulation Suite for Scalable Reinforcement Learning with High Task Diversity and Realistic Physics Simulation**|Yannick Denker et.al.|[2602.04868](http://arxiv.org/abs/2602.04868)|null|
 
-<p align=right>(<a href=#updated-on-20260826>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260827>back to top</a>)</p>
 
 ## DeFi
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-26**|**Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization**|Jiaming Zhou et.al.|[2608.26103](http://arxiv.org/abs/2608.26103)|null|
+|**2026-08-26**|**Torsion balances as operational probes of semiclassical gravity: Matched-filter bounds, torque-diffusion constraints, and quantum-noise benchmarks**|Jyotirmaya Mohanta et.al.|[2608.26096](http://arxiv.org/abs/2608.26096)|null|
+|**2026-08-26**|**Agentic Autoresearch for Cell-Edge Power Control: Radically Redefining the Researcher's Role**|Ahmad Khan et.al.|[2608.26093](http://arxiv.org/abs/2608.26093)|null|
+|**2026-08-26**|**PlanSightRAG: A Visual-First Multimodal RAG for Automating Question Answering and Compliance Checking for Civil Standard Plans**|Nabaraj Subedi et.al.|[2608.26091](http://arxiv.org/abs/2608.26091)|null|
+|**2026-08-26**|**Finding and using interpretable latents in a neutrino foundation model with sparse autoencoders**|Raphaël Bonnet-Guerrini et.al.|[2608.26090](http://arxiv.org/abs/2608.26090)|null|
+|**2026-08-26**|**Planetary Prediction Engine: Autonomous Geospatial Prediction via Intelligent Data Selection and Foundation Model Embeddings**|Evelyn Ma et.al.|[2608.26088](http://arxiv.org/abs/2608.26088)|null|
+|**2026-08-26**|**Localic Esakia Duality via Conic Frames**|Nesta van der Schaaf et.al.|[2608.26084](http://arxiv.org/abs/2608.26084)|null|
+|**2026-08-26**|**ICON Decomposition: Multivariate Concept-Level Explanations of Deep Representations for Model Auditing**|Roshan Prakash Rane et.al.|[2608.26083](http://arxiv.org/abs/2608.26083)|null|
+|**2026-08-26**|**SwarmWorld: Stigmergic technological evolution in societies of language-model agents**|Subhadeep Pal et.al.|[2608.26081](http://arxiv.org/abs/2608.26081)|null|
+|**2026-08-26**|**Anatomy of an extensive air shower: building an optimal radio emission calculation**|Juan Ammerman-Yebra et.al.|[2608.26077](http://arxiv.org/abs/2608.26077)|null|
 |**2026-08-24**|**ReWorld: An Interactive World Model with Long-Horizon Memory**|Zhifei Chen et.al.|[2608.23565](http://arxiv.org/abs/2608.23565)|null|
 |**2026-08-24**|**SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?**|Deyao Hong et.al.|[2608.23564](http://arxiv.org/abs/2608.23564)|null|
 |**2026-08-24**|**EG-ARSA: An Expert-Grounded Open Model for Visual Road Safety Auditing in Low-Resource Settings**|Md Thamed Bin Zaman Chowdhury et.al.|[2608.23563](http://arxiv.org/abs/2608.23563)|null|
@@ -5138,12 +5178,22 @@
 |**2026-02-05**|**TxRay: Agentic Postmortem of Live Blockchain Attacks**|Ziyue Wang et.al.|[2602.01317](http://arxiv.org/abs/2602.01317)|null|
 |**2026-01-30**|**Quasiperiodic Skin Criticality in an Exactly Solvable Non-Hermitian Quasicrystal**|Zhangyuan Chen et.al.|[2601.23015](http://arxiv.org/abs/2601.23015)|null|
 
-<p align=right>(<a href=#updated-on-20260826>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260827>back to top</a>)</p>
 
 ## Cryptography
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-26**|**VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning**|Junxiang Xu et.al.|[2608.26105](http://arxiv.org/abs/2608.26105)|null|
+|**2026-08-26**|**Multicomponent Magnetic Domain Walls in Rhombohedral Graphene**|Mainak Das et.al.|[2608.26104](http://arxiv.org/abs/2608.26104)|null|
+|**2026-08-26**|**Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization**|Jiaming Zhou et.al.|[2608.26103](http://arxiv.org/abs/2608.26103)|null|
+|**2026-08-26**|**MyoMechanix: Biomechanically-Grounded Compositional Skilled Activity Understanding and Coaching**|Hao Yin et.al.|[2608.26094](http://arxiv.org/abs/2608.26094)|null|
+|**2026-08-26**|**Agentic Autoresearch for Cell-Edge Power Control: Radically Redefining the Researcher's Role**|Ahmad Khan et.al.|[2608.26093](http://arxiv.org/abs/2608.26093)|null|
+|**2026-08-26**|**Optimal differentiability of isotropic positive definite functions on even-dimensional spheres**|Yan Ge et.al.|[2608.26092](http://arxiv.org/abs/2608.26092)|null|
+|**2026-08-26**|**PlanSightRAG: A Visual-First Multimodal RAG for Automating Question Answering and Compliance Checking for Civil Standard Plans**|Nabaraj Subedi et.al.|[2608.26091](http://arxiv.org/abs/2608.26091)|null|
+|**2026-08-26**|**From Producing to Validating: How AI Is Deskilling Freelancers**|Nakul Rajpal et.al.|[2608.26089](http://arxiv.org/abs/2608.26089)|null|
+|**2026-08-26**|**The Multivariable Strong Monodromy Conjecture for Plane Curves**|Sheng Tan et.al.|[2608.26087](http://arxiv.org/abs/2608.26087)|null|
+|**2026-08-26**|**Localic Esakia Duality via Conic Frames**|Nesta van der Schaaf et.al.|[2608.26084](http://arxiv.org/abs/2608.26084)|null|
 |**2026-08-24**|**How to Train a Critic Stably and Efficiently**|Penghui Qi et.al.|[2608.23566](http://arxiv.org/abs/2608.23566)|null|
 |**2026-08-24**|**SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?**|Deyao Hong et.al.|[2608.23564](http://arxiv.org/abs/2608.23564)|null|
 |**2026-08-24**|**EG-ARSA: An Expert-Grounded Open Model for Visual Road Safety Auditing in Low-Resource Settings**|Md Thamed Bin Zaman Chowdhury et.al.|[2608.23563](http://arxiv.org/abs/2608.23563)|null|
@@ -6426,12 +6476,22 @@
 |**2026-02-04**|**Characterizing $(d,h)$ -elliptic stable irreducible curves**|Juliana Coelho et.al.|[2602.04865](http://arxiv.org/abs/2602.04865)|null|
 |**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
 
-<p align=right>(<a href=#updated-on-20260826>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260827>back to top</a>)</p>
 
 ## AI in Finance
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-26**|**VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning**|Junxiang Xu et.al.|[2608.26105](http://arxiv.org/abs/2608.26105)|null|
+|**2026-08-26**|**Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization**|Jiaming Zhou et.al.|[2608.26103](http://arxiv.org/abs/2608.26103)|null|
+|**2026-08-26**|**Viscochiral Transport: Chiral Selection of Hydrodynamic Vortices by Berry Curvature**|Archisman Panigrahi et.al.|[2608.26102](http://arxiv.org/abs/2608.26102)|null|
+|**2026-08-26**|**RefVideo-6M: A Reliable Reference-Based Dataset for Instructional Video Editing**|Bojia Zi et.al.|[2608.26101](http://arxiv.org/abs/2608.26101)|null|
+|**2026-08-26**|**Integrated Hardware Annealing based on Langevin Dynamics for Ising Machines**|Yongchao Liu et.al.|[2608.26100](http://arxiv.org/abs/2608.26100)|null|
+|**2026-08-26**|**The Isotopic and Elemental Abundances of Planet-Host Star TRAPPIST-1**|Darío González Picos et.al.|[2608.26097](http://arxiv.org/abs/2608.26097)|null|
+|**2026-08-26**|**A Visual Dependence-Aware Framework for Multimodal Unsupervised Continual Post-Training**|Kaichen Li et.al.|[2608.26095](http://arxiv.org/abs/2608.26095)|null|
+|**2026-08-26**|**MyoMechanix: Biomechanically-Grounded Compositional Skilled Activity Understanding and Coaching**|Hao Yin et.al.|[2608.26094](http://arxiv.org/abs/2608.26094)|null|
+|**2026-08-26**|**Agentic Autoresearch for Cell-Edge Power Control: Radically Redefining the Researcher's Role**|Ahmad Khan et.al.|[2608.26093](http://arxiv.org/abs/2608.26093)|null|
+|**2026-08-26**|**Optimal differentiability of isotropic positive definite functions on even-dimensional spheres**|Yan Ge et.al.|[2608.26092](http://arxiv.org/abs/2608.26092)|null|
 |**2026-08-24**|**How to Train a Critic Stably and Efficiently**|Penghui Qi et.al.|[2608.23566](http://arxiv.org/abs/2608.23566)|null|
 |**2026-08-24**|**EG-ARSA: An Expert-Grounded Open Model for Visual Road Safety Auditing in Low-Resource Settings**|Md Thamed Bin Zaman Chowdhury et.al.|[2608.23563](http://arxiv.org/abs/2608.23563)|null|
 |**2026-08-24**|**Physics-Constrained Deep Learning Model for Contactless Blood Pressure Monitoring from Triaxial Bodyseismography**|Yuanyuan Zhang et.al.|[2608.23562](http://arxiv.org/abs/2608.23562)|null|
@@ -7738,7 +7798,7 @@
 |**2026-02-04**|**Multi-layer Cross-Attention is Provably Optimal for Multi-modal In-context Learning**|Nicholas Barnfield et.al.|[2602.04872](http://arxiv.org/abs/2602.04872)|null|
 |**2026-02-04**|**Multi-Head LatentMoE and Head Parallel: Communication-Efficient and Deterministic MoE Parallelism**|Chenwei Cui et.al.|[2602.04870](http://arxiv.org/abs/2602.04870)|null|
 
-<p align=right>(<a href=#updated-on-20260826>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260827>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/jhy-3/AI4Blockchain-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/jhy-3/AI4Blockchain-arxiv-daily/graphs/contributors
