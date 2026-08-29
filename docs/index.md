@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.08.28
+## Updated on 2026.08.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-27**|**The Atacama Cosmology Telescope: Constraints on the anisotropic screening and birefringence effects with DR6**|Darby M. Kramer et.al.|[2608.27458](http://arxiv.org/abs/2608.27458)|null|
+|**2026-08-27**|**Spectral Fingerprints of Gauge Theories on a Quantum Computer**|Graham Van Goffrier et.al.|[2608.27457](http://arxiv.org/abs/2608.27457)|null|
+|**2026-08-27**|**Tacet: A Language and Type System for Automatic Statistical Validity Accounting**|Chiké Abuah et.al.|[2608.27451](http://arxiv.org/abs/2608.27451)|null|
+|**2026-08-27**|**Koszul duality and Morita categories**|Max Blans et.al.|[2608.27450](http://arxiv.org/abs/2608.27450)|null|
+|**2026-08-27**|**Proof of the AGT Conjecture at Generic $β$**|Le-Feng Chen et.al.|[2608.27447](http://arxiv.org/abs/2608.27447)|null|
+|**2026-08-27**|**Trapping $e/4$ quasiparticles in bilayer graphene**|Mario Di Luca et.al.|[2608.27444](http://arxiv.org/abs/2608.27444)|null|
+|**2026-08-27**|**Do User-Authored Permission Policies Improve Protection Against AI Agent Overreach?**|Ting Yan et.al.|[2608.27443](http://arxiv.org/abs/2608.27443)|null|
+|**2026-08-27**|**From Static to Dynamic: Benchmarking Real-World Code Review with MCR-Bench**|Dewu Zheng et.al.|[2608.27442](http://arxiv.org/abs/2608.27442)|null|
+|**2026-08-27**|**Towards the Global Torelli Theorem**|Daniil Serebrennikov et.al.|[2608.27441](http://arxiv.org/abs/2608.27441)|null|
+|**2026-08-27**|**Dynamics of local quantum information in random unitary circuits**|Ratul Thakur et.al.|[2608.27440](http://arxiv.org/abs/2608.27440)|null|
 |**2026-08-26**|**VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning**|Junxiang Xu et.al.|[2608.26105](http://arxiv.org/abs/2608.26105)|null|
 |**2026-08-26**|**Exact analytical spectrum, eigenstates, and quantum geometry of the quarter-flux Harper-Hofstadter model**|Isaac Tesfaye et.al.|[2608.26099](http://arxiv.org/abs/2608.26099)|null|
 |**2026-08-26**|**Torsion balances as operational probes of semiclassical gravity: Matched-filter bounds, torque-diffusion constraints, and quantum-noise benchmarks**|Jyotirmaya Mohanta et.al.|[2608.26096](http://arxiv.org/abs/2608.26096)|null|
@@ -1388,6 +1398,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-27**|**Spectral Fingerprints of Gauge Theories on a Quantum Computer**|Graham Van Goffrier et.al.|[2608.27457](http://arxiv.org/abs/2608.27457)|null|
+|**2026-08-27**|**UrbanGround: From Local Perception to Spatial Agency in a Real-Scale City**|Tianjie Ju et.al.|[2608.27456](http://arxiv.org/abs/2608.27456)|null|
+|**2026-08-27**|**CritICL: Inference-Time Weak-to-Strong Generalization from Small Language Model Failure Modes**|Yufan Wu et.al.|[2608.27455](http://arxiv.org/abs/2608.27455)|null|
+|**2026-08-27**|**WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution**|Liyan Tang et.al.|[2608.27454](http://arxiv.org/abs/2608.27454)|null|
+|**2026-08-27**|**Distinguishing Quantum Capacitance Signatures of a Topological Majorana Wire from a Normal Wire Segment**|Binayyak Bhusan Roy et.al.|[2608.27452](http://arxiv.org/abs/2608.27452)|null|
+|**2026-08-27**|**TTPO: Test-Time Policy Optimization**|Aozhe Wang et.al.|[2608.27448](http://arxiv.org/abs/2608.27448)|null|
+|**2026-08-27**|**Do User-Authored Permission Policies Improve Protection Against AI Agent Overreach?**|Ting Yan et.al.|[2608.27443](http://arxiv.org/abs/2608.27443)|null|
+|**2026-08-27**|**RedEvoAgent: Automatic Red-Teaming Agent with Experience-Driven Skill Evolution**|Junjie Zhang et.al.|[2608.27439](http://arxiv.org/abs/2608.27439)|null|
+|**2026-08-27**|**Closing the gap and settling the problem of queens on an $n\times n$ board, each attacking at most one other**|Kristina Ago et.al.|[2608.27432](http://arxiv.org/abs/2608.27432)|null|
+|**2026-08-27**|**Factorized Boolean representations for efficient quantum synthesis**|Mehul Shah et.al.|[2608.27430](http://arxiv.org/abs/2608.27430)|null|
 |**2026-08-26**|**VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning**|Junxiang Xu et.al.|[2608.26105](http://arxiv.org/abs/2608.26105)|null|
 |**2026-08-26**|**Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization**|Jiaming Zhou et.al.|[2608.26103](http://arxiv.org/abs/2608.26103)|null|
 |**2026-08-26**|**Viscochiral Transport: Chiral Selection of Hydrodynamic Vortices by Berry Curvature**|Archisman Panigrahi et.al.|[2608.26102](http://arxiv.org/abs/2608.26102)|null|
@@ -2633,6 +2653,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-27**|**Spectral Fingerprints of Gauge Theories on a Quantum Computer**|Graham Van Goffrier et.al.|[2608.27457](http://arxiv.org/abs/2608.27457)|null|
+|**2026-08-27**|**UrbanGround: From Local Perception to Spatial Agency in a Real-Scale City**|Tianjie Ju et.al.|[2608.27456](http://arxiv.org/abs/2608.27456)|null|
+|**2026-08-27**|**WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution**|Liyan Tang et.al.|[2608.27454](http://arxiv.org/abs/2608.27454)|null|
+|**2026-08-27**|**Distinguishing Quantum Capacitance Signatures of a Topological Majorana Wire from a Normal Wire Segment**|Binayyak Bhusan Roy et.al.|[2608.27452](http://arxiv.org/abs/2608.27452)|null|
+|**2026-08-27**|**Tacet: A Language and Type System for Automatic Statistical Validity Accounting**|Chiké Abuah et.al.|[2608.27451](http://arxiv.org/abs/2608.27451)|null|
+|**2026-08-27**|**SWE-Prime: Fewer Trajectories, Better Performance**|Dewu Zheng et.al.|[2608.27449](http://arxiv.org/abs/2608.27449)|null|
+|**2026-08-27**|**Proof of the AGT Conjecture at Generic $β$**|Le-Feng Chen et.al.|[2608.27447](http://arxiv.org/abs/2608.27447)|null|
+|**2026-08-27**|**Exact Stiffness and Dynamical Responses from Fock-Space Fragmentation**|Jonah Herzog-Arbeitman et.al.|[2608.27446](http://arxiv.org/abs/2608.27446)|null|
+|**2026-08-27**|**Do User-Authored Permission Policies Improve Protection Against AI Agent Overreach?**|Ting Yan et.al.|[2608.27443](http://arxiv.org/abs/2608.27443)|null|
+|**2026-08-27**|**From Static to Dynamic: Benchmarking Real-World Code Review with MCR-Bench**|Dewu Zheng et.al.|[2608.27442](http://arxiv.org/abs/2608.27442)|null|
 |**2026-08-26**|**VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning**|Junxiang Xu et.al.|[2608.26105](http://arxiv.org/abs/2608.26105)|null|
 |**2026-08-26**|**Viscochiral Transport: Chiral Selection of Hydrodynamic Vortices by Berry Curvature**|Archisman Panigrahi et.al.|[2608.26102](http://arxiv.org/abs/2608.26102)|null|
 |**2026-08-26**|**Integrated Hardware Annealing based on Langevin Dynamics for Ising Machines**|Yongchao Liu et.al.|[2608.26100](http://arxiv.org/abs/2608.26100)|null|
@@ -3881,6 +3911,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-27**|**Metallogenic quantum criticality: Fermi surface nucleation at transitions between gapped phases**|Zhengyan Darius Shi et.al.|[2608.27453](http://arxiv.org/abs/2608.27453)|null|
+|**2026-08-27**|**SWE-Prime: Fewer Trajectories, Better Performance**|Dewu Zheng et.al.|[2608.27449](http://arxiv.org/abs/2608.27449)|null|
+|**2026-08-27**|**TTPO: Test-Time Policy Optimization**|Aozhe Wang et.al.|[2608.27448](http://arxiv.org/abs/2608.27448)|null|
+|**2026-08-27**|**Proof of the AGT Conjecture at Generic $β$**|Le-Feng Chen et.al.|[2608.27447](http://arxiv.org/abs/2608.27447)|null|
+|**2026-08-27**|**Do User-Authored Permission Policies Improve Protection Against AI Agent Overreach?**|Ting Yan et.al.|[2608.27443](http://arxiv.org/abs/2608.27443)|null|
+|**2026-08-27**|**From Static to Dynamic: Benchmarking Real-World Code Review with MCR-Bench**|Dewu Zheng et.al.|[2608.27442](http://arxiv.org/abs/2608.27442)|null|
+|**2026-08-27**|**Graded Ehrhart theory for hypersimplices**|Nathaniel Libman et.al.|[2608.27438](http://arxiv.org/abs/2608.27438)|null|
+|**2026-08-27**|**Low-Dimensional Reduction Theory for Populations of Phase Oscillators with a Gaussian Frequency Distribution**|Kai Tokunaga et.al.|[2608.27436](http://arxiv.org/abs/2608.27436)|null|
+|**2026-08-27**|**Free Novikov-Zinbiel algebra**|A. Dauletiyarova et.al.|[2608.27435](http://arxiv.org/abs/2608.27435)|null|
+|**2026-08-27**|**Factorized Boolean representations for efficient quantum synthesis**|Mehul Shah et.al.|[2608.27430](http://arxiv.org/abs/2608.27430)|null|
 |**2026-08-26**|**Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization**|Jiaming Zhou et.al.|[2608.26103](http://arxiv.org/abs/2608.26103)|null|
 |**2026-08-26**|**Torsion balances as operational probes of semiclassical gravity: Matched-filter bounds, torque-diffusion constraints, and quantum-noise benchmarks**|Jyotirmaya Mohanta et.al.|[2608.26096](http://arxiv.org/abs/2608.26096)|null|
 |**2026-08-26**|**Agentic Autoresearch for Cell-Edge Power Control: Radically Redefining the Researcher's Role**|Ahmad Khan et.al.|[2608.26093](http://arxiv.org/abs/2608.26093)|null|
@@ -5156,6 +5196,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-27**|**Spectral Fingerprints of Gauge Theories on a Quantum Computer**|Graham Van Goffrier et.al.|[2608.27457](http://arxiv.org/abs/2608.27457)|null|
+|**2026-08-27**|**CritICL: Inference-Time Weak-to-Strong Generalization from Small Language Model Failure Modes**|Yufan Wu et.al.|[2608.27455](http://arxiv.org/abs/2608.27455)|null|
+|**2026-08-27**|**WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution**|Liyan Tang et.al.|[2608.27454](http://arxiv.org/abs/2608.27454)|null|
+|**2026-08-27**|**Metallogenic quantum criticality: Fermi surface nucleation at transitions between gapped phases**|Zhengyan Darius Shi et.al.|[2608.27453](http://arxiv.org/abs/2608.27453)|null|
+|**2026-08-27**|**Distinguishing Quantum Capacitance Signatures of a Topological Majorana Wire from a Normal Wire Segment**|Binayyak Bhusan Roy et.al.|[2608.27452](http://arxiv.org/abs/2608.27452)|null|
+|**2026-08-27**|**Tacet: A Language and Type System for Automatic Statistical Validity Accounting**|Chiké Abuah et.al.|[2608.27451](http://arxiv.org/abs/2608.27451)|null|
+|**2026-08-27**|**SWE-Prime: Fewer Trajectories, Better Performance**|Dewu Zheng et.al.|[2608.27449](http://arxiv.org/abs/2608.27449)|null|
+|**2026-08-27**|**TTPO: Test-Time Policy Optimization**|Aozhe Wang et.al.|[2608.27448](http://arxiv.org/abs/2608.27448)|null|
+|**2026-08-27**|**Proof of the AGT Conjecture at Generic $β$**|Le-Feng Chen et.al.|[2608.27447](http://arxiv.org/abs/2608.27447)|null|
+|**2026-08-27**|**Exact Stiffness and Dynamical Responses from Fock-Space Fragmentation**|Jonah Herzog-Arbeitman et.al.|[2608.27446](http://arxiv.org/abs/2608.27446)|null|
 |**2026-08-26**|**VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning**|Junxiang Xu et.al.|[2608.26105](http://arxiv.org/abs/2608.26105)|null|
 |**2026-08-26**|**Multicomponent Magnetic Domain Walls in Rhombohedral Graphene**|Mainak Das et.al.|[2608.26104](http://arxiv.org/abs/2608.26104)|null|
 |**2026-08-26**|**Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization**|Jiaming Zhou et.al.|[2608.26103](http://arxiv.org/abs/2608.26103)|null|
@@ -6452,6 +6502,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-27**|**The Atacama Cosmology Telescope: Constraints on the anisotropic screening and birefringence effects with DR6**|Darby M. Kramer et.al.|[2608.27458](http://arxiv.org/abs/2608.27458)|null|
+|**2026-08-27**|**Spectral Fingerprints of Gauge Theories on a Quantum Computer**|Graham Van Goffrier et.al.|[2608.27457](http://arxiv.org/abs/2608.27457)|null|
+|**2026-08-27**|**UrbanGround: From Local Perception to Spatial Agency in a Real-Scale City**|Tianjie Ju et.al.|[2608.27456](http://arxiv.org/abs/2608.27456)|null|
+|**2026-08-27**|**CritICL: Inference-Time Weak-to-Strong Generalization from Small Language Model Failure Modes**|Yufan Wu et.al.|[2608.27455](http://arxiv.org/abs/2608.27455)|null|
+|**2026-08-27**|**WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution**|Liyan Tang et.al.|[2608.27454](http://arxiv.org/abs/2608.27454)|null|
+|**2026-08-27**|**Distinguishing Quantum Capacitance Signatures of a Topological Majorana Wire from a Normal Wire Segment**|Binayyak Bhusan Roy et.al.|[2608.27452](http://arxiv.org/abs/2608.27452)|null|
+|**2026-08-27**|**Tacet: A Language and Type System for Automatic Statistical Validity Accounting**|Chiké Abuah et.al.|[2608.27451](http://arxiv.org/abs/2608.27451)|null|
+|**2026-08-27**|**SWE-Prime: Fewer Trajectories, Better Performance**|Dewu Zheng et.al.|[2608.27449](http://arxiv.org/abs/2608.27449)|null|
+|**2026-08-27**|**TTPO: Test-Time Policy Optimization**|Aozhe Wang et.al.|[2608.27448](http://arxiv.org/abs/2608.27448)|null|
+|**2026-08-27**|**Do User-Authored Permission Policies Improve Protection Against AI Agent Overreach?**|Ting Yan et.al.|[2608.27443](http://arxiv.org/abs/2608.27443)|null|
 |**2026-08-26**|**VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning**|Junxiang Xu et.al.|[2608.26105](http://arxiv.org/abs/2608.26105)|null|
 |**2026-08-26**|**Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization**|Jiaming Zhou et.al.|[2608.26103](http://arxiv.org/abs/2608.26103)|null|
 |**2026-08-26**|**Viscochiral Transport: Chiral Selection of Hydrodynamic Vortices by Berry Curvature**|Archisman Panigrahi et.al.|[2608.26102](http://arxiv.org/abs/2608.26102)|null|
