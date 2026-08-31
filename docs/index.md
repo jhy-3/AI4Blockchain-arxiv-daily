@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.08.30
+## Updated on 2026.08.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-28**|**Relaxed Sender Anonymity for CBDC Interbank Settlement: A Zero-Knowledge Approach on Permissioned EVM**|Pietro Tiberi et.al.|[2608.28529](http://arxiv.org/abs/2608.28529)|null|
+|**2026-08-28**|**When Verified Source Becomes Attack Input: Defending Smart Contracts Against LLM-Based Vulnerability Scanning**|Mingyuan Huang et.al.|[2608.28400](http://arxiv.org/abs/2608.28400)|null|
+|**2026-08-28**|**VeriTS: Verifiable Model-Enhanced Time-Series Queries on Blockchain Systems**|Zhongming Yao et.al.|[2608.28318](http://arxiv.org/abs/2608.28318)|null|
 |**2026-08-27**|**The Atacama Cosmology Telescope: Constraints on the anisotropic screening and birefringence effects with DR6**|Darby M. Kramer et.al.|[2608.27458](http://arxiv.org/abs/2608.27458)|null|
 |**2026-08-27**|**Spectral Fingerprints of Gauge Theories on a Quantum Computer**|Graham Van Goffrier et.al.|[2608.27457](http://arxiv.org/abs/2608.27457)|null|
 |**2026-08-27**|**Tacet: A Language and Type System for Automatic Statistical Validity Accounting**|Chiké Abuah et.al.|[2608.27451](http://arxiv.org/abs/2608.27451)|null|
@@ -139,6 +142,7 @@ layout: default
 |**2026-08-27**|**From Static to Dynamic: Benchmarking Real-World Code Review with MCR-Bench**|Dewu Zheng et.al.|[2608.27442](http://arxiv.org/abs/2608.27442)|null|
 |**2026-08-27**|**Towards the Global Torelli Theorem**|Daniil Serebrennikov et.al.|[2608.27441](http://arxiv.org/abs/2608.27441)|null|
 |**2026-08-27**|**Dynamics of local quantum information in random unitary circuits**|Ratul Thakur et.al.|[2608.27440](http://arxiv.org/abs/2608.27440)|null|
+|**2026-08-27**|**Information Flow Control in Off-Chain Components**|Stian Lybech et.al.|[2608.26858](http://arxiv.org/abs/2608.26858)|null|
 |**2026-08-26**|**VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning**|Junxiang Xu et.al.|[2608.26105](http://arxiv.org/abs/2608.26105)|null|
 |**2026-08-26**|**Exact analytical spectrum, eigenstates, and quantum geometry of the quarter-flux Harper-Hofstadter model**|Isaac Tesfaye et.al.|[2608.26099](http://arxiv.org/abs/2608.26099)|null|
 |**2026-08-26**|**Torsion balances as operational probes of semiclassical gravity: Matched-filter bounds, torque-diffusion constraints, and quantum-noise benchmarks**|Jyotirmaya Mohanta et.al.|[2608.26096](http://arxiv.org/abs/2608.26096)|null|
@@ -149,6 +153,7 @@ layout: default
 |**2026-08-26**|**Yang-Lee Criticality as a Dissipative Dynamical Phase Transition: Quantum Simulation of non-Hermitian Physics without Post-selection**|Stephen W. Yan et.al.|[2608.26082](http://arxiv.org/abs/2608.26082)|null|
 |**2026-08-26**|**Negative Effective Divisors and Bridgeland Stability of Line Bundles on Surfaces**|Anthony Mäkelä et.al.|[2608.26080](http://arxiv.org/abs/2608.26080)|null|
 |**2026-08-26**|**Parity Anomaly as Modular Commutator with Massless Dirac Fermion**|Meng Zeng et.al.|[2608.26078](http://arxiv.org/abs/2608.26078)|null|
+|**2026-08-25**|**Authenticated Data Structures for Dynamic Workloads**|Ziheng Shangguan et.al.|[2608.25206](http://arxiv.org/abs/2608.25206)|null|
 |**2026-08-24**|**ReWorld: An Interactive World Model with Long-Horizon Memory**|Zhifei Chen et.al.|[2608.23565](http://arxiv.org/abs/2608.23565)|null|
 |**2026-08-24**|**SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?**|Deyao Hong et.al.|[2608.23564](http://arxiv.org/abs/2608.23564)|null|
 |**2026-08-24**|**Power-saving bounds for Thue--Mahler and Mordell equations**|Hector Pasten et.al.|[2608.23559](http://arxiv.org/abs/2608.23559)|null|
@@ -159,6 +164,11 @@ layout: default
 |**2026-08-24**|**Preparing for the Early eVolution Explorer: The Impact of Flare Temperature on Ozone Column Depth in Earth-Like Atmospheres**|Jaime S. Crouse et.al.|[2608.23548](http://arxiv.org/abs/2608.23548)|null|
 |**2026-08-24**|**Eulerian walkers on $\mathbb{Z}^2$ have range exponent $2/3$**|Ahmed Bou-Rabee et.al.|[2608.23545](http://arxiv.org/abs/2608.23545)|null|
 |**2026-08-24**|**The number of sum-free subsets of lattice cubes**|Haoran Luo et.al.|[2608.23544](http://arxiv.org/abs/2608.23544)|null|
+|**2026-08-24**|**A Threshold Homomorphic Blockchain Architecture for Secure and Scalable IoT Sensor Data Aggregation**|Narendra Kumar Dewangan et.al.|[2608.23396](http://arxiv.org/abs/2608.23396)|null|
+|**2026-08-24**|**Cryptocurrencies in the Quantum Age: Migration Paths to PQC**|Aleksei Kodukhov et.al.|[2608.22924](http://arxiv.org/abs/2608.22924)|null|
+|**2026-08-24**|**A Study of Bluetooth Access Control Based on NFT Soft Pairing**|Zhiming Liang et.al.|[2608.22754](http://arxiv.org/abs/2608.22754)|null|
+|**2026-08-23**|**Obscura-PQ: Post-Quantum Privacy-Preserving Protocol for the Algorand Blockchain Using Lattice-Based Linkable Ring Signatures**|Navid Azimi et.al.|[2608.22645](http://arxiv.org/abs/2608.22645)|null|
+|**2026-08-23**|**On SSI-based Private Decentralized Bidding**|Andreea Elena Drăgnoiu et.al.|[2608.22525](http://arxiv.org/abs/2608.22525)|null|
 |**2026-08-21**|**Mining beyond Earth with Space Robots: Exploration, Sampling, and Extraction**|Dong Li et.al.|[2608.21358](http://arxiv.org/abs/2608.21358)|null|
 |**2026-08-21**|**AI with Authority, from Application to Silicon**|Jason Hickey et.al.|[2608.21356](http://arxiv.org/abs/2608.21356)|null|
 |**2026-08-21**|**ViTacPhys: Physical Property-Aware Grasping from Human Visual-Tactile Demonstrations**|Yiwen Liu et.al.|[2608.21355](http://arxiv.org/abs/2608.21355)|null|
@@ -1398,6 +1408,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-28**|**Relaxed Sender Anonymity for CBDC Interbank Settlement: A Zero-Knowledge Approach on Permissioned EVM**|Pietro Tiberi et.al.|[2608.28529](http://arxiv.org/abs/2608.28529)|null|
+|**2026-08-28**|**COVER: Identifiable Evaluation of Coalition Routing**|Raghul Sugumar et.al.|[2608.28475](http://arxiv.org/abs/2608.28475)|null|
+|**2026-08-28**|**Spectral gap for the three-dimensional damped cubic wave equation with degenerate noise**|Rongchang Liu et.al.|[2608.28459](http://arxiv.org/abs/2608.28459)|null|
+|**2026-08-28**|**Program Learning with Verifiable Rewards: Symbolic Backpropagation for Post-Training LLMs**|Vishvesh Bhat et.al.|[2608.28421](http://arxiv.org/abs/2608.28421)|null|
+|**2026-08-28**|**When Verified Source Becomes Attack Input: Defending Smart Contracts Against LLM-Based Vulnerability Scanning**|Mingyuan Huang et.al.|[2608.28400](http://arxiv.org/abs/2608.28400)|null|
+|**2026-08-28**|**About the contractibility of the walking coinductive equivalence**|Viktoriya Ozornova et.al.|[2608.28355](http://arxiv.org/abs/2608.28355)|null|
+|**2026-08-28**|**LoopArena: Benchmarking Models as Runtime Controllers for Loop Engineering**|Yi Wang et.al.|[2608.28281](http://arxiv.org/abs/2608.28281)|null|
+|**2026-08-28**|**HEPToolBench 1.2: Testing How Reliably Language Models Can Drive Particle Physics Software**|Aadarsh Singh et.al.|[2608.28232](http://arxiv.org/abs/2608.28232)|null|
+|**2026-08-28**|**A Synthetic Iterative Scheme for Non-Gray Phonon Boltzmann Transport Equation with Dual Relaxation Times**|Dingtao Shen et.al.|[2608.28101](http://arxiv.org/abs/2608.28101)|null|
+|**2026-08-28**|**Anytime Primal--Dual Certification of the Maximum Disturbance Radius in Robust MPC**|Wenqi Cai et.al.|[2608.28056](http://arxiv.org/abs/2608.28056)|null|
 |**2026-08-27**|**Spectral Fingerprints of Gauge Theories on a Quantum Computer**|Graham Van Goffrier et.al.|[2608.27457](http://arxiv.org/abs/2608.27457)|null|
 |**2026-08-27**|**UrbanGround: From Local Perception to Spatial Agency in a Real-Scale City**|Tianjie Ju et.al.|[2608.27456](http://arxiv.org/abs/2608.27456)|null|
 |**2026-08-27**|**CritICL: Inference-Time Weak-to-Strong Generalization from Small Language Model Failure Modes**|Yufan Wu et.al.|[2608.27455](http://arxiv.org/abs/2608.27455)|null|
@@ -3931,6 +3951,8 @@ layout: default
 |**2026-08-26**|**ICON Decomposition: Multivariate Concept-Level Explanations of Deep Representations for Model Auditing**|Roshan Prakash Rane et.al.|[2608.26083](http://arxiv.org/abs/2608.26083)|null|
 |**2026-08-26**|**SwarmWorld: Stigmergic technological evolution in societies of language-model agents**|Subhadeep Pal et.al.|[2608.26081](http://arxiv.org/abs/2608.26081)|null|
 |**2026-08-26**|**Anatomy of an extensive air shower: building an optimal radio emission calculation**|Juan Ammerman-Yebra et.al.|[2608.26077](http://arxiv.org/abs/2608.26077)|null|
+|**2026-08-26**|**Defending the Peg: Real-Time Dynamic Protection and Anomaly Detection in DeFi Stablecoins**|Hengxing Zeng et.al.|[2608.25600](http://arxiv.org/abs/2608.25600)|null|
+|**2026-08-25**|**Observing Bell Inequality Violation Beyond the Qubit Bound in a Spinor Bose--Einstein Condensate**|Wenxin Xu et.al.|[2608.24981](http://arxiv.org/abs/2608.24981)|null|
 |**2026-08-24**|**ReWorld: An Interactive World Model with Long-Horizon Memory**|Zhifei Chen et.al.|[2608.23565](http://arxiv.org/abs/2608.23565)|null|
 |**2026-08-24**|**SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?**|Deyao Hong et.al.|[2608.23564](http://arxiv.org/abs/2608.23564)|null|
 |**2026-08-24**|**EG-ARSA: An Expert-Grounded Open Model for Visual Road Safety Auditing in Low-Resource Settings**|Md Thamed Bin Zaman Chowdhury et.al.|[2608.23563](http://arxiv.org/abs/2608.23563)|null|
@@ -3941,6 +3963,8 @@ layout: default
 |**2026-08-24**|**Infinite rational distance sets in affine general position: constructions in every dimension**|Junkai Qiu et.al.|[2608.23529](http://arxiv.org/abs/2608.23529)|null|
 |**2026-08-24**|**From arithmetic spectra to a quantum-corrected black hole geometry**|Kimet Jusufi et.al.|[2608.23528](http://arxiv.org/abs/2608.23528)|null|
 |**2026-08-24**|**EarthVerse: Benchmarking Scientific Agents Across Dynamic Earth Systems and Natural Hazards**|Zhiqing Cui et.al.|[2608.23525](http://arxiv.org/abs/2608.23525)|null|
+|**2026-08-24**|**The Anonymity Gap: Understanding Real Privacy in Shielded UTXO-based Protocols for DeFi**|Hanze Guo et.al.|[2608.22987](http://arxiv.org/abs/2608.22987)|null|
+|**2026-08-23**|**Mitigating Error Propagation in Chain-of-Thought: A Tree-of-Thought Framework for Smart Contract Repair**|Jingping Zhu et.al.|[2608.22345](http://arxiv.org/abs/2608.22345)|null|
 |**2026-08-21**|**Dissipative framework for subsystem dynamics of noninteracting quantum chains**|Michele Coppola et.al.|[2608.21336](http://arxiv.org/abs/2608.21336)|null|
 |**2026-08-21**|**Dirac Surface States and Nonlocal Quantum Tunneling in Topological Semiconductor Mo $_2$SeTe$_3$ for High-Performance Tunnel FETs**|Zafar Sadik Mehrub et.al.|[2608.21333](http://arxiv.org/abs/2608.21333)|null|
 |**2026-08-21**|**Hypothesis testing between quantum ensembles**|Jian Yao et.al.|[2608.21321](http://arxiv.org/abs/2608.21321)|null|
@@ -3951,6 +3975,7 @@ layout: default
 |**2026-08-21**|**Chemical Control of Electronic Structure and Topology in Tellurium-Encapsulated Silicene**|Gabriel Elyas Gama Araujo et.al.|[2608.21295](http://arxiv.org/abs/2608.21295)|null|
 |**2026-08-21**|**Event-Time Confounding Under Bursty Human Dynamics**|Michael Iannelli et.al.|[2608.21294](http://arxiv.org/abs/2608.21294)|null|
 |**2026-08-21**|**The Random Magnetic Field of the Milky Way**|Michael Unger et.al.|[2608.21293](http://arxiv.org/abs/2608.21293)|null|
+|**2026-08-21**|**Root cause analysis via difference graph discovery from linear time-series data**|Anouk Ruer et.al.|[2608.21117](http://arxiv.org/abs/2608.21117)|null|
 |**2026-08-20**|**An Optical Illusion: High Electron Densities Create Extremely Metal-Poor Galaxy Impostors**|Tiger Yu-Yang Hsiao et.al.|[2608.20339](http://arxiv.org/abs/2608.20339)|null|
 |**2026-08-20**|**Information on trajectories: martingales and random times**|Akshay Balsubramani et.al.|[2608.20337](http://arxiv.org/abs/2608.20337)|null|
 |**2026-08-20**|**A Protocol for Shielding-Enhanced Loading of Single Polar Molecules into Optical Tweezers**|Reuben R. W. Wang et.al.|[2608.20332](http://arxiv.org/abs/2608.20332)|null|
@@ -3961,6 +3986,8 @@ layout: default
 |**2026-08-20**|**An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction**|Narges Ahmadi et.al.|[2608.20320](http://arxiv.org/abs/2608.20320)|null|
 |**2026-08-20**|**Projecting BrowseComp-Plus onto ClimbMix: Toward More Realistic Corpora for Agentic Search**|Sahel Sharifymoghaddam et.al.|[2608.20317](http://arxiv.org/abs/2608.20317)|null|
 |**2026-08-20**|**Pandora's AI Model Routing Box: Efficient Allocation with Costly Value Estimation**|Adam Fisch et.al.|[2608.20316](http://arxiv.org/abs/2608.20316)|null|
+|**2026-08-20**|**Catching the Rug: Early Prediction of Fraudulent Memecoins on Solana via Machine Learning**|Jianghai Li et.al.|[2608.20271](http://arxiv.org/abs/2608.20271)|null|
+|**2026-08-19**|**Concentrated Liquidity Provision: a Reinforcement Learning Perspective**|Georgios Chionas et.al.|[2608.19389](http://arxiv.org/abs/2608.19389)|null|
 |**2026-08-19**|**Probabilistic Representation and Convergence of Gromov-Wasserstein Gradient Flows**|Venkatkrishna Karumanchi et.al.|[2608.19198](http://arxiv.org/abs/2608.19198)|null|
 |**2026-08-19**|**SPADE: Self-Play in Adaptive Synthetic Executable Environments**|Bo Liu et.al.|[2608.19197](http://arxiv.org/abs/2608.19197)|null|
 |**2026-08-19**|**An improved volume bound under Ricci and scalar curvature lower bounds**|Kwok-Kun Kwong et.al.|[2608.19196](http://arxiv.org/abs/2608.19196)|null|
@@ -3971,6 +3998,7 @@ layout: default
 |**2026-08-19**|**Characterisation of Commercially Available NUV-MT Silicon Photomultipliers**|T. Avgitas et.al.|[2608.19156](http://arxiv.org/abs/2608.19156)|null|
 |**2026-08-19**|**Sweep-based, implicit solutions of the multidimensional BGK equation on unstructured grids**|Thomas M. Evans et.al.|[2608.19150](http://arxiv.org/abs/2608.19150)|null|
 |**2026-08-19**|**Trade-offs in Data Color Palette Design Tools**|Shiyi He et.al.|[2608.19148](http://arxiv.org/abs/2608.19148)|null|
+|**2026-08-19**|**Characterizing the Plurality Rule via Clone Invariance**|Leo Goto et.al.|[2608.18798](http://arxiv.org/abs/2608.18798)|null|
 |**2026-08-18**|**On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification**|Qinyuan Ye et.al.|[2608.18066](http://arxiv.org/abs/2608.18066)|null|
 |**2026-08-18**|**The concentration game: Bayesian updating, regret, and information**|Akshay Balsubramani et.al.|[2608.18061](http://arxiv.org/abs/2608.18061)|null|
 |**2026-08-18**|**Long-time fermionic quantum transport with controlled full-state error using an adaptive reservoir-mode window**|Mikhail Umanskii et.al.|[2608.18049](http://arxiv.org/abs/2608.18049)|null|
@@ -3981,6 +4009,7 @@ layout: default
 |**2026-08-18**|**Where A Small Language Model Helps in Invoice Categorisation, Understood Through Embedding Geometry**|Emma Ceccherini et.al.|[2608.18033](http://arxiv.org/abs/2608.18033)|null|
 |**2026-08-18**|**Minimizing Commit Rules for DAG-based Atomic Broadcast**|Petr Kuznetsov et.al.|[2608.18029](http://arxiv.org/abs/2608.18029)|null|
 |**2026-08-18**|**Initialization-Free Bundle Adjustment Revisited: A Controlled Experimental Study**|Simon Weber et.al.|[2608.18028](http://arxiv.org/abs/2608.18028)|null|
+|**2026-08-18**|**PACE: Policy-Attested Contract Execution for Safe AI Agents in Decentralized Finance**|Rabimba Karanjai et.al.|[2608.17220](http://arxiv.org/abs/2608.17220)|null|
 |**2026-08-17**|**Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory**|Bingxin Xu et.al.|[2608.16889](http://arxiv.org/abs/2608.16889)|null|
 |**2026-08-17**|**Evaluating Beyond the Screen: Collective Assessment of AI-Generated Business Plans with Resource-Constrained Entrepreneurs**|Qi Zhao et.al.|[2608.16886](http://arxiv.org/abs/2608.16886)|null|
 |**2026-08-17**|**Improving the matrix multiplication exponent with modern optimization and AlphaEvolve**|Emilien Dupont et.al.|[2608.16884](http://arxiv.org/abs/2608.16884)|null|
@@ -3991,6 +4020,7 @@ layout: default
 |**2026-08-17**|**Non-Crossing Deep Quantile Regression for Distributional Survival Prediction**|Shuai Huang et.al.|[2608.16864](http://arxiv.org/abs/2608.16864)|null|
 |**2026-08-17**|**HarnessEval-W: Agentifying the Evaluation of Visual Worlds**|Weiliang Chen et.al.|[2608.16859](http://arxiv.org/abs/2608.16859)|null|
 |**2026-08-17**|**zLend: A Dual-Scope Cash-Flow Reconstruction Framework for On-Chain Credit Underwriting**|Girish G N et.al.|[2608.16856](http://arxiv.org/abs/2608.16856)|null|
+|**2026-08-16**|**A Lifecycle-Oriented Detection and Defense Framework for Price Manipulation Attacks in DeFi**|Xingyu Xiong et.al.|[2608.15518](http://arxiv.org/abs/2608.15518)|null|
 |**2026-08-14**|**Forging Self-Funded Marketplaces among Strategic Agents**|Yuan Deng et.al.|[2608.14548](http://arxiv.org/abs/2608.14548)|null|
 |**2026-08-14**|**A remark on the full support property**|Yiran Cheng et.al.|[2608.14540](http://arxiv.org/abs/2608.14540)|null|
 |**2026-08-14**|**Spatiotemporal Tube-Based Safety-Certificate for Autonomous Navigation of Articulated Vehicles**|Mohd. Faizuddin Faruqui et.al.|[2608.14531](http://arxiv.org/abs/2608.14531)|null|
