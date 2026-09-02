@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.09.01
+## Updated on 2026.09.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-01**|**Depth-1 expanders on the unitary group and applications**|Anurag Anshu et.al.|[2609.01605](http://arxiv.org/abs/2609.01605)|null|
+|**2026-09-01**|**Beyond Scores: Understanding LLM-as-a-Judge Mechanisms in Summarization Evaluation**|Himil Vasava et.al.|[2609.01604](http://arxiv.org/abs/2609.01604)|null|
+|**2026-09-01**|**Singular Weak-Field Thermodynamics of 2D Superconductors**|Guopeng Xu et.al.|[2609.01602](http://arxiv.org/abs/2609.01602)|null|
+|**2026-09-01**|**CordisBench: Can Language Models Reason About Component Lifecycles in Dynamic Agent Harnesses?**|Damien Sileo et.al.|[2609.01600](http://arxiv.org/abs/2609.01600)|null|
+|**2026-09-01**|**Constraining the Planetary Obliquity Distribution of Warm Jupiters**|Caleb Lammers et.al.|[2609.01599](http://arxiv.org/abs/2609.01599)|null|
+|**2026-09-01**|**The Rise of Verbal Reinforcement Learning**|Kshitij Tayal et.al.|[2609.01597](http://arxiv.org/abs/2609.01597)|null|
+|**2026-09-01**|**Facet-0: A Robotic Foundation Model for Contact-Rich Precise Manipulation**|Haoyuan Deng et.al.|[2609.01596](http://arxiv.org/abs/2609.01596)|null|
+|**2026-09-01**|**Understanding the superconducting proximity effect in semiconductors through quantum oscillations**|Milo Coombs et.al.|[2609.01593](http://arxiv.org/abs/2609.01593)|null|
+|**2026-09-01**|**Fermionic Dark Matter Absorption and the High-Energy Event in LUX-ZEPLIN**|Yuanchao Lou et.al.|[2609.01592](http://arxiv.org/abs/2609.01592)|null|
+|**2026-09-01**|**Uniform stability of expanding simple waves for Euler--Poisson--Boltzmann: a singular compensation approach**|Louis Shuo Wang et.al.|[2609.01589](http://arxiv.org/abs/2609.01589)|null|
 |**2026-08-31**|**Upper and lower bounds on the OBDD-width of a special integer multiplication**|Tong Qin et.al.|[2608.30664](http://arxiv.org/abs/2608.30664)|null|
 |**2026-08-31**|**MURANO: Design, Run, and Reproduce Mechanistic Interpretability Experiments as Composable Pipelines**|Alireza Bayat Makou et.al.|[2608.30662](http://arxiv.org/abs/2608.30662)|null|
 |**2026-08-31**|**APT: Anchor-aligned Perturbations for Tamper Localization in Fully Regenerated Images**|Suhyeon Ha et.al.|[2608.30656](http://arxiv.org/abs/2608.30656)|null|
