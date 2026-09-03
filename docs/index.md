@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.09.02
+## Updated on 2026.09.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -6592,6 +6592,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-02**|**A Common Measure of Communication for Speech Brain-Computer Interfaces**|Dulhan Jayalath et.al.|[2609.02887](http://arxiv.org/abs/2609.02887)|null|
+|**2026-09-02**|**Discriminative World Models for Web Agents**|Kelvin Li et.al.|[2609.02885](http://arxiv.org/abs/2609.02885)|null|
+|**2026-09-02**|**Repairing PBE-Spurious Metallicity for HSE06-Level Screening of 2D Photocatalysts for Green Hydrogen Production**|Ritam Chakraborty et.al.|[2609.02883](http://arxiv.org/abs/2609.02883)|null|
+|**2026-09-02**|**Graph Machine: Towards Better Pretraining via Edges**|Lintai Hou et.al.|[2609.02881](http://arxiv.org/abs/2609.02881)|null|
+|**2026-09-02**|**GRADSOLVE: fast exact gradients for ODE ensembles on GPUs**|Alessio Spurio Mancini et.al.|[2609.02876](http://arxiv.org/abs/2609.02876)|null|
+|**2026-09-02**|**Learning CNN Filters via Generalized Stein's Method**|Guang Yang et.al.|[2609.02875](http://arxiv.org/abs/2609.02875)|null|
+|**2026-09-02**|**Statistical Inference for Probability Barycenters and Kolmogorov Moments**|Manuela-Simona Cojocea et.al.|[2609.02869](http://arxiv.org/abs/2609.02869)|null|
+|**2026-09-02**|**When Does Authorization End? Effect Closure at Provider Boundaries**|Igor Santos-Grueiro et.al.|[2609.02866](http://arxiv.org/abs/2609.02866)|null|
+|**2026-09-02**|**Towards Trustworthy Autonomous Robots: An Explainable AI-Based Decision Framework**|Cagri Temel et.al.|[2609.02861](http://arxiv.org/abs/2609.02861)|null|
+|**2026-09-02**|**PlantC2USeg: Cross-Scale Consistent Pre-Training for Few-Shot Unified Plant Point Cloud Segmentation**|Yu Tian et.al.|[2609.02860](http://arxiv.org/abs/2609.02860)|null|
 |**2026-08-31**|**Event-Inference Reliability for Physical AI over Wireless Networks**|Anup Mishra et.al.|[2608.30663](http://arxiv.org/abs/2608.30663)|null|
 |**2026-08-31**|**MURANO: Design, Run, and Reproduce Mechanistic Interpretability Experiments as Composable Pipelines**|Alireza Bayat Makou et.al.|[2608.30662](http://arxiv.org/abs/2608.30662)|null|
 |**2026-08-31**|**Trade-off between Cooling-Step Count and Geometric Implementation Cost in Non-Markovian Algorithmic Cooling**|Yohei Azumai et.al.|[2608.30660](http://arxiv.org/abs/2608.30660)|null|
