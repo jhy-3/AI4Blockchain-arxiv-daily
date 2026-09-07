@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.09.06
+## Updated on 2026.09.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -129,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-04**|**Scalable Detection of Fossil Palynomorphs in Multifocal Digital Microscopy Images**|Abbas Shaikh et.al.|[2609.05323](http://arxiv.org/abs/2609.05323)|null|
+|**2026-09-04**|**Supernovae Unite: Host-Galaxy Mass Measurements of Type Ia Supernovae and Their Impact on Cosmology**|J. Lee et.al.|[2609.05321](http://arxiv.org/abs/2609.05321)|null|
+|**2026-09-04**|**Optimal Rates for Agentic Networked Information Aggregation**|MohammadHossein Bateni et.al.|[2609.05318](http://arxiv.org/abs/2609.05318)|null|
+|**2026-09-04**|**Compiling the 2D Fermi-Hubbard ground-state energy estimation algorithm for active volume quantum architectures**|Harriet Apel et.al.|[2609.05316](http://arxiv.org/abs/2609.05316)|null|
+|**2026-09-04**|**Large Language Models for HVAC Operations in Building Energy Systems: A Critical Review of Methods, Applications, and Deployment Readiness**|Alexander Neubauer et.al.|[2609.05314](http://arxiv.org/abs/2609.05314)|null|
+|**2026-09-04**|**SAR and InSAR Change Detection with Quantum Generative Models**|Samwel K. Sekwao et.al.|[2609.05313](http://arxiv.org/abs/2609.05313)|null|
+|**2026-09-04**|**Evidence for LP 890-9d via Transit Timing Variations**|Kevin B. Stevenson et.al.|[2609.05312](http://arxiv.org/abs/2609.05312)|null|
+|**2026-09-04**|**Distribution of points near the origin in the $d$ -dimensional Lagrange spectrum**|Benjamin Ward et.al.|[2609.05311](http://arxiv.org/abs/2609.05311)|null|
+|**2026-09-04**|**Closing Gaps in Online Fair Division**|Tzeh Yuan Neoh et.al.|[2609.05310](http://arxiv.org/abs/2609.05310)|null|
+|**2026-09-04**|**How Does mHC Use Its Residual Streams? Selective Routing and Near-Identity Mixing**|Pengxiang Zhao et.al.|[2609.05309](http://arxiv.org/abs/2609.05309)|null|
 |**2026-09-03**|**Temporal Self-Distillation: Learning Visual State Tracking in Videos Without Supervision**|Shravan Venkatraman et.al.|[2609.04203](http://arxiv.org/abs/2609.04203)|null|
 |**2026-09-03**|**Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction**|Chin-Yang Lin et.al.|[2609.04201](http://arxiv.org/abs/2609.04201)|null|
 |**2026-09-03**|**Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints**|Haoyaun Zhu et.al.|[2609.04198](http://arxiv.org/abs/2609.04198)|null|
@@ -1438,6 +1448,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-04**|**RoboSPA: Can VLA Models Go Beyond Simple Scenes and Short-Horizon Tasks?**|Zhenxuan Fan et.al.|[2609.05324](http://arxiv.org/abs/2609.05324)|null|
+|**2026-09-04**|**Scalable Detection of Fossil Palynomorphs in Multifocal Digital Microscopy Images**|Abbas Shaikh et.al.|[2609.05323](http://arxiv.org/abs/2609.05323)|null|
+|**2026-09-04**|**Adaptive Gated Deepfake Detection for Low-Resolution and Resource-Constrained Environments**|Vaishnavi Sen et.al.|[2609.05320](http://arxiv.org/abs/2609.05320)|null|
+|**2026-09-04**|**Optimal Rates for Agentic Networked Information Aggregation**|MohammadHossein Bateni et.al.|[2609.05318](http://arxiv.org/abs/2609.05318)|null|
+|**2026-09-04**|**Compiling the 2D Fermi-Hubbard ground-state energy estimation algorithm for active volume quantum architectures**|Harriet Apel et.al.|[2609.05316](http://arxiv.org/abs/2609.05316)|null|
+|**2026-09-04**|**Large Language Models for HVAC Operations in Building Energy Systems: A Critical Review of Methods, Applications, and Deployment Readiness**|Alexander Neubauer et.al.|[2609.05314](http://arxiv.org/abs/2609.05314)|null|
+|**2026-09-04**|**How Does mHC Use Its Residual Streams? Selective Routing and Near-Identity Mixing**|Pengxiang Zhao et.al.|[2609.05309](http://arxiv.org/abs/2609.05309)|null|
+|**2026-09-04**|**What Makes a Redundant Representation Remember? Lineage Isolation, Not Masking**|Jia Huang et.al.|[2609.05304](http://arxiv.org/abs/2609.05304)|null|
+|**2026-09-04**|**Learning Spatial-Spectral Refinement and Calibrating Complementary Observations for Hyperspectral Image Super-Resolution**|Liqian Yang et.al.|[2609.05303](http://arxiv.org/abs/2609.05303)|null|
+|**2026-09-04**|**Online Change-point Detection for Cooperative Multi-Agent Reinforcement Learning**|Fatemeh Saberi Khomami et.al.|[2609.05298](http://arxiv.org/abs/2609.05298)|null|
 |**2026-09-03**|**Temporal Self-Distillation: Learning Visual State Tracking in Videos Without Supervision**|Shravan Venkatraman et.al.|[2609.04203](http://arxiv.org/abs/2609.04203)|null|
 |**2026-09-03**|**TokenMatch: 3D Mesh Correspondence Transformer with Curvature-Guided Tokenisation**|Adeela Islam et.al.|[2609.04202](http://arxiv.org/abs/2609.04202)|null|
 |**2026-09-03**|**Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction**|Chin-Yang Lin et.al.|[2609.04201](http://arxiv.org/abs/2609.04201)|null|
@@ -2723,6 +2743,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-04**|**Scalable Detection of Fossil Palynomorphs in Multifocal Digital Microscopy Images**|Abbas Shaikh et.al.|[2609.05323](http://arxiv.org/abs/2609.05323)|null|
+|**2026-09-04**|**Supernovae Unite: Host-Galaxy Mass Measurements of Type Ia Supernovae and Their Impact on Cosmology**|J. Lee et.al.|[2609.05321](http://arxiv.org/abs/2609.05321)|null|
+|**2026-09-04**|**Adaptive Gated Deepfake Detection for Low-Resolution and Resource-Constrained Environments**|Vaishnavi Sen et.al.|[2609.05320](http://arxiv.org/abs/2609.05320)|null|
+|**2026-09-04**|**Optimal Rates for Agentic Networked Information Aggregation**|MohammadHossein Bateni et.al.|[2609.05318](http://arxiv.org/abs/2609.05318)|null|
+|**2026-09-04**|**Replica symmetry breaking at arbitrary depth**|P. M. Aronow et.al.|[2609.05317](http://arxiv.org/abs/2609.05317)|null|
+|**2026-09-04**|**Compiling the 2D Fermi-Hubbard ground-state energy estimation algorithm for active volume quantum architectures**|Harriet Apel et.al.|[2609.05316](http://arxiv.org/abs/2609.05316)|null|
+|**2026-09-04**|**Large Language Models for HVAC Operations in Building Energy Systems: A Critical Review of Methods, Applications, and Deployment Readiness**|Alexander Neubauer et.al.|[2609.05314](http://arxiv.org/abs/2609.05314)|null|
+|**2026-09-04**|**SAR and InSAR Change Detection with Quantum Generative Models**|Samwel K. Sekwao et.al.|[2609.05313](http://arxiv.org/abs/2609.05313)|null|
+|**2026-09-04**|**Distribution of points near the origin in the $d$ -dimensional Lagrange spectrum**|Benjamin Ward et.al.|[2609.05311](http://arxiv.org/abs/2609.05311)|null|
+|**2026-09-04**|**Closing Gaps in Online Fair Division**|Tzeh Yuan Neoh et.al.|[2609.05310](http://arxiv.org/abs/2609.05310)|null|
 |**2026-09-03**|**TokenMatch: 3D Mesh Correspondence Transformer with Curvature-Guided Tokenisation**|Adeela Islam et.al.|[2609.04202](http://arxiv.org/abs/2609.04202)|null|
 |**2026-09-03**|**Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints**|Haoyaun Zhu et.al.|[2609.04198](http://arxiv.org/abs/2609.04198)|null|
 |**2026-09-03**|**Axonal delay dispersion decides whether a neuron detects an event or a sequence, and predicts cortical column diameter**|Cheng Bi et.al.|[2609.04195](http://arxiv.org/abs/2609.04195)|null|
@@ -4001,6 +4031,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-04**|**RoboSPA: Can VLA Models Go Beyond Simple Scenes and Short-Horizon Tasks?**|Zhenxuan Fan et.al.|[2609.05324](http://arxiv.org/abs/2609.05324)|null|
+|**2026-09-04**|**Scalable Detection of Fossil Palynomorphs in Multifocal Digital Microscopy Images**|Abbas Shaikh et.al.|[2609.05323](http://arxiv.org/abs/2609.05323)|null|
+|**2026-09-04**|**Breakdown of Anomalous Hall Scaling in Dilute Kondo System**|Arnab Bhattacharya et.al.|[2609.05319](http://arxiv.org/abs/2609.05319)|null|
+|**2026-09-04**|**Replica symmetry breaking at arbitrary depth**|P. M. Aronow et.al.|[2609.05317](http://arxiv.org/abs/2609.05317)|null|
+|**2026-09-04**|**Compiling the 2D Fermi-Hubbard ground-state energy estimation algorithm for active volume quantum architectures**|Harriet Apel et.al.|[2609.05316](http://arxiv.org/abs/2609.05316)|null|
+|**2026-09-04**|**Large Language Models for HVAC Operations in Building Energy Systems: A Critical Review of Methods, Applications, and Deployment Readiness**|Alexander Neubauer et.al.|[2609.05314](http://arxiv.org/abs/2609.05314)|null|
+|**2026-09-04**|**How Does mHC Use Its Residual Streams? Selective Routing and Near-Identity Mixing**|Pengxiang Zhao et.al.|[2609.05309](http://arxiv.org/abs/2609.05309)|null|
+|**2026-09-04**|**Subsampled Pseudo-posteriors for Scalable Bayesian Moment-condition Inference**|Wenshuo Zhao et.al.|[2609.05308](http://arxiv.org/abs/2609.05308)|null|
+|**2026-09-04**|**Universal Exponent-Two Degree Laws in Range-Renewal Networks**|Jiansheng Xie et.al.|[2609.05290](http://arxiv.org/abs/2609.05290)|null|
+|**2026-09-04**|**Beyond Aggregate Scores: Behavioral Correctness Assumptions for Assessing Reference-Based Automatic Evaluation Methods**|Maria Mahbub et.al.|[2609.05289](http://arxiv.org/abs/2609.05289)|null|
 |**2026-09-03**|**Principia: Relational Physics Tests for Video Models**|Varun Varma Thozhiyoor et.al.|[2609.04200](http://arxiv.org/abs/2609.04200)|null|
 |**2026-09-03**|**Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints**|Haoyaun Zhu et.al.|[2609.04198](http://arxiv.org/abs/2609.04198)|null|
 |**2026-09-03**|**ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize**|Lihao Liu et.al.|[2609.04197](http://arxiv.org/abs/2609.04197)|null|
@@ -5316,6 +5356,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-04**|**Scalable Detection of Fossil Palynomorphs in Multifocal Digital Microscopy Images**|Abbas Shaikh et.al.|[2609.05323](http://arxiv.org/abs/2609.05323)|null|
+|**2026-09-04**|**Restricting the effects hides a nonphysical symmetry from every causal structure**|Chon-Fai Kam et.al.|[2609.05322](http://arxiv.org/abs/2609.05322)|null|
+|**2026-09-04**|**Supernovae Unite: Host-Galaxy Mass Measurements of Type Ia Supernovae and Their Impact on Cosmology**|J. Lee et.al.|[2609.05321](http://arxiv.org/abs/2609.05321)|null|
+|**2026-09-04**|**Adaptive Gated Deepfake Detection for Low-Resolution and Resource-Constrained Environments**|Vaishnavi Sen et.al.|[2609.05320](http://arxiv.org/abs/2609.05320)|null|
+|**2026-09-04**|**Replica symmetry breaking at arbitrary depth**|P. M. Aronow et.al.|[2609.05317](http://arxiv.org/abs/2609.05317)|null|
+|**2026-09-04**|**Compiling the 2D Fermi-Hubbard ground-state energy estimation algorithm for active volume quantum architectures**|Harriet Apel et.al.|[2609.05316](http://arxiv.org/abs/2609.05316)|null|
+|**2026-09-04**|**Spectator shadowing as the source of the breaking of NCQ scaling at RHIC-FXT and FAIR energies**|Tom Reichert et.al.|[2609.05315](http://arxiv.org/abs/2609.05315)|null|
+|**2026-09-04**|**Large Language Models for HVAC Operations in Building Energy Systems: A Critical Review of Methods, Applications, and Deployment Readiness**|Alexander Neubauer et.al.|[2609.05314](http://arxiv.org/abs/2609.05314)|null|
+|**2026-09-04**|**Distribution of points near the origin in the $d$ -dimensional Lagrange spectrum**|Benjamin Ward et.al.|[2609.05311](http://arxiv.org/abs/2609.05311)|null|
+|**2026-09-04**|**How Does mHC Use Its Residual Streams? Selective Routing and Near-Identity Mixing**|Pengxiang Zhao et.al.|[2609.05309](http://arxiv.org/abs/2609.05309)|null|
 |**2026-09-03**|**Temporal Self-Distillation: Learning Visual State Tracking in Videos Without Supervision**|Shravan Venkatraman et.al.|[2609.04203](http://arxiv.org/abs/2609.04203)|null|
 |**2026-09-03**|**TokenMatch: 3D Mesh Correspondence Transformer with Curvature-Guided Tokenisation**|Adeela Islam et.al.|[2609.04202](http://arxiv.org/abs/2609.04202)|null|
 |**2026-09-03**|**Compile by Training: Turning Natural-Language Specifications into Local Neural Functions**|Yuntian Deng et.al.|[2609.04199](http://arxiv.org/abs/2609.04199)|null|
@@ -6642,6 +6692,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-04**|**FIRE-LIVWO: Robust LiDAR-Inertial-Visual-Wheel Odometry via Failure-Immune mmWave Radar Enhancement**|Kun Hu et.al.|[2609.05325](http://arxiv.org/abs/2609.05325)|null|
+|**2026-09-04**|**Scalable Detection of Fossil Palynomorphs in Multifocal Digital Microscopy Images**|Abbas Shaikh et.al.|[2609.05323](http://arxiv.org/abs/2609.05323)|null|
+|**2026-09-04**|**Adaptive Gated Deepfake Detection for Low-Resolution and Resource-Constrained Environments**|Vaishnavi Sen et.al.|[2609.05320](http://arxiv.org/abs/2609.05320)|null|
+|**2026-09-04**|**Optimal Rates for Agentic Networked Information Aggregation**|MohammadHossein Bateni et.al.|[2609.05318](http://arxiv.org/abs/2609.05318)|null|
+|**2026-09-04**|**Compiling the 2D Fermi-Hubbard ground-state energy estimation algorithm for active volume quantum architectures**|Harriet Apel et.al.|[2609.05316](http://arxiv.org/abs/2609.05316)|null|
+|**2026-09-04**|**Large Language Models for HVAC Operations in Building Energy Systems: A Critical Review of Methods, Applications, and Deployment Readiness**|Alexander Neubauer et.al.|[2609.05314](http://arxiv.org/abs/2609.05314)|null|
+|**2026-09-04**|**SAR and InSAR Change Detection with Quantum Generative Models**|Samwel K. Sekwao et.al.|[2609.05313](http://arxiv.org/abs/2609.05313)|null|
+|**2026-09-04**|**Evidence for LP 890-9d via Transit Timing Variations**|Kevin B. Stevenson et.al.|[2609.05312](http://arxiv.org/abs/2609.05312)|null|
+|**2026-09-04**|**Closing Gaps in Online Fair Division**|Tzeh Yuan Neoh et.al.|[2609.05310](http://arxiv.org/abs/2609.05310)|null|
+|**2026-09-04**|**How Does mHC Use Its Residual Streams? Selective Routing and Near-Identity Mixing**|Pengxiang Zhao et.al.|[2609.05309](http://arxiv.org/abs/2609.05309)|null|
 |**2026-09-03**|**Temporal Self-Distillation: Learning Visual State Tracking in Videos Without Supervision**|Shravan Venkatraman et.al.|[2609.04203](http://arxiv.org/abs/2609.04203)|null|
 |**2026-09-03**|**TokenMatch: 3D Mesh Correspondence Transformer with Curvature-Guided Tokenisation**|Adeela Islam et.al.|[2609.04202](http://arxiv.org/abs/2609.04202)|null|
 |**2026-09-03**|**Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction**|Chin-Yang Lin et.al.|[2609.04201](http://arxiv.org/abs/2609.04201)|null|
