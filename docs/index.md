@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.09.07
+## Updated on 2026.09.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -139,6 +139,8 @@ layout: default
 |**2026-09-04**|**Distribution of points near the origin in the $d$ -dimensional Lagrange spectrum**|Benjamin Ward et.al.|[2609.05311](http://arxiv.org/abs/2609.05311)|null|
 |**2026-09-04**|**Closing Gaps in Online Fair Division**|Tzeh Yuan Neoh et.al.|[2609.05310](http://arxiv.org/abs/2609.05310)|null|
 |**2026-09-04**|**How Does mHC Use Its Residual Streams? Selective Routing and Near-Identity Mixing**|Pengxiang Zhao et.al.|[2609.05309](http://arxiv.org/abs/2609.05309)|null|
+|**2026-09-04**|**Retinal OCTA Phenotyping with LLM Reporting for Alzheimer's Disease**|Progga Paromita Dutta et.al.|[2609.04689](http://arxiv.org/abs/2609.04689)|null|
+|**2026-09-03**|**Blockchain-Enabled Secure Logging for Fiscal Electronic Mechanisms: Evaluation of the Greek eSEND and myDATA Tax Systems**|Panagiotis Mavridis et.al.|[2609.04356](http://arxiv.org/abs/2609.04356)|null|
 |**2026-09-03**|**Temporal Self-Distillation: Learning Visual State Tracking in Videos Without Supervision**|Shravan Venkatraman et.al.|[2609.04203](http://arxiv.org/abs/2609.04203)|null|
 |**2026-09-03**|**Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction**|Chin-Yang Lin et.al.|[2609.04201](http://arxiv.org/abs/2609.04201)|null|
 |**2026-09-03**|**Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints**|Haoyaun Zhu et.al.|[2609.04198](http://arxiv.org/abs/2609.04198)|null|
@@ -149,6 +151,14 @@ layout: default
 |**2026-09-03**|**Wavefunctions for Anyon Superconductors**|Donghae Seo et.al.|[2609.04187](http://arxiv.org/abs/2609.04187)|null|
 |**2026-09-03**|**Atmospheric neutrino up-scattering explanation of LZ 2026 excess**|Sk Jeesun et.al.|[2609.04185](http://arxiv.org/abs/2609.04185)|null|
 |**2026-09-03**|**Seasonal dark matter from the LUX-ZEPLIN high-energy event**|Christopher McCabe et.al.|[2609.04181](http://arxiv.org/abs/2609.04181)|null|
+|**2026-09-03**|**A Black Box for Agentic Processes: Blockchain-Anchored Evidence for AI Agent Communication, Human Oversight, and GRC Audits**|Arslan Brömme et.al.|[2609.04017](http://arxiv.org/abs/2609.04017)|null|
+|**2026-09-03**|**Barnacle: Adaptive Multi-Leader Scheduling for DAG-Based Consensus**|Zeno De Angeli et.al.|[2609.03978](http://arxiv.org/abs/2609.03978)|null|
+|**2026-09-03**|**Employing the Structural Power to Achieve Supply-Demand Balanced Payment Channel Networks**|Shuyao Xiao et.al.|[2609.03600](http://arxiv.org/abs/2609.03600)|null|
+|**2026-09-03**|**Lantern: Finding Committable Transactions via Back-Propagation on DAGs**|Denglong Li et.al.|[2609.03315](http://arxiv.org/abs/2609.03315)|null|
+|**2026-09-02**|**Population-Calibrated Graph Screening at 835-Million-Address Scale, with Label-Free Transfer to New Chains**|Yury Korolev et.al.|[2609.03036](http://arxiv.org/abs/2609.03036)|null|
+|**2026-09-02**|**Tempting the Agent: The Economics of Reputation without Persistent Identity in AI Agent Markets**|Federico Gatta et.al.|[2609.02992](http://arxiv.org/abs/2609.02992)|null|
+|**2026-09-02**|**A Survey of Decentralized Physical Infrastructure Network,Research Directions, and Open Challenges**|Ming Jiang et.al.|[2609.02125](http://arxiv.org/abs/2609.02125)|null|
+|**2026-09-02**|**Semantic Signal-Assisted Inspection and Recovery Allocation in Reverse Logistics**|Jiani He et.al.|[2609.02116](http://arxiv.org/abs/2609.02116)|null|
 |**2026-09-01**|**Depth-1 expanders on the unitary group and applications**|Anurag Anshu et.al.|[2609.01605](http://arxiv.org/abs/2609.01605)|null|
 |**2026-09-01**|**Beyond Scores: Understanding LLM-as-a-Judge Mechanisms in Summarization Evaluation**|Himil Vasava et.al.|[2609.01604](http://arxiv.org/abs/2609.01604)|null|
 |**2026-09-01**|**Singular Weak-Field Thermodynamics of 2D Superconductors**|Guopeng Xu et.al.|[2609.01602](http://arxiv.org/abs/2609.01602)|null|
@@ -6692,6 +6702,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-04**|**UniMate: One Unified Model to Animate Diverse Skeletons**|Linzhan Mou et.al.|[2609.05415](http://arxiv.org/abs/2609.05415)|null|
+|**2026-09-04**|**Tracing the Cosmic Origins: Machine Learning Reconstruction of the Primordial Density Field from EoR Observations**|Anchal Saxena et.al.|[2609.05412](http://arxiv.org/abs/2609.05412)|null|
+|**2026-09-04**|**Early against Late: A contrast on dark energy in the light of DESI DR2**|Miguel A. Zapata et.al.|[2609.05410](http://arxiv.org/abs/2609.05410)|null|
+|**2026-09-04**|**RegionFed: Federated Learning for Personalized Query Understanding in Heterogeneous Retail Environments**|Quoc H. Nguyen et.al.|[2609.05403](http://arxiv.org/abs/2609.05403)|null|
+|**2026-09-04**|**Same Trajectory, Contradictory Rewards (ROBORMBENCH): Paraphrase Fragility in Vision Language Reward Models**|Wonje Jeung et.al.|[2609.05401](http://arxiv.org/abs/2609.05401)|null|
+|**2026-09-04**|**A Generalizable Feature Extractor for Alzheimer's-Related Brain MRI Tasks**|Reza Rajabli et.al.|[2609.05400](http://arxiv.org/abs/2609.05400)|null|
+|**2026-09-04**|**A Deep Generative Model for Synthesizing Labeled Wireless Signals**|Yuxiao Li et.al.|[2609.05396](http://arxiv.org/abs/2609.05396)|null|
+|**2026-09-04**|**What Matters, When? Diagnosing and Improving Conditional Visual Grounding in Visuomotor Imitation Policies**|Vivek Chavan et.al.|[2609.05376](http://arxiv.org/abs/2609.05376)|null|
+|**2026-09-04**|**When LLM Decompilers Recompile More and Preserve Less**|Chang Liu et.al.|[2609.05370](http://arxiv.org/abs/2609.05370)|null|
+|**2026-09-04**|**Towards Neuro-Symbolic Procedural Reasoning for Long-Horizon Vision-Language-Action Manipulation**|Vivek Chavan et.al.|[2609.05369](http://arxiv.org/abs/2609.05369)|null|
 |**2026-09-04**|**FIRE-LIVWO: Robust LiDAR-Inertial-Visual-Wheel Odometry via Failure-Immune mmWave Radar Enhancement**|Kun Hu et.al.|[2609.05325](http://arxiv.org/abs/2609.05325)|null|
 |**2026-09-04**|**Scalable Detection of Fossil Palynomorphs in Multifocal Digital Microscopy Images**|Abbas Shaikh et.al.|[2609.05323](http://arxiv.org/abs/2609.05323)|null|
 |**2026-09-04**|**Adaptive Gated Deepfake Detection for Low-Resolution and Resource-Constrained Environments**|Vaishnavi Sen et.al.|[2609.05320](http://arxiv.org/abs/2609.05320)|null|
