@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.09.08
+## Updated on 2026.09.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AI+Blockchain
@@ -4041,6 +4041,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-07**|**Wavelength-Uniform Quantum Algorithms for Quantum Dynamics**|Shi Jin et.al.|[2609.07384](http://arxiv.org/abs/2609.07384)|null|
 |**2026-09-04**|**RoboSPA: Can VLA Models Go Beyond Simple Scenes and Short-Horizon Tasks?**|Zhenxuan Fan et.al.|[2609.05324](http://arxiv.org/abs/2609.05324)|null|
 |**2026-09-04**|**Scalable Detection of Fossil Palynomorphs in Multifocal Digital Microscopy Images**|Abbas Shaikh et.al.|[2609.05323](http://arxiv.org/abs/2609.05323)|null|
 |**2026-09-04**|**Breakdown of Anomalous Hall Scaling in Dilute Kondo System**|Arnab Bhattacharya et.al.|[2609.05319](http://arxiv.org/abs/2609.05319)|null|
@@ -4061,6 +4062,7 @@ layout: default
 |**2026-09-03**|**Smooth autonomous fast dynamo action on the three-torus**|Michele Coti Zelati et.al.|[2609.04153](http://arxiv.org/abs/2609.04153)|null|
 |**2026-09-03**|**Spectral and Eigenvector Crossovers in Random Mixed Graphs**|Himanshu Shekhar et.al.|[2609.04152](http://arxiv.org/abs/2609.04152)|null|
 |**2026-09-03**|**Efficient Conversion of Optical to Mechanical States Close to the Single-Quantum Level**|Alexander Rolf Korsch et.al.|[2609.04150](http://arxiv.org/abs/2609.04150)|null|
+|**2026-09-01**|**Pricing the DeFi Tail: Do Protocols or Depositors Price Operational Risk?**|Nils Bundi et.al.|[2609.00911](http://arxiv.org/abs/2609.00911)|null|
 |**2026-08-31**|**Trade-off between Cooling-Step Count and Geometric Implementation Cost in Non-Markovian Algorithmic Cooling**|Yohei Azumai et.al.|[2608.30660](http://arxiv.org/abs/2608.30660)|null|
 |**2026-08-31**|**PyKEEN-NSX: A Modular Framework for Static, Dynamic and Schema-Aware Negative Sampling in PyKEEN**|Ivan Diliso et.al.|[2608.30652](http://arxiv.org/abs/2608.30652)|null|
 |**2026-08-31**|**Quantum-Grassmann-Plucker Token Mixing for Deep Learning-Based Post-Disaster Damage Assessment**|Kooroush Farahkhah et.al.|[2608.30633](http://arxiv.org/abs/2608.30633)|null|
@@ -4071,6 +4073,7 @@ layout: default
 |**2026-08-31**|**AQ3D: Adaptive Query Transformer for 3D Instance Segmentation**|Keno Moenck et.al.|[2608.30618](http://arxiv.org/abs/2608.30618)|null|
 |**2026-08-31**|**Towards Operator-Empowered Vulnerability Hotfixing for 5G Radio Access Networks**|Dong Hyeok Kim et.al.|[2608.30615](http://arxiv.org/abs/2608.30615)|null|
 |**2026-08-31**|**TaxCE : A Framework for Automated Taxonomy Construction and Evaluation at Scale**|Sandeep Sricharan Mukku et.al.|[2608.30614](http://arxiv.org/abs/2608.30614)|null|
+|**2026-08-28**|**From the Loss Landscape to Diverse Feature Learning in Neural Networks**|David Aram Yunis et.al.|[2608.28948](http://arxiv.org/abs/2608.28948)|null|
 |**2026-08-27**|**Metallogenic quantum criticality: Fermi surface nucleation at transitions between gapped phases**|Zhengyan Darius Shi et.al.|[2608.27453](http://arxiv.org/abs/2608.27453)|null|
 |**2026-08-27**|**SWE-Prime: Fewer Trajectories, Better Performance**|Dewu Zheng et.al.|[2608.27449](http://arxiv.org/abs/2608.27449)|null|
 |**2026-08-27**|**TTPO: Test-Time Policy Optimization**|Aozhe Wang et.al.|[2608.27448](http://arxiv.org/abs/2608.27448)|null|
